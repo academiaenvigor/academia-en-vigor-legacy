@@ -25,7 +25,7 @@
 │   ├── tema-02-constitucion-1.md
 │   └── tema-03-constitucion-2.md
 ├── data/
-│   └── examen-2025-XLII-A.json    ← preguntas oficiales mapeadas a temas
+│   └── Examen 2025.json    ← preguntas oficiales mapeadas a temas
 └── img/
     ├── logo-academia-en-vigor.svg
     └── t01-piramide-jerarquia.svg
