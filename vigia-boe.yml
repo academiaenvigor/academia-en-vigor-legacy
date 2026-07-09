@@ -1,0 +1,46 @@
+name: Vigía BOE
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Cada lunes a las 6:00 UTC (~8:00 en España)
+  workflow_dispatch:        # Permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ejecutar vigilante
+        id: vigia
+        run: |
+          set +e
+          python3 vigia_boe.py
+          echo "cambios=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Guardar estado actualizado
+        run: |
+          git config user.name "vigia-boe"
+          git config user.email "actions@github.com"
+          git add vigia-estado.json vigia-informe.md
+          git diff --cached --quiet || git commit -m "🤖 Vigía BOE: comprobación $(date +%F)"
+          git push
+
+      - name: Abrir issue si hay cambios legislativos
+        if: steps.vigia.outputs.cambios == '1'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const informe = fs.readFileSync('vigia-informe.md', 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `🚨 Cambio legislativo detectado — ${new Date().toISOString().slice(0,10)}`,
+              body: informe,
+              labels: ['normativa', 'actualizar-temario']
+            });
