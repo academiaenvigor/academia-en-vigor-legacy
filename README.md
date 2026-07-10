@@ -45,7 +45,7 @@
 - [x] Vigía BOE (pendiente primera ejecución de prueba)
 - [x] Temas 1-3 completos
 - [x] Examen 2025 (XLII) mapeado — 100 preguntas
-- [ ] Exámenes 2019-2024
+- [ ] Exámenes 2015-2024 (10 restantes, en carga)
 - [ ] Temas 4-45
 - [ ] Producción de SVGs por tema
 - [ ] Web (GitHub Pages) · captura de emails · monetización

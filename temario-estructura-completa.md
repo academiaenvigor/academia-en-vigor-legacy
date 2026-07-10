@@ -16,7 +16,7 @@ Cada tema del temario se estructura en 5 capas, pensadas para que sea extenso pe
 4. **🚔 En la calle** — Ejemplos reales de aplicación policial (escrito por personal en activo: esto no lo tiene NADIE). Casos prácticos que anclan la teoría a la memoria.
 5. **🎯 Lo que cae** — Cierre con: puntos calientes del examen, trampas típicas del tribunal, reglas mnemotécnicas, y mini-test de autoevaluación (10 preguntas).
 
-6. **📅 Ha caído** — Referencias a exámenes oficiales de las últimas 7 convocatorias. Doble formato: *badge inline* junto al epígrafe (`📅 2024 · 2022 · 2019`) que avisa de la frecuencia de un vistazo, y sección **"Así lo preguntaron"** dentro de "Lo que cae", con el enunciado real (o fiel resumen) de cada pregunta y su convocatoria. ⚠️ REGLA DE ORO: solo datos verificados contra los exámenes oficiales publicados — jamás se estima ni se inventa una referencia. Estado: sistema montado, pendiente de cargar el mapeo desde los exámenes oficiales 2019-2025.
+6. **📅 Ha caído** — Referencias a exámenes oficiales de las últimas convocatorias (2015-2025). Doble formato: *badge inline* junto al epígrafe (`📅 2024 · 2022 · 2019`) que avisa de la frecuencia de un vistazo, y sección **"Así lo preguntaron"** dentro de "Lo que cae", con el enunciado real (o fiel resumen) de cada pregunta y su convocatoria. ⚠️ REGLA DE ORO: solo datos verificados contra los exámenes oficiales publicados — jamás se estima ni se inventa una referencia. Estado: sistema montado, pendiente de cargar el mapeo desde los exámenes oficiales 2015-2025.
 
 **Elementos gráficos transversales:** líneas de tiempo, organigramas interactivos, tablas comparativas con código de color, iconografía consistente por bloque, badges de "⚠️ pregunta trampa" y "⭐ cae seguro".
 
