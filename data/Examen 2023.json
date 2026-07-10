@@ -1,12 +1,12 @@
 {
   "convocatoria": {
-    "año": 2024,
+    "año": 2023,
     "examen": "XL",
     "modelo": "A",
-    "fecha": null,
+    "fecha": "07-09-2023",
     "escala": "Básica"
   },
-  "nota": "Mapeo de preguntas a temas realizado por Academia En Vigor. Resúmenes propios, no texto literal. Respuestas oficiales cargadas desde la hoja de respuestas incluida en el PDF.",
+  "nota": "Mapeo de preguntas a temas realizado por Academia En Vigor. Resúmenes propios, no texto literal. Respuestas cargadas desde la hoja de respuestas incluida en el PDF.",
   "preguntas": [
     {
       "n": 1,

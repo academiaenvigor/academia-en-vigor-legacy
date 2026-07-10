@@ -1,0 +1,622 @@
+{
+  "convocatoria": {
+    "año": 2018,
+    "examen": null,
+    "modelo": null,
+    "fecha": null,
+    "escala": "Básica"
+  },
+  "nota": "Mapeo de preguntas a temas realizado por Academia En Vigor. Resúmenes propios, no texto literal. Respuestas oficiales pendientes de cargar desde la plantilla correctora.",
+  "preguntas": [
+    {
+      "n": 1,
+      "tema": 28,
+      "resumen": "Identificación fiscal de impuesto indirecto",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 2,
+      "tema": 34,
+      "resumen": "Clasificación de drogas de síntesis",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 3,
+      "tema": 13,
+      "resumen": "Habilitación previa del vigilante de explosivos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 4,
+      "tema": 16,
+      "resumen": "Efecto penal del error invencible",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 5,
+      "tema": 12,
+      "resumen": "Derechos del solicitante de protección internacional",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 6,
+      "tema": 35,
+      "resumen": "Países firmantes del Acuerdo de París",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 7,
+      "tema": 21,
+      "resumen": "Principio de sencillez en habeas corpus",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 8,
+      "tema": 20,
+      "resumen": "Plazo para sentencia en proceso de menores",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 9,
+      "tema": 44,
+      "resumen": "Edad mínima del permiso de conducción D",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 10,
+      "tema": 12,
+      "resumen": "Propuesta resolutoria en procedimiento de apatridia",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 11,
+      "tema": 21,
+      "resumen": "Personas exentas de obligación de denunciar",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 12,
+      "tema": 44,
+      "resumen": "Elementos de seguridad pasiva del vehículo",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 13,
+      "tema": 8,
+      "resumen": "Constitución válida del pleno del Consejo policial",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 14,
+      "tema": 40,
+      "resumen": "Concepto técnico de planimetría",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 15,
+      "tema": 12,
+      "resumen": "Duración general en centros de refugiados",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 16,
+      "tema": 28,
+      "resumen": "Tipos impositivos del IVA español",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 17,
+      "tema": 35,
+      "resumen": "Unidad física de cantidad de sustancia",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 18,
+      "tema": 44,
+      "resumen": "Partes estructurales del neumático",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 19,
+      "tema": 43,
+      "resumen": "Abertura mínima en vehículos celulares",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 20,
+      "tema": 21,
+      "resumen": "Composición orgánica del Consejo Fiscal",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 21,
+      "tema": 27,
+      "resumen": "Plazo para crear mecanismos antitortura",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 22,
+      "tema": 33,
+      "resumen": "Factores criminológicos en teoría de Ferri",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 23,
+      "tema": 5,
+      "resumen": "Facultades vetadas al Gobierno en funciones",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 24,
+      "tema": 40,
+      "resumen": "Método planimétrico basado en magnitudes angulares",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 25,
+      "tema": 16,
+      "resumen": "Prescripción penal de medidas de seguridad",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 26,
+      "tema": 21,
+      "resumen": "Supuestos de detención por particulares",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 27,
+      "tema": 10,
+      "resumen": "Tratamiento inicial de extranjero menor indocumentado",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 28,
+      "tema": 34,
+      "resumen": "Sustancia agonista en receptor neuronal",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 29,
+      "tema": 40,
+      "resumen": "Instrumento topográfico de medidas angulares",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 30,
+      "tema": 35,
+      "resumen": "Definición de energía mareomotriz",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 31,
+      "tema": 13,
+      "resumen": "Personal habilitado para seguridad privada",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 32,
+      "tema": 25,
+      "resumen": "Obligaciones preventivas del funcionario policial",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 33,
+      "tema": 34,
+      "resumen": "Características de la metaclorofenilpiperazina",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 34,
+      "tema": 27,
+      "resumen": "Carácter de información del mecanismo antitortura",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 35,
+      "tema": 34,
+      "resumen": "Clasificación de ketamina por efectos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 36,
+      "tema": 42,
+      "resumen": "Armas incluidas en la séptima categoría",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 37,
+      "tema": 35,
+      "resumen": "Concepto energético de biomasa",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 38,
+      "tema": 16,
+      "resumen": "Atenuantes de responsabilidad criminal",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 39,
+      "tema": 21,
+      "resumen": "Duración máxima de detención preventiva",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 40,
+      "tema": 43,
+      "resumen": "Visibilidad mínima de señal prioritaria",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 41,
+      "tema": 21,
+      "resumen": "Grabaciones autorizables al agente encubierto",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 42,
+      "tema": 35,
+      "resumen": "Energía derivada de posición o configuración",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 43,
+      "tema": 8,
+      "resumen": "Unidad policial competente en ciberdelito nacional",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 44,
+      "tema": 35,
+      "resumen": "Factores del desarrollo sostenible",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 45,
+      "tema": 13,
+      "resumen": "Autorización de cámaras de videovigilancia obligatorias",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 46,
+      "tema": 35,
+      "resumen": "Naturaleza energética del megatón",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 47,
+      "tema": 16,
+      "resumen": "Concepto penal de conspiración delictiva",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 48,
+      "tema": 27,
+      "resumen": "Composición del consejo asesor antitortura",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 49,
+      "tema": 15,
+      "resumen": "Concepto legal de infraestructura estratégica",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 50,
+      "tema": 23,
+      "resumen": "Suspensión de cotización por violencia de género",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 51,
+      "tema": 38,
+      "resumen": "Atajo de selección total en Windows",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 52,
+      "tema": 3,
+      "resumen": "Composición y elección del Congreso",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 53,
+      "tema": 40,
+      "resumen": "Teledetección con emisión de microondas",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 54,
+      "tema": 38,
+      "resumen": "Punto de inserción en procesador Word",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 55,
+      "tema": 40,
+      "resumen": "Satélite comercial de iniciativa privada",
+      "respuesta_oficial": null,
+      "dudosa": true
+    },
+    {
+      "n": 56,
+      "tema": 4,
+      "resumen": "Formaciones del Consejo de la Unión",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 57,
+      "tema": 32,
+      "resumen": "Modelo migratorio de Zelinsky",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 58,
+      "tema": 38,
+      "resumen": "Corrección ortográfica y gramatical en Word",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 59,
+      "tema": 29,
+      "resumen": "Componentes tridimensionales de la actitud",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 60,
+      "tema": 10,
+      "resumen": "Cierre temporal de puestos fronterizos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 61,
+      "tema": 1,
+      "resumen": "Pérdida de nacionalidad española en extranjero",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 62,
+      "tema": 3,
+      "resumen": "Mandato constitucional de la Regencia",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 63,
+      "tema": 10,
+      "resumen": "Residencia larga duración de tarjeta azul UE",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 64,
+      "tema": 8,
+      "resumen": "Inicio de procedimiento disciplinario policial",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 65,
+      "tema": 11,
+      "resumen": "Resolución del periodo de reflexión por trata",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 66,
+      "tema": 42,
+      "resumen": "Percusión anular en cartuchos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 67,
+      "tema": 32,
+      "resumen": "Definición de geografía de la población",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 68,
+      "tema": 6,
+      "resumen": "Plaza vacante ocupada por funcionario interino",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 69,
+      "tema": 1,
+      "resumen": "Residencia para nacionalidad de ciudadano portugués",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 70,
+      "tema": 33,
+      "resumen": "Tipos adaptativos de la teoría de anomia",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 71,
+      "tema": 3,
+      "resumen": "Disolución parlamentaria y moción de censura",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 72,
+      "tema": 11,
+      "resumen": "Plazo voluntario en expulsión ordinaria",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 73,
+      "tema": 27,
+      "resumen": "Fin del mandato judicial europeo de derechos humanos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 74,
+      "tema": 11,
+      "resumen": "Procedimiento preferente por infracción de extranjería",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 75,
+      "tema": 41,
+      "resumen": "Hacker inexperto que usa herramientas ajenas",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 76,
+      "tema": 38,
+      "resumen": "Control de líneas viudas y huérfanas",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 77,
+      "tema": 10,
+      "resumen": "Plazo para solicitar tarjeta de extranjero",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 78,
+      "tema": 28,
+      "resumen": "Año de nacimiento del Foro Social Mundial",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 79,
+      "tema": 8,
+      "resumen": "Situación policial por acceso a asamblea autonómica",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 80,
+      "tema": 11,
+      "resumen": "Infracción muy grave por contratación extranjera",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 81,
+      "tema": 1,
+      "resumen": "Juramento exigido para adquirir nacionalidad",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 82,
+      "tema": 38,
+      "resumen": "Identificación de navegador inexistente",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 83,
+      "tema": 42,
+      "resumen": "Armas pertenecientes a tercera categoría",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 84,
+      "tema": 28,
+      "resumen": "Origen y sentido del Foro Social Mundial",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 85,
+      "tema": 38,
+      "resumen": "Concepto de gadgets de escritorio Windows",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 86,
+      "tema": 10,
+      "resumen": "Asistencia jurídica gratuita de extranjeros",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 87,
+      "tema": 3,
+      "resumen": "Impugnación constitucional de actos autonómicos",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 88,
+      "tema": 39,
+      "resumen": "Dispositivo repetidor de señal de red",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 89,
+      "tema": 42,
+      "resumen": "Componentes esenciales de armas cortas",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 90,
+      "tema": 42,
+      "resumen": "Categoría reglamentaria de armas blancas",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 91,
+      "tema": 38,
+      "resumen": "Conector interno de almacenamiento informático",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 92,
+      "tema": 6,
+      "resumen": "Régimen del personal eventual público",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 93,
+      "tema": 3,
+      "resumen": "Regulación de estados excepcionales constitucionales",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 94,
+      "tema": 3,
+      "resumen": "Renovación inicial del Tribunal Constitucional",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 95,
+      "tema": 2,
+      "resumen": "Garantías constitucionales del artículo nueve",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 96,
+      "tema": 29,
+      "resumen": "Fases morales de socialización según Kohlberg",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 97,
+      "tema": 41,
+      "resumen": "Engaño por correos o webs fraudulentas",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 98,
+      "tema": 2,
+      "resumen": "Prohibición constitucional de tribunales excepcionales",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 99,
+      "tema": 1,
+      "resumen": "Opción de nacionalidad por adopción adulta",
+      "respuesta_oficial": null
+    },
+    {
+      "n": 100,
+      "tema": 8,
+      "resumen": "Desobediencia disciplinaria a superiores policiales",
+      "respuesta_oficial": null
+    }
+  ]
+}
