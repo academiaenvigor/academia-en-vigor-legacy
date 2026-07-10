@@ -79,7 +79,7 @@
       "RD207-2024": "RD 207/2024, desarrollo de la estructura orgánica básica del Ministerio del Interior (mod. RD 353/2025 y RD 328/2026)",
       "INT859-2023": "Orden INT/859/2023, estructura orgánica y funciones de los servicios centrales y territoriales de la DGP"
     },
-    "version_datos": "1.9",
+    "version_datos": "2.0",
     "boe_ids": {
       "CE": "BOE-A-1978-31229",
       "CC": "BOE-A-1889-4763",
@@ -164,16 +164,25 @@
     },
     "examenes_cargados": [
       {
-        "año": 2025,
-        "archivo": "Examen 2025.json",
+        "año": 2023,
+        "archivo": "Examen 2023.json",
         "preguntas": 100,
-        "respuestas_oficiales": true
+        "respuestas_oficiales": true,
+        "promocion": 39
       },
       {
         "año": 2024,
         "archivo": "Examen 2024.json",
         "preguntas": 100,
-        "respuestas_oficiales": true
+        "respuestas_oficiales": true,
+        "promocion": 41
+      },
+      {
+        "año": 2025,
+        "archivo": "Examen 2025.json",
+        "preguntas": 100,
+        "respuestas_oficiales": true,
+        "promocion": 42
       }
     ]
   },
