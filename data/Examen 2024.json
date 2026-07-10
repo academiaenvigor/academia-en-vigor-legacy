@@ -7,606 +7,606 @@
   "modelo": "A",
   "total_preguntas": 100,
   "duracion_minutos": 50,
-  "nota": "Resúmenes propios, no texto literal. Respuestas oficiales cargadas desde la plantilla del PDF.",
+  "nota": "Resúmenes propios, no texto literal. Respuestas oficiales cargadas desde la plantilla correctora incluida en el PDF oficial. La pregunta 69 figura en la plantilla con la letra \"G\" (errata de la plantilla oficial): se deja sin respuesta hasta verificarla contra la plantilla definitiva publicada por la DGP.",
   "preguntas": [
     {
       "n": 1,
       "tema": 4,
-      "resumen": "Tipos de actos jurídicos que pueden adoptar las instituciones de la Unión Europea para ejercer sus competencias.",
+      "resumen": "Actos jurídicos de la UE según el TFUE",
       "respuesta_oficial": "B"
     },
     {
       "n": 2,
       "tema": 28,
-      "resumen": "Movimiento social surgido como reacción al Acuerdo Multilateral de Inversiones impulsado en el marco de la OCDE.",
+      "resumen": "Origen del movimiento antiglobalización: rechazo al AMI de la OCDE (1998)",
       "respuesta_oficial": "B"
     },
     {
       "n": 3,
-      "tema": 16,
-      "resumen": "Identificación de una circunstancia que reduce la responsabilidad criminal conforme al Código Penal.",
+      "tema": 3,
+      "resumen": "Número de Salas del Tribunal Supremo según la LOPJ",
       "respuesta_oficial": "A"
     },
     {
       "n": 4,
-      "tema": 29,
-      "resumen": "Concepto que describe el rechazo a la convivencia intercultural y la defensa de sociedades culturalmente homogéneas.",
+      "tema": 31,
+      "resumen": "Fobia que rechaza la mezcla y la convivencia intercultural (mesofobia)",
       "respuesta_oficial": "B"
     },
     {
       "n": 5,
       "tema": 25,
-      "resumen": "Órgano policial responsable de auditar y evaluar el sistema de prevención de riesgos laborales.",
+      "resumen": "Órgano que audita el sistema de prevención de riesgos de la PN (RD 2/2006)",
       "respuesta_oficial": "B"
     },
     {
       "n": 6,
       "tema": 22,
-      "resumen": "Fase procesal en la que puede impedirse el contacto visual entre la víctima y el presunto autor mediante medios tecnológicos.",
+      "resumen": "Fase procesal en que puede evitarse el contacto visual víctima-autor (Ley 4/2015)",
       "respuesta_oficial": "C"
     },
     {
       "n": 7,
       "tema": 9,
-      "resumen": "Contenido del principio policial de adecuación al ordenamiento jurídico en las intervenciones profesionales.",
+      "resumen": "Principios básicos de actuación: contenido de la adecuación al ordenamiento jurídico",
       "respuesta_oficial": "A"
     },
     {
       "n": 8,
       "tema": 3,
-      "resumen": "Composición proporcional de la Diputación Permanente de cada Cámara de las Cortes Generales.",
+      "resumen": "Composición de la Diputación Permanente (art. 78 CE)",
       "respuesta_oficial": "B"
     },
     {
       "n": 9,
       "tema": 16,
-      "resumen": "Supuesto de intoxicación o síndrome de abstinencia que actúa como atenuante de la responsabilidad penal.",
+      "resumen": "Circunstancias atenuantes del art. 21 CP (arrebato u obcecación)",
       "respuesta_oficial": "A"
     },
     {
       "n": 10,
       "tema": 8,
-      "resumen": "Unidad de la Dirección General de la Policía de la que depende la Brigada Central de Fraudes Informáticos.",
+      "resumen": "Dependencia de la Brigada Central de Fraudes Informáticos (Orden INT/859/2023)",
       "respuesta_oficial": "B"
     },
     {
       "n": 11,
       "tema": 3,
-      "resumen": "Procedimiento constitucional para declarar el estado de sitio.",
+      "resumen": "Declaración del estado de sitio (art. 116.4 CE)",
       "respuesta_oficial": "C"
     },
     {
       "n": 12,
       "tema": 44,
-      "resumen": "Elemento de seguridad del vehículo que no pertenece a los sistemas de protección pasiva.",
+      "resumen": "Sistemas de seguridad activa y pasiva del vehículo",
       "respuesta_oficial": "A"
     },
     {
       "n": 13,
       "tema": 13,
-      "resumen": "Competencias de control sobre servicios privados de seguridad que pueden desarrollar las comunidades autónomas.",
+      "resumen": "Competencias de la policía autonómica de Cataluña en seguridad privada",
       "respuesta_oficial": "C"
     },
     {
       "n": 14,
-      "tema": 3,
-      "resumen": "Sometimiento de jueces y magistrados a la Constitución, la ley y el resto del ordenamiento jurídico.",
+      "tema": 5,
+      "resumen": "Control de los actos del Gobierno (art. 29 Ley 50/1997)",
       "respuesta_oficial": "C"
     },
     {
       "n": 15,
-      "tema": 35,
-      "resumen": "Calificación jurídica del uso no autorizado de agua de un embalse natural con perjuicio grave.",
+      "tema": 18,
+      "resumen": "Distracción de aguas de uso público o privativo: delito de usurpación",
       "respuesta_oficial": "C"
     },
     {
       "n": 16,
       "tema": 13,
-      "resumen": "Duración de la autorización administrativa concedida a las empresas para prestar servicios de seguridad privada.",
+      "resumen": "Validez de la autorización administrativa de las empresas de seguridad privada",
       "respuesta_oficial": "C"
     },
     {
       "n": 17,
-      "tema": 8,
-      "resumen": "Dependencia orgánica de los centros policiales y aduaneros de cooperación internacional.",
+      "tema": 7,
+      "resumen": "Coordinación de los Centros de Cooperación Policial y Aduanera",
       "respuesta_oficial": "C"
     },
     {
       "n": 18,
       "tema": 41,
-      "resumen": "Técnica de suplantación digital que vincula falsamente una dirección IP con un nombre de dominio.",
+      "resumen": "Suplantación por nombre de dominio: DNS spoofing",
       "respuesta_oficial": "C"
     },
     {
       "n": 19,
-      "tema": 29,
-      "resumen": "Programa policial relacionado con la prevención del racismo, la xenofobia y la intolerancia.",
+      "tema": 31,
+      "resumen": "Proyectos del OBERAXE con las FCS en la Estrategia contra el racismo",
       "respuesta_oficial": "C"
     },
     {
       "n": 20,
-      "tema": 25,
-      "resumen": "Principio de acción preventiva que debe aplicar el empresario frente a los riesgos laborales.",
+      "tema": 24,
+      "resumen": "Principios de la acción preventiva del art. 15 de la Ley 31/1995",
       "respuesta_oficial": "C"
     },
     {
       "n": 21,
       "tema": 7,
-      "resumen": "Órgano del Ministerio del Interior que apoya a la Secretaría de Estado de Seguridad en la coordinación de las policías territoriales.",
+      "resumen": "Órgano de apoyo del SES para la coordinación de FCSE (RD 207/2024)",
       "respuesta_oficial": "A"
     },
     {
       "n": 22,
       "tema": 34,
-      "resumen": "Sustancia psicoactiva asociada a intoxicaciones graves y a un posible síndrome serotoninérgico.",
+      "resumen": "GHB: depresor del SNC conocido como éxtasis líquido",
       "respuesta_oficial": "A"
     },
     {
       "n": 23,
       "tema": 42,
-      "resumen": "Arma o dispositivo cuya fabricación, publicidad, compraventa, tenencia y uso están prohibidos.",
+      "resumen": "Armas prohibidas por el art. 4 del Reglamento de Armas (culatín)",
       "respuesta_oficial": "B"
     },
     {
       "n": 24,
       "tema": 6,
-      "resumen": "Clases de empleados públicos reconocidas por el Estatuto Básico del Empleado Público.",
+      "resumen": "Clases de empleados públicos (art. 8 EBEP)",
       "respuesta_oficial": "B"
     },
     {
       "n": 25,
       "tema": 8,
-      "resumen": "Unidad de la Dirección General de la Policía en la que se integra la Oficina de Marca de la Policía Nacional.",
+      "resumen": "Encuadre de la Oficina de Marca de la PN (Gabinete Técnico)",
       "respuesta_oficial": "C"
     },
     {
       "n": 26,
       "tema": 14,
-      "resumen": "Principios que deben respetarse al practicar un registro corporal externo por motivos de seguridad.",
+      "resumen": "Principios del registro corporal externo (LO 4/2015)",
       "respuesta_oficial": "A"
     },
     {
       "n": 27,
       "tema": 25,
-      "resumen": "Plantilla mínima que obliga a una empresa a constituir un servicio de prevención propio.",
+      "resumen": "Umbral de trabajadores para constituir servicio de prevención propio (RD 39/1997)",
       "respuesta_oficial": "C"
     },
     {
       "n": 28,
       "tema": 15,
-      "resumen": "Adscripción administrativa de la Comisión Nacional para la Protección de las Infraestructuras Críticas.",
+      "resumen": "Adscripción de la Comisión Nacional para la Protección de las Infraestructuras Críticas",
       "respuesta_oficial": "B"
     },
     {
       "n": 29,
       "tema": 18,
-      "resumen": "Calificación penal de acceder a una vivienda usando unas llaves sustraídas del llavero de la víctima.",
+      "resumen": "Caso práctico: entrada con llaves halladas y sustracción — robo con fuerza en las cosas",
       "respuesta_oficial": "A"
     },
     {
       "n": 30,
-      "tema": 8,
-      "resumen": "Órgano policial que actúa como unidad nacional española de la Agencia de la Unión Europea para la Formación Policial.",
+      "tema": 7,
+      "resumen": "Unidad Nacional de CEPOL (DG de Coordinación y Estudios)",
       "respuesta_oficial": "C"
     },
     {
       "n": 31,
       "tema": 42,
-      "resumen": "Fecha límite de fabricación utilizada para considerar antigua un arma de fuego conforme al Reglamento de Armas.",
+      "resumen": "Definición de arma antigua (anterior al 1 de enero de 1890)",
       "respuesta_oficial": "A"
     },
     {
       "n": 32,
       "tema": 2,
-      "resumen": "Institución encargada de designar al Defensor del Pueblo para proteger los derechos constitucionales.",
+      "resumen": "Designación del Defensor del Pueblo por las Cortes Generales",
       "respuesta_oficial": "C"
     },
     {
       "n": 33,
       "tema": 40,
-      "resumen": "Procedencia de la información obtenida mediante inteligencia de señales.",
+      "resumen": "SIGINT: información procedente de fuentes técnicas (ciclo de inteligencia)",
       "respuesta_oficial": "A"
     },
     {
       "n": 34,
       "tema": 8,
-      "resumen": "Órgano que gestiona la Oficina del Policía y presta asesoramiento al personal de la Dirección General de la Policía.",
+      "resumen": "Oficina del Policía: Secretaría General de la División de Personal",
       "respuesta_oficial": "B"
     },
     {
       "n": 35,
       "tema": 41,
-      "resumen": "Fraude telefónico que suplanta a una entidad para obtener datos personales o financieros de la víctima.",
+      "resumen": "Vishing: fraude por llamada telefónica con suplantación de identidad",
       "respuesta_oficial": "C"
     },
     {
       "n": 36,
       "tema": 25,
-      "resumen": "Características de la vigilancia periódica de la salud de los funcionarios policiales frente a los riesgos laborales.",
+      "resumen": "Carácter de los reconocimientos médicos en la PN (voluntarios salvo casos obligatorios)",
       "respuesta_oficial": "C"
     },
     {
       "n": 37,
       "tema": 6,
-      "resumen": "Último requisito que debe cumplirse para adquirir la condición de funcionario de carrera.",
+      "resumen": "Último requisito para adquirir la condición de funcionario de carrera (toma de posesión)",
       "respuesta_oficial": "C"
     },
     {
       "n": 38,
-      "tema": 8,
-      "resumen": "Funciones policiales asignadas a las distintas escalas de la Policía Nacional.",
+      "tema": 9,
+      "resumen": "Funciones según escalas de la PN (subinspección: supervisión)",
       "respuesta_oficial": "C"
     },
     {
       "n": 39,
       "tema": 35,
-      "resumen": "Número de Objetivos de Desarrollo Sostenible incluidos en la Agenda 2030.",
+      "resumen": "Número de objetivos de la Agenda 2030 (17 ODS)",
       "respuesta_oficial": "C"
     },
     {
       "n": 40,
       "tema": 15,
-      "resumen": "Clasificación de seguridad del Catálogo Nacional de Infraestructuras Estratégicas.",
+      "resumen": "Calificación del Catálogo Nacional de Infraestructuras Estratégicas (secreto)",
       "respuesta_oficial": "C"
     },
     {
       "n": 41,
       "tema": 12,
-      "resumen": "Fases que integran el itinerario de acogida de una persona solicitante de protección internacional.",
+      "resumen": "Fases del itinerario de acogida en protección internacional",
       "respuesta_oficial": "A"
     },
     {
       "n": 42,
       "tema": 16,
-      "resumen": "Principio penal expresado mediante la máxima que impide castigar conductas no previstas previamente por la ley.",
+      "resumen": "Principio de legalidad penal (nullum crimen, nulla poena sine praevia lege)",
       "respuesta_oficial": "C"
     },
     {
       "n": 43,
       "tema": 10,
-      "resumen": "Tipo de visado que permite a una persona extranjera trabajar por cuenta ajena durante una temporada limitada.",
+      "resumen": "Visado de residencia y trabajo de temporada (hasta nueve meses en doce)",
       "respuesta_oficial": "B"
     },
     {
       "n": 44,
       "tema": 13,
-      "resumen": "Obligaciones generales de los despachos de detectives privados respecto de autoridades y clientes.",
+      "resumen": "Obligaciones de los despachos de detectives privados (contrato escrito por servicio)",
       "respuesta_oficial": "C"
     },
     {
       "n": 45,
-      "tema": 18,
-      "resumen": "Delito cometido mediante una transferencia bancaria engañosa que causa un perjuicio patrimonial.",
+      "tema": 20,
+      "resumen": "Estafa informática: transferencia no consentida mediante manipulación informática",
       "respuesta_oficial": "A"
     },
     {
       "n": 46,
       "tema": 10,
-      "resumen": "Duración mínima de la autorización de residencia concedida por reagrupación familiar.",
+      "resumen": "Arraigo para la formación: permanencia continuada mínima de dos años (RD 629/2022)",
       "respuesta_oficial": "B"
     },
     {
       "n": 47,
       "tema": 9,
-      "resumen": "Supuestos en los que los miembros de las Fuerzas y Cuerpos de Seguridad tienen consideración de autoridad.",
-      "respuesta_oficial": "C"
+      "resumen": "Consideración de autoridad de los miembros de las FCS",
+      "respuesta_oficial": "B"
     },
     {
       "n": 48,
       "tema": 17,
-      "resumen": "Circunstancias del asesinato que permiten imponer la prisión permanente revisable.",
-      "respuesta_oficial": "C"
+      "resumen": "Supuestos de prisión permanente revisable en el asesinato",
+      "respuesta_oficial": "B"
     },
     {
       "n": 49,
       "tema": 8,
-      "resumen": "Autoridad que sustituye temporalmente a la persona titular de la Dirección Adjunta Operativa.",
+      "resumen": "Orden de suplencia del titular de la Dirección Adjunta Operativa",
       "respuesta_oficial": "C"
     },
     {
       "n": 50,
       "tema": 43,
-      "resumen": "Características del extintor exigido en vehículos destinados al transporte de detenidos y presos.",
+      "resumen": "Dotación de extintor de los vehículos celulares de hasta nueve plazas (6 kg)",
       "respuesta_oficial": "A"
     },
     {
       "n": 51,
       "tema": 8,
-      "resumen": "Dependencia orgánica de la Comisaría Especial del Senado dentro de la estructura policial.",
+      "resumen": "Encuadre de la Comisaría Especial del Senado",
       "respuesta_oficial": "B"
     },
     {
       "n": 52,
       "tema": 8,
-      "resumen": "Calificación disciplinaria de la pérdida de un arma de fuego por negligencia profesional.",
+      "resumen": "Sanción de traslado forzoso: solo por falta muy grave (LO 4/2010)",
       "respuesta_oficial": "A"
     },
     {
       "n": 53,
       "tema": 4,
-      "resumen": "Identificación de un Estado que forma parte de la Unión Europea.",
+      "resumen": "Estado miembro de la Unión Europea (Irlanda)",
       "respuesta_oficial": "A"
     },
     {
       "n": 54,
       "tema": 19,
-      "resumen": "Personas protegidas penalmente frente a agresiones constitutivas de atentado durante el ejercicio de sus funciones.",
-      "respuesta_oficial": "A"
+      "resumen": "Sujetos equiparados a efectos del delito de atentado (bomberos en emergencias)",
+      "respuesta_oficial": "B"
     },
     {
       "n": 55,
       "tema": 28,
-      "resumen": "Lugar y año de celebración del primer Foro Social Mundial.",
+      "resumen": "Primer Foro Social Mundial: Porto Alegre, Brasil (2001)",
       "respuesta_oficial": "B"
     },
     {
       "n": 56,
       "tema": 12,
-      "resumen": "Órgano encargado de tramitar las solicitudes de protección internacional.",
+      "resumen": "Órgano competente para tramitar la protección internacional (Oficina de Asilo y Refugio)",
       "respuesta_oficial": "B"
     },
     {
       "n": 57,
       "tema": 27,
-      "resumen": "Organismos legitimados para visitar lugares donde existan personas privadas de libertad con fines preventivos.",
+      "resumen": "Mandato del Subcomité para la Prevención de la Tortura (visitas a lugares de privación de libertad)",
       "respuesta_oficial": "A"
     },
     {
       "n": 58,
       "tema": 8,
-      "resumen": "Calificación disciplinaria del consumo de cannabis por un policía mientras presta servicio.",
+      "resumen": "Falta grave por no portar el arma reglamentaria en servicio (LO 4/2010)",
       "respuesta_oficial": "B"
     },
     {
       "n": 59,
       "tema": 8,
-      "resumen": "Unidad policial encargada de investigar falsificaciones de documentos de identidad.",
+      "resumen": "Unidad de Policía Científica competente en falsificación documental (UC de Criminalística)",
       "respuesta_oficial": "C"
     },
     {
       "n": 60,
       "tema": 3,
-      "resumen": "Autoridad que formaliza el nombramiento del presidente del Tribunal Constitucional.",
+      "resumen": "Nombramiento del Presidente del Tribunal Constitucional (por el Rey)",
       "respuesta_oficial": "B"
     },
     {
       "n": 61,
       "tema": 23,
-      "resumen": "Concepto de discriminación cuando una persona recibe directamente un trato menos favorable por razón de sexo.",
+      "resumen": "Concepto de discriminación directa por razón de sexo (LO 3/2007)",
       "respuesta_oficial": "B"
     },
     {
       "n": 62,
       "tema": 18,
-      "resumen": "Cuantía de la defraudación a partir de la cual la estafa se castiga como tipo agravado.",
+      "resumen": "Estafa agravada por cuantía superior a 50.000 euros",
       "respuesta_oficial": "C"
     },
     {
       "n": 63,
       "tema": 17,
-      "resumen": "Reglas penales sobre consentimiento, imprudencia y actos preparatorios en el delito de lesiones.",
+      "resumen": "Delito de lesiones: imprudencia grave por exceso de velocidad en vía urbana",
       "respuesta_oficial": "B"
     },
     {
       "n": 64,
       "tema": 19,
-      "resumen": "Diferencia de penalidad entre la tenencia ilícita de armas de fuego cortas y largas.",
+      "resumen": "Tenencia ilícita de armas: mayor pena en el caso de armas cortas",
       "respuesta_oficial": "A"
     },
     {
       "n": 65,
       "tema": 12,
-      "resumen": "Lugar de presentación de una solicitud de reconocimiento del estatuto de apátrida iniciada por la persona interesada.",
+      "resumen": "Lugares de presentación de la solicitud del estatuto de apátrida (RD 865/2001)",
       "respuesta_oficial": "C"
     },
     {
       "n": 66,
       "tema": 37,
-      "resumen": "Elección de la frase correctamente escrita conforme a las reglas ortográficas del español.",
+      "resumen": "Identificación de la frase escrita correctamente (ermita, undécimo)",
       "respuesta_oficial": "C"
     },
     {
       "n": 67,
       "tema": 43,
-      "resumen": "Intervalo de temperatura exigido en los habitáculos de los vehículos destinados al transporte de detenidos.",
+      "resumen": "Climatización de los vehículos celulares: 18-28 ºC (Orden INT/2573/2015)",
       "respuesta_oficial": "B"
     },
     {
       "n": 68,
       "tema": 14,
-      "resumen": "Gravedad de la infracción por consumir cannabis en un parque público.",
+      "resumen": "Consumo de cannabis en lugar público: infracción grave (LO 4/2015)",
       "respuesta_oficial": "C"
     },
     {
       "n": 69,
-      "tema": 9,
-      "resumen": "Función atribuida al Consejo de Policía en materia de personal y acción sindical.",
-      "respuesta_oficial": "C"
+      "tema": 8,
+      "resumen": "Funciones del Consejo de Policía",
+      "respuesta_oficial": null
     },
     {
       "n": 70,
       "tema": 34,
-      "resumen": "Clasificación de la mescalina según sus efectos sobre el sistema nervioso.",
+      "resumen": "La mescalina como droga perturbadora/alucinógena",
       "respuesta_oficial": "A"
     },
     {
       "n": 71,
       "tema": 5,
-      "resumen": "Órganos superiores de la organización central de la Administración General del Estado.",
+      "resumen": "Órganos superiores de la AGE (art. 55 Ley 40/2015)",
       "respuesta_oficial": "C"
     },
     {
       "n": 72,
       "tema": 3,
-      "resumen": "Sujetos legitimados constitucionalmente para interponer un recurso de inconstitucionalidad.",
+      "resumen": "Legitimados para el recurso de inconstitucionalidad (art. 162.1.a CE)",
       "respuesta_oficial": "C"
     },
     {
       "n": 73,
       "tema": 27,
-      "resumen": "Periodicidad del informe que el Defensor del Pueblo presenta como Mecanismo Nacional de Prevención de la Tortura.",
+      "resumen": "Informe anual del Defensor del Pueblo como Mecanismo Nacional de Prevención de la Tortura",
       "respuesta_oficial": "B"
     },
     {
       "n": 74,
       "tema": 1,
-      "resumen": "Plazo de residencia continuada que permite adquirir una vecindad civil mediante declaración de voluntad.",
+      "resumen": "Adquisición de la vecindad civil por residencia de dos años con voluntad expresa",
       "respuesta_oficial": "B"
     },
     {
       "n": 75,
       "tema": 1,
-      "resumen": "Momento en que se adquiere la personalidad civil y efectos favorables reconocidos al concebido.",
+      "resumen": "Adquisición de la personalidad civil (art. 30 CC)",
       "respuesta_oficial": "C"
     },
     {
       "n": 76,
       "tema": 25,
-      "resumen": "Órgano policial de prevención laboral encargado de promover mejoras y corregir deficiencias en las condiciones de trabajo.",
+      "resumen": "Comisión de seguridad y salud laboral policial: promover iniciativas preventivas (RD 2/2006)",
       "respuesta_oficial": "A"
     },
     {
       "n": 77,
       "tema": 27,
-      "resumen": "Número de integrantes del Subcomité para la Prevención de la Tortura tras alcanzarse cincuenta ratificaciones del protocolo.",
+      "resumen": "Composición del Subcomité para la Prevención tras la quincuagésima ratificación (25 miembros)",
       "respuesta_oficial": "C"
     },
     {
       "n": 78,
       "tema": 21,
-      "resumen": "Delito cuyo conocimiento y fallo corresponde al Tribunal del Jurado.",
+      "resumen": "Competencia del Tribunal del Jurado (negociaciones prohibidas a funcionarios)",
       "respuesta_oficial": "A"
     },
     {
       "n": 79,
-      "tema": 23,
-      "resumen": "Número de la ley reguladora de la autonomía personal y la atención a las personas dependientes.",
+      "tema": 14,
+      "resumen": "Infracciones graves de la LO 4/2015 (perturbación de reunión o manifestación lícita)",
       "respuesta_oficial": "C"
     },
     {
       "n": 80,
-      "tema": 4,
-      "resumen": "Ciudad en la que tiene su sede el Tribunal de Justicia de la Unión Europea.",
+      "tema": 23,
+      "resumen": "Ley 39/2006, de promoción de la autonomía personal y atención a la dependencia",
       "respuesta_oficial": "A"
     },
     {
       "n": 81,
-      "tema": 29,
-      "resumen": "Concepto de imagen mental simplificada y generalizada atribuida a los miembros de un grupo.",
+      "tema": 1,
+      "resumen": "Nacionalidad por residencia de un año (quien no ejercitó oportunamente la opción)",
       "respuesta_oficial": "B"
     },
     {
       "n": 82,
-      "tema": 14,
-      "resumen": "Tiempo máximo de permanencia en dependencias policiales para practicar una identificación.",
+      "tema": 4,
+      "resumen": "Sede del Tribunal de Justicia de la UE (Luxemburgo)",
       "respuesta_oficial": "B"
     },
     {
       "n": 83,
-      "tema": 38,
-      "resumen": "Sistema operativo en el que se basa Android.",
+      "tema": 29,
+      "resumen": "Concepto de estereotipo (imagen mental simplificada y generalizada)",
       "respuesta_oficial": "B"
     },
     {
       "n": 84,
-      "tema": 37,
-      "resumen": "Selección de una oración correctamente escrita entre varias alternativas con errores léxicos.",
+      "tema": 14,
+      "resumen": "Plazo máximo de la diligencia de identificación en dependencias policiales: 6 horas",
       "respuesta_oficial": "A"
     },
     {
       "n": 85,
-      "tema": 11,
-      "resumen": "Gravedad de la infracción cometida al consentir la inscripción de un extranjero en el padrón municipal sin domicilio real.",
+      "tema": 38,
+      "resumen": "Base del sistema operativo Android (núcleo Linux)",
       "respuesta_oficial": "B"
     },
     {
       "n": 86,
-      "tema": 40,
-      "resumen": "Sesgo cognitivo que lleva a otorgar mayor peso a la primera información recibida.",
+      "tema": 37,
+      "resumen": "Identificación de la frase escrita correctamente (desechos, a gusto)",
       "respuesta_oficial": "C"
     },
     {
       "n": 87,
-      "tema": 20,
-      "resumen": "Circunstancia que agrava el delito de descubrimiento y revelación de secretos personales.",
+      "tema": 11,
+      "resumen": "Infracción grave por consentir el empadronamiento ficticio de un extranjero",
       "respuesta_oficial": "B"
     },
     {
       "n": 88,
-      "tema": 21,
-      "resumen": "Principio que debe aplicarse al decidir la puesta en libertad de una persona detenida.",
+      "tema": 40,
+      "resumen": "Sesgo de efecto anclaje en el análisis de inteligencia",
       "respuesta_oficial": "B"
     },
     {
       "n": 89,
       "tema": 20,
-      "resumen": "Delitos para cuya investigación puede autorizarse un registro remoto de equipos informáticos.",
+      "resumen": "Agravante del descubrimiento y revelación de secretos (responsables de los ficheros)",
       "respuesta_oficial": "A"
     },
     {
       "n": 90,
-      "tema": 12,
-      "resumen": "Autoridad competente para inadmitir una solicitud de protección internacional presentada dentro de España.",
+      "tema": 21,
+      "resumen": "Principio de oportunidad en el empleo de la fuerza en la detención (Instrucción 1/2024)",
       "respuesta_oficial": "A"
     },
     {
       "n": 91,
-      "tema": 40,
-      "resumen": "Herramienta de inteligencia de fuentes abiertas que representa gráficamente relaciones entre personas y entidades.",
-      "respuesta_oficial": "A"
+      "tema": 21,
+      "resumen": "Registro remoto de equipos informáticos: delitos investigables (art. 588 septies a LECrim)",
+      "respuesta_oficial": "C"
     },
     {
       "n": 92,
-      "tema": 1,
-      "resumen": "Nacionalidad de origen para la que no basta el plazo reducido de dos años de residencia para obtener la nacionalidad española.",
+      "tema": 12,
+      "resumen": "No admisión a trámite de protección internacional en frontera (Ministro del Interior)",
       "respuesta_oficial": "A"
     },
     {
       "n": 93,
-      "tema": 8,
-      "resumen": "Unidad de la Comisaría General de Seguridad Ciudadana de la que depende la Oficina Nacional de Deportes.",
+      "tema": 40,
+      "resumen": "Maltego: herramienta OSINT de visualización gráfica de relaciones",
       "respuesta_oficial": "B"
     },
     {
       "n": 94,
-      "tema": 3,
-      "resumen": "Régimen constitucional del derecho de reunión y exigencia de comunicación previa en espacios públicos.",
+      "tema": 1,
+      "resumen": "Nacionalidad por residencia: la residencia de dos años no basta para nacionales de Mónaco",
       "respuesta_oficial": "C"
     },
     {
       "n": 95,
-      "tema": 4,
-      "resumen": "Tratado europeo que regula el intercambio policial de perfiles de ADN y datos dactiloscópicos.",
+      "tema": 8,
+      "resumen": "Dependencia de la Oficina Nacional de Deportes (UC de Coordinación Operativa y Técnica)",
       "respuesta_oficial": "B"
     },
     {
       "n": 96,
-      "tema": 3,
-      "resumen": "Mayoría exigida en cada Cámara para aprobar un proyecto de reforma constitucional ordinaria.",
+      "tema": 2,
+      "resumen": "Derecho de reunión: comunicación previa en lugares de tránsito público (art. 21 CE)",
       "respuesta_oficial": "C"
     },
     {
       "n": 97,
-      "tema": 21,
-      "resumen": "Dependencia funcional de los miembros policiales adscritos a unidades de Policía Judicial.",
+      "tema": 4,
+      "resumen": "Tratado de Prüm: intercambio de perfiles de ADN, dactiloscopia y matriculaciones",
       "respuesta_oficial": "A"
     },
     {
       "n": 98,
-      "tema": 8,
-      "resumen": "Unidad policial designada como punto nacional para intercambiar información posterior a coincidencias de perfiles biométricos.",
+      "tema": 3,
+      "resumen": "Mayoría de tres quintos para la reforma constitucional (art. 167 CE)",
       "respuesta_oficial": "B"
     },
     {
       "n": 99,
-      "tema": 7,
-      "resumen": "Órgano de apoyo a la Secretaría de Estado de Seguridad para coordinar las Fuerzas y Cuerpos de Seguridad y las policías territoriales.",
+      "tema": 21,
+      "resumen": "Dependencia orgánica de las Unidades de Policía Judicial (Ministerio del Interior)",
       "respuesta_oficial": "A"
     },
     {
       "n": 100,
-      "tema": 37,
-      "resumen": "Identificación de la frase escrita correctamente según la ortografía normativa.",
+      "tema": 8,
+      "resumen": "Punto de contacto nacional post-hit de ADN y dactiloscopia (Oficina Sirene)",
       "respuesta_oficial": "C"
     }
   ]
