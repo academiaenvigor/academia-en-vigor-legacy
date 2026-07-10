@@ -1,0 +1,616 @@
+{
+  "examen": "Policía Nacional - Escala Básica",
+  "año": 2023,
+  "etiqueta": "2023",
+  "promocion": 39,
+  "numeral": "XXXIX",
+  "modelo": "A",
+  "fecha_examen": "2023-04",
+  "total_preguntas": 100,
+  "duracion_minutos": 50,
+  "nota": "Examen oficial Promoción 39, Modelo A. Resúmenes propios, no texto literal. Respuestas leídas de la retroalimentación oficial de cada pregunta. Las marcadas 'dudosa' conviene verificarlas contra la Plantilla A oficial de la DGP.",
+  "preguntas": [
+    {
+      "n": 1,
+      "tema": 23,
+      "resumen": "Acreditación de situaciones de violencia de género — opción INCORRECTA (art. 23 LO 1/2004)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 2,
+      "tema": 8,
+      "resumen": "Nº de funcionarios para tener local sindical (art. 93 LO 9/2015): más de 250",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 3,
+      "tema": 34,
+      "resumen": "PCP / fenciclidina — opción INCORRECTA (es 'polvo de ángel', no 'lágrimas de ángel')",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 4,
+      "tema": 37,
+      "resumen": "Escritura correcta de la locución latina 'grosso modo'",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 5,
+      "tema": 20,
+      "resumen": "Datos de carácter personal del art. 197.2 CP (matrícula y seudónimo)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 6,
+      "tema": 18,
+      "resumen": "Sustracción de vehículo con fuerza devuelto a las 74 h: robo con fuerza (art. 244)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 7,
+      "tema": 12,
+      "resumen": "Sede de ACNUR (Ginebra)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 8,
+      "tema": 6,
+      "resumen": "Plazo para resolver la rehabilitación de funcionario (6 meses)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 9,
+      "tema": 14,
+      "resumen": "Consumo de drogas + datos falsos al identificarse: dos infracciones graves (art. 36.16 y 36.6 LO 4/2015)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 10,
+      "tema": 21,
+      "resumen": "Consecuencias aplicables a un menor (LORPM): son medidas, no penas",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 11,
+      "tema": 24,
+      "resumen": "Definición de 'riesgo laboral' (art. 4 Ley 31/1995)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 12,
+      "tema": 39,
+      "resumen": "Concepto de DNS (traduce nombres de dominio en direcciones IP)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 13,
+      "tema": 16,
+      "resumen": "'A' invita a 'B' a agredir a un policía fuera de servicio: proposición al delito de lesiones",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 14,
+      "tema": 43,
+      "resumen": "Ubicación de la señal V-1 en una motocicleta (parte trasera, cabezal telescópico)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 15,
+      "tema": 30,
+      "resumen": "Definición de 'hate speech' (toda forma de expresión)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 16,
+      "tema": 41,
+      "resumen": "Sociedad estatal de referencia en ciberseguridad (INCIBE)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 17,
+      "tema": 10,
+      "resumen": "Entrada de familiar de comunitario con tarjeta: exenta de visado y de sello (RD 240/2007)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 18,
+      "tema": 23,
+      "resumen": "Ayuda económica a víctima de VG con responsabilidades familiares (18 meses de subsidio)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 19,
+      "tema": 27,
+      "resumen": "Órgano que coordina el compromiso de las FCSE con los DDHH (ONGADH)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 20,
+      "tema": 22,
+      "resumen": "Derecho de la víctima denunciante: copia certificada de la denuncia (art. 6 Estatuto de la víctima)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 21,
+      "tema": 13,
+      "resumen": "Función de vigilancia y protección de bienes y personas (vigilantes de seguridad, Ley 5/2014)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 22,
+      "tema": 18,
+      "resumen": "Caso: falso revisor del gas roba y ata a la víctima dos días: robo con intimidación (sin secuestro)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 23,
+      "tema": 41,
+      "resumen": "Ataque que inserta código malicioso aprovechando vulnerabilidades web (inyección SQL)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 24,
+      "tema": 37,
+      "resumen": "Acentuación de 'bíceps' (llana con tilde por la 's' precedida de consonante)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 25,
+      "tema": 22,
+      "resumen": "Plazo de la víctima para anunciar el recurso (5 días desde la notificación)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 26,
+      "tema": 21,
+      "resumen": "Supuesto de detención obligatoria (fugado estando detenido o preso, art. 492 LECrim)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 27,
+      "tema": 7,
+      "resumen": "Qué es la CEPOL (agencia de la UE para la formación policial)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 28,
+      "tema": 25,
+      "resumen": "Designación de los Delegados de Prevención en la PN (organizaciones sindicales, RD 2/2006)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 29,
+      "tema": 40,
+      "resumen": "Herramientas para un sistema OSINT (buscadores y Maltego: ambas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 30,
+      "tema": 17,
+      "resumen": "Bien jurídico protegido en la detención ilegal (libertad de deambulación)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 31,
+      "tema": 44,
+      "resumen": "Excepción de circulación de vehículos prioritarios en autopista (media vuelta o marcha atrás)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 32,
+      "tema": 8,
+      "resumen": "Días de vacaciones de un policía con la encomienda de los 30 años de servicio (26 días)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 33,
+      "tema": 10,
+      "resumen": "Documentación para entrar en España de familiar a cargo de comunitario (pasaporte + visado)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 34,
+      "tema": 3,
+      "resumen": "Apreciación de la necesidad de armonización del art. 150 CE (Cortes Generales, mayoría absoluta)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 35,
+      "tema": 11,
+      "resumen": "Procedimientos sancionadores de la LO 4/2000 (ordinario, preferente y simplificado)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 36,
+      "tema": 27,
+      "resumen": "Elemento natural y fundamental de la sociedad según la DUDH (la familia)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 37,
+      "tema": 5,
+      "resumen": "Carácter de las deliberaciones del Consejo de Ministros (secretas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 38,
+      "tema": 32,
+      "resumen": "Tipo de pirámide de edad con crecimiento lento o nulo (estacionaria)",
+      "respuesta_oficial": "A",
+      "dudosa": true
+    },
+    {
+      "n": 39,
+      "tema": 21,
+      "resumen": "Juez competente para el habeas corpus de un menor de 14-18 años (Juez de Instrucción de guardia)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 40,
+      "tema": 11,
+      "resumen": "Autorización de residencia a extranjera víctima de VG (cuando se dicte orden de protección)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 41,
+      "tema": 14,
+      "resumen": "Duración de la diligencia de identificación (el tiempo estrictamente necesario, LO 4/2015)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 42,
+      "tema": 3,
+      "resumen": "Contenido del Título VIII de la CE (organización territorial: autonomía, solidaridad, igualdad)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 43,
+      "tema": 24,
+      "resumen": "Daños al ir del domicilio al trabajo (in itinere)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 44,
+      "tema": 8,
+      "resumen": "Competencia para resolver la compatibilidad de un segundo puesto (Ministerio de Hacienda a propuesta del DGP)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 45,
+      "tema": 17,
+      "resumen": "Torturas para localizar a una menor, sin éxito: delito de torturas consumado (art. 174)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 46,
+      "tema": 14,
+      "resumen": "Fin que NO es propio de la LO 4/2015 de seguridad ciudadana",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 47,
+      "tema": 21,
+      "resumen": "Órgano para enjuiciar delitos cometidos fuera del territorio nacional (Sala Penal de la Audiencia Nacional)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 48,
+      "tema": 6,
+      "resumen": "Permiso por nacimiento del progenitor en 2021 (16 semanas intransferibles, TREBEP)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 49,
+      "tema": 22,
+      "resumen": "Concepto de víctima del art. 2 del Estatuto (directa e indirecta)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 50,
+      "tema": 43,
+      "resumen": "Señal de rotulación de costados con imagen corporativa (V-3)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 51,
+      "tema": 9,
+      "resumen": "Competencia exclusiva sobre la seguridad pública (del Estado, LO 2/1986)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 52,
+      "tema": 17,
+      "resumen": "Amenaza condicional con denuncia (conducta debida): sin responsabilidad penal",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 53,
+      "tema": 19,
+      "resumen": "Escopeta con cañones recortados: tenencia de armas prohibidas (art. 563 CP)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 54,
+      "tema": 31,
+      "resumen": "Qué son los CETI (gestionados por el Ministerio de Inclusión, Seguridad Social y Migraciones)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 55,
+      "tema": 38,
+      "resumen": "Cerrar aplicación por teclado (Windows Alt+F4; Mac Comando+Q)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 56,
+      "tema": 17,
+      "resumen": "Supuesto que constituye homicidio del art. 138 CP",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 57,
+      "tema": 15,
+      "resumen": "Órgano que identifica una infraestructura como crítica (CNPIC)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 58,
+      "tema": 8,
+      "resumen": "Responsable de las funciones policiales operativas (Dirección Adjunta Operativa)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 59,
+      "tema": 8,
+      "resumen": "Unidad que investiga conductas funcionariales penales y contrarias a la ética (Asuntos Internos)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 60,
+      "tema": 42,
+      "resumen": "Componentes esenciales de un arma corta (RD 726/2020): armazón, cañón, tambor y corredera o cerrojo",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 61,
+      "tema": 38,
+      "resumen": "Herramientas para cifrar el disco duro (LUKS, BitLocker, FileVault)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 62,
+      "tema": 8,
+      "resumen": "Competencia para incoar por falta leve (LO 4/2010): ambos jefes",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 63,
+      "tema": 31,
+      "resumen": "Concepto de racismo simbólico según ACNUR",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 64,
+      "tema": 18,
+      "resumen": "Extracción en cajero con tarjeta ajena hallada: delito de estafa (art. 249 CP)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 65,
+      "tema": 37,
+      "resumen": "Palabra escrita correctamente (vicisitud)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 66,
+      "tema": 44,
+      "resumen": "Tasa de alcohol en servicio de urgencia o transportes especiales (0,3 g/l en sangre)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 67,
+      "tema": 2,
+      "resumen": "Persona que NO fue uno de los 'padres de la Constitución'",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 68,
+      "tema": 26,
+      "resumen": "Edad para que un menor consienta el tratamiento de sus datos (mayor de 14 años, LO 3/2018)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 69,
+      "tema": 11,
+      "resumen": "Sustitución de condena por expulsión en delito de trata (art. 89.9 CP): no procede",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 70,
+      "tema": 17,
+      "resumen": "Novedad de la LO 8/2021 en homicidio/asesinato (privación de patria potestad si hay hijo común)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 71,
+      "tema": 26,
+      "resumen": "Plazo máximo de supresión de datos penales (20 años, LO 7/2021)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 72,
+      "tema": 42,
+      "resumen": "Definición de cartuchería (lleve o no proyectiles incorporados)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 73,
+      "tema": 20,
+      "resumen": "Difusión de vídeos sexuales de la expareja: revelación de secretos (art. 197.7 CP)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 74,
+      "tema": 1,
+      "resumen": "Nacionalidad de origen de un adoptado mayor de edad (optar en 2 años desde la adopción)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 75,
+      "tema": 13,
+      "resumen": "Obligación de los despachos de detectives (comunicar hechos delictivos a la autoridad judicial/FCS)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 76,
+      "tema": 14,
+      "resumen": "Registro corporal externo a persona de distinto sexo — opción INCORRECTA",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 77,
+      "tema": 8,
+      "resumen": "Divisa de dos ramas de laurel (Escala Ejecutiva y de Subinspección)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 78,
+      "tema": 19,
+      "resumen": "Agresión a un sanitario en ejercicio de su cargo: delito de atentado (art. 550 CP)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 79,
+      "tema": 36,
+      "resumen": "Pretérito perfecto de subjuntivo de 'investigar' (haya investigado)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 80,
+      "tema": 36,
+      "resumen": "Comparativo correcto de 'mayor' (sin 'más')",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 81,
+      "tema": 31,
+      "resumen": "Síndrome del emigrante con estrés crónico y múltiple (Síndrome de Ulises)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 82,
+      "tema": 16,
+      "resumen": "Causa de extinción de la responsabilidad criminal (el indulto, art. 130 CP)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 83,
+      "tema": 12,
+      "resumen": "Definición de 'desplazados' (RD 1325/2003)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 84,
+      "tema": 23,
+      "resumen": "Responsable del tratamiento de datos del Sistema VioGén (titular de la DG de Coordinación y Estudios)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 85,
+      "tema": 4,
+      "resumen": "Lema de la Unión Europea (Unida en la diversidad)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 86,
+      "tema": 11,
+      "resumen": "Extranjero que contraviene una prohibición de entrada (internamiento si la devolución no se ejecuta en 72 h)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 87,
+      "tema": 36,
+      "resumen": "Uso correcto del pronombre con 'conminar' ('la conminé')",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 88,
+      "tema": 28,
+      "resumen": "Obra símbolo del movimiento antiglobalización (No Logo, de Naomi Klein)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 89,
+      "tema": 22,
+      "resumen": "Acompañamiento de un familiar a la víctima en declaración (sí, salvo decisión motivada, art. 21 Estatuto)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 90,
+      "tema": 41,
+      "resumen": "Usos de un BOT malicioso (enviar info robada, infectar equipos y enviar SPAM)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 91,
+      "tema": 41,
+      "resumen": "Abuso de acceso autorizado por un miembro de la organización (insider threat)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 92,
+      "tema": 16,
+      "resumen": "Nº de personas para que exista conspiración (más de una, art. 17 CP)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 93,
+      "tema": 2,
+      "resumen": "Plazo máximo para presentar una queja ante el Defensor del Pueblo (un año)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 94,
+      "tema": 8,
+      "resumen": "Orden de las pruebas en promoción interna (concurso-oposición, RD 853/2022)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 95,
+      "tema": 34,
+      "resumen": "'Droga de los pobres': mezcla de hachís y Rivotril (Karkubi)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 96,
+      "tema": 18,
+      "resumen": "Supuesto que constituye hurto consumado",
+      "respuesta_oficial": "A",
+      "dudosa": true
+    },
+    {
+      "n": 97,
+      "tema": 1,
+      "resumen": "Normativa que regula la adquisición de la nacionalidad (CE, Código Civil y Ley de Memoria Democrática)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 98,
+      "tema": 25,
+      "resumen": "Concepto de salud según la OMS (físico, mental y social)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 99,
+      "tema": 42,
+      "resumen": "Vigencia de la autorización en la Tarjeta Europea de Armas de Fuego (máximo un año / 12 meses)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 100,
+      "tema": 26,
+      "resumen": "Autoridad que NO es competente conforme al art. 4 LO 7/2021 (órgano jurisdiccional civil)",
+      "respuesta_oficial": "C"
+    }
+  ]
+}
