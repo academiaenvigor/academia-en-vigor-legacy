@@ -1,0 +1,622 @@
+{
+  "examen": "Policía Nacional - Escala Básica",
+  "año": 2022,
+  "etiqueta": "2022",
+  "promocion": 38,
+  "numeral": "XXXVIII",
+  "modelo": "A",
+  "fecha_examen": "2022",
+  "total_preguntas": 100,
+  "duracion_minutos": 50,
+  "nota": "Examen oficial Promoción 38 (XXXVIII) — año a confirmar. Resúmenes propios, no texto literal. Respuestas leídas de la retroalimentación. Varias preguntas eran impugnables en origen; van marcadas 'dudosa' para verificar contra la Plantilla oficial.",
+  "preguntas": [
+    {
+      "n": 1,
+      "tema": 1,
+      "resumen": "Plazo para declarar en el Registro Civil un nacimiento fuera de centro hospitalario (10 días)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 2,
+      "tema": 1,
+      "resumen": "Requisito para recuperar la nacionalidad española (declarar la voluntad ante el Registro Civil, art. 26 CC)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 3,
+      "tema": 2,
+      "resumen": "Ubicación del derecho a la propiedad y la herencia en la CE (derechos y deberes de los ciudadanos, art. 33)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 4,
+      "tema": 2,
+      "resumen": "Quién aprueba y ratifica la CE según el Preámbulo (las Cortes aprueban, el pueblo ratifica)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 5,
+      "tema": 26,
+      "resumen": "Edad del menor para fundar el tratamiento de datos en su consentimiento (14 años, LO 3/2018)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 6,
+      "tema": 3,
+      "resumen": "Garantía del principio de solidaridad y el hecho insular (art. 138 CE)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 7,
+      "tema": 3,
+      "resumen": "Plazo y minoría para someter a referéndum una reforma constitucional (15 días, una décima parte, art. 167)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 8,
+      "tema": 3,
+      "resumen": "Períodos y sesiones de las Cámaras (art. 73 CE)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 9,
+      "tema": 4,
+      "resumen": "Características de los reglamentos europeos (obligatorios y de aplicación directa y uniforme)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 10,
+      "tema": 4,
+      "resumen": "Galardón recibido por la UE en 2012 (Premio Nobel de la Paz)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 11,
+      "tema": 5,
+      "resumen": "Facultad que NO puede ejercer el Gobierno en funciones (plantear la cuestión de confianza)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 12,
+      "tema": 4,
+      "resumen": "Elección y mandato del Presidente del Consejo Europeo (mayoría cualificada, 2 años y medio)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 13,
+      "tema": 5,
+      "resumen": "Ministerio competente en familia, menor y juventud (Derechos Sociales y Agenda 2030)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 14,
+      "tema": 5,
+      "resumen": "Competencia del Delegado del Gobierno en seguridad ciudadana (jefatura de las FCSE)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 15,
+      "tema": 6,
+      "resumen": "Tiempo para consolidar un puesto de nivel 20 partiendo del grado 17",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 16,
+      "tema": 6,
+      "resumen": "Personal no permanente de confianza o asesoramiento (personal eventual)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 17,
+      "tema": 6,
+      "resumen": "Situación que NO es administrativa de los funcionarios de carrera (comisión de servicios)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 18,
+      "tema": 7,
+      "resumen": "Órgano que gestiona el programa de quejas y sugerencias (Inspección de Personal y Servicios de Seguridad)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 19,
+      "tema": 7,
+      "resumen": "Órgano en el que se integra la DG de Apoyo a las Víctimas del Terrorismo (Subsecretaría del Interior)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 20,
+      "tema": 8,
+      "resumen": "Quién convoca los procesos selectivos de la PN (Director General de la Policía)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 21,
+      "tema": 21,
+      "resumen": "Quiénes constituyen la Policía Judicial (incluye a los funcionarios del Cuerpo de Prisiones, art. 283 LECrim)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 22,
+      "tema": 8,
+      "resumen": "Unidad que investiga la corrupción en el deporte (UC de Delincuencia Especializada y Violenta)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 23,
+      "tema": 9,
+      "resumen": "Competencia exclusiva de la PN (control de entrada y salida del territorio, LO 2/1986)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 24,
+      "tema": 9,
+      "resumen": "Órgano que coordina las políticas de seguridad Estado-CCAA (Consejo de Política de Seguridad)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 25,
+      "tema": 9,
+      "resumen": "Principio básico de actuación que contempla el uso de armas (relaciones con la comunidad)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 26,
+      "tema": 10,
+      "resumen": "Extranjeros que obtienen la tarjeta de identidad de extranjero (visado superior a seis meses)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 27,
+      "tema": 10,
+      "resumen": "Persona a la que se aplica el RD 240/2007 (familiar de comunitario)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 28,
+      "tema": 10,
+      "resumen": "Año de entrada en vigor del CAAS (1995)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 29,
+      "tema": 10,
+      "resumen": "Autorización de trabajo del residente en formación como especialista (basta la estancia por estudios)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 30,
+      "tema": 10,
+      "resumen": "Actuación con un extranjero que contraviene una prohibición de entrada aún vigente (devolución)",
+      "respuesta_oficial": "A",
+      "dudosa": true
+    },
+    {
+      "n": 31,
+      "tema": 11,
+      "resumen": "Prescripción de las infracciones de extranjería (3 años, 2 años y 6 meses)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 32,
+      "tema": 10,
+      "resumen": "Actuación con un no comunitario que no cumple los requisitos de entrada (denegación de entrada)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 33,
+      "tema": 12,
+      "resumen": "Expulsión de un apátrida que se halla legalmente en España (por seguridad nacional u orden público)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 34,
+      "tema": 10,
+      "resumen": "Órgano al que se comunica un extranjero indocumentado de edad incierta (Ministerio Fiscal, art. 35)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 35,
+      "tema": 12,
+      "resumen": "Supuesto de tramitación de urgencia de la protección internacional (solicitud en un CIE)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 36,
+      "tema": 13,
+      "resumen": "Servicio de seguridad privada que se ejerce con arma de fuego (protección de buques)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 37,
+      "tema": 13,
+      "resumen": "Habilitación del personal de seguridad privada (DGP salvo guardas rurales, que es Guardia Civil)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 38,
+      "tema": 14,
+      "resumen": "Valor acreditativo del DNI (único documento con valor por sí solo, art. 8 LO 4/2015)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 39,
+      "tema": 14,
+      "resumen": "Competencia sancionadora del Ministro del Interior (infracciones muy graves en grado máximo)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 40,
+      "tema": 14,
+      "resumen": "Entrada en edificios de organismos oficiales sin consentimiento del responsable (art. 15 LO 4/2015)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 41,
+      "tema": 15,
+      "resumen": "Calificación del Catálogo Nacional de Infraestructuras Estratégicas (secreto)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 42,
+      "tema": 15,
+      "resumen": "Definición de infraestructuras estratégicas (Ley 8/2011)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 43,
+      "tema": 16,
+      "resumen": "Responsabilidad de quien envenena la insulina usando a la enfermera como instrumento (autoría mediata)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 44,
+      "tema": 16,
+      "resumen": "Circunstancia agravante de la responsabilidad criminal (art. 22 CP)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 45,
+      "tema": 16,
+      "resumen": "Circunstancia modificativa correcta (eximente por miedo insuperable)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 46,
+      "tema": 18,
+      "resumen": "Apropiarse de una bicicleta y devolverla horas después (conducta atípica: no es vehículo a motor)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 47,
+      "tema": 17,
+      "resumen": "Homicidio perseguible solo mediante denuncia (imprudencia menos grave con vehículo a motor)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 48,
+      "tema": 17,
+      "resumen": "Cooperación no necesaria (complicidad) al suicidio (atípica)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 49,
+      "tema": 17,
+      "resumen": "Encerrar a otro privándole de libertad (detención ilegal, art. 163 CP)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 50,
+      "tema": 17,
+      "resumen": "Condición para ser sujeto activo del delito de tortura (autoridad o funcionario público)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 51,
+      "tema": 18,
+      "resumen": "Ocupación de un inmueble que no constituye morada (delito de usurpación, art. 245)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 52,
+      "tema": 18,
+      "resumen": "Quedarse con el dinero recibido para comprar un coche (apropiación indebida)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 53,
+      "tema": 19,
+      "resumen": "Tenencia de cinco armas de fuego reglamentadas sin licencia (depósito de armas)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 54,
+      "tema": 19,
+      "resumen": "Afirmación FALSA sobre el atentado (el vigilante de seguridad no es autoridad)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 55,
+      "tema": 19,
+      "resumen": "Aviso falso de bomba que moviliza a los servicios (delito de desórdenes públicos, art. 561)",
+      "respuesta_oficial": "A",
+      "dudosa": true
+    },
+    {
+      "n": 56,
+      "tema": 20,
+      "resumen": "Requisito para perseguir los delitos informáticos (denuncia de la persona agraviada)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 57,
+      "tema": 20,
+      "resumen": "Difusión no consentida de imágenes sexuales obtenidas con consentimiento (sexting)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 58,
+      "tema": 20,
+      "resumen": "Acceso a un sistema vulnerando su seguridad sin autorización (el simple acceso ya es delito, art. 197 bis)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 59,
+      "tema": 21,
+      "resumen": "Intervención de abogado y procurador en el habeas corpus (no es preceptiva)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 60,
+      "tema": 21,
+      "resumen": "Exentos de la obligación de denunciar (eclesiásticos y ministros de culto, art. 263 LECrim)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 61,
+      "tema": 21,
+      "resumen": "Composición del Tribunal del Jurado (9 jurados, 1 Magistrado y 2 suplentes)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 62,
+      "tema": 22,
+      "resumen": "Plazo de espera de los abogados para captar víctimas de catástrofes (45 días)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 63,
+      "tema": 22,
+      "resumen": "Circunstancia a valorar para las medidas de protección de la víctima (si es un delito violento)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 64,
+      "tema": 23,
+      "resumen": "Asistencia jurídica de la víctima de violencia de género (gratuita antes de denunciar)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 65,
+      "tema": 23,
+      "resumen": "Instrumento de Igualdad contra la violencia machista (punto violeta)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 66,
+      "tema": 23,
+      "resumen": "Sede del Instituto Europeo de la Igualdad de Género, EIGE (Vilna, Lituania)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 67,
+      "tema": 24,
+      "resumen": "Actividades a las que NO se aplica la Ley 31/1995 (policía, seguridad y resguardo aduanero)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 68,
+      "tema": 14,
+      "resumen": "Criterio ERRÓNEO de proporcionalidad en videovigilancia (instalaciones 'propias' en vez de públicas)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 69,
+      "tema": 24,
+      "resumen": "Órgano científico-técnico de seguridad y salud laboral (INSST)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 70,
+      "tema": 26,
+      "resumen": "Definición de 'encargado del tratamiento' (trata datos por cuenta del responsable, LO 7/2021)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 71,
+      "tema": 26,
+      "resumen": "Plazo máximo de conservación de datos penales (20 años, LO 7/2021)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 72,
+      "tema": 27,
+      "resumen": "Función del Mecanismo Nacional de Prevención de la Tortura (visitas preventivas a centros)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 73,
+      "tema": 27,
+      "resumen": "Característica de los derechos de la DUDH (inalienables)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 74,
+      "tema": 28,
+      "resumen": "Característica de la globalización (especialización y jerarquización de territorios por las TIC)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 75,
+      "tema": 29,
+      "resumen": "A qué se refieren los estudios de la escala F (tests de Berkeley sobre tendencias fascistas)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 76,
+      "tema": 23,
+      "resumen": "Modalidades del género no-binario (agénero, bigénero, tercer sexo, transgénero, género fluido)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 77,
+      "tema": 31,
+      "resumen": "Definición de migraciones (desplazamiento por tiempo considerable o indefinido, UNESCO)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 78,
+      "tema": 32,
+      "resumen": "Significado de un saldo vegetativo negativo (más defunciones que nacimientos)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 79,
+      "tema": 33,
+      "resumen": "Autor de la teoría de la asociación diferencial (Edwin Sutherland)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 80,
+      "tema": 34,
+      "resumen": "Efecto de la ayahuasca por el DMT (alucinógeno)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 81,
+      "tema": 34,
+      "resumen": "Relación entre dosis letal y dosis efectiva (índice terapéutico)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 82,
+      "tema": 5,
+      "resumen": "Ministerio competente en cambio climático y biodiversidad (Transición Ecológica y Reto Demográfico)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 83,
+      "tema": 37,
+      "resumen": "Uso de mayúsculas en apodos y seudónimos (mayúscula inicial, artículo en minúscula)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 84,
+      "tema": 38,
+      "resumen": "Sistemas de archivos de un disco (NTFS, FAT, EXT4, APFS)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 85,
+      "tema": 38,
+      "resumen": "Funciones del sistema operativo (gestionar E/S, ejecutar aplicaciones y gestionar la memoria)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 86,
+      "tema": 39,
+      "resumen": "Firewall tradicional que filtra por estado, puerto y protocolo (de inspección activa)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 87,
+      "tema": 39,
+      "resumen": "Diferencia entre proxy y router (trabajan a distinto nivel de la pila de protocolos)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 88,
+      "tema": 40,
+      "resumen": "Sistema de evaluación usado en el ciclo de inteligencia (4×4)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 89,
+      "tema": 41,
+      "resumen": "Redes de la DarkNet (Freenet, I2P, TOR, ZeroNet)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 90,
+      "tema": 41,
+      "resumen": "Ataque para dejar un servidor sin servicio (DDoS)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 91,
+      "tema": 41,
+      "resumen": "Lectura no autorizada de la banda magnética de tarjetas (skimming)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 92,
+      "tema": 41,
+      "resumen": "Qué es el flaming (discusión en línea con tono insultante)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 93,
+      "tema": 42,
+      "resumen": "Novedad del Reglamento de Armas (armas acústicas y de salvas, 8ª categoría)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 94,
+      "tema": 42,
+      "resumen": "Arma larga reducible a menos de 60 cm por culata telescópica (prohibida salvo funcionarios)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 95,
+      "tema": 43,
+      "resumen": "Autorización para el uso de la señal V-1 (no requiere autorización administrativa)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 96,
+      "tema": 44,
+      "resumen": "Comportamiento ante un vehículo policial con luz amarilla detrás (detenerse a la derecha, delante)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 97,
+      "tema": 44,
+      "resumen": "Qué son los ADAS (Sistemas Avanzados de Ayuda a la Conducción)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 98,
+      "tema": 44,
+      "resumen": "Tasa de alcohol de un conductor de vehículo prioritario (0,3 g/l en sangre)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 99,
+      "tema": 44,
+      "resumen": "Definición de seguridad primaria o activa (evita la pérdida de control y la colisión)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 100,
+      "tema": 45,
+      "resumen": "Significado de la norma PAS en el auxilio en accidentes (Proteger, Avisar, Socorrer)",
+      "respuesta_oficial": "C"
+    }
+  ]
+}
