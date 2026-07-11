@@ -1,0 +1,626 @@
+{
+  "examen": "Policía Nacional - Escala Básica",
+  "año": 2021,
+  "etiqueta": "2021",
+  "promocion": 37,
+  "numeral": "XXXVII",
+  "modelo": "A",
+  "fecha_examen": "2021",
+  "total_preguntas": 100,
+  "duracion_minutos": 50,
+  "nota": "Examen oficial Promoción 37 (XXXVII), 2021. Resúmenes propios, no texto literal. Respuestas de la retroalimentación. 'dudosa': preguntas impugnadas o de respuesta ambigua, a verificar. 'fuera_temario': preguntas de cultura general (economía, física, topografía, planimetría) que no encajan en los 45 temas del temario actual.",
+  "preguntas": [
+    {
+      "n": 1,
+      "tema": 3,
+      "resumen": "Requisito para reformar un Estatuto de Autonomía (aprobación de las Cortes por ley orgánica, art. 147 CE)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 2,
+      "tema": 4,
+      "resumen": "Mayoría con que se pronuncia el Consejo de la UE (cualificada, salvo excepción)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 3,
+      "tema": 9,
+      "resumen": "Alcance del secreto profesional de las FCS (no revelan fuentes salvo obligación, LO 2/1986)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 4,
+      "tema": 16,
+      "resumen": "Definición de tentativa de delito (art. 16 CP)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 5,
+      "tema": 28,
+      "resumen": "Sede del segundo Foro Social Mundial (Porto Alegre, 2002)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 6,
+      "tema": 1,
+      "resumen": "Edad para jurar fidelidad al adquirir la nacionalidad (14 años, art. 23 CC)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 7,
+      "tema": 35,
+      "resumen": "Opción que NO es un Objetivo de Desarrollo Sostenible (educación en el voluntariado)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 8,
+      "tema": 38,
+      "resumen": "Mejor sistema de archivos de Windows para volúmenes grandes (NTFS)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 9,
+      "tema": 5,
+      "resumen": "Plazo desde la presentación para votar una moción de censura (5 días)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 10,
+      "tema": 39,
+      "resumen": "Cuál es una dirección IP válida (la IPv6; la IPv4 con un octeto >255 no lo es)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 11,
+      "tema": 32,
+      "resumen": "Tipo de plano basado en el sistema hipodámico (ortogonal)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 12,
+      "tema": 3,
+      "resumen": "Nombramiento del Presidente del Tribunal Constitucional (por el Rey, a propuesta del pleno, 3 años)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 13,
+      "tema": 5,
+      "resumen": "Qué establece el art. 103 CE sobre la Administración (sirve con objetividad los intereses generales)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 14,
+      "tema": 8,
+      "resumen": "Unidad de la que depende la Unidad Adscrita a la Fiscalía General (UC de Droga y Crimen Organizado)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 15,
+      "tema": 8,
+      "resumen": "Unidad que depende directamente de la Dirección Adjunta Operativa (GEO)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 16,
+      "tema": 13,
+      "resumen": "Requisito para la habilitación de personal de seguridad privada (no haber sido sancionado)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 17,
+      "tema": 34,
+      "resumen": "Sistema de alerta ante nuevas sustancias psicoactivas (SEAT)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 18,
+      "tema": 38,
+      "resumen": "Aplicación de OpenOffice para diagramas e ilustraciones (Draw)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 19,
+      "tema": 7,
+      "resumen": "Función que NO corresponde a la Secretaría de Estado de Seguridad (supervisar las Policías Autonómicas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 20,
+      "tema": 8,
+      "resumen": "Unidad que NO depende de la UC de Delincuencia Económica y Fiscal (Servicio de Control de Juegos de Azar)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 21,
+      "tema": 23,
+      "resumen": "Agresión con lesiones quirúrgicas a la ex pareja (lesiones agravadas por violencia de género, art. 148.4)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 22,
+      "tema": 29,
+      "resumen": "Autor del modelo de interacción sobre la diferenciación intergrupal (Rabbie)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 23,
+      "tema": 38,
+      "resumen": "Atajo para abrir el Explorador de Archivos en Windows (Windows + E)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 24,
+      "tema": 1,
+      "resumen": "Contenido del art. 30 CC (la personalidad se adquiere con el nacimiento con vida)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 25,
+      "tema": null,
+      "resumen": "Concepto que NO es un pasivo financiero (créditos por operaciones comerciales)",
+      "respuesta_oficial": "A",
+      "fuera_temario": true
+    },
+    {
+      "n": 26,
+      "tema": null,
+      "resumen": "Documento que NO integra las cuentas anuales (el libro mayor)",
+      "respuesta_oficial": "B",
+      "fuera_temario": true
+    },
+    {
+      "n": 27,
+      "tema": null,
+      "resumen": "Magnitud que NO es una unidad de energía (el newton)",
+      "respuesta_oficial": "C",
+      "fuera_temario": true
+    },
+    {
+      "n": 28,
+      "tema": 4,
+      "resumen": "Composición del Tribunal de Justicia de la UE (un juez por Estado y abogados generales)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 29,
+      "tema": 5,
+      "resumen": "Función del Secretariado del Gobierno (velar por la publicación en el BOE)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 30,
+      "tema": 40,
+      "resumen": "Satélite con periodo orbital igual a la rotación terrestre (geoestacionario)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 31,
+      "tema": 2,
+      "resumen": "Número de miembros de la Junta de Coordinación del Defensor del Pueblo (cuatro)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 32,
+      "tema": 6,
+      "resumen": "Excedencia voluntaria por interés particular (subordinada a las necesidades del servicio)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 33,
+      "tema": 11,
+      "resumen": "Prohibición de entrada excepcional por amenaza grave al orden público (hasta 10 años)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 34,
+      "tema": 8,
+      "resumen": "Dependencia y nivel de la División de Operaciones y Transformación Digital (DAO, según la RPT)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 35,
+      "tema": 10,
+      "resumen": "Alcance del visado de residencia y trabajo de temporada (cuenta ajena, hasta 9 meses)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 36,
+      "tema": 29,
+      "resumen": "Factores que determinan la importancia de la actitud (Boninger, Krosnick & Berent)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 37,
+      "tema": 6,
+      "resumen": "Personal al que el EBEP solo se aplica si lo dispone su legislación específica (CNI, FFAA, FCS)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 38,
+      "tema": 12,
+      "resumen": "Obligación de los solicitantes de protección internacional (dactilares y foto, informados de la grabación)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 39,
+      "tema": 1,
+      "resumen": "Contenido del art. 6 CC (la ignorancia de las leyes no excusa)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 40,
+      "tema": 29,
+      "resumen": "Efectos de la exposición a un modelo según Bandura (modelado, inhibición/desinhibición, facilitación)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 41,
+      "tema": 2,
+      "resumen": "Artículo de la CE sobre la seguridad pública como competencia exclusiva (art. 149.1.29)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 42,
+      "tema": 27,
+      "resumen": "Quién elige al Comité Europeo para la Prevención de la Tortura (Comité de Ministros del Consejo de Europa)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 43,
+      "tema": 41,
+      "resumen": "Ataques a través del navegador web (exploit y malvertising)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 44,
+      "tema": 35,
+      "resumen": "Definición del Informe Brundtland de 1987 (desarrollo sostenible)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 45,
+      "tema": 1,
+      "resumen": "Regla de la vecindad civil del hijo con padres de distinta vecindad (art. 14.3 CC)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 46,
+      "tema": 21,
+      "resumen": "Plazo máximo para que el abogado acuda a asistir al detenido (3 horas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 47,
+      "tema": 24,
+      "resumen": "Órgano de vigilancia y control de la normativa de PRL (Inspección de Trabajo y Seguridad Social)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 48,
+      "tema": 33,
+      "resumen": "Escuela de Chicago de Park y Burgess (teorías ecológicas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 49,
+      "tema": 38,
+      "resumen": "Periféricos de entrada (escáner y lector de tarjetas)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 50,
+      "tema": 45,
+      "resumen": "Comprobación que hace un vehículo policial no apto para el servicio (niveles de aceite y líquidos)",
+      "respuesta_oficial": "A",
+      "dudosa": true
+    },
+    {
+      "n": 51,
+      "tema": 40,
+      "resumen": "Captadores activos según el principio de funcionamiento (radar y lidar)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 52,
+      "tema": 42,
+      "resumen": "Definición de 'desmilitarización' de un arma (transformar en civil o desbaratar un arma de guerra)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 53,
+      "tema": 8,
+      "resumen": "Adscripción de la Oficina Nacional de Deportes (Secretaría General de la CGSC)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 54,
+      "tema": 31,
+      "resumen": "Integración de un individuo en la cultura con la que entra en contacto (aculturación)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 55,
+      "tema": 43,
+      "resumen": "Ventana de las celdas en vehículos celulares grandes (horizontal, no practicable, sin visibilidad)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 56,
+      "tema": 29,
+      "resumen": "Autor de la definición de actitud como predisposición duradera (Vander Zanden)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 57,
+      "tema": null,
+      "resumen": "Deducción de coordenadas en instrumentos topográficos (las cartesianas a partir de las polares)",
+      "respuesta_oficial": "B",
+      "fuera_temario": true
+    },
+    {
+      "n": 58,
+      "tema": null,
+      "resumen": "Plano forense que muestra el cielo raso y las paredes (plano abatido)",
+      "respuesta_oficial": "A",
+      "fuera_temario": true
+    },
+    {
+      "n": 59,
+      "tema": 8,
+      "resumen": "Extravío del arma por negligencia inexcusable (falta grave, LO 4/2010)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 60,
+      "tema": 27,
+      "resumen": "Composición del Comité contra la Tortura de la ONU (10 expertos, art. 17)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 61,
+      "tema": 35,
+      "resumen": "Qué es el EMAS (sistema comunitario de ecogestión y auditoría)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 62,
+      "tema": 42,
+      "resumen": "Definición de arma de repetición (Reglamento de Armas)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 63,
+      "tema": 3,
+      "resumen": "Contenido del art. 165 CE (ley orgánica que regula el Tribunal Constitucional)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 64,
+      "tema": 39,
+      "resumen": "Dispositivos que intercomunican físicamente los ordenadores (tarjetas de red o NIC)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 65,
+      "tema": 21,
+      "resumen": "Competencia para ejecutar una orden europea de detención y entrega",
+      "respuesta_oficial": "C",
+      "dudosa": true
+    },
+    {
+      "n": 66,
+      "tema": 7,
+      "resumen": "Mandato del Consejo de Administración de Europol (cuatro años prorrogables)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 67,
+      "tema": 32,
+      "resumen": "Red urbana con ciudades acumuladas en la costa (red dendrítica)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 68,
+      "tema": 8,
+      "resumen": "Suplencia del Director Adjunto Operativo (art. 13 Ley 40/2015, en defecto de designación)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 69,
+      "tema": 5,
+      "resumen": "Norma que dicta el Gobierno por urgente necesidad (Decretos-leyes, art. 86 CE)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 70,
+      "tema": 25,
+      "resumen": "Quién asesora las auditorías de PRL policial (el INSHT, RD 2/2006)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 71,
+      "tema": 9,
+      "resumen": "Órgano que aprueba los planes de coordinación en seguridad (Consejo de Política de Seguridad)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 72,
+      "tema": 13,
+      "resumen": "Definición de prestadores de servicios de seguridad privada (el personal habilitado)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 73,
+      "tema": 6,
+      "resumen": "Requisito de antigüedad para la promoción interna (2 años en el subgrupo inferior)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 74,
+      "tema": 38,
+      "resumen": "Función de la tecla F12 en Word (Guardar como)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 75,
+      "tema": 23,
+      "resumen": "Ley que traspone la Directiva 2002/73/CE de igualdad de trato (LO 3/2007)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 76,
+      "tema": 28,
+      "resumen": "Tercer pilar del Foro Social Mundial (los comités organizadores)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 77,
+      "tema": 33,
+      "resumen": "Biotipo pícnico de Kretschmer (abdomen prominente, forma circular)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 78,
+      "tema": 16,
+      "resumen": "Equiparación de la omisión a la acción, art. 11 CP (crear una ocasión de riesgo previa)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 79,
+      "tema": 8,
+      "resumen": "Situación de servicio activo del policía (durante el plazo posesorio por cese)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 80,
+      "tema": 21,
+      "resumen": "Delito competencia del Tribunal del Jurado (asesinato)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 81,
+      "tema": 33,
+      "resumen": "Bloque teórico de la Teoría de la Anomia de Merton (teorías sociológicas)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 82,
+      "tema": 4,
+      "resumen": "Número de abogados generales del TJUE, art. 252 TFUE (ocho, ampliables por unanimidad)",
+      "respuesta_oficial": "B",
+      "dudosa": true
+    },
+    {
+      "n": 83,
+      "tema": 6,
+      "resumen": "Plazas vacantes de funcionarios interinos (deben incluirse en la OEP, art. 10.4 EBEP)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 84,
+      "tema": 10,
+      "resumen": "Medidas limitativas de la circulación de extranjeros (ninguna opción es correcta)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 85,
+      "tema": 12,
+      "resumen": "Plazo para solicitar protección internacional por comparecencia (un mes, Ley 12/2009)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 86,
+      "tema": 29,
+      "resumen": "Autor de la teoría de la disonancia cognitiva (Festinger)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 87,
+      "tema": 11,
+      "resumen": "Incumplir medidas de seguridad pública impuestas a un extranjero (infracción grave)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 88,
+      "tema": 3,
+      "resumen": "Años de ejercicio profesional para ser miembro del TC (15 años)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 89,
+      "tema": 23,
+      "resumen": "Figura creada por la LO 1/2004 (Fiscal contra la Violencia sobre la Mujer)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 90,
+      "tema": 4,
+      "resumen": "Sede del Banco Central Europeo (Fráncfort del Meno)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 91,
+      "tema": 44,
+      "resumen": "Profundidad mínima legal del dibujo del neumático (1,6 mm)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 92,
+      "tema": 34,
+      "resumen": "Grupo de drogas al que pertenece la teofilina (estimulantes)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 93,
+      "tema": 21,
+      "resumen": "Quiénes constituyen la Policía Judicial, art. 283 LECrim (ambas: guardas y tenientes de alcalde)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 94,
+      "tema": 38,
+      "resumen": "Capacidades de la aplicación de correo Thunderbird (múltiples cuentas y calendarios)",
+      "respuesta_oficial": "C",
+      "dudosa": true
+    },
+    {
+      "n": 95,
+      "tema": 27,
+      "resumen": "Quórum para elegir al Comité contra la Tortura de la ONU (ninguna: son 6 miembros)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 96,
+      "tema": 42,
+      "resumen": "Tiempo que un arma tipo F permanece en la Intervención de Armas (un año)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 97,
+      "tema": 3,
+      "resumen": "Principio de solidaridad del art. 138 CE (equilibrio económico y hecho insular)",
+      "respuesta_oficial": "C"
+    },
+    {
+      "n": 98,
+      "tema": 8,
+      "resumen": "Edades para el pase a segunda actividad a petición propia (LO 9/2015)",
+      "respuesta_oficial": "A"
+    },
+    {
+      "n": 99,
+      "tema": 32,
+      "resumen": "Fusión de varios núcleos urbanos contiguos en una unidad funcional (conurbación)",
+      "respuesta_oficial": "B"
+    },
+    {
+      "n": 100,
+      "tema": 35,
+      "resumen": "Organismo de la UE que informa sobre el medio ambiente (AEMA, Copenhague)",
+      "respuesta_oficial": "A"
+    }
+  ]
+}
