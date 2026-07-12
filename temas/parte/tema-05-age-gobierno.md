@@ -60,7 +60,7 @@ Las Administraciones Públicas deberán respetar en su actuación, entre otros:
 Además, las AAPP se relacionarán entre sí y con los ciudadanos **preferentemente por medios electrónicos**.
 
 ## 1.3. Cómo se estructura la AGE (art. 55 Ley 40/2015)
-<!-- 🎨 SVG · img/t05-estructura-age.svg · esquema de las 3+1 patas de la AGE: central, territorial, exterior y sector público institucional -->
+![esquema de las 3+1 patas de la AGE: central, territorial, exterior y sector público institucional](../../img/t05-estructura-age.png)
 - **Organización CENTRAL:** los Ministerios y sus órganos.
 - **Organización TERRITORIAL:** Delegaciones y Subdelegaciones del Gobierno.
 - **Administración en el EXTERIOR:** embajadas y representaciones.
@@ -69,7 +69,7 @@ Además, las AAPP se relacionarán entre sí y con los ciudadanos **preferenteme
 
 # 📖 2. ÓRGANOS SUPERIORES Y ÓRGANOS DIRECTIVOS ⭐
 📅 **Ha caído:** 2022 — jefatura de las FCSE por el Delegado del Gobierno; ministerios competentes por materia.
-<!-- 🎨 SVG · img/t05-superiores-directivos.svg · pirámide de la organización central: superiores (Ministros, Secretarios de Estado) arriba en azul, directivos abajo en verde, con rango y quién nombra a cada uno (LA imagen estrella del tema) -->
+![pirámide de la organización central: superiores (Ministros, Secretarios de Estado) arriba en azul, directivos abajo en verde, con rango y quién nombra a cada uno (LA imagen estrella del tema)](../../img/t05-superiores-directivos.png)
 
 ## 2.1. En la organización central
 | Categoría | Órganos | Nombramiento |
@@ -124,7 +124,7 @@ Además, las AAPP se relacionarán entre sí y con los ciudadanos **preferenteme
 - ⭐ Norma que dicta el Gobierno en caso de **extraordinaria y urgente necesidad: el Real Decreto-LEY** (art. 86 CE — cayó en 2021; recuerda del tema 3: convalidación por el Congreso en 30 días).
 
 # 📖 4. ÓRGANOS DE COLABORACIÓN Y APOYO
-<!-- 🎨 SVG · img/t05-organos-apoyo.svg · esquema del engranaje: Comisión General de Secretarios de Estado y Subsecretarios → prepara → Consejo de Ministros; Secretariado del Gobierno → BOE; Gabinetes → apoyo político -->
+![esquema del engranaje: Comisión General de Secretarios de Estado y Subsecretarios → prepara → Consejo de Ministros; Secretariado del Gobierno → BOE; Gabinetes → apoyo político](../../img/t05-organos-apoyo.png)
 
 - **Los Secretarios de Estado:** órganos superiores directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad.
 - **Comisión General de Secretarios de Estado y Subsecretarios:** ⭐ **prepara las sesiones del Consejo de Ministros** — todos los asuntos que vayan al Consejo deben ser examinados antes por ella (salvo excepciones tasadas). ⚠️ **En ningún caso puede adoptar decisiones o acuerdos por delegación del Gobierno.** La preside un Vicepresidente o, en su defecto, el Ministro de la Presidencia.
@@ -147,7 +147,7 @@ Además, las AAPP se relacionarán entre sí y con los ciudadanos **preferenteme
 
 # 📖 6. CESE Y LIMITACIONES (art. 101 CE y art. 21 Ley 50/1997)
 📅 **Ha caído:** 2025-2 · 2022 — la facultad vedada al Presidente en funciones (¡dos veces la misma pregunta!).
-<!-- 🎨 SVG · img/t05-gobierno-funciones.svg · semáforo del Gobierno en funciones: en verde lo que sí (despacho ordinario), en rojo lo prohibido al Presidente (DI-CON-RE) y al Gobierno (las 2P) -->
+![semáforo del Gobierno en funciones: en verde lo que sí (despacho ordinario), en rojo lo prohibido al Presidente (DI-CON-RE) y al Gobierno (las 2P)](../../img/t05-gobierno-funciones.png)
 
 ## 6.1. El cese
 El Gobierno cesa (art. 101 CE): tras la celebración de **elecciones generales**, por **pérdida de la confianza parlamentaria** (cuestión de confianza fracasada o moción de censura triunfante), y por **dimisión o fallecimiento de su Presidente**. El Gobierno cesante **continúa EN FUNCIONES hasta la toma de posesión del nuevo Gobierno**.

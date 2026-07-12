@@ -48,7 +48,7 @@ EL DERECHO
 El Derecho es el **conjunto de normas jurídicas que regulan la convivencia social**, cuyo cumplimiento puede imponerse de forma coactiva por el poder público. Allí donde hay sociedad, hay Derecho (*ubi societas, ibi ius*).
 
 ## 1.2. Acepciones
-<!-- 🎨 SVG · img/t01-acepciones-derecho.svg · mapa de las 4 acepciones: objetivo/subjetivo · positivo/natural · público/privado -->
+![mapa de las 4 acepciones: objetivo/subjetivo · positivo/natural · público/privado](../../img/t01-acepciones-derecho.png)
 
 La palabra "Derecho" se usa en varios sentidos que el examen puede distinguir:
 
@@ -75,7 +75,7 @@ La palabra "Derecho" se usa en varios sentidos que el examen puede distinguir:
 La norma jurídica es un **mandato general dictado por el poder legítimo que impone una conducta y cuyo incumplimiento acarrea una consecuencia jurídica**.
 
 ## 2.2. Estructura
-<!-- 🎨 SVG · img/t01-anatomia-norma.svg · anatomía de una norma: supuesto de hecho + consecuencia jurídica, con el art. 138 CP diseccionado -->
+![anatomía de una norma: supuesto de hecho + consecuencia jurídica, con el art. 138 CP diseccionado](../../img/t01-anatomia-norma.png)
 
 Toda norma jurídica completa tiene dos elementos:
 
@@ -91,7 +91,7 @@ Toda norma jurídica completa tiene dos elementos:
 - **Legitimidad:** emana del poder con competencia para dictarla.
 
 ## 2.4. Clases
-<!-- 🎨 SVG · img/t01-clases-normas.svg · tabla visual de clases de normas (imperativas/dispositivas, generales/particulares...) -->
+![tabla visual de clases de normas (imperativas/dispositivas, generales/particulares...)](../../img/t01-clases-normas.png)
 
 | Criterio | Clases |
 |---|---|
@@ -116,7 +116,7 @@ Toda norma jurídica completa tiene dos elementos:
 - **Art. 1.2 CC:** "Carecerán de validez las disposiciones que contradigan otra de rango superior."
 
 ## 3.2. La pirámide normativa
-<!-- 🎨 SVG · img/t01-piramide-jerarquia.svg · pirámide de jerarquía normativa — ✅ YA CREADA (piramide-jerarquia-normativa.svg, renombrar) -->
+![pirámide de jerarquía normativa — ✅ YA CREADA (piramide-jerarquia-normativa.svg, renombrar)](../../img/t01-piramide-jerarquia.png)
 
 ```
         ┌─────────────────────────┐
@@ -167,7 +167,7 @@ Persona es **todo ser capaz de derechos y obligaciones**, es decir, todo sujeto 
 - **Persona jurídica:** entidades a las que el Derecho reconoce personalidad propia (asociaciones, sociedades, fundaciones, corporaciones — art. 35 CC).
 
 ## 4.2. Nacimiento (adquisición de la personalidad)
-<!-- 🎨 SVG · img/t01-linea-personalidad.svg · línea de vida de la personalidad: concepción → nasciturus (29) → nacimiento (30) → muerte (32) → comoriencia (33) -->
+![línea de vida de la personalidad: concepción → nasciturus (29) → nacimiento (30) → muerte (32) → comoriencia (33)](../../img/t01-linea-personalidad.png)
 
 - **Art. 29 CC:** "El nacimiento determina la personalidad; pero el concebido se tiene por nacido para todos los efectos que le sean favorables, siempre que nazca con las condiciones que expresa el artículo siguiente."
 - **Art. 30 CC (redacción vigente desde 2011):** "La personalidad se adquiere en el momento del **nacimiento con vida, una vez producido el entero desprendimiento del seno materno**."
@@ -183,7 +183,7 @@ El concebido no nacido (*nasciturus*) no es persona, pero se le protege: se le t
 - La **declaración de fallecimiento** (arts. 193 y ss. CC) produce efectos similares a la muerte para el desaparecido en determinados plazos y circunstancias.
 
 ## 4.4. Capacidad jurídica y capacidad de obrar
-<!-- 🎨 SVG · img/t01-capacidades.svg · balanza capacidad jurídica vs capacidad de obrar + esquema de medidas de apoyo Ley 8/2021 -->
+![balanza capacidad jurídica vs capacidad de obrar + esquema de medidas de apoyo Ley 8/2021](../../img/t01-capacidades.png)
 
 - **Capacidad jurídica:** aptitud para ser titular de derechos y obligaciones. La tiene **toda persona por el hecho de serlo**, desde el nacimiento hasta la muerte. No admite grados.
 - **Capacidad de obrar:** aptitud para ejercitar por sí mismo esos derechos (comprar, contratar, testar...). Admite grados: la plena se alcanza con la **mayoría de edad (18 años, art. 12 CE y 240 CC)**; el menor emancipado tiene una capacidad intermedia.
@@ -202,7 +202,7 @@ El concebido no nacido (*nasciturus*) no es persona, pero se le protege: se le t
 
 # 📖 5. LA NACIONALIDAD ESPAÑOLA
 📅 **Ha caído:** 2025-2 · 2023 · 2022 · 2021 — adquisición, recuperación y juramento — cae TODOS los años.
-<!-- 🎨 SVG · img/t01-vias-nacionalidad.svg · mapa de las 4 vías de adquisición: cuna / elección / regalo / tiempo -->
+![mapa de las 4 vías de adquisición: cuna / elección / regalo / tiempo](../../img/t01-vias-nacionalidad.png)
 
 ⭐ **El apartado más preguntado del tema.** Los artículos 17 a 26 CC hay que dominarlos.
 
@@ -226,7 +226,7 @@ Pueden optar: quienes estén o hayan estado sujetos a la patria potestad de un e
 Concesión **discrecional** del Gobierno mediante **Real Decreto**, cuando concurran **circunstancias excepcionales** (ej.: deportistas de élite, víctimas del 11-M, sefardíes por la Ley 12/2015).
 
 ### c) Por RESIDENCIA (art. 22) ⭐⭐ LA JOYA DEL EXAMEN
-<!-- 🎨 SVG · img/t01-plazos-residencia.svg · infografía de plazos 10-5-2-1 con iconos por colectivo (LA imagen estrella del tema) -->
+![infografía de plazos 10-5-2-1 con iconos por colectivo (LA imagen estrella del tema)](../../img/t01-plazos-residencia.png)
 Residencia **legal, continuada e inmediatamente anterior a la petición**:
 
 | Plazo | Quién |
@@ -242,7 +242,7 @@ Requisitos comunes: buena conducta cívica y suficiente grado de integración (e
 El mayor de 14 años debe: **jurar o prometer fidelidad al Rey y obediencia a la Constitución y a las leyes**; **renunciar a su anterior nacionalidad** (salvo iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal y sefardíes); e **inscribir** la adquisición en el Registro Civil.
 
 ## 5.3. CONSERVACIÓN y PÉRDIDA (arts. 24-25)
-<!-- 🎨 SVG · img/t01-flujo-perdida.svg · diagrama de flujo de pérdida/conservación de la nacionalidad (arts. 24-25) -->
+![diagrama de flujo de pérdida/conservación de la nacionalidad (arts. 24-25)](../../img/t01-flujo-perdida.png)
 
 **Pierden la nacionalidad (art. 24)** los **emancipados residentes habitualmente en el extranjero** que:
 - Adquieran voluntariamente otra nacionalidad, o
@@ -288,7 +288,7 @@ Distingue tres conceptos:
 
 # 📖 7. LA VECINDAD CIVIL
 📅 **Ha caído:** 2021 — reglas de la vecindad civil.
-<!-- 🎨 SVG · img/t01-mapa-foral.svg · mapa de España con los territorios de Derecho foral y los plazos 2/10 años -->
+![mapa de España con los territorios de Derecho foral y los plazos 2/10 años](../../img/t01-mapa-foral.png)
 
 Determina la sujeción al **Derecho civil común o al foral/especial** (art. 14 CC). No confundir con la vecindad administrativa (empadronamiento).
 

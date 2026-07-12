@@ -39,7 +39,7 @@ LOS FUNCIONARIOS PÚBLICOS
 
 # 📖 1. LOS EMPLEADOS PÚBLICOS Y SUS CLASES (arts. 8-13 TREBEP)
 📅 **Ha caído:** 2025-2 · 2022 — la figura que NO existe ("personal accidental") y el personal eventual.
-<!-- 🎨 SVG · img/t06-clases-empleados.svg · árbol de los empleados públicos: las 4 clases con su rasgo definitorio, y tachada en rojo la trampa "personal accidental" (LA imagen estrella del tema) -->
+![árbol de los empleados públicos: las 4 clases con su rasgo definitorio, y tachada en rojo la trampa "personal accidental" (LA imagen estrella del tema)](../../img/t06-clases-empleados.png)
 
 **Empleado público** (art. 8): quien desempeña funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales. **Clases — son exactamente CUATRO:**
 
@@ -76,7 +76,7 @@ LOS FUNCIONARIOS PÚBLICOS
 
 # 📖 3. REQUISITOS DE ACCESO Y ADQUISICIÓN DE LA CONDICIÓN
 📅 **Ha caído:** 2025-2 — el momento de los efectos económicos (toma de posesión).
-<!-- 🎨 SVG · img/t06-camino-funcionario.svg · línea de meta en 4 pasos: oposición superada → nombramiento publicado → acatamiento CE → toma de posesión (con la bandera de "efectos económicos" en el paso 4) -->
+![línea de meta en 4 pasos: oposición superada → nombramiento publicado → acatamiento CE → toma de posesión (con la bandera de "efectos económicos" en el paso 4)](../../img/t06-camino-funcionario.png)
 
 ## 3.1. Requisitos generales de acceso (art. 56)
 - Tener la **nacionalidad española** (los nacionales UE pueden acceder, art. 57, **salvo** a empleos que impliquen ejercicio de potestades públicas o salvaguardia de intereses del Estado — por eso **las FCS son solo para españoles**).
@@ -126,7 +126,7 @@ Se adquiere por el **cumplimiento SUCESIVO** de estos requisitos — y el ORDEN 
 
 # 📖 6. SITUACIONES ADMINISTRATIVAS (art. 85)
 📅 **Ha caído:** 2022 · 2021 — la falsa situación (comisión de servicios) y la excedencia por interés particular.
-<!-- 🎨 SVG · img/t06-situaciones.svg · las 5 situaciones administrativas en tarjetas + tarjeta roja aparte: "comisión de servicios = forma de provisión, NO situación" -->
+![las 5 situaciones administrativas en tarjetas + tarjeta roja aparte: "comisión de servicios = forma de provisión, NO situación"](../../img/t06-situaciones.png)
 
 Las situaciones administrativas de los funcionarios de carrera son **CINCO**:
 1. **Servicio activo.**

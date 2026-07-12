@@ -41,7 +41,7 @@ EL MINISTERIO DEL INTERIOR
 
 # 📖 1. ORGANIZACIÓN: QUÉ CUELGA DE QUÉ
 📅 **Ha caído:** 2022 — dónde se integra la DG de Apoyo a las Víctimas del Terrorismo (Subsecretaría).
-<!-- 🎨 SVG · img/t07-organigrama-ministerio.svg · organigrama completo del Ministerio con las 4 ramas colgando del Ministro y sus DG, destacando en verde la novedad de 2026 (LA imagen estrella del tema) -->
+![organigrama completo del Ministerio con las 4 ramas colgando del Ministro y sus DG, destacando en verde la novedad de 2026 (LA imagen estrella del tema)](../../img/t07-organigrama-ministerio.png)
 
 Al Ministerio del Interior le corresponde la política del Gobierno en **seguridad ciudadana, tráfico y seguridad vial, protección civil, instituciones penitenciarias, extranjería y protección internacional, procesos electorales y el mando de las FCSE**.
 
@@ -100,7 +100,7 @@ Corresponde a la SES, por delegación del Ministro, entre otras:
 
 # 📖 3. LOS ÓRGANOS DE LA SES
 📅 **Ha caído:** 2025-2 (×3) — nivel del Gabinete, dependencia de la UNECI y de la Unidad de Planificación Estratégica.
-<!-- 🎨 SVG · img/t07-organos-ses.svg · la SES en el centro con sus satélites: Gabinete (subdirección general), CITCO+UNECI, las 2 subdirecciones generales, el Comité Ejecutivo de Coordinación y GIESE -->
+![la SES en el centro con sus satélites: Gabinete (subdirección general), CITCO+UNECI, las 2 subdirecciones generales, el Comité Ejecutivo de Coordinación y GIESE](../../img/t07-organos-ses.png)
 
 - **El GABINETE de la SES:** órgano de asistencia inmediata, con **nivel orgánico de SUBDIRECCIÓN GENERAL** ⭐ (cayó en 2025; ojo al contraste: el Gabinete del **Ministro** tiene nivel de **dirección general**). La persona titular de su dirección ejerce además la **Relatoría Nacional contra la Trata de Seres Humanos**. En su ámbito, de la **Unidad de Planificación Estratégica y Coordinación** depende el **Centro Nacional de Comunicaciones** ⭐ (cayó en 2025).
 - **El CITCO** (Centro de Inteligencia contra el Terrorismo y el Crimen Organizado): recibe, integra y analiza la información estratégica contra el terrorismo, la delincuencia organizada y el radicalismo violento; es el **punto nacional de contacto** para el intercambio de inteligencia con organismos supranacionales. ⭐ De él depende la **UNECI — Unidad Nacional de Retirada de Contenidos Ilícitos en Internet** (cayó en 2025).
@@ -127,7 +127,7 @@ Una de las cuatro DG de la SES, y la gran reformada del RD 207/2024 (sustituyó 
 - 🔄 **Nota "temario vivo":** con el RD 734/2020 (estructura anterior) la IPSS dependía directamente del titular de la SES. **Desde el RD 207/2024 depende de la DGCE.** Si un test antiguo te dice "depende directamente de la Secretaría de Estado", está desactualizado — y el tribunal ya pregunta la versión nueva.
 
 # 📖 5. SGIP, PROTECCIÓN CIVIL Y SUBSECRETARÍA
-<!-- 🎨 SVG · img/t07-tres-ramas.svg · tarjetas de las otras tres ramas: SGIP (prisiones), SG Protección Civil 🆕2026, y Subsecretaría con sus 5 órganos -->
+![tarjetas de las otras tres ramas: SGIP (prisiones), SG Protección Civil 🆕2026, y Subsecretaría con sus 5 órganos](../../img/t07-tres-ramas.png)
 
 - **Secretaría General de INSTITUCIONES PENITENCIARIAS** (rango de subsecretaría): la política penitenciaria. De ella depende la **DG de Ejecución Penal y Reinserción Social**.
 - 🆕 **Secretaría General de PROTECCIÓN CIVIL Y EMERGENCIAS** (creada por el **RD 328/2026**): asume la dirección del sistema nacional de protección civil, con la **DG de Protección Civil y Emergencias** bajo su dependencia. Antes esa DG colgaba de la Subsecretaría — reforma reciente con todas las papeletas de examen.

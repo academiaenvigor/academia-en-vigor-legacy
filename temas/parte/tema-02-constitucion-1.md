@@ -47,7 +47,7 @@ LA CONSTITUCIÓN (I)
 # 📖 1. ESTRUCTURA Y CARACTERES DE LA CONSTITUCIÓN DE 1978
 
 ## 1.1. Datos esenciales (⭐ caen como fechas sueltas)
-<!-- 🎨 SVG · img/t02-linea-tiempo-1978.svg · línea de tiempo oct-dic 1978: aprobación → referéndum → sanción → publicación -->
+![línea de tiempo oct-dic 1978: aprobación → referéndum → sanción → publicación](../../img/t02-linea-tiempo-1978.png)
 
 | Hito | Fecha |
 |---|---|
@@ -58,7 +58,7 @@ LA CONSTITUCIÓN (I)
 
 ## 1.2. Estructura
 📅 **Ha caído:** 2025-2 · 2023 · 2022 — estructura, elaboración y protagonistas de la CE.
-<!-- 🎨 SVG · img/t02-plano-constitucion.svg · plano de la CE: parte dogmática vs orgánica, 169 arts, disposiciones 4-9-1-1 -->
+![plano de la CE: parte dogmática vs orgánica, 169 arts, disposiciones 4-9-1-1](../../img/t02-plano-constitucion.png)
 
 - **Preámbulo** (sin valor normativo directo, sí interpretativo)
 - **Título Preliminar** (arts. 1-9)
@@ -99,7 +99,7 @@ Se distingue una **parte dogmática** (Título Preliminar y Título I: valores, 
 ---
 
 # 📖 3. LOS PRINCIPIOS DEL RÉGIMEN CONSTITUCIONAL
-<!-- 🎨 SVG · img/t02-cinco-pilares.svg · los 5 pilares del régimen: Derecho · democrático · social · Monarquía parlamentaria · autonomista -->
+![los 5 pilares del régimen: Derecho · democrático · social · Monarquía parlamentaria · autonomista](../../img/t02-cinco-pilares.png)
 
 ## 3.1. Estado de Derecho
 Imperio de la ley: todos los poderes públicos y los ciudadanos están sometidos a la Constitución y al resto del ordenamiento (art. 9.1). División de poderes y garantía de los derechos.
@@ -128,7 +128,7 @@ Los poderes públicos deben promover las condiciones para que la libertad y la i
 # 🟦 PARTE 2 · LOS DERECHOS, UNO A UNO
 
 # 📖 4. ESTRUCTURA DEL TÍTULO I (arts. 10-55) ⭐⭐
-<!-- 🎨 SVG · img/t02-arbol-titulo-i.svg · árbol del Título I con niveles de protección por colores (LA imagen estrella del tema) -->
+![árbol del Título I con niveles de protección por colores (LA imagen estrella del tema)](../../img/t02-arbol-titulo-i.png)
 
 Dominar este esquema vale varias preguntas de examen. El Título I se llama **"De los derechos y deberes fundamentales"**:
 
@@ -168,13 +168,13 @@ Los de máxima protección. Repaso artículo a artículo (⭐ = de los más preg
 - **Art. 15 ⭐** — Derecho a la **vida** y a la **integridad física y moral**; prohibición de la tortura y de penas o tratos inhumanos o degradantes. **Abolición de la pena de muerte**, "salvo lo que puedan disponer las leyes penales militares para tiempos de guerra" (hoy abolida también en ese ámbito por LO 11/1995).
 - **Art. 16** — Libertad **ideológica, religiosa y de culto**. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias. **Ninguna confesión tendrá carácter estatal** (aconfesionalidad).
 - **Art. 17 ⭐⭐** — Derecho a la **libertad y seguridad**. La **detención preventiva** no podrá durar más del tiempo estrictamente necesario y, **en todo caso, máximo 72 horas**, transcurridas las cuales el detenido debe ser puesto en libertad o a disposición judicial. Derechos del detenido (17.3): información inmediata y comprensible de sus derechos y de las razones de la detención; no obligación de declarar; asistencia de abogado. **Habeas corpus** (17.4).
-<!-- 🎨 SVG · img/t02-reloj-detencion.svg · ficha visual art. 17: reloj de 72h + derechos del detenido + habeas corpus -->
+![ficha visual art. 17: reloj de 72h + derechos del detenido + habeas corpus](../../img/t02-reloj-detencion.png)
 - **Art. 18 ⭐⭐** — **Honor, intimidad personal y familiar y propia imagen** (18.1). **Inviolabilidad del domicilio** (18.2): ninguna entrada o registro sin **consentimiento del titular, resolución judicial o flagrante delito**. **Secreto de las comunicaciones** (18.3), salvo resolución judicial. Limitación del uso de la informática (18.4) — semilla de la protección de datos.
-<!-- 🎨 SVG · img/t02-cojufla.svg · ficha 18.2: las tres llaves del domicilio (COnsentimiento · JUdicial · FLAgrante) -->
+![ficha 18.2: las tres llaves del domicilio (COnsentimiento · JUdicial · FLAgrante)](../../img/t02-cojufla.png)
 - **Art. 19** — Libertad de **residencia y circulación** por el territorio nacional; libre entrada y salida de España.
 - **Art. 20** — Libertades de **expresión e información** [literaria, artística, científica y técnica; libertad de cátedra; información veraz]. Prohibida la **censura previa**. El **secuestro de publicaciones** solo por resolución judicial. Límites: los derechos del Título I, especialmente honor, intimidad, propia imagen y **protección de la juventud y de la infancia**.
 - **Art. 21 ⭐** — Derecho de **reunión** pacífica y sin armas: **no necesita autorización previa**. Las reuniones en lugares de tránsito público y manifestaciones requieren **comunicación previa a la autoridad**, que solo podrá prohibirlas cuando existan **razones fundadas de alteración del orden público, con peligro para personas o bienes**.
-<!-- 🎨 SVG · img/t02-semaforo-reunion.svg · semáforo del derecho de reunión: libre / comunicación previa / prohibición con razones fundadas -->
+![semáforo del derecho de reunión: libre / comunicación previa / prohibición con razones fundadas](../../img/t02-semaforo-reunion.png)
 - **Art. 22** — Derecho de **asociación**. Las asociaciones que persigan fines o utilicen medios **tipificados como delito son ilegales**. Solo podrán ser disueltas o suspendidas por **resolución judicial motivada**. Prohibidas las asociaciones **secretas y las de carácter paramilitar**.
 - **Art. 23** — Participación en asuntos públicos, directamente o por representantes elegidos por **sufragio universal**, y acceso a cargos y funciones públicas. 📅 *2025*
 - **Art. 24 ⭐** — **Tutela judicial efectiva** sin indefensión. Derechos procesales: juez ordinario predeterminado por la ley, defensa y asistencia letrada, ser informado de la acusación, proceso público sin dilaciones indebidas, prueba, no declarar contra sí mismo, no confesarse culpable y **presunción de inocencia**.
@@ -200,7 +200,7 @@ Los de máxima protección. Repaso artículo a artículo (⭐ = de los más preg
 # 🟦 PARTE 3 · ESCUDOS Y EXCEPCIONES
 
 # 📖 6. LAS GARANTÍAS DE LOS DERECHOS (art. 53) ⭐⭐
-<!-- 🎨 SVG · img/t02-tres-plantas.svg · el edificio de 3 plantas de protección del art. 53 -->
+![el edificio de 3 plantas de protección del art. 53](../../img/t02-tres-plantas.png)
 
 Tres niveles de protección según el derecho:
 
@@ -213,7 +213,7 @@ Tres niveles de protección según el derecho:
 ⚠️ **Matiz de examen:** el amparo protege los arts. **14 a 29 más la objeción de conciencia del 30.2**. Ni el 13 ni el 33 ni el 38 tienen amparo.
 
 # 📖 7. LA SUSPENSIÓN DE DERECHOS (art. 55)
-<!-- 🎨 SVG · img/t02-suspension-55.svg · panel 55.1 (colectiva) vs 55.2 (individual antiterrorista) con los artículos afectados -->
+![panel 55.1 (colectiva) vs 55.2 (individual antiterrorista) con los artículos afectados](../../img/t02-suspension-55.png)
 
 ## 7.1. Suspensión general (55.1) — estados de excepción y de sitio
 Podrán suspenderse: **17** (libertad; en excepción NO se suspende el 17.3 — derechos del detenido—, solo en sitio), **18.2 y 18.3** (domicilio y comunicaciones), **19** (circulación), **20.1.a) y d) y 20.5** (expresión e información, secuestro de publicaciones), **21** (reunión), **28.2** (huelga) y **37.2** (medidas de conflicto colectivo).
@@ -239,7 +239,7 @@ Del art. 18.4 CE ("la ley limitará el uso de la informática...") derivan:
 
 # 📖 9. EL DEFENSOR DEL PUEBLO (art. 54 y LO 3/1981)
 📅 **Ha caído:** 2023 · 2021 — el Defensor del Pueblo y su ley orgánica.
-<!-- 🎨 SVG · img/t02-defensor-352.svg · ficha del Defensor del Pueblo: 3/5 · 5 años · 2 adjuntos y sus legitimaciones -->
+![ficha del Defensor del Pueblo: 3/5 · 5 años · 2 adjuntos y sus legitimaciones](../../img/t02-defensor-352.png)
 
 - **Alto comisionado de las Cortes Generales** para la defensa de los derechos del Título I; supervisa la actividad de la **Administración**, dando cuenta a las Cortes.
 - **Elección:** por las Cortes Generales, mayoría de **3/5** de cada Cámara. Mandato: **5 años** (no coincide con la legislatura: refuerza su independencia).

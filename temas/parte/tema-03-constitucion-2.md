@@ -46,7 +46,7 @@ LA CONSTITUCIÓN (II)
 - Su persona es **inviolable y no está sujeta a responsabilidad**: sus actos deben ser siempre **refrendados** (con las excepciones del art. 65).
 
 ## 1.2. El refrendo (art. 64) ⭐
-<!-- 🎨 SVG · img/t03-esquema-refrendo.svg · esquema del refrendo: quién firma qué (regla general vs Presidente del Congreso) -->
+![esquema del refrendo: quién firma qué (regla general vs Presidente del Congreso)](../../img/t03-esquema-refrendo.png)
 - Refrendan: el **Presidente del Gobierno** y, en su caso, **los ministros competentes**.
 - La **propuesta y el nombramiento del Presidente del Gobierno y la disolución prevista en el art. 99** los refrenda el **Presidente del Congreso**.
 - De los actos del Rey **responden las personas que los refrenden**.
@@ -65,7 +65,7 @@ LA CONSTITUCIÓN (II)
 - Acreditar embajadores (63), manifestar el consentimiento del Estado para obligarse por tratados, y **declarar la guerra y hacer la paz, previa autorización de las Cortes Generales**.
 
 ## 1.4. Sucesión (art. 57)
-<!-- 🎨 SVG · img/t03-arbol-sucesorio.svg · árbol de reglas sucesorias del art. 57 -->
+![árbol de reglas sucesorias del art. 57](../../img/t03-arbol-sucesorio.png)
 - La Corona es **hereditaria en los sucesores de S.M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica**.
 - Orden: **primogenitura y representación**; línea **directa** antes que colateral; dentro de la misma línea, **grado más próximo**; en el mismo grado, **el varón a la mujer** (⚠️ sigue vigente: no se ha reformado); y en el mismo sexo, **la persona de más edad**.
 - El heredero es **Príncipe/Princesa de Asturias**.
@@ -105,7 +105,7 @@ LA CONSTITUCIÓN (II)
 - Electores y elegibles: todos los españoles en pleno uso de sus derechos políticos.
 
 ## 2.3. El Senado (art. 69) — "Cámara de representación territorial"
-<!-- 🎨 SVG · img/t03-mapa-senado.svg · mapa de composición del Senado: 4 provincia · 3-1 islas · 2 Ceuta/Melilla · 1+1/millón CCAA -->
+![mapa de composición del Senado: 4 provincia · 3-1 islas · 2 Ceuta/Melilla · 1+1/millón CCAA](../../img/t03-mapa-senado.png)
 | Origen | Senadores |
 |---|---|
 | Cada **provincia** | **4** |
@@ -129,7 +129,7 @@ LA CONSTITUCIÓN (II)
 - Acuerdos: reunión **reglamentaria** con **mayoría de asistencia** (quórum) y aprobación por **mayoría simple** de los presentes, salvo mayorías especiales.
 
 # 📖 3. LA ELABORACIÓN DE LAS LEYES (arts. 81-92)
-<!-- 🎨 SVG · img/t03-circuito-ley.svg · circuito de una ley: iniciativa → Congreso → Senado (2 meses) → Congreso → sanción real (15 días) → BOE -->
+![circuito de una ley: iniciativa → Congreso → Senado (2 meses) → Congreso → sanción real (15 días) → BOE](../../img/t03-circuito-ley.png)
 
 ## 3.1. Iniciativa legislativa (art. 87)
 - **Gobierno** (proyectos de ley: prioridad en la tramitación), **Congreso** y **Senado** (proposiciones).
@@ -166,7 +166,7 @@ LA CONSTITUCIÓN (II)
 - **Composición (98):** Presidente, **en su caso** Vicepresidentes, Ministros **y los demás miembros que establezca la ley**.
 
 ## 4.2. Investidura del Presidente (art. 99) ⭐
-<!-- 🎨 SVG · img/t03-escalera-investidura.svg · escalera de la investidura del 99: absoluta → 48h → simple → 2 meses → disolución -->
+![escalera de la investidura del 99: absoluta → 48h → simple → 2 meses → disolución](../../img/t03-escalera-investidura.png)
 1. Tras elecciones (u otros supuestos), el **Rey**, previa consulta con los grupos políticos, **propone un candidato a través del Presidente del Congreso**.
 2. El candidato expone su programa y pide la confianza del **Congreso**.
 3. **Primera votación: mayoría absoluta.** Si no la obtiene, **48 horas después**, nueva votación: **mayoría simple**.
@@ -178,7 +178,7 @@ LA CONSTITUCIÓN (II)
 - Responsabilidad **criminal** del Presidente y miembros del Gobierno: exigible ante la **Sala de lo Penal del Tribunal Supremo**. Si la acusación es por **traición o delito contra la seguridad del Estado** en el ejercicio de sus funciones: solo puede plantearse por iniciativa de **1/4 del Congreso y aprobación por mayoría absoluta**. ⚠️ La prerrogativa real de gracia **no es aplicable** a estos supuestos.
 
 ## 4.4. La Administración Pública (art. 103) ⭐
-<!-- 🎨 SVG · img/t03-principios-103.svg · los 5 principios del 103 con la mnemotecnia "Es Justo Darle Dos Cafés" -->
+![los 5 principios del 103 con la mnemotecnia "Es Justo Darle Dos Cafés"](../../img/t03-principios-103.png)
 - Sirve con **objetividad los intereses generales** y actúa de acuerdo con los principios de **eficacia, jerarquía, descentralización, desconcentración y coordinación**, con **sometimiento pleno a la ley y al Derecho**.
 - Mnemotecnia: **"E-J-2D-C"** → *"Es Justo Darle Dos Cafés"*.
 
@@ -188,7 +188,7 @@ LA CONSTITUCIÓN (II)
 
 # 📖 5. RELACIONES GOBIERNO-CORTES: CONFIANZA Y CENSURA ⭐⭐
 📅 **Ha caído:** 2025-2 — cuestión de confianza y moción de censura.
-<!-- 🎨 SVG · img/t03-confianza-vs-censura.svg · cara a cara confianza (112) vs censura constructiva (113): quién, mayoría, plazos -->
+![cara a cara confianza (112) vs censura constructiva (113): quién, mayoría, plazos](../../img/t03-confianza-vs-censura.png)
 
 | | **Cuestión de confianza (112)** | **Moción de censura (113-114)** |
 |---|---|---|
@@ -202,7 +202,7 @@ LA CONSTITUCIÓN (II)
 **Disolución (art. 115):** el Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su exclusiva responsabilidad, puede proponer la disolución de una o ambas Cámaras, decretada por el Rey. ⚠️ **No cabe** mientras esté en trámite una moción de censura, ni nueva disolución antes de que transcurra **1 año** desde la anterior (salvo el caso del 99.5).
 
 # 📖 6. LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO (art. 116 y LO 4/1981) ⭐⭐
-<!-- 🎨 SVG · img/t03-estados-116.svg · panel comparativo de los 3 estados: quién declara, 15-30-30, suspensión de derechos (LA imagen estrella del tema) -->
+![panel comparativo de los 3 estados: quién declara, 15-30-30, suspensión de derechos (LA imagen estrella del tema)](../../img/t03-estados-116.png)
 
 | | **ALARMA** | **EXCEPCIÓN** | **SITIO** |
 |---|---|---|---|
@@ -227,7 +227,7 @@ Reglas comunes (116.5 y 6): **no podrá disolverse el Congreso** mientras estén
 
 # 📖 7. EL PODER JUDICIAL (Título VI, arts. 117-127)
 📅 **Ha caído:** 2025-2 — organización judicial y Ministerio Fiscal.
-<!-- 🎨 SVG · img/t03-cgpj.svg · organigrama del CGPJ: Presidente del TS + 20 vocales (12+8), 5 años -->
+![organigrama del CGPJ: Presidente del TS + 20 vocales (12+8), 5 años](../../img/t03-cgpj.png)
 
 - **Art. 117:** la justicia **emana del pueblo** y se administra **en nombre del Rey** por Jueces y Magistrados **independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley**. Principio de **unidad jurisdiccional**; se **prohíben los Tribunales de excepción**.
 - La justicia es **gratuita** cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos (119). Las actuaciones son **públicas** y las sentencias **motivadas** (120).
@@ -249,7 +249,7 @@ Reglas comunes (116.5 y 6): **no podrá disolverse el Congreso** mientras estén
 
 # 📖 9. EL TRIBUNAL CONSTITUCIONAL (Título IX) ⭐
 📅 **Ha caído:** 2025-2 · 2021 — composición, Presidente y ley reguladora del TC.
-<!-- 🎨 SVG · img/t03-tc-4422.svg · la alineación del TC: 4-4-2-2, 9 años, renovación por tercios -->
+![la alineación del TC: 4-4-2-2, 9 años, renovación por tercios](../../img/t03-tc-4422.png)
 
 - **Composición (159): 12 miembros** nombrados por el Rey: **4 a propuesta del Congreso (3/5)**, **4 del Senado (3/5)**, **2 del Gobierno** y **2 del CGPJ**. Mnemotecnia: **"4-4-2-2, la alineación del Constitucional"**.
 - Entre magistrados, fiscales, profesores de universidad, funcionarios públicos y abogados, todos **juristas de reconocida competencia con más de 15 años** de ejercicio.
@@ -263,7 +263,7 @@ Reglas comunes (116.5 y 6): **no podrá disolverse el Congreso** mientras estén
 
 # 📖 10. LA REFORMA CONSTITUCIONAL (Título X) ⭐
 📅 **Ha caído:** 2022 · 2021 — el referéndum facultativo del 167.
-<!-- 🎨 SVG · img/t03-doble-via-reforma.svg · la doble vía de reforma: 167 (3/5) vs 168 (2/3 + disolución + referéndum obligatorio) y las materias blindadas -->
+![la doble vía de reforma: 167 (3/5) vs 168 (2/3 + disolución + referéndum obligatorio) y las materias blindadas](../../img/t03-doble-via-reforma.png)
 
 - **Iniciativa (166):** la misma que la legislativa (Gobierno, Congreso, Senado, Asambleas de CCAA) — ⚠️ **queda excluida la iniciativa popular**.
 - **Procedimiento ORDINARIO (167):** aprobación por **mayoría de 3/5 de cada Cámara**. Si no hay acuerdo → **Comisión Mixta paritaria** que presenta un texto. Si tampoco → cabe aprobación con **mayoría absoluta del Senado + 2/3 del Congreso**. **Referéndum FACULTATIVO:** si lo solicita **1/10 de los miembros de cualquiera de las Cámaras dentro de los 15 días** siguientes a la aprobación.

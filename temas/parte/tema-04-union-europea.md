@@ -44,7 +44,7 @@ LA UNIÓN EUROPEA
 
 # 📖 1. REFERENCIA HISTÓRICA: DE LA CECA A LISBOA
 📅 **Ha caído:** 2025-2 · 2023 · 2022 — fundadores, países miembros, lema y Nobel de la Paz.
-<!-- 🎨 SVG · img/t04-linea-tiempo-tratados.svg · línea de tiempo 1950-2009: Schuman → CECA → Roma → AUE → Maastricht → Ámsterdam → Niza → Lisboa (LA imagen estrella del tema) -->
+![línea de tiempo 1950-2009: Schuman → CECA → Roma → AUE → Maastricht → Ámsterdam → Niza → Lisboa (LA imagen estrella del tema)](../../img/t04-linea-tiempo-tratados.png)
 
 ## 1.1. El origen
 - **9 de mayo de 1950 — Declaración Schuman:** el ministro francés de Exteriores, Robert Schuman, propone poner la producción francoalemana de carbón y acero bajo una autoridad común. Es la partida de nacimiento de la Europa comunitaria (por eso el 9 de mayo es el **Día de Europa**).
@@ -67,7 +67,7 @@ LA UNIÓN EUROPEA
   - **Iniciativa ciudadana europea:** un millón de firmas de ciudadanos de un número significativo de Estados.
 
 # 📖 2. LAS AMPLIACIONES Y EL BREXIT
-<!-- 🎨 SVG · img/t04-mapa-ampliaciones.svg · mapa de Europa con los países coloreados por oleada de adhesión + Brexit -->
+![mapa de Europa con los países coloreados por oleada de adhesión + Brexit](../../img/t04-mapa-ampliaciones.png)
 
 | Año | Entran | Total |
 |---|---|---|
@@ -106,7 +106,7 @@ LA UNIÓN EUROPEA
 
 # 📖 4. DERECHO ORIGINARIO Y DERIVADO
 📅 **Ha caído:** 2022 — características de los reglamentos europeos.
-<!-- 🎨 SVG · img/t04-actos-juridicos-288.svg · tabla visual del art. 288 TFUE: los 5 actos con sus 3 rasgos clave cada uno en código de color -->
+![tabla visual del art. 288 TFUE: los 5 actos con sus 3 rasgos clave cada uno en código de color](../../img/t04-actos-juridicos-288.png)
 
 ## 4.1. Derecho originario
 Los **Tratados** (TUE, TFUE, tratados de adhesión) y la **Carta de Derechos Fundamentales**. Es la "constitución" de la UE: todo el derecho derivado se subordina a él.
@@ -137,8 +137,8 @@ Los actos jurídicos que las instituciones adoptan para ejercer las competencias
 
 # 📖 5. LAS 7 INSTITUCIONES (art. 13 TUE)
 📅 **Ha caído:** 2022 · 2021 — Presidente del Consejo Europeo, mayorías del Consejo y sede del BCE.
-<!-- 🎨 SVG · img/t04-organigrama-instituciones.svg · las 7 instituciones con su sede, composición y función en una tarjeta cada una -->
-<!-- 🎨 SVG · img/t04-mapa-sedes.svg · mini-mapa con las sedes: Bruselas, Estrasburgo, Luxemburgo, Fráncfort -->
+![las 7 instituciones con su sede, composición y función en una tarjeta cada una](../../img/t04-organigrama-instituciones.png)
+![mini-mapa con las sedes: Bruselas, Estrasburgo, Luxemburgo, Fráncfort](../../img/t04-mapa-sedes.png)
 
 ## 5.1. Parlamento Europeo
 - Representa a **los ciudadanos**; elegido por sufragio universal directo cada **5 años**.
@@ -185,7 +185,7 @@ Se desarrolla en la Parte 4 (§8), junto al TEDH.
 # 🟦 PARTE 4 · LA EUROPA POLICIAL Y SUS TRIBUNALES
 
 # 📖 6. SCHENGEN Y LOS SISTEMAS DE INFORMACIÓN
-<!-- 🎨 SVG · img/t04-mapa-schengen.svg · mapa del espacio Schengen diferenciando UE-Schengen, UE-no-Schengen (Irlanda, Chipre) y no-UE-Schengen (Noruega, Islandia, Suiza, Liechtenstein) -->
+![mapa del espacio Schengen diferenciando UE-Schengen, UE-no-Schengen (Irlanda, Chipre) y no-UE-Schengen (Noruega, Islandia, Suiza, Liechtenstein)](../../img/t04-mapa-schengen.png)
 
 - **Acuerdo de Schengen (1985)** + **Convenio de aplicación (CAAS, 1990)**, aplicándose desde **1995**: supresión de controles en las fronteras interiores y refuerzo de la frontera exterior común.
 - **España** se adhirió en **1991** y lo aplica desde el **26 de marzo de 1995**.
@@ -196,7 +196,7 @@ Se desarrolla en la Parte 4 (§8), junto al TEDH.
   - **Persecución en caliente y vigilancia transfronteriza** (arts. 40-41 CAAS).
 
 # 📖 7. EUROPOL, INTERPOL Y LA COOPERACIÓN POLICIAL
-<!-- 🎨 SVG · img/t04-europol-interpol.svg · tarjeta comparativa Europol vs Interpol: sede, ámbito, miembros, qué puede y qué no puede hacer -->
+![tarjeta comparativa Europol vs Interpol: sede, ámbito, miembros, qué puede y qué no puede hacer](../../img/t04-europol-interpol.png)
 
 ## 7.1. EUROPOL
 - Agencia de la UE para la cooperación policial. Sede: **La Haya** (Países Bajos).
@@ -219,7 +219,7 @@ Se desarrolla en la Parte 4 (§8), junto al TEDH.
 
 # 📖 8. TEDH Y TJUE: LA TRAMPA ESTRELLA ⭐⭐
 📅 **Ha caído:** 2021 — composición del TJUE y número de abogados generales.
-<!-- 🎨 SVG · img/t04-tedh-vs-tjue.svg · cara a cara TEDH vs TJUE: organización, sede, norma que aplican, quién puede acudir (la trampa estrella en una imagen) -->
+![cara a cara TEDH vs TJUE: organización, sede, norma que aplican, quién puede acudir (la trampa estrella en una imagen)](../../img/t04-tedh-vs-tjue.png)
 
 | | **TEDH** | **TJUE** |
 |---|---|---|
