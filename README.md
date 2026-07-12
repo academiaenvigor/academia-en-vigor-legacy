@@ -20,10 +20,11 @@
 ├── vigia-informe.md               ← (lo genera el vigía) informe de cambios
 ├── .github/workflows/
 │   └── vigia-boe.yml              ← tarea programada: lunes 6:00 UTC
+├── docs/
+│   └── parte-y-atestado.md        ← qué es cada versión y cómo estudiar
 ├── temas/
-│   ├── tema-01-el-derecho.md
-│   ├── tema-02-constitucion-1.md
-│   └── tema-03-constitucion-2.md
+│   ├── parte/                     ← 📄 EL PARTE: versión esencial de cada tema
+│   └── atestado/                  ← 📚 EL ATESTADO: versión desarrollada (2ª pasada)
 ├── data/
 │   └── Examen 2025.json    ← preguntas oficiales mapeadas a temas
 └── img/
@@ -33,6 +34,7 @@
 
 ## Convenciones
 
+- **Dos versiones por tema:** 📄 **El Parte** (esencial, al grano) y 📚 **El Atestado** (desarrollo completo). Ver `docs/parte-y-atestado.md`.
 - **Temas:** markdown, divididos en 🟦 PARTES (~1 audio-repaso cada una). Marcadores `<!-- 🎨 SVG · ... -->` señalan las imágenes pendientes de producir.
 - **Imágenes:** SVG, fondo blanco (impresión B/N), azul claro PN `#dbeafe` para lo importante y verde claro GC `#dcfce7` para notas. Nomenclatura `tNN-descripcion.svg` en `img/`.
 - **Exámenes:** un JSON por convocatoria en `data/`, con resúmenes propios de cada pregunta y mapeo a temas. Regla de oro: solo referencias verificadas contra exámenes oficiales.
