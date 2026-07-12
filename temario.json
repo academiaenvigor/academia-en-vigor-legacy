@@ -79,7 +79,7 @@
       "RD207-2024": "RD 207/2024, desarrollo de la estructura orgánica básica del Ministerio del Interior (mod. RD 353/2025 y RD 328/2026)",
       "INT859-2023": "Orden INT/859/2023, estructura orgánica y funciones de los servicios centrales y territoriales de la DGP"
     },
-    "version_datos": "2.6",
+    "version_datos": "2.7",
     "boe_ids": {
       "CE": "BOE-A-1978-31229",
       "CC": "BOE-A-1889-4763",
@@ -149,10 +149,14 @@
     },
     "convencion_imagenes": {
       "carpeta": "img/",
-      "nomenclatura": "tNN-descripcion.svg",
-      "formato": "SVG",
-      "estilo": "Fondo blanco (impresión B/N). Azul claro PN para enunciados importantes, verde claro GC para notas clave. Contraste apto para escala de grises.",
-      "marcador_en_temas": "<!-- 🎨 SVG · img/... · descripción -->"
+      "nomenclatura": "tN-descripcion-con-guiones.png (o .svg)",
+      "formatos": [
+        "PNG (producción externa)",
+        "SVG (gráficos editables de la casa)"
+      ],
+      "estilo": "Fondo BLANCO obligatorio (impresión B/N). Azul claro PN para enunciados importantes, verde claro GC para notas clave.",
+      "marcador_en_temas": "<!-- 🎨 · img/... · descripción --> (se convierte en imagen real al engancharla)",
+      "estado": "Pendiente pasada de enganche: casar PNG subidos con los marcadores de los temas"
     },
     "convencion_examenes": "Nombre por año (lo que ve el alumno). Años con dos promociones: sufijo -1 (primera) y -2 (segunda). La promoción oficial queda en el metadato 'promocion' de cada archivo.",
     "examenes_cargados": [
