@@ -1,42 +1,50 @@
 # TEMA 2 · LA CONSTITUCIÓN ESPAÑOLA (I)
 ### Policía Nacional · Escala Básica · Bloque A: Ciencias Jurídicas
 🛡️ **ACADEMIA EN VIGOR** · *El temario que nunca descansa*
-📄 **Versión EL PARTE** — lo esencial, al grano, para repasar rápido. Su hermana mayor, **EL ATESTADO**, desarrolla este tema a fondo con todo el detalle. [¿Qué es esto?](../../docs/parte-y-atestado.md)
+📄 **Versión EL PARTE** — lo esencial, al grano, para repasar rápido. Su hermana mayor, **EL ATESTADO**, desarrolla el tema con explicaciones, jurisprudencia y supuestos. [¿Qué es esto?](../../docs/parte-y-atestado.md)
+
+> **Revisión normativa:** julio de 2026. Incluye la reforma del art. 69.3 CE publicada el 20 de mayo de 2026.
 
 ---
 
 # 📋 MAPA DEL TEMA
 
-**Qué vas a estudiar:** la norma suprema por dentro. Cómo está construida la CE de 1978, sus valores y principios, el catálogo de derechos y deberes fundamentales (el corazón del tema y de tu futura profesión), sus garantías, cuándo pueden suspenderse, y el Defensor del Pueblo.
+**Qué vas a estudiar:** la Constitución de 1978 por fuera y por dentro: elaboración, estructura, caracteres y reformas; valores superiores y principios constitucionales; derechos y deberes del Título I; sus distintos niveles de garantía; la suspensión de derechos; y el Defensor del Pueblo.
 
-**Peso en el examen:** 3-5 preguntas entre este tema y el 3. La estructura del Título I y las garantías del art. 53 son de las preguntas más repetidas de TODO el examen.
+**Peso orientativo:** tema de importancia alta. La estructura del Título I, los derechos de los arts. 17, 18 y 21, las garantías del art. 53, la suspensión del art. 55 y el Defensor del Pueblo generan preguntas literales y muchas preguntas-trampa.
 
 **Normativa clave:**
-| Norma | Qué regula aquí |
-|---|---|
-| CE 1978 (estructura general) | Partes 1 |
-| CE arts. 1-2 | Valores y principios |
-| CE Título I (arts. 10-55) | Derechos y deberes fundamentales |
-| CE arts. 53-54 | Garantías; Defensor del Pueblo |
-| CE art. 55 | Suspensión de derechos |
-| LO 3/1981 | Defensor del Pueblo |
-| RGPD (UE) 2016/679 y LO 3/2018 | Protección de datos (referencia; se desarrolla en el tema 26) |
 
-**Estructura del tema (3 partes ≈ 3 audios):**
-```
-LA CONSTITUCIÓN (I)
+| Norma | Contenido relevante |
+|---|---|
+| Constitución Española de 1978 | Título Preliminar y Título I, especialmente arts. 1-2, 9, 10-55 |
+| LO 3/1981, de 6 de abril | Defensor del Pueblo |
+| Reglamento de Organización y Funcionamiento del Defensor del Pueblo | Adjuntos, Junta de Coordinación y organización interna |
+| LO 4/1981, de 1 de junio | Estados de alarma, excepción y sitio |
+| LO 6/1984, de 24 de mayo | Procedimiento de *habeas corpus* |
+| LO 11/1995, de 27 de noviembre | Abolición de la pena de muerte en tiempo de guerra |
+| RGPD, LO 3/2018 y LO 7/2021 | Protección de datos y tratamiento policial |
+
+**Estructura del tema:**
+
+```text
+LA CONSTITUCIÓN ESPAÑOLA (I)
 ├── PARTE 1 · La Constitución por fuera
-│   ├── 1. Estructura y caracteres
-│   ├── 2. Los valores de la Constitución
-│   └── 3. Los principios del régimen constitucional
+│   ├── Elaboración, fechas y ponentes
+│   ├── Estructura y caracteres
+│   ├── Reformas constitucionales
+│   └── Título Preliminar: valores y principios
 ├── PARTE 2 · Los derechos, uno a uno
-│   ├── 4. Estructura del Título I
-│   └── 5. Derechos fundamentales y libertades públicas
+│   ├── Estructura del Título I
+│   ├── Españoles y extranjeros
+│   ├── Igualdad y derechos fundamentales
+│   ├── Derechos y deberes de los ciudadanos
+│   └── Principios rectores
 └── PARTE 3 · Escudos y excepciones
-    ├── 6. Las garantías de los derechos (art. 53)
-    ├── 7. La suspensión de derechos (art. 55)
-    ├── 8. Protección de datos y derechos digitales
-    └── 9. El Defensor del Pueblo
+    ├── Garantías del art. 53
+    ├── Suspensión del art. 55
+    ├── Protección de datos
+    └── Defensor del Pueblo
 ```
 
 ---
@@ -44,303 +52,566 @@ LA CONSTITUCIÓN (I)
 
 # 🟦 PARTE 1 · LA CONSTITUCIÓN POR FUERA
 
-# 📖 1. ESTRUCTURA Y CARACTERES DE LA CONSTITUCIÓN DE 1978
+# 📖 1. ELABORACIÓN Y FECHAS ESENCIALES
 
-## 1.1. Datos esenciales (⭐ caen como fechas sueltas)
-![línea de tiempo oct-dic 1978: aprobación → referéndum → sanción → publicación](../../img/t02-linea-tiempo-1978.png)
+![Línea temporal de elaboración de la Constitución de 1978](../../img/t02-linea-tiempo-1978.png)
+
+## 1.1. Los siete ponentes o «padres de la Constitución»
+
+La Comisión Constitucional del Congreso designó una Ponencia de siete diputados encargada de preparar el anteproyecto:
+
+- **Gabriel Cisneros Laborda** — UCD.
+- **Miguel Herrero y Rodríguez de Miñón** — UCD.
+- **José Pedro Pérez-Llorca Rodrigo** — UCD.
+- **Manuel Fraga Iribarne** — Alianza Popular.
+- **Gregorio Peces-Barba Martínez** — PSOE.
+- **Jordi Solé Tura** — PCE-PSUC.
+- **Miquel Roca i Junyent** — Minoría Catalana.
+
+⚠️ **Trampa de examen:** Adolfo Suárez, Santiago Carrillo, Felipe González o Enrique Tierno Galván fueron protagonistas de la Transición, pero no formaron parte de la Ponencia de los siete.
+
+## 1.2. Las cuatro fechas que deben memorizarse
 
 | Hito | Fecha |
 |---|---|
-| Aprobación por las Cortes | 31 de octubre de 1978 |
-| **Referéndum de ratificación** | **6 de diciembre de 1978** |
-| Sanción por el Rey | 27 de diciembre de 1978 |
-| **Publicación en el BOE y entrada en vigor** | **29 de diciembre de 1978** |
+| Aprobación por los Plenos del Congreso y del Senado | **31 de octubre de 1978** |
+| Ratificación en referéndum | **6 de diciembre de 1978** |
+| Sanción y promulgación por el Rey | **27 de diciembre de 1978** |
+| Publicación en el BOE y entrada en vigor | **29 de diciembre de 1978** |
 
-## 1.2. Estructura
-📅 **Ha caído:** 2025-2 · 2023 · 2022 — estructura, elaboración y protagonistas de la CE.
-![plano de la CE: parte dogmática vs orgánica, 169 arts, disposiciones 4-9-1-1](../../img/t02-plano-constitucion.png)
+La disposición final ordena que la Constitución entre en vigor **el mismo día de su publicación** en el BOE.
 
-- **Preámbulo** (sin valor normativo directo, sí interpretativo)
-- **Título Preliminar** (arts. 1-9)
-- **10 Títulos** (del I al X)
-- **169 artículos** en total
-- **4** disposiciones adicionales
-- **9** disposiciones transitorias
-- **1** disposición derogatoria
-- **1** disposición final
-
-Se distingue una **parte dogmática** (Título Preliminar y Título I: valores, principios, derechos) y una **parte orgánica** (Títulos II a X: organización de los poderes del Estado).
-
-⭐ Mnemotecnia de las disposiciones: **"4-9-1-1"** (Adicionales-Transitorias-Derogatoria-Final): *"el teléfono de la Constitución"*.
-
-## 1.3. Caracteres
-
-- **Escrita y codificada** en un texto único.
-- **Extensa:** de las más largas de nuestra historia (169 artículos).
-- **Consensuada:** fruto del acuerdo de las principales fuerzas políticas de la Transición.
-- **Rígida:** su reforma exige procedimientos agravados (arts. 166-169), más exigentes que los de una ley ordinaria.
-- **Derivada:** se inspira en otras constituciones (la alemana, la italiana...).
-- **Monárquica:** forma política = Monarquía parlamentaria.
-- **Normativa:** es norma jurídica directamente aplicable, no un mero programa (así lo garantiza el Tribunal Constitucional).
-
-> 💡 **EN CRISTIANO**
-> La Constitución tiene dos mitades: la dogmática dice *qué* protege el Estado (tus derechos, los valores), y la orgánica dice *quién* manda y cómo se reparte el poder. Y "rígida" no significa que no se pueda cambiar, sino que cambiarla es deliberadamente difícil: no se toca la norma suprema con la misma facilidad que una ley de presupuestos.
+> 💡 **ACLARACIÓN**
+> El 6 de diciembre es el día del referéndum, no el de entrada en vigor. El pueblo la ratifica el día 6; el Rey la sanciona el 27; se publica y empieza a aplicarse el 29.
 
 ---
 
-# 📖 2. LOS VALORES DE LA CONSTITUCIÓN
+# 📖 2. ESTRUCTURA, PARTES Y CARACTERES
 
-**Art. 1.1 CE:** "España se constituye en un **Estado social y democrático de Derecho**, que propugna como **valores superiores** de su ordenamiento jurídico la **libertad, la justicia, la igualdad y el pluralismo político**."
+![Plano general de la Constitución: parte dogmática, parte orgánica y disposiciones](../../img/t02-plano-constitucion.png)
 
-⭐ Son exactamente **cuatro** y en este orden: **L-J-I-P** (*"La Justicia Iguala al Pueblo"*).
+## 2.1. Estructura formal
 
-⚠️ **Trampa clásica:** colar "la dignidad" o "la solidaridad" como valor superior del art. 1.1. La dignidad de la persona está en el **art. 10.1** como fundamento del orden político y de la paz social — no es "valor superior" del 1.1.
+- **Preámbulo**, con valor interpretativo, pero sin artículos.
+- **Título Preliminar**, arts. 1 a 9.
+- **Diez títulos numerados**, del I al X.
+- **169 artículos**.
+- **4 disposiciones adicionales**.
+- **9 disposiciones transitorias**.
+- **1 disposición derogatoria**.
+- **1 disposición final**.
+
+⭐ Mnemotecnia de las disposiciones: **4-9-1-1**: adicionales, transitorias, derogatoria y final.
+
+⚠️ Puede afirmarse que existen **once títulos en sentido amplio** si se cuenta el Título Preliminar, pero la Constitución tiene un Título Preliminar y **diez títulos numerados**.
+
+## 2.2. Contenido de los títulos
+
+| Título | Materia |
+|---|---|
+| Preliminar | Principios básicos del Estado |
+| I | Derechos y deberes fundamentales |
+| II | La Corona |
+| III | Las Cortes Generales |
+| IV | Gobierno y Administración |
+| V | Relaciones entre Gobierno y Cortes |
+| VI | Poder Judicial |
+| VII | Economía y Hacienda |
+| VIII | Organización territorial del Estado |
+| IX | Tribunal Constitucional |
+| X | Reforma constitucional |
+
+La **parte dogmática** comprende el Título Preliminar y el Título I: valores, principios y derechos. La **parte orgánica** comprende esencialmente los Títulos II a X: organización de poderes e instituciones.
+
+## 2.3. Caracteres
+
+- **Escrita y codificada:** reunida en un texto único.
+- **Extensa:** contiene 169 artículos.
+- **Consensuada:** fruto del acuerdo entre fuerzas políticas distintas.
+- **Rígida:** no puede modificarse mediante una ley ordinaria; exige los procedimientos de los arts. 167 o 168.
+- **Normativa:** es una verdadera norma jurídica y vincula a ciudadanos y poderes públicos.
+- **Derivada:** recibe influencias de otros textos constitucionales europeos.
+- **Monárquica y parlamentaria:** la forma política es la Monarquía parlamentaria.
+- **Democrática, social y descentralizada:** combina soberanía popular, intervención social y autonomía territorial.
+
+> 💡 **ACLARACIÓN**
+> «Rígida» no significa intocable. Significa que reformarla resulta más difícil que aprobar una ley. «Normativa» significa que no es una declaración decorativa: obliga y ocupa la cúspide del ordenamiento.
+
+## 2.4. Las cuatro reformas constitucionales
+
+![Línea temporal de las cuatro reformas constitucionales: 1992, 2011, 2024 y 2026](../../img/t02-reformas-constitucionales.png)
+
+| Año | Precepto | Contenido esencial |
+|---|---|---|
+| **1992** | Art. 13.2 | Sufragio **activo y pasivo** de extranjeros en elecciones municipales según reciprocidad |
+| **2011** | Art. 135 | Principio de estabilidad presupuestaria |
+| **2024** | Art. 49 | Nueva regulación constitucional de los derechos de las personas con discapacidad |
+| **2026** | Art. 69.3 | Formentera pasa a elegir un senador propio, separándose electoralmente de Ibiza |
+
+⚠️ **Actualización 2026:** ya no es correcto afirmar que la Constitución solo ha sido reformada tres veces.
 
 ---
 
-# 📖 3. LOS PRINCIPIOS DEL RÉGIMEN CONSTITUCIONAL
-![los 5 pilares del régimen: Derecho · democrático · social · Monarquía parlamentaria · autonomista](../../img/t02-cinco-pilares.png)
+# 📖 3. TÍTULO PRELIMINAR: VALORES Y PRINCIPIOS (arts. 1-9)
 
-## 3.1. Estado de Derecho
-Imperio de la ley: todos los poderes públicos y los ciudadanos están sometidos a la Constitución y al resto del ordenamiento (art. 9.1). División de poderes y garantía de los derechos.
+![Mapa de los artículos 1 a 9 del Título Preliminar](../../img/t02-titulo-preliminar.png)
 
-## 3.2. Estado democrático
-**Art. 1.2:** "La soberanía nacional reside en el **pueblo español**, del que emanan los poderes del Estado." Participación política, sufragio, pluralismo.
+## 3.1. Artículo 1: Estado, soberanía y forma política
 
-## 3.3. Estado social
-Los poderes públicos deben promover las condiciones para que la libertad y la igualdad sean **reales y efectivas** (art. 9.2). No basta con reconocer derechos: hay que remover obstáculos.
+**Art. 1.1:** España se constituye en un **Estado social y democrático de Derecho** que propugna como valores superiores la **libertad, la justicia, la igualdad y el pluralismo político**.
 
-## 3.4. Monarquía parlamentaria
-**Art. 1.3:** "La forma política del Estado español es la Monarquía parlamentaria." El Rey reina pero no gobierna: es Jefe del Estado con funciones tasadas (se desarrolla en el tema 3).
+⭐ Mnemotecnia: **L-J-I-P** — «La Justicia Iguala al Pueblo».
 
-## 3.5. Estado autonomista
-**Art. 2:** la Constitución se fundamenta en la **indisoluble unidad de la Nación española**, y reconoce y garantiza el **derecho a la autonomía de las nacionalidades y regiones** que la integran y la **solidaridad** entre todas ellas.
+⚠️ La dignidad, la seguridad y la solidaridad son conceptos constitucionales importantes, pero **no** forman parte de los cuatro valores superiores del art. 1.1.
 
-> 💡 **EN CRISTIANO**
-> Los cinco principios son las cinco patas de la mesa: la ley manda sobre todos (Derecho), el pueblo es el jefe (democrático), el Estado no se queda mirando ante la desigualdad (social), el Rey preside pero no decide (Monarquía parlamentaria), y España es una pero descentralizada (autonomista). El art. 2 es un equilibrio de tres palabras: **unidad + autonomía + solidaridad**.
+**Art. 1.2:** la soberanía nacional reside en el **pueblo español**, del que emanan los poderes del Estado.
+
+**Art. 1.3:** la forma política del Estado español es la **Monarquía parlamentaria**.
+
+## 3.2. Artículo 2: unidad, autonomía y solidaridad
+
+La Constitución se fundamenta en la **indisoluble unidad de la Nación española**, patria común e indivisible de todos los españoles, y reconoce y garantiza:
+
+- El derecho a la autonomía de las **nacionalidades y regiones**.
+- La **solidaridad** entre todas ellas.
+
+⭐ Fórmula de memoria: **unidad + autonomía + solidaridad**.
+
+## 3.3. Artículos 3 a 8
+
+- **Art. 3 — Lenguas:** el castellano es la lengua española oficial del Estado. Todos los españoles tienen el **deber de conocerla** y el **derecho a usarla**. Las demás lenguas españolas serán también oficiales en sus comunidades de acuerdo con los estatutos.
+- **Art. 4 — Bandera:** tres franjas horizontales roja, amarilla y roja; la amarilla tiene doble anchura. Las banderas autonómicas se utilizan **junto a** la española en edificios públicos y actos oficiales.
+- **Art. 5 — Capital:** la capital del Estado es la **villa de Madrid**.
+- **Art. 6 — Partidos políticos:** expresan el pluralismo político, forman y manifiestan la voluntad popular y son instrumento fundamental de participación. Su estructura y funcionamiento deben ser democráticos.
+- **Art. 7 — Sindicatos y asociaciones empresariales:** defienden y promueven sus intereses económicos y sociales; también deben tener estructura y funcionamiento democráticos.
+- **Art. 8 — Fuerzas Armadas:** Ejército de Tierra, Armada y Ejército del Aire. Garantizan la soberanía e independencia de España, defienden su integridad territorial y el ordenamiento constitucional. Sus bases organizativas se regulan por ley orgánica.
+
+⚠️ **Trampa:** el art. 8 no incluye a las Fuerzas y Cuerpos de Seguridad dentro de las Fuerzas Armadas.
+
+## 3.4. Artículo 9: sujeción, igualdad real y seguridad jurídica
+
+- **Art. 9.1:** ciudadanos y poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
+- **Art. 9.2:** corresponde a los poderes públicos promover la libertad y la igualdad **reales y efectivas**, remover obstáculos y facilitar la participación.
+- **Art. 9.3:** la Constitución garantiza:
+  1. Principio de **legalidad**.
+  2. **Jerarquía normativa**.
+  3. **Publicidad de las normas**.
+  4. **Irretroactividad** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+  5. **Seguridad jurídica**.
+  6. **Responsabilidad**.
+  7. **Interdicción de la arbitrariedad** de los poderes públicos.
+
+⭐ Mnemotecnia: **LE-JE-PU-I-SE-RE-IN**: Legalidad, Jerarquía, Publicidad, Irretroactividad, Seguridad, Responsabilidad, Interdicción.
 
 > 🚔 **EN LA CALLE**
-> El Estado de Derecho no es teoría para ti: es la razón por la que tus actuaciones exigen cobertura legal. Un policía no puede hacer todo lo que no está prohibido (como un ciudadano), sino solo lo que la ley le habilita a hacer. El art. 9.1 es el fundamento último de que cada identificación, cacheo o entrada tenga que apoyarse en una norma.
+> El ciudadano puede hacer lo que la ley no prohíbe; el policía, como poder público, necesita además una habilitación jurídica para actuar. Identificar, detener, cachear o entrar en un domicilio exige una base legal y debe respetar los derechos afectados.
 
 ---
 ---
 
 # 🟦 PARTE 2 · LOS DERECHOS, UNO A UNO
 
-# 📖 4. ESTRUCTURA DEL TÍTULO I (arts. 10-55) ⭐⭐
-![árbol del Título I con niveles de protección por colores (LA imagen estrella del tema)](../../img/t02-arbol-titulo-i.png)
+# 📖 4. ESTRUCTURA DEL TÍTULO I (arts. 10-55)
 
-Dominar este esquema vale varias preguntas de examen. El Título I se llama **"De los derechos y deberes fundamentales"**:
+![Árbol del Título I con capítulos, secciones y niveles de protección](../../img/t02-arbol-titulo-i.png)
 
-```
-TÍTULO I (arts. 10-55)
+```text
+TÍTULO I · DE LOS DERECHOS Y DEBERES FUNDAMENTALES (arts. 10-55)
 │
-├── Art. 10 — Dignidad de la persona (pórtico del Título)
-│
-├── CAPÍTULO I (11-13) — Españoles y extranjeros
-│   (nacionalidad, mayoría de edad a los 18, extranjería, asilo)
-│
-├── CAPÍTULO II — Derechos y libertades
-│   ├── Art. 14 — Igualdad ante la ley
-│   ├── SECCIÓN 1ª (15-29) — «Derechos fundamentales
-│   │    y libertades públicas» ← MÁXIMA PROTECCIÓN
-│   └── SECCIÓN 2ª (30-38) — Derechos y deberes de los ciudadanos
-│
-├── CAPÍTULO III (39-52) — Principios rectores de la política
-│    social y económica (no son derechos directamente exigibles)
-│
-├── CAPÍTULO IV (53-54) — Garantías de las libertades
-│    y derechos fundamentales
-│
-└── CAPÍTULO V (55) — Suspensión de derechos y libertades
+├── Art. 10 · Dignidad e interpretación de los derechos
+├── Capítulo I (11-13) · Españoles y extranjeros
+├── Capítulo II (14-38) · Derechos y libertades
+│   ├── Art. 14 · Igualdad ante la ley
+│   ├── Sección 1.ª (15-29) · Derechos fundamentales y libertades públicas
+│   └── Sección 2.ª (30-38) · Derechos y deberes de los ciudadanos
+├── Capítulo III (39-52) · Principios rectores de la política social y económica
+├── Capítulo IV (53-54) · Garantías y Defensor del Pueblo
+└── Capítulo V (55) · Suspensión de derechos y libertades
 ```
 
-**Art. 10.1:** la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son **fundamento del orden político y de la paz social**.
-**Art. 10.2:** los derechos fundamentales se interpretarán conforme a la **Declaración Universal de Derechos Humanos** y los tratados ratificados por España.
+## 4.1. Artículo 10: pórtico del Título I
+
+Son fundamento del orden político y de la paz social:
+
+- La dignidad de la persona.
+- Los derechos inviolables que le son inherentes.
+- El libre desarrollo de la personalidad.
+- El respeto a la ley y a los derechos de los demás.
+
+Las normas sobre derechos fundamentales se interpretan de conformidad con la **Declaración Universal de Derechos Humanos** y los tratados y acuerdos internacionales ratificados por España.
 
 ---
 
-# 📖 5. DERECHOS FUNDAMENTALES Y LIBERTADES PÚBLICAS (Sección 1ª, arts. 15-29)
-📅 **Ha caído:** 2025-2 · 2022 — derechos concretos del Título I y su ubicación.
+# 📖 5. ESPAÑOLES, EXTRANJEROS E IGUALDAD (arts. 11-14)
 
-Los de máxima protección. Repaso artículo a artículo (⭐ = de los más preguntados):
+- **Art. 11 — Nacionalidad:** se adquiere, conserva y pierde conforme a la ley. Ningún español **de origen** puede ser privado de su nacionalidad. España puede celebrar tratados de doble nacionalidad con países iberoamericanos o especialmente vinculados.
+- **Art. 12 — Mayoría de edad:** los españoles son mayores de edad a los **18 años**.
+- **Art. 13.1 — Extranjeros:** disfrutan de las libertades públicas del Título I en los términos establecidos por tratados y ley.
+- **Art. 13.2 — Participación política:** los derechos del art. 23 corresponden únicamente a españoles, salvo sufragio **activo y pasivo** de extranjeros en elecciones municipales cuando lo permitan tratado o ley atendiendo a reciprocidad.
+- **Art. 13.3 — Extradición:** se concede conforme a tratado o ley y reciprocidad. Se excluyen los delitos políticos; los actos de terrorismo **no** se consideran delitos políticos.
+- **Art. 13.4 — Asilo:** la ley establece cómo ciudadanos de otros países y apátridas pueden disfrutarlo.
+- **Art. 14 — Igualdad:** los españoles son iguales ante la ley, sin discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
-- **Art. 15 ⭐** — Derecho a la **vida** y a la **integridad física y moral**; prohibición de la tortura y de penas o tratos inhumanos o degradantes. **Abolición de la pena de muerte**, "salvo lo que puedan disponer las leyes penales militares para tiempos de guerra" (hoy abolida también en ese ámbito por LO 11/1995).
-- **Art. 16** — Libertad **ideológica, religiosa y de culto**. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias. **Ninguna confesión tendrá carácter estatal** (aconfesionalidad).
-- **Art. 17 ⭐⭐** — Derecho a la **libertad y seguridad**. La **detención preventiva** no podrá durar más del tiempo estrictamente necesario y, **en todo caso, máximo 72 horas**, transcurridas las cuales el detenido debe ser puesto en libertad o a disposición judicial. Derechos del detenido (17.3): información inmediata y comprensible de sus derechos y de las razones de la detención; no obligación de declarar; asistencia de abogado. **Habeas corpus** (17.4).
-![ficha visual art. 17: reloj de 72h + derechos del detenido + habeas corpus](../../img/t02-reloj-detencion.png)
-- **Art. 18 ⭐⭐** — **Honor, intimidad personal y familiar y propia imagen** (18.1). **Inviolabilidad del domicilio** (18.2): ninguna entrada o registro sin **consentimiento del titular, resolución judicial o flagrante delito**. **Secreto de las comunicaciones** (18.3), salvo resolución judicial. Limitación del uso de la informática (18.4) — semilla de la protección de datos.
-![ficha 18.2: las tres llaves del domicilio (COnsentimiento · JUdicial · FLAgrante)](../../img/t02-cojufla.png)
-- **Art. 19** — Libertad de **residencia y circulación** por el territorio nacional; libre entrada y salida de España.
-- **Art. 20** — Libertades de **expresión e información** [literaria, artística, científica y técnica; libertad de cátedra; información veraz]. Prohibida la **censura previa**. El **secuestro de publicaciones** solo por resolución judicial. Límites: los derechos del Título I, especialmente honor, intimidad, propia imagen y **protección de la juventud y de la infancia**.
-- **Art. 21 ⭐** — Derecho de **reunión** pacífica y sin armas: **no necesita autorización previa**. Las reuniones en lugares de tránsito público y manifestaciones requieren **comunicación previa a la autoridad**, que solo podrá prohibirlas cuando existan **razones fundadas de alteración del orden público, con peligro para personas o bienes**.
-![semáforo del derecho de reunión: libre / comunicación previa / prohibición con razones fundadas](../../img/t02-semaforo-reunion.png)
-- **Art. 22** — Derecho de **asociación**. Las asociaciones que persigan fines o utilicen medios **tipificados como delito son ilegales**. Solo podrán ser disueltas o suspendidas por **resolución judicial motivada**. Prohibidas las asociaciones **secretas y las de carácter paramilitar**.
-- **Art. 23** — Participación en asuntos públicos, directamente o por representantes elegidos por **sufragio universal**, y acceso a cargos y funciones públicas. 📅 *2025*
-- **Art. 24 ⭐** — **Tutela judicial efectiva** sin indefensión. Derechos procesales: juez ordinario predeterminado por la ley, defensa y asistencia letrada, ser informado de la acusación, proceso público sin dilaciones indebidas, prueba, no declarar contra sí mismo, no confesarse culpable y **presunción de inocencia**.
-- **Art. 25** — **Principio de legalidad penal** (nadie condenado por acciones que al cometerse no fueran delito). Las penas privativas de libertad estarán orientadas a la **reeducación y reinserción social**. La Administración civil **no podrá imponer sanciones que impliquen privación de libertad**.
-- **Art. 26** — Prohibición de los **Tribunales de Honor** en la Administración civil y organizaciones profesionales.
-- **Art. 27** — Derecho a la **educación** y libertad de enseñanza.
-- **Art. 28** — **Libertad sindical** y derecho de **huelga** (con mantenimiento de servicios esenciales).
-- **Art. 29** — Derecho de **petición** individual y colectiva, por escrito.
+⚠️ **Trampa:** el art. 14 está dentro del Capítulo II, pero **fuera** de sus dos secciones. Tiene amparo, aunque no pertenece a la Sección 1.ª.
 
-**Sección 2ª (30-38), lo esencial:** defensa de España y **objeción de conciencia** (30.2 ⭐, protegida por amparo), deber de tributar (31), matrimonio (32), propiedad privada (33), fundación (34), trabajo (35), colegios profesionales (36), negociación colectiva (37), libertad de empresa (38).
+---
 
-**Capítulo III (39-52), principios rectores:** protección de la familia y la infancia (39), redistribución de la renta y pleno empleo (40), Seguridad Social (41), salud (43), cultura (44), **medio ambiente (45)**, vivienda (47), juventud (48), discapacidad (49), tercera edad (50), consumidores (51). ⚠️ Solo pueden alegarse ante los tribunales **de acuerdo con lo que dispongan las leyes que los desarrollen** (art. 53.3): no son derechos directamente exigibles.
+# 📖 6. DERECHOS FUNDAMENTALES Y LIBERTADES PÚBLICAS (arts. 15-29)
 
-> 💡 **EN CRISTIANO**
-> El Título I es un edificio de tres plantas con distinta seguridad. Planta noble (14-29 + 30.2): alarma, blindaje y escolta — ley orgánica, amparo, máxima protección. Primera planta (resto del Cap. II): puerta blindada — reserva de ley y recurso de inconstitucionalidad. Planta baja (Cap. III, principios rectores): son objetivos que guían al legislador, no derechos que puedas reclamar directamente en un juzgado. Cuando el test pregunte "¿qué protección tiene el derecho X?", primero ubica en qué planta vive.
+## 6.1. Artículos 15 a 19: esfera personal
+
+- **Art. 15 — Vida e integridad:** derecho a la vida y a la integridad física y moral; prohibición de tortura y tratos inhumanos o degradantes. La CE mantiene una excepción referida a leyes penales militares en tiempo de guerra, pero la LO 11/1995 abolió también esa posibilidad.
+- **Art. 16 — Libertad ideológica y religiosa:** de individuos y comunidades; solo puede limitarse, en sus manifestaciones, por el orden público protegido por la ley. Nadie está obligado a declarar sobre ideología, religión o creencias. Ninguna confesión tiene carácter estatal.
+- **Art. 17 — Libertad y seguridad:** la detención preventiva dura el tiempo estrictamente necesario y, en todo caso, un máximo de **72 horas**. El detenido debe ser informado inmediatamente y de modo comprensible, no puede ser obligado a declarar y tiene asistencia letrada. La ley regula el *habeas corpus*.
+
+![Artículo 17: plazo máximo, derechos del detenido y habeas corpus](../../img/t02-reloj-detencion.png)
+
+- **Art. 18.1 — Personalidad:** honor, intimidad personal y familiar y propia imagen.
+- **Art. 18.2 — Domicilio:** ninguna entrada o registro sin consentimiento del titular o resolución judicial, salvo flagrante delito.
+- **Art. 18.3 — Comunicaciones:** secreto de las comunicaciones, salvo resolución judicial.
+- **Art. 18.4 — Informática:** la ley limitará su uso para proteger el honor, la intimidad y el pleno ejercicio de los derechos.
+
+![Las tres llaves de entrada en domicilio: consentimiento, resolución judicial y flagrante delito](../../img/t02-cojufla.png)
+
+⭐ Mnemotecnia: **CO-JU-FLA** — COnsentimiento, resolución JUdicial, FLAgrante delito.
+
+- **Art. 19 — Residencia y circulación:** los españoles pueden elegir residencia, circular por el territorio y entrar y salir libremente de España. No puede limitarse por motivos políticos o ideológicos.
+
+## 6.2. Artículos 20 a 23: libertades públicas y participación
+
+- **Art. 20 — Expresión e información:** protege la expresión de pensamientos, la creación literaria, artística, científica y técnica, la libertad de cátedra y la comunicación o recepción de información veraz. No existe censura previa. El secuestro de publicaciones, grabaciones u otros medios solo puede acordarse por resolución judicial. Sus límites incluyen especialmente honor, intimidad, propia imagen y protección de juventud e infancia.
+- **Art. 21 — Reunión:** pacífica y sin armas, **sin autorización previa**. En lugares de tránsito público y manifestaciones se exige **comunicación previa**. Solo pueden prohibirse por razones fundadas de alteración del orden público con peligro para personas o bienes.
+
+![Derecho de reunión: libre, comunicación previa y prohibición excepcional](../../img/t02-semaforo-reunion.png)
+
+- **Art. 22 — Asociación:** las asociaciones con fines o medios tipificados como delito son ilegales. Deben inscribirse en un registro a efectos de publicidad. Solo pueden disolverse o suspenderse por resolución judicial motivada. Se prohíben las secretas y las paramilitares.
+- **Art. 23 — Participación:** derecho a participar directamente o mediante representantes elegidos periódicamente por sufragio universal y a acceder en igualdad a funciones y cargos públicos.
+
+## 6.3. Artículos 24 a 29: justicia, educación y derechos colectivos
+
+- **Art. 24 — Tutela judicial efectiva:** acceso a jueces y tribunales sin indefensión. Incluye juez ordinario predeterminado, defensa y abogado, información de la acusación, proceso público sin dilaciones indebidas, prueba pertinente, no declarar contra uno mismo, no confesarse culpable y presunción de inocencia.
+- **Art. 25 — Legalidad sancionadora:** nadie puede ser condenado o sancionado por hechos que, al producirse, no constituyeran delito, falta o infracción administrativa según la legislación vigente. Las penas privativas de libertad se orientan a reeducación y reinserción. La Administración civil no puede imponer sanciones que impliquen privación de libertad, ni directa ni subsidiariamente.
+- **Art. 26 — Tribunales de Honor:** prohibidos en la Administración civil y organizaciones profesionales.
+- **Art. 27 — Educación:** derecho a la educación y libertad de enseñanza. La enseñanza básica es obligatoria y gratuita. Los poderes públicos garantizan el derecho mediante programación general y creación de centros.
+- **Art. 28.1 — Libertad sindical:** comprende fundar sindicatos, afiliarse y formar confederaciones. Nadie puede ser obligado a afiliarse. La ley puede limitar o exceptuar su ejercicio en Fuerzas o institutos armados y cuerpos sometidos a disciplina militar, y regular peculiaridades para funcionarios.
+- **Art. 28.2 — Huelga:** derecho de los trabajadores para defender sus intereses, garantizando los servicios esenciales de la comunidad.
+- **Art. 29 — Petición:** individual y colectiva, por escrito. Los miembros de Fuerzas o institutos armados o cuerpos sometidos a disciplina militar solo pueden ejercerlo **individualmente** y conforme a su legislación específica.
 
 > 🚔 **EN LA CALLE**
-> Tu trabajo diario ES el Título I aplicado: el 17 marca tus plazos de detención y la lectura de derechos; el 18.2 te dice cuándo puedes entrar en un domicilio (consentimiento, auto judicial o flagrancia — grábatelo a fuego); el 21 es la base de todo dispositivo de manifestaciones: no piden permiso, comunican — y solo se prohíben con razones fundadas de alteración del orden público con peligro para personas o bienes. Esa frase literal cae en el examen y la aplicarás en la calle.
+> Los arts. 17, 18 y 21 son Derecho constitucional aplicado. El 17 marca límites de la detención; el 18 protege domicilio y comunicaciones; y el 21 recuerda que una manifestación se comunica, no se autoriza.
+
+---
+
+# 📖 7. DERECHOS Y DEBERES DE LOS CIUDADANOS (arts. 30-38)
+
+| Artículo | Contenido esencial y posible trampa |
+|---|---|
+| **30** | Derecho y deber de defender España; obligaciones militares; objeción de conciencia; servicio civil; deberes en grave riesgo, catástrofe o calamidad |
+| **31** | Sistema tributario justo, inspirado en igualdad y progresividad, **sin alcance confiscatorio**; gasto público equitativo, eficiente y económico |
+| **32** | Matrimonio con plena igualdad jurídica; la ley regula formas, edad, capacidad, derechos, separación y disolución |
+| **33** | Propiedad privada y herencia; función social; expropiación por utilidad pública o interés social, con indemnización y conforme a la ley |
+| **34** | Derecho de fundación para fines de interés general; se aplican también límites del art. 22.2 y 22.4 |
+| **35** | Deber y derecho al trabajo, libre elección profesional, promoción y remuneración suficiente, sin discriminación por sexo; Estatuto de los Trabajadores |
+| **36** | La ley regula colegios profesionales y profesiones tituladas; estructura y funcionamiento democráticos |
+| **37** | Negociación colectiva y fuerza vinculante de convenios; medidas de conflicto colectivo, garantizando servicios esenciales |
+| **38** | Libertad de empresa en el marco de la economía de mercado |
+
+⚠️ **Trampa:** propiedad, matrimonio, trabajo y libertad de empresa están en la Sección 2.ª. No tienen recurso de amparo ordinario ante el TC.
+
+---
+
+# 📖 8. PRINCIPIOS RECTORES DE LA POLÍTICA SOCIAL Y ECONÓMICA (arts. 39-52)
+
+| Art. | Principio rector |
+|---|---|
+| 39 | Familia, hijos y madres; protección integral de los hijos con independencia de filiación |
+| 40 | Progreso social y económico, distribución de renta, pleno empleo, formación, seguridad e higiene y descanso laboral |
+| 41 | Régimen público de Seguridad Social; asistencia y prestaciones suficientes, especialmente ante desempleo |
+| 42 | Protección de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientación al retorno |
+| 43 | Protección de la salud; medidas preventivas, prestaciones y servicios; educación física, deporte y ocio |
+| 44 | Acceso a la cultura y promoción de la ciencia e investigación |
+| 45 | Medio ambiente adecuado y deber de conservarlo; sanciones y reparación del daño |
+| 46 | Patrimonio histórico, cultural y artístico |
+| 47 | Vivienda digna y adecuada; regulación del suelo contra la especulación |
+| 48 | Participación libre y eficaz de la juventud |
+| 49 | Libertad e igualdad real de las personas con discapacidad; autonomía, inclusión y accesibilidad universal |
+| 50 | Suficiencia económica y bienestar de las personas durante la tercera edad |
+| 51 | Defensa de consumidores y usuarios |
+| 52 | Organizaciones profesionales de intereses económicos; estructura y funcionamiento democráticos |
+
+La redacción vigente del **art. 49**, reformado en 2024, presta especial atención a la autonomía personal, la inclusión social, la accesibilidad universal y las necesidades específicas de mujeres y menores con discapacidad.
+
+⚠️ Según el art. 53.3, estos principios informan las leyes, la práctica judicial y la actuación de los poderes públicos, pero solo pueden alegarse ante la jurisdicción ordinaria conforme a las leyes que los desarrollen.
 
 ---
 ---
 
 # 🟦 PARTE 3 · ESCUDOS Y EXCEPCIONES
 
-# 📖 6. LAS GARANTÍAS DE LOS DERECHOS (art. 53) ⭐⭐
-![el edificio de 3 plantas de protección del art. 53](../../img/t02-tres-plantas.png)
+# 📖 9. GARANTÍAS DE LOS DERECHOS (art. 53)
 
-Tres niveles de protección según el derecho:
+![Mapa exacto de garantías: Capítulo II, Sección 1.ª, art. 14, art. 30.2 y Capítulo III](../../img/t02-tres-plantas.png)
 
-| Derechos | Garantías |
+No todos los derechos tienen las mismas garantías. Conviene separar los grupos y no mezclarlos:
+
+| Grupo | Garantías |
 |---|---|
-| **Sección 1ª (15-29) + art. 14 + objeción (30.2)** | · Vinculan a todos los poderes públicos · Reserva de **ley orgánica** (81) para su desarrollo · Respeto de su **contenido esencial** · **Procedimiento preferente y sumario** ante tribunales ordinarios · **Recurso de amparo** ante el TC (para 14-29 y 30.2) · Reforma agravada del art. 168 |
-| **Resto Capítulo II (30-38)** | · Vinculan a los poderes públicos · Reserva de **ley** (respeto del contenido esencial) · Recurso de **inconstitucionalidad** |
-| **Capítulo III (39-52)** | · Informan la legislación, la práctica judicial y la actuación de los poderes públicos · Solo alegables según las leyes que los desarrollen |
+| **Todo el Capítulo II (arts. 14-38)** | Vincula a todos los poderes públicos. Solo por ley puede regularse su ejercicio, respetando el contenido esencial. Las leyes que los vulneren pueden someterse a control de constitucionalidad |
+| **Sección 1.ª (arts. 15-29)** | Además, su desarrollo requiere ley orgánica y su reforma constitucional está protegida por el procedimiento agravado del art. 168 |
+| **Art. 14 + Sección 1.ª (15-29)** | Procedimiento ante tribunales ordinarios basado en preferencia y sumariedad y, en su caso, recurso de amparo ante el TC |
+| **Objeción de conciencia del art. 30.2** | Recurso de amparo. El art. 53.2 no le atribuye expresamente el procedimiento preferente y sumario |
+| **Capítulo III (39-52)** | Informa legislación, práctica judicial y actuación pública; solo es alegable según las leyes de desarrollo |
 
-⚠️ **Matiz de examen:** el amparo protege los arts. **14 a 29 más la objeción de conciencia del 30.2**. Ni el 13 ni el 33 ni el 38 tienen amparo.
+⚠️ **Triple trampa del artículo 53:**
 
-# 📖 7. LA SUSPENSIÓN DE DERECHOS (art. 55)
-![panel 55.1 (colectiva) vs 55.2 (individual antiterrorista) con los artículos afectados](../../img/t02-suspension-55.png)
+1. El art. 14 tiene amparo, pero no está en la Sección 1.ª.
+2. El art. 30.2 tiene amparo, pero no por ello se convierte en derecho de la Sección 1.ª.
+3. La reforma agravada del art. 168 protege los arts. 15-29, no el art. 14 ni el 30.2.
 
-## 7.1. Suspensión general (55.1) — estados de excepción y de sitio
-Podrán suspenderse: **17** (libertad; en excepción NO se suspende el 17.3 — derechos del detenido—, solo en sitio), **18.2 y 18.3** (domicilio y comunicaciones), **19** (circulación), **20.1.a) y d) y 20.5** (expresión e información, secuestro de publicaciones), **21** (reunión), **28.2** (huelga) y **37.2** (medidas de conflicto colectivo).
-⚠️ En el estado de **alarma NO se suspenden derechos** (pueden limitarse, no suspenderse).
-
-## 7.2. Suspensión individual (55.2)
-Una **ley orgánica** puede determinar la forma y los casos en que, **de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario**, pueden suspenderse los derechos del **17.2** (plazo de detención), **18.2** y **18.3** para personas relacionadas con **investigaciones sobre bandas armadas o elementos terroristas**. La utilización injustificada o abusiva genera **responsabilidad penal**.
-
-> 💡 **EN CRISTIANO**
-> El 55.1 es el botón de emergencia colectivo (solo en excepción y sitio, nunca en alarma); el 55.2 es el bisturí individual antiterrorista: permite, con juez y Parlamento vigilando, alargar la detención e intervenir domicilio y comunicaciones de sospechosos concretos de terrorismo. Tres números para el test: 17.2, 18.2 y 18.3.
-
-> 🚔 **EN LA CALLE**
-> El 55.2 se traduce hoy en la LECrim: la detención por terrorismo puede prorrogarse **48 horas más** sobre las 72 (hasta 120 horas en total) con autorización judicial, y cabe la incomunicación. Cuando estudies el tema 21 de procesal, esta pieza encajará sola.
-
-# 📖 8. PROTECCIÓN DE DATOS Y DERECHOS DIGITALES
-
-Del art. 18.4 CE ("la ley limitará el uso de la informática...") derivan:
-- **Normativa comunitaria:** Reglamento (UE) 2016/679, **RGPD** — aplicable desde el 25 de mayo de 2018.
-- **Normativa nacional:** **LO 3/2018**, de Protección de Datos Personales y **garantía de los derechos digitales**; y **LO 7/2021** para el ámbito penal-policial.
-- El TC ha reconocido la protección de datos como **derecho fundamental autónomo** (STC 292/2000): el *habeas data*.
-
-(Desarrollo completo en el **tema 26**; aquí basta con ubicar el fundamento constitucional y las normas.)
-
-# 📖 9. EL DEFENSOR DEL PUEBLO (art. 54 y LO 3/1981)
-📅 **Ha caído:** 2023 · 2021 — el Defensor del Pueblo y su ley orgánica.
-![ficha del Defensor del Pueblo: 3/5 · 5 años · 2 adjuntos y sus legitimaciones](../../img/t02-defensor-352.png)
-
-- **Alto comisionado de las Cortes Generales** para la defensa de los derechos del Título I; supervisa la actividad de la **Administración**, dando cuenta a las Cortes.
-- **Elección:** por las Cortes Generales, mayoría de **3/5** de cada Cámara. Mandato: **5 años** (no coincide con la legislatura: refuerza su independencia).
-- Auxiliado por **dos Adjuntos**.
-- Goza de **inviolabilidad e inmunidad** en el ejercicio de su cargo.
-- ⭐ Está **legitimado para interponer recurso de inconstitucionalidad y recurso de amparo** (arts. 162 CE) y para instar el procedimiento de *habeas corpus*.
-- Puede actuar **de oficio o a instancia de parte**; toda persona natural o jurídica que invoque un interés legítimo puede dirigirse a él, **sin restricción alguna**, incluso los internos en centros penitenciarios.
-- Presenta un **informe anual** a las Cortes.
-
-> 💡 **EN CRISTIANO**
-> Es el "abogado gratuito del ciudadano frente a la Administración": no dicta sentencias ni anula actos, pero investiga, recomienda, publica y puede llevar leyes al Constitucional. Sus tres números de examen: **3/5, 5 años, 2 adjuntos**.
+⭐ Fórmula de examen: **amparo = 14 a 29 + objeción del 30.2**.
 
 ---
 
-# 🎯 LO QUE CAE
-## 📅 Así lo preguntaron
-**8 preguntas en los exámenes oficiales cargados (promociones 37-42, convocatorias 2021-2025)**:
-- **2025-2:** Tipo de sufragio en el derecho de participación (art. 23 CE); Composición de la Constitución Española (títulos, artículos y disposiciones).
-- **2023:** Persona que NO fue uno de los 'padres de la Constitución'; Plazo máximo para presentar una queja ante el Defensor del Pueblo (un año).
-- **2022:** Ubicación del derecho a la propiedad y la herencia en la CE (derechos y deberes de los ciudadanos, art. 33); Quién aprueba y ratifica la CE según el Preámbulo (las Cortes aprueban, el pueblo ratifica).
-- **2021:** Número de miembros de la Junta de Coordinación del Defensor del Pueblo (cuatro); Artículo de la CE sobre la seguridad pública como competencia exclusiva (art. 149.1.29).
+# 📖 10. SUSPENSIÓN DE DERECHOS (art. 55)
 
-<!-- 📅 pendiente: sumar el examen de la pareja 2024/2025-1 cuando se confirme su etiqueta -->
+![Suspensión general del art. 55.1 e individual del art. 55.2](../../img/t02-suspension-55.png)
 
-## Puntos calientes
-1. Fechas de la CE: referéndum **6-D**, publicación y vigencia **29-D** de 1978.
-2. Estructura: preámbulo + título preliminar + 10 títulos + **169 artículos** + disposiciones **4-9-1-1**.
-3. Valores superiores (art. 1.1): **libertad, justicia, igualdad, pluralismo político** — solo esos cuatro.
-4. Esquema del Título I: capítulos, secciones y qué artículo abre y cierra cada uno.
-5. Art. 17: **72 horas** máximo de detención preventiva; derechos del detenido; habeas corpus.
-6. Art. 18.2: **consentimiento, resolución judicial o flagrante delito.**
-7. Art. 21: reunión **sin autorización previa**; comunicación previa para lugares de tránsito público.
-8. Garantías art. 53: amparo = **14-29 + 30.2**.
-9. Suspensión 55.1 (nunca en alarma) y 55.2 (17.2, 18.2, 18.3 — terrorismo).
-10. Defensor del Pueblo: **3/5 de cada Cámara, 5 años, 2 adjuntos**, legitimado para inconstitucionalidad y amparo.
+## 10.1. Suspensión general o colectiva: excepción y sitio
 
-## Trampas del tribunal
-- ⚠️ "La CE entró en vigor el 6 de diciembre" → NO: ese fue el referéndum; vigencia el **29**.
-- ⚠️ Colar "dignidad" (art. 10) o "solidaridad" como valor superior del 1.1.
-- ⚠️ "El derecho de reunión requiere autorización previa" → NO: **comunicación** (y solo para tránsito público).
-- ⚠️ Incluir el art. 33 (propiedad) o el 38 (empresa) entre los protegidos por amparo.
-- ⚠️ "En el estado de alarma se suspenden derechos" → NO: solo limitación.
-- ⚠️ Defensor del Pueblo elegido "por el Congreso" → NO: por **las Cortes Generales** (ambas Cámaras, 3/5 cada una).
+Pueden suspenderse:
 
-## Mnemotecnias
-- Valores del 1.1: **"La Justicia Iguala al Pueblo"** (Libertad, Justicia, Igualdad, Pluralismo).
-- Disposiciones: **4-9-1-1**, "el teléfono de la Constitución".
-- Entrada en domicilio (18.2): **"CO-JU-FLA"** → COnsentimiento, resolución JUdicial, FLAgrante delito.
-- Suspensión individual 55.2: **"17-18-18"** (17.2, 18.2, 18.3).
-- Defensor: **"3/5 · 5 · 2"** (elección, años, adjuntos).
+- **Art. 17:** libertad y seguridad. En estado de excepción no se suspende el art. 17.3; en estado de sitio sí podría suspenderse.
+- **Arts. 18.2 y 18.3:** domicilio y comunicaciones.
+- **Art. 19:** residencia y circulación.
+- **Arts. 20.1.a), 20.1.d) y 20.5:** expresión, información y secuestro judicial de publicaciones.
+- **Art. 21:** reunión.
+- **Art. 28.2:** huelga.
+- **Art. 37.2:** conflicto colectivo.
 
-## Mini-test (10 preguntas)
+⚠️ En el estado de **alarma no se suspenden derechos**. Pueden establecerse limitaciones en los términos de la ley, pero suspensión y limitación no son sinónimos.
 
-1. La Constitución Española fue ratificada en referéndum el:
-   a) 31 de octubre de 1978   b) 6 de diciembre de 1978 ✅   c) 27 de diciembre de 1978   d) 29 de diciembre de 1978
+## 10.2. Suspensión individual: investigaciones de terrorismo
 
-2. Los valores superiores del ordenamiento jurídico (art. 1.1 CE) son:
-   a) Libertad, justicia, igualdad y solidaridad
-   b) Libertad, justicia, igualdad y pluralismo político ✅
-   c) Libertad, dignidad, igualdad y pluralismo político
-   d) Justicia, seguridad, igualdad y pluralismo político
+Una ley orgánica puede determinar cómo se suspenden individualmente:
 
-3. La duración máxima de la detención preventiva es, en todo caso:
-   a) 24 horas   b) 48 horas   c) 72 horas ✅   d) 120 horas
+- **Art. 17.2:** plazo máximo de detención.
+- **Art. 18.2:** inviolabilidad domiciliaria.
+- **Art. 18.3:** secreto de las comunicaciones.
 
-4. La entrada en un domicilio SIN consentimiento del titular exige:
-   a) Siempre resolución judicial
-   b) Resolución judicial o flagrante delito ✅
-   c) Autorización del Delegado del Gobierno
-   d) Solo orden del Ministerio Fiscal
+Se exige intervención judicial, control parlamentario y relación con investigaciones sobre bandas armadas o elementos terroristas. La utilización injustificada o abusiva produce responsabilidad penal.
 
-5. El derecho de reunión en lugares de tránsito público exige:
-   a) Autorización previa de la autoridad
-   b) Comunicación previa a la autoridad ✅
-   c) Autorización judicial
-   d) Nada: es libre en todo caso
+⭐ Mnemotecnia: **17-18-18**: 17.2, 18.2 y 18.3.
 
-6. El recurso de amparo protege los derechos de los artículos:
-   a) 14 a 38   b) 15 a 29   c) 14 a 29 más la objeción de conciencia del 30.2 ✅   d) 10 a 55
-
-7. En el estado de alarma:
-   a) Se suspenden los derechos del art. 55.1
-   b) No se suspenden derechos, aunque pueden limitarse ✅
-   c) Se suspende únicamente el derecho de huelga
-   d) Se suspende el art. 17.3
-
-8. La suspensión individual del art. 55.2 afecta a los artículos:
-   a) 17.2, 18.2 y 18.3 ✅   b) 17, 18 y 19   c) 15, 16 y 17   d) 18.2, 18.3 y 21
-
-9. El Defensor del Pueblo es elegido por:
-   a) El Congreso por mayoría absoluta
-   b) El Gobierno
-   c) Las Cortes Generales, por mayoría de 3/5 de cada Cámara ✅
-   d) El Consejo General del Poder Judicial
-
-10. Los principios rectores del Capítulo III del Título I:
-    a) Son directamente exigibles ante cualquier tribunal
-    b) Están protegidos por recurso de amparo
-    c) Solo pueden alegarse conforme a las leyes que los desarrollen ✅
-    d) Vinculan solo al poder judicial
+> 💡 **ACLARACIÓN**
+> El art. 55.1 es el mecanismo colectivo para excepción y sitio. El art. 55.2 es una medida individual, delimitada y sometida a juez y Parlamento. En materia procesal, la LECrim permite solicitar para terrorismo una prórroga de hasta 48 horas sobre el máximo ordinario de 72.
 
 ---
 
-*Tema 2 · v1.0 · 3 partes dimensionadas para audio-repasos. Pendiente de revisión final por el autor contra el texto consolidado de la CE y la LO 3/1981.*
+# 📖 11. PROTECCIÓN DE DATOS Y DERECHOS DIGITALES
+
+El art. 18.4 CE ordena limitar por ley el uso de la informática para garantizar honor, intimidad y pleno ejercicio de los derechos. De él deriva el derecho fundamental autónomo a la protección de datos o poder de control sobre la información personal.
+
+- **RGPD:** Reglamento (UE) 2016/679, aplicable desde el 25 de mayo de 2018.
+- **LO 3/2018:** protección de datos personales y garantía de derechos digitales.
+- **LO 7/2021:** tratamientos de datos para prevención, detección, investigación y enjuiciamiento de infracciones penales y ejecución de sanciones.
+
+Este apartado sirve de enlace; su desarrollo completo corresponde al tema específico de protección de datos.
+
+---
+
+# 📖 12. EL DEFENSOR DEL PUEBLO (art. 54 CE y LO 3/1981)
+
+![Defensor del Pueblo: elección, mandato, adjuntos, quejas y legitimación](../../img/t02-defensor-352.png)
+
+## 12.1. Naturaleza, elección y mandato
+
+- Es el **alto comisionado de las Cortes Generales** para defender los derechos del Título I.
+- Supervisa la actividad de la Administración y da cuenta a las Cortes.
+- Puede ser elegido cualquier **español mayor de edad** en pleno disfrute de sus derechos civiles y políticos.
+- Mandato de **cinco años**.
+- No está sujeto a mandato imperativo, no recibe instrucciones y actúa con autonomía.
+
+**Procedimiento ordinario de elección:**
+
+1. La Comisión Mixta Congreso-Senado propone candidato o candidatos por mayoría simple.
+2. El Congreso lo elige por **3/5**.
+3. El Senado debe ratificarlo, dentro de los veinte días siguientes, también por **3/5**.
+
+**Si no se alcanzan las mayorías:** se formulan nuevas propuestas dentro del plazo máximo de un mes. Conseguido el 3/5 del Congreso, basta **mayoría absoluta del Senado**.
+
+⚠️ Por tanto, «siempre 3/5 de cada Cámara» es una respuesta incompleta.
+
+## 12.2. Adjuntos, prerrogativas e incompatibilidades
+
+- Está auxiliado por un **Adjunto Primero** y un **Adjunto Segundo**, que lo sustituyen por ese orden.
+- Los nombra y separa el Defensor, previa conformidad de las Cámaras.
+- Goza de inviolabilidad por opiniones y actos propios del cargo.
+- En otros casos solo puede ser detenido en flagrante delito; la Sala de lo Penal del Tribunal Supremo es competente para inculpación, prisión, procesamiento y juicio.
+- El cargo es incompatible con mandato representativo, cargo o propaganda política, servicio activo en una Administración, afiliación a partido, funciones directivas sindicales o asociativas, carreras judicial y fiscal y cualquier actividad profesional, mercantil o laboral.
+
+## 12.3. Cese
+
+Cesa por:
+
+1. Renuncia.
+2. Expiración del mandato.
+3. Muerte o incapacidad sobrevenida.
+4. Notoria negligencia en sus obligaciones.
+5. Condena firme por delito doloso.
+
+## 12.4. Presentación y tramitación de quejas
+
+- Puede actuar **de oficio o a instancia de parte**.
+- Puede dirigirse cualquier persona natural o jurídica con interés legítimo, sin impedimento por nacionalidad, residencia, sexo, minoría de edad, incapacidad o internamiento.
+- La queja debe presentarse firmada, con nombre, apellidos y domicilio, mediante escrito razonado en papel común.
+- Plazo máximo: **un año** desde que se conocen los hechos.
+- Actuación gratuita; no se exige abogado ni procurador.
+- Rechaza las quejas anónimas y puede rechazar mala fe, falta de fundamento, inexistencia de pretensión o perjuicio a tercero.
+- No examina individualmente asuntos pendientes de resolución judicial y suspende la actuación si se interpone demanda o recurso.
+- Admitida la queja, solicita informe a la Administración, ordinariamente en **quince días**, ampliables.
+
+## 12.5. Facultades y límites
+
+- Todas las autoridades, funcionarios y organismos públicos deben auxiliarlo con carácter preferente y urgente.
+- Puede formular advertencias, recomendaciones, recordatorios de deberes legales y sugerencias.
+- **No dicta sentencias ni anula actos administrativos.** Su fuerza es supervisora, institucional y pública.
+- Está legitimado para interponer **recurso de inconstitucionalidad** y **recurso de amparo**.
+- Puede instar el procedimiento de *habeas corpus*.
+- Presenta informe anual a las Cortes y puede presentar informes extraordinarios.
+- Ejerce las funciones de **Mecanismo Nacional de Prevención de la Tortura**.
+
+## 12.6. Junta de Coordinación y Régimen Interior
+
+Está integrada por **cuatro miembros**:
+
+1. Defensor del Pueblo.
+2. Adjunto Primero.
+3. Adjunto Segundo.
+4. Secretario General, que actúa como secretario con voz y sin voto.
+
+⭐ Mnemotecnia global: **3/5 · 5 · 2 · 1 · 15**: elección inicial, años de mandato, adjuntos, año para reclamar y días para el informe administrativo.
+
+> 💡 **ACLARACIÓN**
+> El Defensor no es un juez ni un abogado particular. Investiga a la Administración, recomienda correcciones, hace públicas las deficiencias y puede acudir al Tribunal Constitucional. No puede borrar por sí mismo una multa o anular una resolución.
+
+---
+
+# 🎯 LO QUE MÁS DEBES REPASAR
+
+1. Fechas: **31-O, 6-D, 27-D y 29-D de 1978**.
+2. Estructura: 169 artículos y disposiciones **4-9-1-1**.
+3. Cuatro reformas: 1992, 2011, 2024 y **2026**.
+4. Valores superiores: libertad, justicia, igualdad y pluralismo político.
+5. Art. 9.3: siete garantías constitucionales.
+6. Estructura exacta del Título I.
+7. Art. 17: tiempo imprescindible y máximo de 72 horas.
+8. Art. 18.2: consentimiento, resolución judicial o flagrancia.
+9. Art. 21: comunicación, no autorización.
+10. Garantías: **14-29 + 30.2** para amparo, con los matices explicados.
+11. Suspensión general e individual del art. 55.
+12. Defensor: elección ordinaria y subsidiaria, mandato, adjuntos, quejas y recursos.
+
+## Trampas frecuentes
+
+- El referéndum no coincide con la entrada en vigor.
+- Dignidad y solidaridad no son valores superiores del art. 1.1.
+- El art. 14 no pertenece a la Sección 1.ª.
+- La objeción de conciencia tiene amparo, pero no todas las demás garantías de la Sección 1.ª.
+- Una manifestación se comunica; no se pide autorización.
+- Las asociaciones paramilitares están prohibidas; las asociaciones con fines delictivos son ilegales.
+- En alarma no se suspenden derechos.
+- El Defensor no siempre necesita 3/5 del Senado: en el procedimiento subsidiario basta mayoría absoluta.
+- La queja al Defensor no puede ser anónima y tiene plazo de un año.
+- Desde mayo de 2026 existen cuatro reformas constitucionales.
+
+---
+
+# 🧪 MINI-TEST DE REPASO
+
+**1. La cuarta reforma de la Constitución Española, publicada en 2026, afectó al:**
+
+- a) Artículo 49.
+- b) Artículo 69.3.
+- c) Artículo 135.
+
+**2. ¿Cuál de los siguientes NO figura expresamente entre las garantías del artículo 9.3 CE?**
+
+- a) Publicidad de las normas.
+- b) Interdicción de la arbitrariedad.
+- c) Proporcionalidad de las sanciones.
+
+**3. El procedimiento judicial basado en preferencia y sumariedad protege expresamente:**
+
+- a) El artículo 14 y los derechos de los artículos 15 a 29.
+- b) Todos los derechos de los artículos 14 a 38.
+- c) Únicamente los artículos 15 a 29 y 30.2.
+
+**4. La objeción de conciencia del artículo 30.2:**
+
+- a) Está incluida dentro de la Sección 1.ª.
+- b) Está protegida por el procedimiento agravado del artículo 168.
+- c) Puede ser objeto de recurso de amparo.
+
+**5. Una manifestación en un lugar de tránsito público:**
+
+- a) Requiere autorización previa.
+- b) Requiere comunicación previa.
+- c) No exige comunicación ni autorización.
+
+**6. Durante el estado de alarma:**
+
+- a) Los derechos pueden limitarse en los términos legales, pero no suspenderse.
+- b) Se suspenden los derechos enumerados en el artículo 55.1.
+- c) Solo puede suspenderse el derecho de circulación.
+
+**7. Si fracasa la elección inicial del Defensor y se presentan nuevas propuestas, alcanzados los 3/5 del Congreso será suficiente en el Senado:**
+
+- a) Mayoría simple.
+- b) Tres quintos.
+- c) Mayoría absoluta.
+
+**8. El plazo máximo para presentar una queja ante el Defensor del Pueblo es:**
+
+- a) Seis meses desde que sucedieron los hechos.
+- b) Un año desde que se tuvo conocimiento de los hechos.
+- c) Dos años desde la resolución administrativa.
+
+**9. Según el artículo 22 CE:**
+
+- a) Las asociaciones secretas y paramilitares están prohibidas.
+- b) Toda asociación necesita autorización previa.
+- c) La Administración puede disolver asociaciones mediante resolución motivada.
+
+**10. Los miembros de cuerpos sometidos a disciplina militar ejercen el derecho de petición:**
+
+- a) Individual o colectivamente, sin limitaciones.
+- b) Colectivamente y mediante sus mandos.
+- c) Solo individualmente y conforme a su legislación específica.
+
+## Soluciones razonadas
+
+1. **b)** La reforma de 2026 modificó el art. 69.3 para que Formentera elija senador propio.
+2. **c)** La proporcionalidad no aparece expresamente en la enumeración del art. 9.3.
+3. **a)** Art. 14 y Sección 1.ª, es decir, arts. 15-29.
+4. **c)** El art. 53.2 extiende el amparo a la objeción de conciencia.
+5. **b)** No hay autorización previa; sí comunicación en tránsito público y manifestaciones.
+6. **a)** El art. 55 reserva la suspensión general para excepción y sitio.
+7. **c)** En el procedimiento subsidiario basta mayoría absoluta del Senado.
+8. **b)** Un año desde el conocimiento de los hechos.
+9. **a)** Solo una resolución judicial motivada puede acordar suspensión o disolución.
+10. **c)** Art. 29.2 CE.
+
+---
+
+# 📚 FUENTES NORMATIVAS DE CONTROL
+
+- [Constitución Española — texto consolidado del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)
+- [Reforma del art. 69.3 CE de 19 de mayo de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881)
+- [Ley Orgánica 3/1981, del Defensor del Pueblo](https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325)
+- [Reglamento de Organización y Funcionamiento del Defensor del Pueblo](https://www.boe.es/buscar/act.php?id=BOE-A-1983-10613)
+- [Ley Orgánica 4/1981, de los estados de alarma, excepción y sitio](https://www.boe.es/buscar/act.php?id=BOE-A-1981-12774)
+- [Ley Orgánica 6/1984, reguladora del procedimiento de habeas corpus](https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620)
+
+---
+
+*Tema 2 · EL PARTE · v1.1 · Revisión normativa de julio de 2026 · 3 partes dimensionadas para audio-repaso.*
