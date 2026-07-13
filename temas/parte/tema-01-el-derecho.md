@@ -62,7 +62,7 @@ La palabra "Derecho" se usa en varios sentidos que el examen puede distinguir:
 
 **Derecho público / Derecho privado:** el público regula las relaciones en las que interviene el Estado con potestad de imperio (penal, administrativo, procesal); el privado regula relaciones entre particulares en plano de igualdad (civil, mercantil).
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > Piensa en el Derecho como las reglas del juego de la sociedad. "Derecho objetivo" es el reglamento completo; "derecho subjetivo" es cada carta que tú puedes jugar gracias a ese reglamento. El "positivo" es el reglamento oficial publicado hoy en el BOE; el "natural" es la idea de que hay cosas que estarían mal aunque ninguna ley lo dijera.
 
 ---
@@ -100,7 +100,7 @@ Toda norma jurídica completa tiene dos elementos:
 | Por su duración | Permanentes / Temporales |
 | Por su relación con otras | Comunes / Especiales |
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > Una norma es un "si pasa A, entonces B". Lo que la hace *jurídica* y no un simple consejo es que detrás hay un Estado que puede obligarte a cumplirla. "Imperativa" = innegociable (la edad penal); "dispositiva" = plan B por si no pactaste nada (muchas normas de contratos).
 
 > 🚔 **EN LA CALLE**
@@ -146,7 +146,7 @@ Toda norma jurídica completa tiene dos elementos:
 - **Norma especial prevalece sobre la general** en su materia.
 - **Irretroactividad** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales (art. 9.3 CE).
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > Es un escalafón, como el policial: un reglamento no puede llevar la contraria a una ley, igual que una orden de un mando intermedio no puede contradecir la de un superior. Y ojo al matiz estrella: ley orgánica y ordinaria no son jefa y subordinada, son compañeras con destinos distintos — cada una tiene sus materias reservadas.
 
 > 🚔 **EN LA CALLE**
@@ -190,7 +190,7 @@ El concebido no nacido (*nasciturus*) no es persona, pero se le protege: se le t
 
 ⭐ **Reforma clave — Ley 8/2021:** desapareció la "incapacitación" judicial. Las personas con discapacidad **tienen plena capacidad jurídica en igualdad de condiciones**; lo que se establecen son **medidas de apoyo** (guarda de hecho, curatela, defensor judicial) para el ejercicio de esa capacidad. La antigua "patria potestad prorrogada" y la tutela de mayores desaparecieron. Si el test habla de "incapacitar" a un mayor de edad, sospecha: terminología derogada.
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > Capacidad jurídica = *tener* derechos (la tiene un bebé de un día). Capacidad de obrar = poder *usarlos* tú solo (el bebé es dueño de lo que herede, pero no puede venderlo). Y desde 2021 la ley ya no "incapacita" a nadie: a quien necesita ayuda para decidir se le ponen apoyos, no se le quita la capacidad.
 
 > 🚔 **EN LA CALLE**
@@ -261,7 +261,7 @@ El mayor de 14 años debe: **jurar o prometer fidelidad al Rey y obediencia a la
 ## 5.4. RECUPERACIÓN (art. 26)
 Requisitos: ser **residente legal en España** (dispensable para emigrantes e hijos de emigrantes, o por circunstancias excepcionales), declarar la voluntad de recuperarla ante el Registro Civil e inscribirla.
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > La nacionalidad se consigue por cuatro puertas: **cuna** (hijo de español o supuestos de nacimiento en España), **elección** (opción, para quien tiene vínculo directo), **regalo** (carta de naturaleza, el Gobierno decide), o **tiempo viviendo aquí** (residencia). Los plazos 10-5-2-1 son LA pregunta de examen: memoriza "el general 10, refugiado 5, hermanos históricos 2, vínculo directo 1". Y los "hermanos históricos" (iberoamericanos, Andorra, Filipinas, Guinea, Portugal, sefardíes) tienen doble ventaja: 2 años y sin renunciar a su nacionalidad.
 
 > 🚔 **EN LA CALLE**
@@ -299,7 +299,7 @@ Determina la sujeción al **Derecho civil común o al foral/especial** (art. 14 
 - El matrimonio **no altera** la vecindad civil (aunque cualquiera de los cónyuges puede optar por la del otro).
 - El extranjero que adquiere la nacionalidad española debe optar por una vecindad al inscribirse (la del lugar de residencia, la del nacimiento, la de sus padres o la del cónyuge).
 
-> 💡 **EN CRISTIANO**
+> 💡 **ACLARACIÓN**
 > España tiene varios "Derechos civiles" conviviendo: el común y los forales (Aragón, Cataluña, Navarra, País Vasco, Galicia, Baleares). La vecindad civil es la etiqueta que dice cuál te aplica a ti en herencias o régimen matrimonial. Truco para los plazos: **2 años si lo pides, 10 si te dejas llevar** — casi un espejo de los plazos de nacionalidad, no los mezcles.
 
 ---
@@ -394,4 +394,4 @@ Determina la sujeción al **Derecho civil común o al foral/especial** (art. 14 
 
 ---
 
-*Tema 1 · v1.1 · 3 partes dimensionadas para audio-repasos. Pendiente de revisión final por el autor contra los textos consolidados del BOE.*
+*Tema 1 · v1.2 (El Parte) · 3 partes dimensionadas para audio-repasos · Terminología pedagógica armonizada con El Atestado · Pendiente de revisión humana final.*
