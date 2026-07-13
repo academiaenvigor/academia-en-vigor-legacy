@@ -1,0 +1,459 @@
+{
+  "id": "t01-b04a-persona-nacimiento-ausencia-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 4A · Persona, nacimiento, ausencia y fallecimiento",
+    "short_title": "Persona, nacimiento y ausencia",
+    "description": "Sigue el recorrido jurídico completo de la persona desde su reconocimiento como sujeto de derechos hasta la extinción de la personalidad. Distingue persona física y jurídica, protección del concebido, nacimiento, inscripción, comoriencia, desaparición, ausencia legal, declaración de fallecimiento y efectos de una posible reaparición.",
+    "theme_number": 1,
+    "block_number": "4A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["8", "8.1", "9", "9.1", "9.2", "9.3", "9.4", "9.5", "9.6"],
+    "concepts": [
+      "concepto y clases de persona",
+      "personas jurídicas y clases",
+      "capacidad y actuación de la persona jurídica",
+      "separación patrimonial y responsabilidad",
+      "extinción de la persona jurídica",
+      "protección del concebido no nacido",
+      "adquisición de la personalidad",
+      "inscripción del nacimiento",
+      "partos múltiples",
+      "extinción de la persona física",
+      "comoriencia",
+      "defensa provisional del desaparecido",
+      "declaración de ausencia legal",
+      "representación del ausente",
+      "declaración de fallecimiento y plazos",
+      "supuestos especiales de fallecimiento",
+      "efectos sucesorios y cautelas",
+      "reaparición del declarado fallecido"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b04a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concepto de persona",
+      "section_refs": ["8"],
+      "prompt": "En sentido jurídico, persona es:",
+      "options": [
+        {"id": "a", "text": "El sujeto al que el ordenamiento reconoce aptitud para ser titular de relaciones jurídicas"},
+        {"id": "b", "text": "Únicamente el ser humano mayor de edad"},
+        {"id": "c", "text": "Todo grupo de personas aunque el ordenamiento no le reconozca personalidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Persona es el centro de imputación de derechos y obligaciones. Puede ser física o jurídica.",
+      "source_note": "Código Civil; Atestado, apartado 8."
+    },
+    {
+      "id": "t01-b04a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "clases de persona",
+      "section_refs": ["8"],
+      "prompt": "Las personas se clasifican jurídicamente en:",
+      "options": [
+        {"id": "a", "text": "Públicas y privadas exclusivamente"},
+        {"id": "b", "text": "Físicas o naturales y jurídicas"},
+        {"id": "c", "text": "Mayores, menores y administrativas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La clasificación básica distingue a todo ser humano como persona física y a las organizaciones o entidades reconocidas como personas jurídicas.",
+      "source_note": "Código Civil; Atestado, apartado 8."
+    },
+    {
+      "id": "t01-b04a-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "personas jurídicas del artículo 35 CC",
+      "section_refs": ["8.1"],
+      "prompt": "El artículo 35 del Código Civil reconoce como personas jurídicas, entre otras:",
+      "options": [
+        {"id": "a", "text": "Solo las sociedades mercantiles con ánimo de lucro"},
+        {"id": "b", "text": "Cualquier reunión ocasional de personas"},
+        {"id": "c", "text": "Las corporaciones, asociaciones y fundaciones reconocidas conforme a la ley"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Código incluye corporaciones, asociaciones y fundaciones de interés público y asociaciones de interés particular cuando la ley les concede personalidad independiente.",
+      "source_note": "Artículo 35 CC; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t01-b04a-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "personalidad separada",
+      "section_refs": ["8.1"],
+      "prompt": "Como regla general, la persona jurídica:",
+      "options": [
+        {"id": "a", "text": "Tiene personalidad, patrimonio, derechos y obligaciones diferenciados de los de sus integrantes"},
+        {"id": "b", "text": "Se confunde necesariamente con la persona física de su administrador"},
+        {"id": "c", "text": "Carece de responsabilidad propia frente a terceros"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La personalidad jurídica crea un centro de imputación distinto, sin perjuicio de los supuestos legales de responsabilidad de administradores, socios o miembros.",
+      "source_note": "Artículos 35 a 39 CC; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t01-b04a-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "capacidad de la persona jurídica",
+      "section_refs": ["8.1"],
+      "prompt": "La capacidad civil de las personas jurídicas se rige, según su clase, por:",
+      "options": [
+        {"id": "a", "text": "La voluntad personal de quien las represente en cada momento"},
+        {"id": "b", "text": "Sus leyes creadoras, estatutos o reglas fundacionales"},
+        {"id": "c", "text": "Las normas sobre mayoría de edad de las personas físicas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 37 CC remite a las leyes, estatutos o reglas de institución según se trate de corporaciones, asociaciones o fundaciones.",
+      "source_note": "Artículo 37 CC; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t01-b04a-q006",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "clasificación de personas jurídicas",
+      "section_refs": ["8.1"],
+      "prompt": "Atendiendo a su base organizativa, en una fundación predomina:",
+      "options": [
+        {"id": "a", "text": "La reunión ocasional de personas sin fin determinado"},
+        {"id": "b", "text": "El ejercicio de potestades policiales"},
+        {"id": "c", "text": "Un patrimonio afectado de forma estable a un fin"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Doctrinalmente, asociaciones y corporaciones tienen base personal, mientras en la fundación destaca el patrimonio destinado a un fin.",
+      "source_note": "Legislación de fundaciones; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t01-b04a-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "extinción de la persona jurídica",
+      "section_refs": ["8.1"],
+      "prompt": "Entre las causas generales de extinción contempladas por el Código Civil se encuentra:",
+      "options": [
+        {"id": "a", "text": "La imposibilidad de aplicar al fin la actividad y los medios disponibles"},
+        {"id": "b", "text": "El cambio de domicilio de uno de sus miembros"},
+        {"id": "c", "text": "La mayoría de edad de su representante"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "También se contemplan el vencimiento del plazo de funcionamiento y la realización del fin, sin perjuicio de la legislación específica.",
+      "source_note": "Artículo 39 CC; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t01-b04a-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concebido no nacido",
+      "section_refs": ["9.1"],
+      "prompt": "El concebido se tiene por nacido para los efectos que le sean favorables:",
+      "options": [
+        {"id": "a", "text": "Sin ninguna condición posterior"},
+        {"id": "b", "text": "Siempre que nazca con las condiciones previstas en el artículo 30 CC"},
+        {"id": "c", "text": "Únicamente si alcanza veinticuatro horas de vida"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La protección del concebido queda condicionada a que nazca con vida y se produzca el entero desprendimiento del seno materno.",
+      "source_note": "Artículos 29 y 30 CC; Atestado, apartado 9.1."
+    },
+    {
+      "id": "t01-b04a-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "adquisición de la personalidad",
+      "section_refs": ["9.2"],
+      "prompt": "La personalidad civil se adquiere:",
+      "options": [
+        {"id": "a", "text": "Tras veinticuatro horas de vida independiente"},
+        {"id": "b", "text": "Desde la concepción, sin condición alguna"},
+        {"id": "c", "text": "Al nacer con vida, una vez producido el entero desprendimiento del seno materno"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La redacción vigente del artículo 30 CC no exige figura humana ni veinticuatro horas de vida.",
+      "source_note": "Artículo 30 CC; Atestado, apartado 9.2."
+    },
+    {
+      "id": "t01-b04a-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "inscripción del nacimiento",
+      "section_refs": ["9.2"],
+      "prompt": "Respecto de la inscripción del nacimiento en el Registro Civil, señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "Acredita oficialmente el nacimiento, pero la personalidad surge por el hecho previsto en el artículo 30 CC"},
+        {"id": "b", "text": "Es el único hecho que crea la personalidad civil"},
+        {"id": "c", "text": "Sustituye el requisito de nacimiento con vida"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La inscripción cumple una función de constancia y prueba. No es el elemento constitutivo de la personalidad.",
+      "source_note": "Artículo 30 CC y Ley del Registro Civil; Atestado, apartado 9.2."
+    },
+    {
+      "id": "t01-b04a-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "partos múltiples",
+      "section_refs": ["9.3"],
+      "prompt": "En un parto doble, los derechos que la ley reconozca al primogénito corresponden:",
+      "options": [
+        {"id": "a", "text": "Al nacido con mayor peso"},
+        {"id": "b", "text": "Al primer nacido"},
+        {"id": "c", "text": "A ambos por partes iguales en todo caso"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 31 CC atribuye prioridad al nacimiento para los derechos que la ley reconozca al primogénito.",
+      "source_note": "Artículo 31 CC; Atestado, apartado 9.3."
+    },
+    {
+      "id": "t01-b04a-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "extinción de la persona física",
+      "section_refs": ["9.4"],
+      "prompt": "La personalidad civil de la persona física se extingue por:",
+      "options": [
+        {"id": "a", "text": "La declaración de ausencia legal"},
+        {"id": "b", "text": "La pérdida de la nacionalidad"},
+        {"id": "c", "text": "La muerte"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Ni la ausencia ni la pérdida de nacionalidad extinguen la personalidad. El artículo 32 CC establece que se extingue por la muerte.",
+      "source_note": "Artículo 32 CC; Atestado, apartado 9.4."
+    },
+    {
+      "id": "t01-b04a-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "prueba en la comoriencia",
+      "section_refs": ["9.5"],
+      "prompt": "Si dos personas llamadas a sucederse mueren en un mismo accidente, corresponde probar la muerte anterior:",
+      "options": [
+        {"id": "a", "text": "A quien la sostenga"},
+        {"id": "b", "text": "Siempre al heredero de la persona de mayor edad"},
+        {"id": "c", "text": "Exclusivamente al Ministerio Fiscal"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Quien alegue que una muerte fue anterior debe probarlo. La edad o el estado físico no crean una presunción legal de supervivencia.",
+      "source_note": "Artículo 33 CC; Atestado, apartado 9.5."
+    },
+    {
+      "id": "t01-b04a-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "efectos de la comoriencia",
+      "section_refs": ["9.5"],
+      "prompt": "Si no puede probarse cuál de dos personas llamadas a sucederse murió primero:",
+      "options": [
+        {"id": "a", "text": "Se presume que murió antes la de mayor edad"},
+        {"id": "b", "text": "Se presumen muertas al mismo tiempo y no hay transmisión de derechos de una a otra"},
+        {"id": "c", "text": "Se presume que sobrevivió quien tuviera descendientes"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La regla de comoriencia presume simultaneidad únicamente a efectos de impedir la transmisión entre ellas cuando falta prueba del orden de las muertes.",
+      "source_note": "Artículo 33 CC; Atestado, apartado 9.5."
+    },
+    {
+      "id": "t01-b04a-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "desaparición y personalidad",
+      "section_refs": ["9.6"],
+      "prompt": "La desaparición de una persona sin noticias:",
+      "options": [
+        {"id": "a", "text": "Extingue automáticamente su personalidad al presentar la denuncia"},
+        {"id": "b", "text": "Produce de inmediato la apertura definitiva de su sucesión"},
+        {"id": "c", "text": "No extingue su personalidad y permite adoptar medidas de protección"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La desaparición activa mecanismos de defensa y conservación, pero no equivale a muerte ni a declaración de fallecimiento.",
+      "source_note": "Artículos 181 y siguientes CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "defensa provisional del desaparecido",
+      "section_refs": ["9.6"],
+      "prompt": "Cuando una persona desaparece y existen asuntos urgentes que no admiten demora, el nombramiento de un defensor corresponde:",
+      "options": [
+        {"id": "a", "text": "Al letrado de la Administración de Justicia, en los términos legalmente previstos"},
+        {"id": "b", "text": "Al alcalde del último domicilio"},
+        {"id": "c", "text": "Al Congreso de los Diputados"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El defensor ampara y representa al desaparecido en asuntos urgentes, salvo que ya esté legítimamente representado, y pueden adoptarse medidas de conservación patrimonial.",
+      "source_note": "Artículo 181 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "plazos de ausencia legal",
+      "section_refs": ["9.6"],
+      "prompt": "Con carácter general, procede declarar la ausencia legal transcurridos:",
+      "options": [
+        {"id": "a", "text": "Cinco años sin apoderado y diez con apoderado"},
+        {"id": "b", "text": "Un año sin apoderado general y tres años si dejó encomendada la administración de todos sus bienes"},
+        {"id": "c", "text": "Tres meses en todo caso"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Los plazos generales del artículo 183 CC son un año sin apoderado con facultades generales de administración y tres años cuando existe ese apoderamiento.",
+      "source_note": "Artículo 183 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "representación del ausente",
+      "section_refs": ["9.6"],
+      "prompt": "El representante del declarado ausente tiene, entre otras, la obligación de:",
+      "options": [
+        {"id": "a", "text": "Repartir inmediatamente todos los bienes entre los herederos"},
+        {"id": "b", "text": "Solicitar siempre la declaración de fallecimiento"},
+        {"id": "c", "text": "Buscar al ausente y proteger y administrar su patrimonio"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La ausencia organiza una representación protectora. No abre por sí sola la sucesión ni presume definitivamente la muerte.",
+      "source_note": "Artículos 184 y siguientes CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "plazo general de declaración de fallecimiento",
+      "section_refs": ["9.6"],
+      "prompt": "Con carácter general, la declaración de fallecimiento puede producirse transcurridos desde las últimas noticias o la desaparición:",
+      "options": [
+        {"id": "a", "text": "Diez años, sin que sea imprescindible una previa declaración formal de ausencia"},
+        {"id": "b", "text": "Tres años en todos los casos"},
+        {"id": "c", "text": "Veinte años y únicamente tras una ausencia legal previa"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La regla general es de diez años. La declaración de fallecimiento no exige necesariamente que antes se haya declarado la ausencia legal.",
+      "source_note": "Artículo 193 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "plazo reducido por edad",
+      "section_refs": ["9.6"],
+      "prompt": "El plazo general para declarar el fallecimiento se reduce a cinco años cuando, al expirar dicho plazo, el ausente hubiera cumplido:",
+      "options": [
+        {"id": "a", "text": "Sesenta y cinco años"},
+        {"id": "b", "text": "Setenta y cinco años"},
+        {"id": "c", "text": "Ochenta años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 193 CC fija el umbral en setenta y cinco años al expirar el plazo de cinco años.",
+      "source_note": "Artículo 193.1.2.º CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "riesgo de muerte",
+      "section_refs": ["9.6"],
+      "prompt": "Si la desaparición se produjo en una situación de riesgo inminente de muerte por violencia contra la vida, el plazo general es de un año; en caso de siniestro, se reduce a:",
+      "options": [
+        {"id": "a", "text": "Ocho días"},
+        {"id": "b", "text": "Un mes"},
+        {"id": "c", "text": "Tres meses"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 193 CC establece un año para violencia contra la vida y tres meses cuando el riesgo deriva de un siniestro.",
+      "source_note": "Artículo 193.3 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "supuestos especiales de fallecimiento",
+      "section_refs": ["9.6"],
+      "prompt": "Las desapariciones relacionadas con campañas bélicas, naufragios o siniestros aéreos:",
+      "options": [
+        {"id": "a", "text": "Están sometidas a reglas especiales del artículo 194 CC"},
+        {"id": "b", "text": "Solo permiten declarar el fallecimiento después de diez años"},
+        {"id": "c", "text": "Producen automáticamente la muerte civil desde el primer día"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Código establece plazos y condiciones especiales según la clase de riesgo y las evidencias existentes sobre la falta de supervivientes.",
+      "source_note": "Artículo 194 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "efectos de la declaración de fallecimiento",
+      "section_refs": ["9.6"],
+      "prompt": "La declaración de fallecimiento:",
+      "options": [
+        {"id": "a", "text": "Mantiene indefinidamente la situación de ausencia legal"},
+        {"id": "b", "text": "Pone fin a la ausencia legal, fija una fecha de muerte y abre la sucesión"},
+        {"id": "c", "text": "Impide en todo caso la disolución del matrimonio"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La declaración produce efectos civiles de muerte, incluida la apertura de la sucesión, sin impedir una rectificación si posteriormente se acredita que la persona vive.",
+      "source_note": "Artículos 195 y 196 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "cautelas sucesorias",
+      "section_refs": ["9.6"],
+      "prompt": "Tras una declaración de fallecimiento, los herederos:",
+      "options": [
+        {"id": "a", "text": "Pueden donar inmediatamente todos los bienes sin limitación"},
+        {"id": "b", "text": "No necesitan formar inventario de los bienes"},
+        {"id": "c", "text": "No pueden disponer a título gratuito durante cinco años y deben formar inventario notarial"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Código establece cautelas durante cinco años y exige inventario para proteger al declarado fallecido ante una posible reaparición.",
+      "source_note": "Artículo 196 CC; Atestado, apartado 9.6."
+    },
+    {
+      "id": "t01-b04a-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "reaparición del declarado fallecido",
+      "section_refs": ["9.6"],
+      "prompt": "Si reaparece una persona declarada fallecida:",
+      "options": [
+        {"id": "a", "text": "Recobra los bienes en el estado en que se encuentren o el precio o sustitutos de los vendidos, sin frutos anteriores a su presencia"},
+        {"id": "b", "text": "Pierde definitivamente todo derecho sobre su patrimonio"},
+        {"id": "c", "text": "Puede reclamar siempre todos los frutos percibidos desde la declaración"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 197 CC permite recuperar los bienes existentes, su precio o los adquiridos con él, pero no las rentas y frutos anteriores a la presencia o declaración de no haber muerto.",
+      "source_note": "Artículo 197 CC; Atestado, apartado 9.6."
+    }
+  ]
+}

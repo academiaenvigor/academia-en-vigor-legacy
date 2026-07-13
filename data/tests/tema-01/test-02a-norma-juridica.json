@@ -1,0 +1,455 @@
+{
+  "id": "t01-b02a-norma-juridica-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 2A · La norma jurídica positiva",
+    "short_title": "Norma jurídica",
+    "description": "Trabaja la anatomía completa de la norma jurídica positiva: concepto, funciones, supuesto de hecho, consecuencia jurídica y diferencia entre norma y artículo. También pone a prueba sus caracteres y todas las clasificaciones doctrinales mediante definiciones, ejemplos y distractores próximos.",
+    "theme_number": 1,
+    "block_number": "2A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["3", "3.1", "3.2", "3.3", "3.4"],
+    "concepts": [
+      "concepto de norma jurídica positiva",
+      "funciones de las normas",
+      "supuesto de hecho y consecuencia jurídica",
+      "distinción entre norma y artículo",
+      "generalidad y abstracción",
+      "obligatoriedad, coercibilidad y heteronomía",
+      "bilateralidad y legitimidad formal",
+      "normas imperativas y dispositivas",
+      "normas preceptivas, prohibitivas y permisivas",
+      "normas generales y particulares",
+      "normas comunes y especiales",
+      "normas permanentes y temporales",
+      "normas perfectas, menos que perfectas e imperfectas",
+      "normas rígidas y de equidad"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b02a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concepto de norma jurídica positiva",
+      "section_refs": ["3.1"],
+      "prompt": "La norma jurídica positiva puede definirse como:",
+      "options": [
+        {"id": "a", "text": "Una regla de conducta u organización vigente y reconocida por el ordenamiento"},
+        {"id": "b", "text": "Una recomendación moral cuya observancia queda siempre al criterio del destinatario"},
+        {"id": "c", "text": "Una decisión judicial aplicable únicamente a las partes de un proceso"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La norma jurídica positiva es una regla vigente, reconocida por el ordenamiento y capaz de atribuir consecuencias jurídicas a un supuesto.",
+      "source_note": "Atestado, apartado 3.1."
+    },
+    {
+      "id": "t01-b02a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "funciones de las normas",
+      "section_refs": ["3.1"],
+      "prompt": "Señale la afirmación correcta respecto del contenido de las normas jurídicas:",
+      "options": [
+        {"id": "a", "text": "Todas contienen una prohibición y una pena"},
+        {"id": "b", "text": "Solo regulan conductas de personas físicas"},
+        {"id": "c", "text": "También pueden atribuir competencias, crear órganos o establecer procedimientos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Las normas no solo ordenan o prohíben: pueden permitir, definir, organizar instituciones, reconocer derechos o fijar procedimientos.",
+      "source_note": "Atestado, apartado 3.1."
+    },
+    {
+      "id": "t01-b02a-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "normas de competencia",
+      "section_refs": ["3.1"],
+      "prompt": "Una disposición que determina qué órgano debe resolver un procedimiento contiene principalmente una norma:",
+      "options": [
+        {"id": "a", "text": "De atribución de competencia"},
+        {"id": "b", "text": "Moral sin efectos jurídicos"},
+        {"id": "c", "text": "Necesariamente penal"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Atribuir la competencia para resolver es una función organizativa de la norma jurídica.",
+      "source_note": "Atestado, apartado 3.1."
+    },
+    {
+      "id": "t01-b02a-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "estructura de la norma",
+      "section_refs": ["3.2"],
+      "prompt": "La estructura clásica de la norma jurídica distingue entre:",
+      "options": [
+        {"id": "a", "text": "Título, preámbulo y disposición final"},
+        {"id": "b", "text": "Supuesto de hecho y consecuencia jurídica"},
+        {"id": "c", "text": "Costumbre, jurisprudencia y doctrina"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La norma conecta un hecho, situación o conducta prevista con un efecto jurídico.",
+      "source_note": "Atestado, apartado 3.2."
+    },
+    {
+      "id": "t01-b02a-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "supuesto de hecho",
+      "section_refs": ["3.2"],
+      "prompt": "En la regla «quien cumple dieciocho años alcanza la mayoría de edad», cumplir dieciocho años constituye:",
+      "options": [
+        {"id": "a", "text": "El supuesto de hecho"},
+        {"id": "b", "text": "La sanción"},
+        {"id": "c", "text": "La consecuencia jurídica"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El hecho previsto es alcanzar los dieciocho años; la mayoría de edad es la consecuencia que el ordenamiento le atribuye.",
+      "source_note": "Atestado, apartado 3.2."
+    },
+    {
+      "id": "t01-b02a-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "consecuencia jurídica",
+      "section_refs": ["3.2"],
+      "prompt": "La consecuencia jurídica es:",
+      "options": [
+        {"id": "a", "text": "El hecho social anterior a la aprobación de la norma"},
+        {"id": "b", "text": "El efecto que el ordenamiento vincula al supuesto previsto"},
+        {"id": "c", "text": "Exclusivamente la pena impuesta por un delito"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La consecuencia puede consistir en un derecho, deber, nulidad, competencia, sanción u otro efecto; no tiene que ser penal.",
+      "source_note": "Atestado, apartado 3.2."
+    },
+    {
+      "id": "t01-b02a-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "distinción entre norma y artículo",
+      "section_refs": ["3.2"],
+      "prompt": "Respecto de la relación entre norma jurídica y artículo, señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "Cada artículo contiene necesariamente una única norma completa"},
+        {"id": "b", "text": "La norma solo existe si supuesto y consecuencia aparecen en el mismo apartado"},
+        {"id": "c", "text": "Un artículo puede contener varias normas y una norma puede resultar de varios preceptos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Artículo es una unidad de división del texto; norma es la regla jurídica obtenida al interpretar uno o varios preceptos.",
+      "source_note": "Atestado, apartado 3.2."
+    },
+    {
+      "id": "t01-b02a-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "generalidad",
+      "section_refs": ["3.3"],
+      "prompt": "La generalidad de la norma jurídica significa que:",
+      "options": [
+        {"id": "a", "text": "No puede regular colectivos profesionales concretos"},
+        {"id": "b", "text": "Debe aplicarse siempre a todos los habitantes sin excepción"},
+        {"id": "c", "text": "Se dirige a categorías de personas o situaciones y no necesariamente a individuos nominalmente identificados"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Una norma puede referirse a una categoría limitada y seguir siendo general: funcionarios, menores o conductores, por ejemplo.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "abstracción",
+      "section_refs": ["3.3"],
+      "prompt": "La abstracción como carácter de la norma alude a que esta:",
+      "options": [
+        {"id": "a", "text": "Carece de efectos sobre hechos reales"},
+        {"id": "b", "text": "Formula un supuesto tipo susceptible de repetirse"},
+        {"id": "c", "text": "Solo contiene conceptos jurídicos indeterminados"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La norma describe de forma abstracta una clase de situaciones para poder aplicarse cada vez que se produzcan.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "obligatoriedad",
+      "section_refs": ["3.3"],
+      "prompt": "La obligatoriedad de una norma jurídica implica que:",
+      "options": [
+        {"id": "a", "text": "Solo obliga cuando el destinatario declara conocerla"},
+        {"id": "b", "text": "Vincula dentro de su ámbito de aplicación"},
+        {"id": "c", "text": "Siempre impone una conducta activa"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La norma vincula a quienes y a las situaciones comprendidas en sus ámbitos territorial, temporal, material y personal.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q011",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "coercibilidad",
+      "section_refs": ["3.3"],
+      "prompt": "La posibilidad de que el cumplimiento o las consecuencias de la norma se aseguren mediante mecanismos legítimos se denomina:",
+      "options": [
+        {"id": "a", "text": "Coercibilidad"},
+        {"id": "b", "text": "Abstracción"},
+        {"id": "c", "text": "Autonomía"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La coercibilidad permite que el ordenamiento reaccione institucionalmente frente al incumplimiento.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "heteronomía",
+      "section_refs": ["3.3"],
+      "prompt": "La heteronomía de la norma jurídica expresa que:",
+      "options": [
+        {"id": "a", "text": "El destinatario puede modificar unilateralmente su contenido"},
+        {"id": "b", "text": "Solo vincula si coincide con la conciencia individual"},
+        {"id": "c", "text": "La regla procede de una voluntad externa al destinatario"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La norma jurídica es impuesta o reconocida por el ordenamiento con independencia de que cada destinatario la haya creado o aceptado individualmente.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q013",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "bilateralidad",
+      "section_refs": ["3.3"],
+      "prompt": "Como carácter de la norma jurídica, la bilateralidad indica habitualmente que:",
+      "options": [
+        {"id": "a", "text": "Toda norma debe aprobarse por dos cámaras legislativas"},
+        {"id": "b", "text": "Las facultades reconocidas a unos suelen relacionarse con deberes de otros"},
+        {"id": "c", "text": "Una norma solo es válida si existen dos destinatarios concretos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La bilateralidad refleja la correlación jurídica frecuente entre la facultad o pretensión de un sujeto y el deber de otro.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "legitimidad formal",
+      "section_refs": ["3.3"],
+      "prompt": "Para que una disposición reúna legitimidad formal debe:",
+      "options": [
+        {"id": "a", "text": "Ser aceptada unánimemente por sus destinatarios"},
+        {"id": "b", "text": "Contener necesariamente una sanción"},
+        {"id": "c", "text": "Proceder del órgano competente y seguir el procedimiento establecido"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La competencia del órgano y el procedimiento de elaboración forman parte de la validez formal de la disposición.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q015",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "generalidad y actos singulares",
+      "section_refs": ["3.3"],
+      "prompt": "La existencia de un acto administrativo dirigido a una persona concreta permite afirmar que:",
+      "options": [
+        {"id": "a", "text": "No toda decisión jurídica singular es una norma general y abstracta"},
+        {"id": "b", "text": "Las normas jurídicas carecen de generalidad"},
+        {"id": "c", "text": "Todo acto singular tiene rango de ley"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Debe diferenciarse la norma general de sus actos singulares de aplicación. Que existan estos actos no elimina el carácter general de la norma aplicada.",
+      "source_note": "Atestado, apartado 3.3."
+    },
+    {
+      "id": "t01-b02a-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "normas imperativas y dispositivas",
+      "section_refs": ["3.4"],
+      "prompt": "Una norma que permite a las partes pactar una solución distinta y se aplica en defecto de pacto es:",
+      "options": [
+        {"id": "a", "text": "Imperativa"},
+        {"id": "b", "text": "Dispositiva"},
+        {"id": "c", "text": "Prohibitiva"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La norma dispositiva completa la voluntad de las partes cuando estas no han establecido válidamente otra solución.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "normas imperativas",
+      "section_refs": ["3.4"],
+      "prompt": "Respecto de las normas imperativas, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Su contenido no puede ser desplazado libremente por la voluntad de las partes"},
+        {"id": "b", "text": "Son siempre normas penales"},
+        {"id": "c", "text": "Solo producen efectos si las partes las incorporan al contrato"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La imperatividad impide excluir la aplicación de la norma por simple pacto; no convierte la norma en penal.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "normas preceptivas, prohibitivas y permisivas",
+      "section_refs": ["3.4"],
+      "prompt": "Las normas que ordenan, prohíben o permiten una conducta se clasifican, respectivamente, como:",
+      "options": [
+        {"id": "a", "text": "Generales, particulares y especiales"},
+        {"id": "b", "text": "Perfectas, imperfectas y rígidas"},
+        {"id": "c", "text": "Preceptivas, prohibitivas y permisivas"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Esta clasificación atiende al sentido del mandato contenido en la norma.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "normas generales y particulares",
+      "section_refs": ["3.4"],
+      "prompt": "La clasificación de una norma como general o particular atiende principalmente:",
+      "options": [
+        {"id": "a", "text": "A su ámbito de aplicación"},
+        {"id": "b", "text": "A la sanción que impone"},
+        {"id": "c", "text": "Al número de artículos que contiene"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La distinción valora si la norma se extiende a todo su ámbito general o queda limitada a uno determinado.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "normas comunes y especiales",
+      "section_refs": ["3.4"],
+      "prompt": "Una norma que establece un régimen específico para un sector frente a la regulación ordinaria de la materia se considera:",
+      "options": [
+        {"id": "a", "text": "Temporal"},
+        {"id": "b", "text": "Especial"},
+        {"id": "c", "text": "Imperfecta"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Común y especial distinguen entre la regulación ordinaria de la materia y la prevista para un sector o supuesto específico.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "normas permanentes y temporales",
+      "section_refs": ["3.4"],
+      "prompt": "Una norma cuya vigencia está limitada expresamente a un periodo determinado es una norma:",
+      "options": [
+        {"id": "a", "text": "Temporal"},
+        {"id": "b", "text": "Dispositiva"},
+        {"id": "c", "text": "General"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La clasificación en permanentes y temporales atiende a la duración prevista de la vigencia.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q022",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "normas perfectas",
+      "section_refs": ["3.4"],
+      "prompt": "En la clasificación doctrinal por las consecuencias del incumplimiento, la norma que determina la nulidad del acto contrario se denomina:",
+      "options": [
+        {"id": "a", "text": "Imperfecta"},
+        {"id": "b", "text": "Menos que perfecta"},
+        {"id": "c", "text": "Perfecta"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La norma perfecta provoca la nulidad del acto contrario. La clasificación es doctrinal y no indica que la redacción de la norma sea mejor.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q023",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "normas menos que perfectas e imperfectas",
+      "section_refs": ["3.4"],
+      "prompt": "Una norma que mantiene la validez del acto contrario, pero establece una consecuencia sancionadora distinta de la nulidad, se clasifica doctrinalmente como:",
+      "options": [
+        {"id": "a", "text": "Menos que perfecta"},
+        {"id": "b", "text": "Permisiva"},
+        {"id": "c", "text": "De equidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La norma menos que perfecta no anula el acto, pero liga al incumplimiento otra consecuencia. La imperfecta carece de sanción específica.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "normas rígidas y de equidad",
+      "section_refs": ["3.4"],
+      "prompt": "La norma que concede al aplicador un margen de ponderación para adaptar la consecuencia a las circunstancias se califica doctrinalmente como:",
+      "options": [
+        {"id": "a", "text": "Rígida"},
+        {"id": "b", "text": "De equidad"},
+        {"id": "c", "text": "Prohibitiva"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Las normas de equidad permiten ponderar las circunstancias; las rígidas predeterminan de forma más cerrada la consecuencia.",
+      "source_note": "Atestado, apartado 3.4."
+    },
+    {
+      "id": "t01-b02a-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "normas dispositivas",
+      "section_refs": ["3.4"],
+      "prompt": "Si las partes no han pactado válidamente una solución diferente, la norma dispositiva:",
+      "options": [
+        {"id": "a", "text": "Carece de toda eficacia jurídica"},
+        {"id": "b", "text": "Se convierte en norma penal"},
+        {"id": "c", "text": "Resulta aplicable para completar la regulación de la relación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Dispositiva no significa irrelevante: la norma se aplica cuando la autonomía de las partes no ha establecido otra solución válida.",
+      "source_note": "Atestado, apartado 3.4."
+    }
+  ]
+}

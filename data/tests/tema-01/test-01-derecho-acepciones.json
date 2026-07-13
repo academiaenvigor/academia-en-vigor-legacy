@@ -1,0 +1,368 @@
+{
+  "id": "t01-b01-derecho-acepciones-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 1 · El Derecho y sus acepciones",
+    "short_title": "Derecho y acepciones",
+    "description": "Comprueba si dominas el concepto y las funciones del Derecho y si distingues sus principales acepciones: objetivo y subjetivo, positivo y natural, público y privado, común y especial, general y particular. Combina preguntas conceptuales con pequeños supuestos para evitar que las definiciones se aprendan de forma aislada.",
+    "theme_number": 1,
+    "block_number": 1,
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 20,
+    "recommended_duration_minutes": 15,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 20,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["1", "2", "2.1", "2.2", "2.3", "2.4", "2.5"],
+    "concepts": [
+      "concepto y funciones del Derecho",
+      "coercibilidad",
+      "Derecho objetivo y subjetivo",
+      "Derecho positivo y natural",
+      "Derecho público y privado",
+      "Derecho común y especial",
+      "Derecho general y particular"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b01-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concepto de Derecho",
+      "section_refs": ["1"],
+      "prompt": "A efectos jurídicos, el Derecho puede definirse como:",
+      "options": [
+        {"id": "a", "text": "El conjunto de decisiones morales que cada persona considera justas"},
+        {"id": "b", "text": "El sistema de normas, principios e instituciones que ordena la convivencia y regula relaciones jurídicas"},
+        {"id": "c", "text": "El catálogo de sanciones penales aplicables por los tribunales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Derecho es un sistema ordenado de normas, principios e instituciones. No se reduce a la moral individual ni al Derecho penal.",
+      "source_note": "Atestado, apartado 1."
+    },
+    {
+      "id": "t01-b01-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "función ordenadora",
+      "section_refs": ["1"],
+      "prompt": "Cuando el Derecho determina la composición y competencias de una institución pública, desarrolla principalmente una función:",
+      "options": [
+        {"id": "a", "text": "Ordenadora"},
+        {"id": "b", "text": "Sancionadora penal"},
+        {"id": "c", "text": "Interpretativa de la moral"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La función ordenadora organiza la convivencia y las instituciones, incluyendo su estructura y competencias.",
+      "source_note": "Atestado, apartado 1."
+    },
+    {
+      "id": "t01-b01-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "función limitadora del poder",
+      "section_refs": ["1"],
+      "prompt": "Señale la afirmación correcta respecto de la función del Derecho frente al poder público:",
+      "options": [
+        {"id": "a", "text": "El Derecho atribuye potestades, pero sus límites dependen exclusivamente de instrucciones internas"},
+        {"id": "b", "text": "El Derecho únicamente limita el poder judicial"},
+        {"id": "c", "text": "El Derecho legitima la atribución de potestades y, al mismo tiempo, establece sus límites"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El ordenamiento atribuye potestades públicas y fija las condiciones, procedimientos y límites para ejercerlas legítimamente.",
+      "source_note": "Atestado, apartado 1."
+    },
+    {
+      "id": "t01-b01-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "coercibilidad",
+      "section_refs": ["1"],
+      "prompt": "La coercibilidad del Derecho significa que:",
+      "options": [
+        {"id": "a", "text": "Toda infracción jurídica constituye necesariamente delito"},
+        {"id": "b", "text": "El ordenamiento prevé mecanismos legítimos para reaccionar frente al incumplimiento"},
+        {"id": "c", "text": "Todas las normas jurídicas deben ejecutarse mediante fuerza física"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Coercibilidad es la posibilidad de asegurar el cumplimiento o aplicar consecuencias mediante mecanismos públicos legítimos; no implica fuerza física ni sanción penal en todos los casos.",
+      "source_note": "Atestado, apartado 1."
+    },
+    {
+      "id": "t01-b01-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho objetivo",
+      "section_refs": ["2.1"],
+      "prompt": "El conjunto de normas que integran el ordenamiento jurídico recibe la denominación de:",
+      "options": [
+        {"id": "a", "text": "Derecho objetivo"},
+        {"id": "b", "text": "Derecho subjetivo"},
+        {"id": "c", "text": "Derecho natural"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Derecho objetivo es el sistema de normas vigente; el derecho subjetivo es una facultad o pretensión reconocida a un sujeto.",
+      "source_note": "Atestado, apartado 2.1."
+    },
+    {
+      "id": "t01-b01-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho subjetivo",
+      "section_refs": ["2.1"],
+      "prompt": "La facultad reconocida a una persona para exigir el cumplimiento de una obligación constituye:",
+      "options": [
+        {"id": "a", "text": "Una norma de Derecho objetivo exclusivamente"},
+        {"id": "b", "text": "Una manifestación del Derecho natural"},
+        {"id": "c", "text": "Un derecho subjetivo"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El derecho subjetivo es el poder, facultad o pretensión que el Derecho objetivo reconoce a una persona.",
+      "source_note": "Atestado, apartado 2.1."
+    },
+    {
+      "id": "t01-b01-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "elementos del derecho subjetivo",
+      "section_refs": ["2.1"],
+      "prompt": "¿Cuál de los siguientes elementos se corresponde con el contenido de un derecho subjetivo?",
+      "options": [
+        {"id": "a", "text": "Las facultades concretas que puede ejercer su titular"},
+        {"id": "b", "text": "El diario oficial en el que se publicó la norma"},
+        {"id": "c", "text": "La mayoría parlamentaria que aprobó la ley"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El contenido expresa las facultades que integran el derecho. La publicación y la mayoría legislativa pertenecen a otros planos.",
+      "source_note": "Atestado, apartado 2.1."
+    },
+    {
+      "id": "t01-b01-q008",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "relación entre Derecho objetivo y subjetivo",
+      "section_refs": ["2.1"],
+      "prompt": "Un ciudadano invoca la tutela judicial efectiva frente a una actuación pública. En este supuesto:",
+      "options": [
+        {"id": "a", "text": "Ejercita una costumbre contra una norma escrita"},
+        {"id": "b", "text": "Ejercita una facultad subjetiva reconocida por el ordenamiento objetivo"},
+        {"id": "c", "text": "Convierte un principio moral en una sanción jurídica"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El ordenamiento objetivo reconoce el derecho y el ciudadano lo hace valer como derecho subjetivo.",
+      "source_note": "Atestado, apartado 2.1."
+    },
+    {
+      "id": "t01-b01-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho positivo",
+      "section_refs": ["2.2"],
+      "prompt": "El Derecho positivo está formado por:",
+      "options": [
+        {"id": "a", "text": "Las normas vigentes o reconocidas en un lugar y tiempo determinados"},
+        {"id": "b", "text": "Únicamente los principios universales considerados justos"},
+        {"id": "c", "text": "Las normas derogadas que fueron válidas en cualquier época"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La positividad vincula la norma con un ordenamiento, territorio y momento concretos.",
+      "source_note": "Atestado, apartado 2.2."
+    },
+    {
+      "id": "t01-b01-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Derecho natural",
+      "section_refs": ["2.2"],
+      "prompt": "En relación con el Derecho natural, señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "Es la primera fuente enumerada en el artículo 1.1 del Código Civil"},
+        {"id": "b", "text": "Equivale a toda norma escrita actualmente vigente"},
+        {"id": "c", "text": "Es una categoría filosófica referida a principios de justicia considerados anteriores o superiores al legislador"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Derecho natural es una categoría filosófica y no figura como fuente formal en el artículo 1.1 CC.",
+      "source_note": "Atestado, apartado 2.2."
+    },
+    {
+      "id": "t01-b01-q011",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "validez del Derecho positivo",
+      "section_refs": ["2.2"],
+      "prompt": "La consideración de que una norma positiva es injusta determina, por sí sola, que dicha norma:",
+      "options": [
+        {"id": "a", "text": "Quede automáticamente derogada"},
+        {"id": "b", "text": "No pierda automáticamente su validez, que deberá combatirse por los procedimientos del ordenamiento"},
+        {"id": "c", "text": "Se transforme en una norma dispositiva"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La crítica de justicia y la validez jurídica no son idénticas. La invalidez debe declararse o producirse mediante los mecanismos jurídicos correspondientes.",
+      "source_note": "Atestado, apartado 2.2."
+    },
+    {
+      "id": "t01-b01-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho público",
+      "section_refs": ["2.3"],
+      "prompt": "¿Cuál de las siguientes ramas se encuadra principalmente en el Derecho público?",
+      "options": [
+        {"id": "a", "text": "Derecho penal"},
+        {"id": "b", "text": "Derecho mercantil"},
+        {"id": "c", "text": "Derecho civil patrimonial"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Derecho penal pertenece al Derecho público; el civil y el mercantil se encuadran principalmente en el privado.",
+      "source_note": "Atestado, apartado 2.3."
+    },
+    {
+      "id": "t01-b01-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Derecho privado",
+      "section_refs": ["2.3"],
+      "prompt": "En el Derecho privado predomina:",
+      "options": [
+        {"id": "a", "text": "El ejercicio de potestades de imperio por la Administración"},
+        {"id": "b", "text": "La imposición de penas por la comisión de delitos"},
+        {"id": "c", "text": "La regulación de relaciones entre particulares con mayor espacio para la autonomía de la voluntad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Derecho privado regula principalmente relaciones entre particulares y reconoce un mayor ámbito a la autonomía de la voluntad, dentro de los límites legales.",
+      "source_note": "Atestado, apartado 2.3."
+    },
+    {
+      "id": "t01-b01-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "distinción público-privado",
+      "section_refs": ["2.3"],
+      "prompt": "Respecto de la distinción entre Derecho público y Derecho privado, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Toda actuación de una Administración queda sometida exclusivamente al Derecho público"},
+        {"id": "b", "text": "La distinción no es absoluta: una Administración puede actuar bajo reglas privadas y las relaciones privadas pueden estar sujetas a normas imperativas"},
+        {"id": "c", "text": "La presencia de un particular convierte siempre la relación en privada"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La separación sirve para clasificar, pero existen relaciones mixtas y actuaciones administrativas sometidas total o parcialmente a reglas privadas.",
+      "source_note": "Atestado, apartado 2.3."
+    },
+    {
+      "id": "t01-b01-q015",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho común",
+      "section_refs": ["2.4"],
+      "prompt": "El Derecho común se caracteriza por:",
+      "options": [
+        {"id": "a", "text": "Regular de forma general una materia y poder actuar supletoriamente"},
+        {"id": "b", "text": "Aplicarse únicamente durante un periodo excepcional"},
+        {"id": "c", "text": "Regular exclusivamente a un colectivo profesional"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Derecho común contiene la regulación general y puede completar las lagunas de regímenes especiales cuando proceda.",
+      "source_note": "Atestado, apartado 2.4."
+    },
+    {
+      "id": "t01-b01-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Derecho especial",
+      "section_refs": ["2.4"],
+      "prompt": "Una norma especial respecto de otra general:",
+      "options": [
+        {"id": "a", "text": "Deroga necesariamente toda la regulación general"},
+        {"id": "b", "text": "Solo puede existir si tiene rango superior"},
+        {"id": "c", "text": "Se aplica preferentemente al supuesto específico que regula, sin derogar por ello toda la norma general"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La especialidad determina aplicación preferente en su ámbito, mientras la regla general puede seguir vigente para los demás supuestos y actuar supletoriamente.",
+      "source_note": "Atestado, apartado 2.4."
+    },
+    {
+      "id": "t01-b01-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Derecho especial",
+      "section_refs": ["2.4"],
+      "prompt": "Una regulación dirigida específicamente a un sector de actividad constituye, frente a la regulación general de la materia:",
+      "options": [
+        {"id": "a", "text": "Derecho natural"},
+        {"id": "b", "text": "Derecho especial"},
+        {"id": "c", "text": "Derecho derogado"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Derecho especial regula un sector, colectivo o supuesto específico respecto del régimen común o general.",
+      "source_note": "Atestado, apartado 2.4."
+    },
+    {
+      "id": "t01-b01-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Derecho general",
+      "section_refs": ["2.5"],
+      "prompt": "Atendiendo a su ámbito territorial o personal, el Derecho general es el que:",
+      "options": [
+        {"id": "a", "text": "Se aplica en todo el territorio o a una generalidad de sujetos dentro de su ámbito"},
+        {"id": "b", "text": "Carece de obligatoriedad para sus destinatarios"},
+        {"id": "c", "text": "Solo contiene principios no escritos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "General y particular describen el alcance territorial o subjetivo de una regulación, no su obligatoriedad ni su forma escrita.",
+      "source_note": "Atestado, apartado 2.5."
+    },
+    {
+      "id": "t01-b01-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Derecho particular",
+      "section_refs": ["2.5"],
+      "prompt": "Una norma válida únicamente para un ámbito territorial determinado puede calificarse doctrinalmente como:",
+      "options": [
+        {"id": "a", "text": "Derecho subjetivo"},
+        {"id": "b", "text": "Derecho natural"},
+        {"id": "c", "text": "Derecho particular"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Derecho particular limita su aplicación a un territorio o ámbito determinado.",
+      "source_note": "Atestado, apartado 2.5."
+    },
+    {
+      "id": "t01-b01-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "integración de acepciones",
+      "section_refs": ["1", "2.1", "2.3"],
+      "prompt": "Una ley atribuye a la Policía una potestad de actuación y reconoce al ciudadano garantías frente a su ejercicio. ¿Qué afirmación es correcta?",
+      "options": [
+        {"id": "a", "text": "La potestad pertenece al Derecho natural y la garantía al Derecho positivo"},
+        {"id": "b", "text": "El ordenamiento objetivo puede atribuir una potestad pública y reconocer simultáneamente derechos subjetivos de garantía"},
+        {"id": "c", "text": "La existencia de una potestad pública excluye cualquier derecho subjetivo del ciudadano"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El mismo ordenamiento objetivo organiza la potestad pública y reconoce facultades y garantías subjetivas a los ciudadanos. Potestad y límite forman parte del sistema jurídico.",
+      "source_note": "Atestado, apartados 1, 2.1 y 2.3."
+    }
+  ]
+}

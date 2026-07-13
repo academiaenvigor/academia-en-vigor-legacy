@@ -1,0 +1,376 @@
+{
+  "id": "t01-b03b-conflictos-control-normativo-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 3B · Conflictos y control normativo",
+    "short_title": "Conflictos y control normativo",
+    "description": "No repite simplemente los tipos de normas del 3A: obliga a decidir qué criterio debe utilizarse ante conflictos reales. Practica jerarquía, competencia, cronología, especialidad, prevalencia, método de resolución, controles de validez y las principales trampas de examen.",
+    "theme_number": 1,
+    "block_number": "3B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 20,
+    "recommended_duration_minutes": 15,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 20,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["7.5", "7.6", "trampas de jerarquía"],
+    "concepts": [
+      "principio de jerarquía",
+      "principio de competencia",
+      "principio cronológico",
+      "principio de especialidad",
+      "principio de prevalencia",
+      "método para resolver conflictos normativos",
+      "conflictos entre normas estatales y autonómicas",
+      "control de constitucionalidad de las leyes",
+      "control judicial de los reglamentos",
+      "revisión administrativa",
+      "relación entre ley orgánica y ordinaria",
+      "diferencia entre real decreto y normas gubernamentales con rango de ley",
+      "límites de resoluciones e instrucciones",
+      "publicación y entrada en vigor",
+      "posición de la jurisprudencia"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b03b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principio de jerarquía",
+      "section_refs": ["7.5"],
+      "prompt": "Una disposición reglamentaria contradice una ley vigente. El criterio directamente aplicable es el principio de:",
+      "options": [
+        {"id": "a", "text": "Jerarquía normativa"},
+        {"id": "b", "text": "Cronología"},
+        {"id": "c", "text": "Especialidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El reglamento está subordinado a la ley. Una norma inferior no puede contradecir válidamente una superior aunque sea posterior o más específica.",
+      "source_note": "Artículo 9.3 CE y artículo 1.2 CC; Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principio de competencia",
+      "section_refs": ["7.5"],
+      "prompt": "Cuando se examina si el Estado o una comunidad autónoma puede regular una materia, debe atenderse principalmente al principio de:",
+      "options": [
+        {"id": "a", "text": "Publicidad"},
+        {"id": "b", "text": "Competencia"},
+        {"id": "c", "text": "Retroactividad"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El principio de competencia distribuye materias y potestades entre órganos y ordenamientos. No se resuelve afirmando que la norma estatal siempre sea superior.",
+      "source_note": "Constitución y Estatutos de Autonomía; Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principio cronológico",
+      "section_refs": ["7.5"],
+      "prompt": "Entre dos normas válidas del mismo rango, competencia y ámbito, incompatibles entre sí, la norma posterior desplaza a la anterior en virtud del principio de:",
+      "options": [
+        {"id": "a", "text": "Prevalencia"},
+        {"id": "b", "text": "Competencia"},
+        {"id": "c", "text": "Cronología"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La cronología opera entre normas válidas y comparables por rango, competencia y ámbito. No permite a una norma inferior derogar otra superior.",
+      "source_note": "Artículo 2.2 CC; Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principio de especialidad",
+      "section_refs": ["7.5"],
+      "prompt": "La aplicación preferente de una regulación sectorial al supuesto específico que contempla responde al principio de:",
+      "options": [
+        {"id": "a", "text": "Especialidad"},
+        {"id": "b", "text": "Jerarquía"},
+        {"id": "c", "text": "Publicidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La norma especial desplaza a la general en el supuesto específicamente regulado, sin que ello implique necesariamente la derogación completa de la norma general.",
+      "source_note": "Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q005",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "principio de prevalencia",
+      "section_refs": ["7.5"],
+      "prompt": "El principio de prevalencia en las relaciones entre normas estatales y autonómicas:",
+      "options": [
+        {"id": "a", "text": "Convierte toda ley estatal en jerárquicamente superior a cualquier ley autonómica"},
+        {"id": "b", "text": "Opera en los supuestos constitucionalmente previstos y no sustituye el examen previo de la competencia"},
+        {"id": "c", "text": "Permite a un reglamento estatal derogar una ley autonómica"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La prevalencia no es una jerarquía universal. Primero debe determinarse la competencia y después aplicar, si procede, la regla constitucional correspondiente.",
+      "source_note": "Artículo 149.3 CE; Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q006",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "requisitos del principio cronológico",
+      "section_refs": ["7.5"],
+      "prompt": "Para resolver un conflicto únicamente mediante el principio cronológico es necesario, entre otros requisitos, que las normas:",
+      "options": [
+        {"id": "a", "text": "Procedan siempre del mismo ministerio"},
+        {"id": "b", "text": "Hayan sido publicadas el mismo día"},
+        {"id": "c", "text": "Sean válidas, comparables por rango y aplicables al mismo ámbito"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La fecha no corrige la falta de competencia ni permite que una disposición inferior desplace a una superior.",
+      "source_note": "Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "método para resolver conflictos",
+      "section_refs": ["7.5"],
+      "prompt": "Al comenzar a resolver un conflicto entre normas, debe identificarse en primer lugar:",
+      "options": [
+        {"id": "a", "text": "Sus ámbitos territorial, temporal, material y personal"},
+        {"id": "b", "text": "Cuál de las dos normas resulta más extensa"},
+        {"id": "c", "text": "Qué norma contiene más artículos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Antes de comparar rango o fecha hay que confirmar que ambas normas pretenden aplicarse al mismo supuesto y dentro de sus respectivos ámbitos.",
+      "source_note": "Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "competencia y cronología",
+      "section_refs": ["7.5"],
+      "prompt": "Una norma dictada por un órgano incompetente es posterior a otra válida. Esta circunstancia:",
+      "options": [
+        {"id": "a", "text": "Hace que la norma posterior prevalezca siempre"},
+        {"id": "b", "text": "No sana la falta de competencia por aplicación del principio cronológico"},
+        {"id": "c", "text": "Convierte automáticamente la norma posterior en especial"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La cronología solo compara normas válidas. Una fecha posterior no atribuye al órgano una competencia que no posee.",
+      "source_note": "Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "rango y cronología",
+      "section_refs": ["7.5"],
+      "prompt": "Una orden ministerial posterior contiene una previsión incompatible con una ley anterior. ¿Qué afirmación es correcta?",
+      "options": [
+        {"id": "a", "text": "La orden deroga la ley por ser posterior"},
+        {"id": "b", "text": "Ambas normas quedan suspendidas hasta que intervenga el Congreso"},
+        {"id": "c", "text": "La orden no puede desplazar la ley porque tiene rango inferior"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La jerarquía se aplica antes que la cronología. Una disposición reglamentaria no puede derogar ni contradecir una ley.",
+      "source_note": "Artículos 9.3 CE y 1.2 CC; Atestado, apartado 7.5."
+    },
+    {
+      "id": "t01-b03b-q010",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "conflicto estatal-autonómico",
+      "section_refs": ["7.5"],
+      "prompt": "Ante una contradicción aparente entre una ley estatal y una ley autonómica, el primer análisis debe dirigirse a:",
+      "options": [
+        {"id": "a", "text": "Determinar qué ente tiene atribuida la competencia sobre la materia"},
+        {"id": "b", "text": "Aplicar siempre la ley estatal"},
+        {"id": "c", "text": "Aplicar siempre la ley más reciente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las leyes autonómicas tienen rango de ley en su ámbito competencial. La cuestión no se resuelve mediante una superioridad estatal general.",
+      "source_note": "Constitución y Estatutos de Autonomía; Atestado, apartados 7.3 y 7.5."
+    },
+    {
+      "id": "t01-b03b-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "control de constitucionalidad de las leyes",
+      "section_refs": ["7.6"],
+      "prompt": "El control de constitucionalidad de las leyes corresponde:",
+      "options": [
+        {"id": "a", "text": "Al Tribunal Supremo exclusivamente"},
+        {"id": "b", "text": "Al Tribunal Constitucional por las vías previstas en el ordenamiento"},
+        {"id": "c", "text": "A cada ministerio respecto de las leyes de su ámbito"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Tribunal Constitucional es el intérprete supremo de la Constitución y controla las leyes mediante los procedimientos constitucionales.",
+      "source_note": "Constitución y Ley Orgánica del Tribunal Constitucional; Atestado, apartado 7.6."
+    },
+    {
+      "id": "t01-b03b-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "control judicial de los reglamentos",
+      "section_refs": ["7.6"],
+      "prompt": "Los jueces y tribunales controlan:",
+      "options": [
+        {"id": "a", "text": "La oportunidad política de todas las leyes"},
+        {"id": "b", "text": "La constitucionalidad de las leyes sustituyendo siempre al Tribunal Constitucional"},
+        {"id": "c", "text": "La potestad reglamentaria y la legalidad de la actuación administrativa"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 106.1 CE atribuye a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa.",
+      "source_note": "Artículo 106.1 CE; Atestado, apartado 7.6."
+    },
+    {
+      "id": "t01-b03b-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "revisión administrativa",
+      "section_refs": ["7.6"],
+      "prompt": "La Administración puede revisar sus actos y disposiciones:",
+      "options": [
+        {"id": "a", "text": "Únicamente mediante los procedimientos y con los requisitos legalmente establecidos"},
+        {"id": "b", "text": "Libremente y sin procedimiento cuando cambie el criterio del órgano"},
+        {"id": "c", "text": "Solo si obtiene autorización previa del Congreso"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La revisión administrativa está sometida a legalidad, competencia, procedimiento y garantías; no es una potestad arbitraria.",
+      "source_note": "Legislación de procedimiento administrativo; Atestado, apartado 7.6."
+    },
+    {
+      "id": "t01-b03b-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "ley orgánica y ley ordinaria",
+      "section_refs": ["7.2", "trampas de jerarquía"],
+      "prompt": "Una ley ordinaria regula una materia constitucionalmente reservada a ley orgánica. El problema principal es de:",
+      "options": [
+        {"id": "a", "text": "Antigüedad de la ley ordinaria"},
+        {"id": "b", "text": "Competencia material y procedimiento legislativo"},
+        {"id": "c", "text": "Falta de publicación del Código Civil"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La ley orgánica se define por su reserva material y su mayoría específica, no por una superioridad jerárquica general.",
+      "source_note": "Artículo 81 CE; Atestado, apartado 7.2 y trampas de jerarquía."
+    },
+    {
+      "id": "t01-b03b-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "real decreto y normas con rango de ley",
+      "section_refs": ["7.4", "trampas de jerarquía"],
+      "prompt": "Señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Todo real decreto tiene rango de ley"},
+        {"id": "b", "text": "Ninguna disposición del Gobierno puede tener rango de ley"},
+        {"id": "c", "text": "El real decreto ordinario es reglamentario, mientras el real decreto-ley y el real decreto legislativo tienen rango de ley"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La semejanza en la denominación no debe ocultar su naturaleza distinta. Decreto-ley y decreto legislativo son normas con rango de ley previstas en la Constitución.",
+      "source_note": "Artículos 82, 85 y 86 CE; Atestado, apartado 7.4 y trampas de jerarquía."
+    },
+    {
+      "id": "t01-b03b-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "límites de resoluciones e instrucciones",
+      "section_refs": ["7.4", "trampas de jerarquía"],
+      "prompt": "Una resolución administrativa posterior contradice una orden ministerial vigente. Conforme a la jerarquía normativa:",
+      "options": [
+        {"id": "a", "text": "La resolución no puede derogar ni contradecir válidamente la orden"},
+        {"id": "b", "text": "La resolución prevalece siempre por ser posterior"},
+        {"id": "c", "text": "La orden queda convertida en ley ordinaria"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Una resolución o instrucción inferior no puede innovar el ordenamiento contra una disposición reglamentaria superior.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 7.4 y trampas de jerarquía."
+    },
+    {
+      "id": "t01-b03b-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "publicación y entrada en vigor",
+      "section_refs": ["trampas de jerarquía"],
+      "prompt": "La publicación de una norma y su entrada en vigor:",
+      "options": [
+        {"id": "a", "text": "Coinciden necesariamente en la misma fecha"},
+        {"id": "b", "text": "Son momentos distintos, aunque la propia norma puede disponer su entrada en vigor el día de publicación"},
+        {"id": "c", "text": "Solo se diferencian en las leyes orgánicas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La publicación permite conocer oficialmente la norma; su vigencia comienza en la fecha prevista o, supletoriamente, conforme al artículo 2.1 CC.",
+      "source_note": "Artículo 2.1 CC; Atestado, apartado 5.1 y trampas de jerarquía."
+    },
+    {
+      "id": "t01-b03b-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "posición de la jurisprudencia",
+      "section_refs": ["trampas de jerarquía"],
+      "prompt": "La jurisprudencia del Tribunal Supremo:",
+      "options": [
+        {"id": "a", "text": "Puede derogar una ley por considerarla inconveniente"},
+        {"id": "b", "text": "Es una norma reglamentaria superior al real decreto"},
+        {"id": "c", "text": "Complementa el ordenamiento, pero no aparece como fuente directa en el artículo 1.1 CC"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 1.6 CC atribuye a la jurisprudencia una función complementaria mediante doctrina reiterada.",
+      "source_note": "Artículo 1.6 CC; Atestado, apartado 4.4 y trampas de jerarquía."
+    },
+    {
+      "id": "t01-b03b-q019",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "jerarquía reglamentaria",
+      "section_refs": ["7.4", "7.5"],
+      "prompt": "Una orden ministerial posterior contradice un real decreto acordado en Consejo de Ministros. ¿Qué solución procede?",
+      "options": [
+        {"id": "a", "text": "Debe respetarse el real decreto por su superior jerarquía reglamentaria"},
+        {"id": "b", "text": "Debe aplicarse la orden por ser posterior"},
+        {"id": "c", "text": "Ambas disposiciones tienen siempre el mismo rango"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Ley del Gobierno sitúa los reglamentos aprobados por real decreto por encima de las disposiciones aprobadas por orden ministerial.",
+      "source_note": "Artículo 24.2 de la Ley 50/1997; Atestado, apartados 7.4 y 7.5."
+    },
+    {
+      "id": "t01-b03b-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "alcance de la prevalencia",
+      "section_refs": ["7.5"],
+      "prompt": "Respecto de la prevalencia del Derecho estatal, señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "Hace innecesario determinar si el Estado tiene competencia sobre la materia"},
+        {"id": "b", "text": "No constituye una regla general de superioridad de toda norma estatal sobre toda norma autonómica"},
+        {"id": "c", "text": "Permite que una instrucción estatal desplace cualquier ley autonómica"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La prevalencia debe aplicarse en su marco constitucional. No elimina la distribución de competencias ni altera por sí sola el rango de las normas.",
+      "source_note": "Artículo 149.3 CE; Atestado, apartado 7.5."
+    }
+  ]
+}

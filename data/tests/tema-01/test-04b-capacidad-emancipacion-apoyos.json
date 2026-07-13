@@ -1,0 +1,461 @@
+{
+  "id": "t01-b04b-capacidad-emancipacion-apoyos-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 4B · Capacidad, emancipación y medidas de apoyo",
+    "short_title": "Capacidad, emancipación y apoyos",
+    "description": "Comprueba si distingues titularidad y ejercicio de derechos y si sabes aplicar las reglas de mayoría, minoría y emancipación. Incluye las formas de emanciparse, sus requisitos y límites patrimoniales y el sistema vigente de medidas de apoyo, basado en la voluntad, los deseos y las preferencias de la persona.",
+    "theme_number": 1,
+    "block_number": "4B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["10", "10.1", "10.2", "10.3", "10.4", "10.5", "10.6"],
+    "concepts": [
+      "capacidad jurídica y capacidad de obrar",
+      "ejercicio de la capacidad jurídica en igualdad",
+      "mayoría de edad y cómputo",
+      "autonomía progresiva del menor",
+      "formas de emancipación",
+      "concesión de la emancipación por los progenitores",
+      "inscripción e irrevocabilidad",
+      "vida independiente del mayor de dieciséis años",
+      "emancipación judicial",
+      "efectos generales de la emancipación",
+      "límites patrimoniales del emancipado",
+      "consentimiento complementario",
+      "reglas del emancipado casado",
+      "modelo de apoyos de la Ley 8/2021",
+      "principios y salvaguardas de los apoyos",
+      "medidas voluntarias",
+      "guarda de hecho",
+      "curatela",
+      "defensor judicial",
+      "representación excepcional y ajustes de procedimiento"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b04b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "capacidad jurídica",
+      "section_refs": ["10.1"],
+      "prompt": "La capacidad jurídica es la aptitud para:",
+      "options": [
+        {"id": "a", "text": "Ser titular de derechos y obligaciones"},
+        {"id": "b", "text": "Ejercer personalmente cualquier derecho sin excepción"},
+        {"id": "c", "text": "Representar a otras personas en todo caso"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Toda persona posee capacidad jurídica. Es la aptitud para ser titular de relaciones jurídicas y no se gradúa como si unas personas tuvieran más personalidad que otras.",
+      "source_note": "Código Civil y Ley 8/2021; Atestado, apartado 10.1."
+    },
+    {
+      "id": "t01-b04b-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "capacidad de obrar",
+      "section_refs": ["10.1"],
+      "prompt": "La capacidad de obrar se refiere tradicionalmente a la aptitud para:",
+      "options": [
+        {"id": "a", "text": "Adquirir personalidad jurídica al inscribirse en el Registro Civil"},
+        {"id": "b", "text": "Ejercer válidamente por uno mismo derechos y obligaciones"},
+        {"id": "c", "text": "Ser titular únicamente de derechos patrimoniales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La distinción clásica separa la titularidad de derechos de su ejercicio personal, que puede quedar sujeto a edad, asistencia o requisitos propios del acto.",
+      "source_note": "Atestado, apartado 10.1."
+    },
+    {
+      "id": "t01-b04b-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "ejercicio en igualdad",
+      "section_refs": ["10.1", "10.5"],
+      "prompt": "Tras la reforma introducida por la Ley 8/2021, las personas con discapacidad:",
+      "options": [
+        {"id": "a", "text": "Pierden automáticamente la capacidad jurídica cuando necesitan ayuda"},
+        {"id": "b", "text": "Quedan sometidas necesariamente a tutela de adultos"},
+        {"id": "c", "text": "Ejercen su capacidad jurídica en igualdad de condiciones y, cuando sea preciso, con apoyos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El modelo actual abandona la incapacitación general y centra la intervención en proporcionar los apoyos necesarios para el ejercicio de la capacidad.",
+      "source_note": "Ley 8/2021 y artículos 249 y siguientes CC; Atestado, apartados 10.1 y 10.5."
+    },
+    {
+      "id": "t01-b04b-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "mayoría de edad",
+      "section_refs": ["10.2"],
+      "prompt": "La mayoría de edad comienza en España a los:",
+      "options": [
+        {"id": "a", "text": "Dieciocho años cumplidos"},
+        {"id": "b", "text": "Dieciséis años cumplidos"},
+        {"id": "c", "text": "Veintiún años cumplidos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La mayoría de edad se alcanza a los dieciocho años, conforme a la Constitución y al Código Civil.",
+      "source_note": "Artículo 12 CE y artículo 240 CC; Atestado, apartado 10.2."
+    },
+    {
+      "id": "t01-b04b-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "cómputo de la mayoría de edad",
+      "section_refs": ["10.2"],
+      "prompt": "Para computar la mayoría de edad:",
+      "options": [
+        {"id": "a", "text": "Se excluye siempre el día del nacimiento"},
+        {"id": "b", "text": "Se incluye completo el día del nacimiento"},
+        {"id": "c", "text": "Se comienza a contar desde la inscripción registral"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 240 CC establece expresamente que, para el cómputo de la mayoría de edad, se incluye completo el día del nacimiento.",
+      "source_note": "Artículo 240 CC; Atestado, apartado 10.2."
+    },
+    {
+      "id": "t01-b04b-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "efectos de la mayoría de edad",
+      "section_refs": ["10.2"],
+      "prompt": "La persona mayor de edad puede realizar los actos de la vida civil:",
+      "options": [
+        {"id": "a", "text": "Solo con autorización de sus progenitores"},
+        {"id": "b", "text": "Sin quedar sometida a ninguna limitación legal posible"},
+        {"id": "c", "text": "Como regla general, salvo las excepciones establecidas legalmente"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La mayoría concede plena autonomía civil general, pero determinados actos pueden exigir requisitos específicos previstos por la ley.",
+      "source_note": "Artículo 246 CC; Atestado, apartado 10.2."
+    },
+    {
+      "id": "t01-b04b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "minoría y autonomía progresiva",
+      "section_refs": ["10.3"],
+      "prompt": "Respecto de la capacidad del menor de edad, señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "Su autonomía se desarrolla progresivamente y cada acto puede exigir edad, madurez, asistencia o representación diferentes"},
+        {"id": "b", "text": "Carece de derechos hasta alcanzar la mayoría de edad"},
+        {"id": "c", "text": "Tiene una incapacidad absoluta e idéntica para todos los actos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El menor es titular de derechos y participa progresivamente en su ejercicio. No existe una incapacidad uniforme para todas las edades y actuaciones.",
+      "source_note": "Código Civil y legislación de protección del menor; Atestado, apartado 10.3."
+    },
+    {
+      "id": "t01-b04b-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "formas de emancipación",
+      "section_refs": ["10.4"],
+      "prompt": "La emancipación tiene lugar, según el Código Civil:",
+      "options": [
+        {"id": "a", "text": "Únicamente por concesión judicial"},
+        {"id": "b", "text": "Por mayoría de edad, concesión de quienes ejercen la patria potestad o concesión judicial"},
+        {"id": "c", "text": "Automáticamente al cumplir catorce años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 239 CC enumera esas tres formas, sin perjuicio de la situación del mayor de dieciséis años que vive independientemente con consentimiento.",
+      "source_note": "Artículo 239 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "concesión por los progenitores",
+      "section_refs": ["10.4"],
+      "prompt": "Para que quienes ejercen la patria potestad concedan la emancipación se requiere que el menor:",
+      "options": [
+        {"id": "a", "text": "Haya cumplido catorce años y sea oído"},
+        {"id": "b", "text": "Haya cumplido diecisiete años y cuente con autorización judicial"},
+        {"id": "c", "text": "Haya cumplido dieciséis años y consienta la emancipación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La concesión exige dieciséis años cumplidos y consentimiento del menor, y se formaliza en escritura pública o comparecencia ante el Registro Civil.",
+      "source_note": "Artículo 241 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q010",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "inscripción de la emancipación",
+      "section_refs": ["10.4"],
+      "prompt": "La emancipación concedida por quienes ejercen la patria potestad produce efectos frente a terceros:",
+      "options": [
+        {"id": "a", "text": "Desde su inscripción en el Registro Civil"},
+        {"id": "b", "text": "Desde que el menor comunica verbalmente su intención"},
+        {"id": "c", "text": "Únicamente al alcanzar los dieciocho años"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La concesión debe inscribirse para producir efectos frente a terceros, sin perjuicio de su formalización en escritura pública o comparecencia registral.",
+      "source_note": "Artículo 242 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "irrevocabilidad",
+      "section_refs": ["10.4"],
+      "prompt": "Una vez concedida la emancipación formal:",
+      "options": [
+        {"id": "a", "text": "Puede revocarse libremente por los progenitores"},
+        {"id": "b", "text": "No puede ser revocada"},
+        {"id": "c", "text": "Caduca a los seis meses"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La emancipación formal es irrevocable. Debe distinguirse del consentimiento para vivir independientemente, que sí puede revocarse.",
+      "source_note": "Artículo 242 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "vida independiente",
+      "section_refs": ["10.4"],
+      "prompt": "El hijo mayor de dieciséis años que vive independientemente con consentimiento de sus progenitores:",
+      "options": [
+        {"id": "a", "text": "No produce ningún efecto jurídico hasta los dieciocho años"},
+        {"id": "b", "text": "Queda emancipado irrevocablemente mediante esa sola convivencia"},
+        {"id": "c", "text": "Se reputa emancipado, aunque el consentimiento para la vida independiente puede revocarse"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 243 CC equipara esta situación a la emancipación a efectos civiles, pero permite a los progenitores revocar el consentimiento.",
+      "source_note": "Artículo 243 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q013",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "emancipación judicial",
+      "section_refs": ["10.4"],
+      "prompt": "El juez puede conceder la emancipación al mayor de dieciséis años que la solicite, previa audiencia de los progenitores, cuando:",
+      "options": [
+        {"id": "a", "text": "Concurra alguno de los supuestos legales que entorpezcan gravemente el ejercicio de la patria potestad"},
+        {"id": "b", "text": "El menor quiera contratar un servicio telefónico"},
+        {"id": "c", "text": "Lo solicite cualquier tercero sin intervención del menor"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Entre los supuestos legales se encuentran nuevas nupcias o convivencia del progenitor, separación de los progenitores u otra causa que entorpezca gravemente la patria potestad.",
+      "source_note": "Artículo 244 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "efectos generales de la emancipación",
+      "section_refs": ["10.4"],
+      "prompt": "La emancipación habilita al menor para:",
+      "options": [
+        {"id": "a", "text": "Realizar sin asistencia absolutamente todos los actos patrimoniales"},
+        {"id": "b", "text": "Regir su persona y bienes como si fuera mayor, con las limitaciones legales hasta alcanzar la mayoría"},
+        {"id": "c", "text": "Ejercer la patria potestad sobre sus hermanos menores"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El emancipado adquiere una autonomía amplia, pero conserva límites concretos para actos patrimoniales especialmente relevantes.",
+      "source_note": "Artículo 247 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "límites patrimoniales",
+      "section_refs": ["10.4"],
+      "prompt": "Hasta alcanzar la mayoría de edad, el emancipado necesita consentimiento para:",
+      "options": [
+        {"id": "a", "text": "Comparecer por sí solo en juicio"},
+        {"id": "b", "text": "Administrar ordinariamente sus ingresos"},
+        {"id": "c", "text": "Tomar dinero a préstamo o gravar o enajenar bienes inmuebles"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "También necesita consentimiento para gravar o enajenar establecimientos mercantiles o industriales y objetos de extraordinario valor.",
+      "source_note": "Artículo 247 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "consentimiento complementario",
+      "section_refs": ["10.4"],
+      "prompt": "Para los actos patrimoniales limitados, el consentimiento complementario corresponde:",
+      "options": [
+        {"id": "a", "text": "A sus progenitores y, a falta de ambos, a su defensor judicial"},
+        {"id": "b", "text": "Siempre al alcalde de su municipio"},
+        {"id": "c", "text": "A cualquier pariente mayor de edad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El emancipado realiza el acto por sí mismo, pero necesita el consentimiento complementario de los progenitores o, en su defecto, del defensor judicial.",
+      "source_note": "Artículo 247 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "comparecencia en juicio",
+      "section_refs": ["10.4"],
+      "prompt": "El menor emancipado puede comparecer en juicio:",
+      "options": [
+        {"id": "a", "text": "Solo representado por sus progenitores"},
+        {"id": "b", "text": "Por sí solo"},
+        {"id": "c", "text": "Únicamente después de cumplir veintiún años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 247 CC reconoce expresamente al emancipado capacidad para comparecer por sí solo en juicio.",
+      "source_note": "Artículo 247 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "emancipado casado",
+      "section_refs": ["10.4"],
+      "prompt": "Para enajenar un inmueble común, si el emancipado está casado con una persona mayor de edad:",
+      "options": [
+        {"id": "a", "text": "Necesita siempre autorización judicial"},
+        {"id": "b", "text": "Puede actuar sin consentimiento de nadie"},
+        {"id": "c", "text": "Basta el consentimiento de ambos cónyuges"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Si el otro cónyuge también fuera menor, se necesitaría además el consentimiento de los progenitores o defensores judiciales de uno y otro.",
+      "source_note": "Artículo 248 CC; Atestado, apartado 10.4."
+    },
+    {
+      "id": "t01-b04b-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "modelo de apoyos",
+      "section_refs": ["10.5"],
+      "prompt": "La Ley 8/2021 sustituyó el sistema centrado en incapacitar a la persona por otro orientado a:",
+      "options": [
+        {"id": "a", "text": "Apoyar el ejercicio de su capacidad jurídica respetando su voluntad, deseos y preferencias"},
+        {"id": "b", "text": "Privarla de todos sus derechos patrimoniales"},
+        {"id": "c", "text": "Nombrar tutor a toda persona con discapacidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El sistema vigente proporciona apoyos individualizados y abandona la sustitución general de la persona en la toma de decisiones.",
+      "source_note": "Ley 8/2021 y artículo 249 CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "clases de medidas de apoyo",
+      "section_refs": ["10.5"],
+      "prompt": "Son medidas o formas de apoyo previstas en el sistema vigente:",
+      "options": [
+        {"id": "a", "text": "La incapacitación, la tutela de adultos y la patria potestad prorrogada"},
+        {"id": "b", "text": "Las medidas voluntarias, la guarda de hecho, la curatela y el defensor judicial"},
+        {"id": "c", "text": "Exclusivamente la representación judicial permanente"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 250 CC recoge medidas voluntarias, guarda de hecho, curatela y defensor judicial, con funciones adaptadas a las necesidades de la persona.",
+      "source_note": "Artículo 250 CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "medidas voluntarias",
+      "section_refs": ["10.5"],
+      "prompt": "Las medidas voluntarias de apoyo:",
+      "options": [
+        {"id": "a", "text": "Solo pueden establecerse después de que aparezca la necesidad"},
+        {"id": "b", "text": "Carecen de preferencia frente a cualquier medida judicial"},
+        {"id": "c", "text": "Permiten que la propia persona organice anticipadamente quién y cómo debe prestarle apoyo"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La persona puede establecer apoyos, salvaguardas, controles y poderes preventivos. Estas previsiones tienen preferencia si resultan suficientes.",
+      "source_note": "Artículos 250 y 255 y siguientes CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "guarda de hecho",
+      "section_refs": ["10.5"],
+      "prompt": "La guarda de hecho es:",
+      "options": [
+        {"id": "a", "text": "Una medida informal que puede resultar suficiente, aunque determinados actos representativos exijan autorización judicial"},
+        {"id": "b", "text": "Una declaración de incapacidad general"},
+        {"id": "c", "text": "Una representación automática e ilimitada"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El guardador acompaña o asiste en la vida ordinaria, pero no se convierte por ello en representante general de la persona.",
+      "source_note": "Artículos 263 y siguientes CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "curatela",
+      "section_refs": ["10.5"],
+      "prompt": "La curatela se establece cuando:",
+      "options": [
+        {"id": "a", "text": "Toda persona con discapacidad alcanza la mayoría de edad"},
+        {"id": "b", "text": "El apoyo se necesita de modo continuado y otras medidas no resultan suficientes"},
+        {"id": "c", "text": "Es necesario privar globalmente a la persona de todos sus derechos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La resolución judicial debe precisar los actos en los que se necesita asistencia. Las facultades representativas son excepcionales y deben especificarse.",
+      "source_note": "Artículos 268 y siguientes CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "defensor judicial",
+      "section_refs": ["10.5"],
+      "prompt": "El defensor judicial presta apoyo principalmente:",
+      "options": [
+        {"id": "a", "text": "De forma general y permanente en todos los actos de la vida"},
+        {"id": "b", "text": "Solo para sustituir a los progenitores de menores emancipados"},
+        {"id": "c", "text": "De forma ocasional, incluso si la necesidad puede repetirse, o ante conflictos e imposibilidades de otros apoyos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Es una medida formal para necesidades ocasionales y otros supuestos tasados, como conflicto de intereses o imposibilidad temporal de quien presta apoyo.",
+      "source_note": "Artículos 295 y siguientes CC; Atestado, apartado 10.5."
+    },
+    {
+      "id": "t01-b04b-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "representación y ajustes",
+      "section_refs": ["10.5", "10.6"],
+      "prompt": "En una actuación pública con una persona con discapacidad debe tenerse presente que:",
+      "options": [
+        {"id": "a", "text": "La representación es excepcional y pueden ser necesarios ajustes de comunicación aunque no exista una medida judicial"},
+        {"id": "b", "text": "El diagnóstico permite presumir incapacidad para decidir"},
+        {"id": "c", "text": "Solo pueden realizarse ajustes si existe previamente un curador representativo"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Los apoyos civiles y los ajustes de procedimiento son distintos. Deben facilitarse comunicación accesible, tiempo o asistencia adecuados a la situación concreta.",
+      "source_note": "Ley 8/2021 y normativa sobre discapacidad; Atestado, apartados 10.5 y 10.6."
+    }
+  ]
+}

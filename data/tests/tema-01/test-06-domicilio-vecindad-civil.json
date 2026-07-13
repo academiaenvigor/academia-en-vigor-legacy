@@ -1,0 +1,461 @@
+{
+  "id": "t01-b06-domicilio-vecindad-civil-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 6 · Domicilio y vecindad civil",
+    "short_title": "Domicilio y vecindad civil",
+    "description": "Diferencia correctamente domicilio, residencia, empadronamiento y espacio constitucionalmente protegido, y aplica las reglas especiales de diplomáticos y personas jurídicas. En vecindad civil practicarás atribución al nacer o ser adoptado, opción, matrimonio, residencia, adquisición de nacionalidad y recuperación.",
+    "theme_number": 1,
+    "block_number": 6,
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["21", "21.1", "21.2", "21.3", "21.4", "21.5", "22", "22.1", "22.2", "22.3", "22.4", "22.5", "22.6", "22.7"],
+    "concepts": [
+      "domicilio civil de la persona física",
+      "funciones de localización jurídica",
+      "domicilio real, legal y electivo",
+      "domicilio de diplomáticos",
+      "domicilio de personas jurídicas",
+      "residencia y empadronamiento",
+      "domicilio fiscal y electoral",
+      "domicilio constitucional",
+      "concepto y función de la vecindad civil",
+      "distinción entre vecindad, nacionalidad y domicilio",
+      "atribución por vecindad de los progenitores",
+      "progenitores con distinta vecindad",
+      "atribución dentro de los seis meses",
+      "vecindad del adoptado",
+      "opción del hijo y asistencia",
+      "matrimonio y opción del cónyuge",
+      "adquisición por residencia de dos o diez años",
+      "declaraciones registrales",
+      "regla en caso de duda",
+      "vecindad al adquirir o recuperar la nacionalidad"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b06-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "domicilio civil",
+      "section_refs": ["21.1"],
+      "prompt": "Para el ejercicio de derechos y el cumplimiento de obligaciones civiles, el domicilio de la persona física es, salvo previsión legal distinta:",
+      "options": [
+        {"id": "a", "text": "El lugar de su residencia habitual"},
+        {"id": "b", "text": "El lugar en el que nació"},
+        {"id": "c", "text": "Cualquier municipio en el que posea un inmueble"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 40 CC vincula el domicilio civil general a la residencia habitual, sin perjuicio de domicilios determinados por la ley.",
+      "source_note": "Artículo 40 CC; Atestado, apartado 21.1."
+    },
+    {
+      "id": "t01-b06-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "funciones del domicilio",
+      "section_refs": ["21.1"],
+      "prompt": "El domicilio cumple principalmente una función de:",
+      "options": [
+        {"id": "a", "text": "Atribución automática de nacionalidad"},
+        {"id": "b", "text": "Localización jurídica para derechos, obligaciones, comunicaciones o competencia territorial"},
+        {"id": "c", "text": "Determinación de la edad civil"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El domicilio conecta jurídicamente a la persona con un lugar y puede resultar relevante para múltiples efectos civiles y procesales.",
+      "source_note": "Artículo 40 CC; Atestado, apartado 21.1."
+    },
+    {
+      "id": "t01-b06-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "clases doctrinales de domicilio",
+      "section_refs": ["21.1"],
+      "prompt": "Doctrinalmente, el domicilio que deriva de la residencia habitual, el fijado por la ley y el señalado para una relación concreta se denominan, respectivamente:",
+      "options": [
+        {"id": "a", "text": "Fiscal, administrativo y constitucional"},
+        {"id": "b", "text": "General, especial y foral"},
+        {"id": "c", "text": "Real o voluntario, legal o necesario y electivo"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La clasificación atiende al origen y alcance del domicilio: residencia elegida, imposición legal o elección para un negocio o relación determinada.",
+      "source_note": "Atestado, apartado 21.1."
+    },
+    {
+      "id": "t01-b06-q004",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "domicilio electivo",
+      "section_refs": ["21.1"],
+      "prompt": "El domicilio señalado por las partes para recibir notificaciones de un contrato:",
+      "options": [
+        {"id": "a", "text": "Tiene un alcance vinculado a esa relación y no sustituye necesariamente al domicilio civil general"},
+        {"id": "b", "text": "Modifica automáticamente la vecindad civil"},
+        {"id": "c", "text": "Se convierte en domicilio constitucional de cualquier tercero"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El domicilio electivo produce los efectos previstos para la relación concreta dentro de los límites legales y de la declaración realizada.",
+      "source_note": "Atestado, apartado 21.1."
+    },
+    {
+      "id": "t01-b06-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "domicilio de diplomáticos",
+      "section_refs": ["21.2"],
+      "prompt": "El domicilio de los diplomáticos que residan en el extranjero por razón de su cargo y gocen de extraterritorialidad será:",
+      "options": [
+        {"id": "a", "text": "La sede del Ministerio de Asuntos Exteriores"},
+        {"id": "b", "text": "El último que hubieran tenido en territorio español"},
+        {"id": "c", "text": "Necesariamente el lugar de nacimiento"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Es la regla especial contenida en el segundo párrafo del artículo 40 CC.",
+      "source_note": "Artículo 40 CC; Atestado, apartado 21.2."
+    },
+    {
+      "id": "t01-b06-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "domicilio de personas jurídicas",
+      "section_refs": ["21.3"],
+      "prompt": "Si la ley, los estatutos o las reglas de fundación no fijan el domicilio de una persona jurídica, se considera como tal:",
+      "options": [
+        {"id": "a", "text": "El domicilio personal de cualquiera de sus trabajadores"},
+        {"id": "b", "text": "El lugar donde se celebró su primera reunión"},
+        {"id": "c", "text": "El lugar de su representación legal o donde ejerza sus funciones principales"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 41 CC establece primero la ley, estatutos o reglas fundacionales y, en su defecto, esos dos criterios de localización.",
+      "source_note": "Artículo 41 CC; Atestado, apartado 21.3."
+    },
+    {
+      "id": "t01-b06-q007",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "empadronamiento",
+      "section_refs": ["21.4", "21.5"],
+      "prompt": "El empadronamiento es:",
+      "options": [
+        {"id": "a", "text": "Una inscripción administrativa municipal que no se identifica necesariamente con el domicilio civil"},
+        {"id": "b", "text": "La forma de adquirir automáticamente vecindad civil"},
+        {"id": "c", "text": "Una declaración constitutiva de nacionalidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El padrón puede aportar información sobre residencia, pero cada concepto tiene función, requisitos y efectos propios.",
+      "source_note": "Legislación de régimen local; Atestado, apartados 21.4 y 21.5."
+    },
+    {
+      "id": "t01-b06-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "domicilios fiscal y electoral",
+      "section_refs": ["21.4"],
+      "prompt": "El domicilio fiscal y el domicilio electoral:",
+      "options": [
+        {"id": "a", "text": "Coinciden siempre y necesariamente con la vecindad civil"},
+        {"id": "b", "text": "Responden a sus respectivas normativas tributaria y electoral y no deben confundirse con el domicilio civil"},
+        {"id": "c", "text": "Son categorías inexistentes en el ordenamiento"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Una misma persona puede quedar localizada de forma distinta según la finalidad civil, tributaria, electoral o administrativa examinada.",
+      "source_note": "Normativa tributaria y electoral; Atestado, apartado 21.4."
+    },
+    {
+      "id": "t01-b06-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "domicilio constitucional",
+      "section_refs": ["21.4", "21.5"],
+      "prompt": "A efectos de la protección frente a entradas, el concepto constitucional de domicilio:",
+      "options": [
+        {"id": "a", "text": "Se limita al inmueble en propiedad donde una persona está empadronada"},
+        {"id": "b", "text": "Coincide siempre con el domicilio fiscal"},
+        {"id": "c", "text": "Protege espacios destinados al desarrollo de la vida privada, incluso de forma temporal"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El domicilio constitucional responde a la protección de la intimidad y tiene una finalidad distinta de la localización civil del artículo 40 CC.",
+      "source_note": "Artículo 18.2 CE; Atestado, apartados 21.4 y 21.5."
+    },
+    {
+      "id": "t01-b06-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "habitación de hotel",
+      "section_refs": ["21.4", "21.5"],
+      "prompt": "Una habitación de hotel ocupada para desarrollar vida privada:",
+      "options": [
+        {"id": "a", "text": "Puede ser domicilio constitucional sin constituir el domicilio civil habitual"},
+        {"id": "b", "text": "Nunca puede recibir protección constitucional"},
+        {"id": "c", "text": "Modifica automáticamente la vecindad civil del huésped"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Los conceptos civil y constitucional de domicilio pueden recaer sobre lugares distintos porque cumplen funciones diferentes.",
+      "source_note": "Artículo 18.2 CE y jurisprudencia constitucional; Atestado, apartados 21.4 y 21.5."
+    },
+    {
+      "id": "t01-b06-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concepto de vecindad civil",
+      "section_refs": ["22.1"],
+      "prompt": "La vecindad civil determina:",
+      "options": [
+        {"id": "a", "text": "El municipio en el que debe empadronarse una persona"},
+        {"id": "b", "text": "La sujeción al Derecho civil común o a un Derecho civil especial o foral"},
+        {"id": "c", "text": "La nacionalidad del Estado al que pertenece"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La vecindad civil resuelve cuál de los Derechos civiles españoles coexistentes se aplica a la persona.",
+      "source_note": "Artículo 14.1 CC; Atestado, apartado 22.1."
+    },
+    {
+      "id": "t01-b06-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "distinción de conceptos",
+      "section_refs": ["22.1"],
+      "prompt": "La vecindad civil:",
+      "options": [
+        {"id": "a", "text": "Equivale al empadronamiento"},
+        {"id": "b", "text": "Cambia automáticamente al trasladar el domicilio"},
+        {"id": "c", "text": "No equivale a nacionalidad, domicilio, residencia ni vecindad administrativa"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Cada figura cumple una función distinta. Una persona puede residir en un territorio y conservar otra vecindad civil.",
+      "source_note": "Artículo 14 CC; Atestado, apartado 22.1."
+    },
+    {
+      "id": "t01-b06-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "progenitores con igual vecindad",
+      "section_refs": ["22.2"],
+      "prompt": "Si ambos progenitores tienen la misma vecindad civil, el hijo adquiere:",
+      "options": [
+        {"id": "a", "text": "La vecindad civil de sus progenitores"},
+        {"id": "b", "text": "Necesariamente la del lugar de nacimiento"},
+        {"id": "c", "text": "Siempre la vecindad de Derecho común"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La coincidencia de vecindad de ambos progenitores determina directamente la vecindad del hijo.",
+      "source_note": "Artículo 14.2 CC; Atestado, apartado 22.2."
+    },
+    {
+      "id": "t01-b06-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "progenitores con distinta vecindad",
+      "section_refs": ["22.2"],
+      "prompt": "Si los progenitores tienen distinta vecindad civil, el orden subsidiario para atribuirla al hijo es:",
+      "options": [
+        {"id": "a", "text": "Lugar de nacimiento, filiación determinada antes y vecindad del padre"},
+        {"id": "b", "text": "Filiación determinada antes, lugar de nacimiento y, en último término, Derecho común"},
+        {"id": "c", "text": "Vecindad de la madre, lugar de residencia y Derecho foral más próximo"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Código evita una preferencia automática por razón de sexo y utiliza sucesivamente filiación, nacimiento y Derecho común.",
+      "source_note": "Artículo 14.3 CC; Atestado, apartado 22.2."
+    },
+    {
+      "id": "t01-b06-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "atribución por los progenitores",
+      "section_refs": ["22.2"],
+      "prompt": "Los progenitores o quien ejerza la patria potestad pueden atribuir al hijo la vecindad civil de cualquiera de ellos dentro de:",
+      "options": [
+        {"id": "a", "text": "Los dos años siguientes al nacimiento"},
+        {"id": "b", "text": "El primer mes de vida exclusivamente"},
+        {"id": "c", "text": "Los seis meses siguientes al nacimiento o adopción"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La atribución debe realizarse dentro del plazo de seis meses y no se identifica con un cambio de domicilio del hijo.",
+      "source_note": "Artículo 14.3 CC; Atestado, apartado 22.2."
+    },
+    {
+      "id": "t01-b06-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "vecindad del adoptado",
+      "section_refs": ["22.2"],
+      "prompt": "El adoptado no emancipado adquiere:",
+      "options": [
+        {"id": "a", "text": "La vecindad civil de los adoptantes"},
+        {"id": "b", "text": "Siempre la vecindad del lugar donde se constituyó la adopción"},
+        {"id": "c", "text": "Únicamente la vecindad de Derecho común"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Código vincula la vecindad del adoptado no emancipado a la de sus adoptantes conforme a las reglas de filiación.",
+      "source_note": "Artículo 14.2 CC; Atestado, apartado 22.2."
+    },
+    {
+      "id": "t01-b06-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "plazo de opción del hijo",
+      "section_refs": ["22.3"],
+      "prompt": "El hijo puede optar por determinadas vecindades civiles desde que cumple catorce años y hasta:",
+      "options": [
+        {"id": "a", "text": "El mismo día en que se emancipe"},
+        {"id": "b", "text": "Un año después de su emancipación"},
+        {"id": "c", "text": "Que cumpla treinta años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Si todavía no está emancipado, la declaración de opción requiere la asistencia de su representante legal.",
+      "source_note": "Artículo 14.3 CC; Atestado, apartado 22.3."
+    },
+    {
+      "id": "t01-b06-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "contenido y asistencia de la opción",
+      "section_refs": ["22.3"],
+      "prompt": "El hijo no emancipado mayor de catorce años puede optar, con asistencia de su representante legal, por:",
+      "options": [
+        {"id": "a", "text": "Cualquier vecindad civil que elija sin conexión personal"},
+        {"id": "b", "text": "Únicamente la vecindad del domicilio actual"},
+        {"id": "c", "text": "La del lugar de nacimiento o la última vecindad de cualquiera de sus progenitores"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La opción del hijo queda limitada a esos puntos de conexión familiares o territoriales expresamente previstos.",
+      "source_note": "Artículo 14.3 CC; Atestado, apartado 22.3."
+    },
+    {
+      "id": "t01-b06-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "matrimonio y vecindad",
+      "section_refs": ["22.4"],
+      "prompt": "El matrimonio respecto de la vecindad civil de los cónyuges:",
+      "options": [
+        {"id": "a", "text": "No la altera automáticamente"},
+        {"id": "b", "text": "Impone siempre al otro cónyuge la vecindad del marido"},
+        {"id": "c", "text": "Produce necesariamente vecindad de Derecho común"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El principio de independencia personal impide el cambio automático de vecindad por matrimonio.",
+      "source_note": "Artículo 14.4 CC; Atestado, apartado 22.4."
+    },
+    {
+      "id": "t01-b06-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "opción del cónyuge",
+      "section_refs": ["22.4"],
+      "prompt": "El cónyuge no separado legalmente ni de hecho puede optar por la vecindad civil del otro:",
+      "options": [
+        {"id": "a", "text": "Solo durante los seis primeros meses de matrimonio"},
+        {"id": "b", "text": "En cualquier momento"},
+        {"id": "c", "text": "Únicamente después de diez años de residencia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El matrimonio no cambia automáticamente la vecindad, pero la ley reconoce al cónyuge no separado un derecho de opción sin ese límite temporal.",
+      "source_note": "Artículo 14.4 CC; Atestado, apartado 22.4."
+    },
+    {
+      "id": "t01-b06-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "adquisición por residencia",
+      "section_refs": ["22.5"],
+      "prompt": "La vecindad civil se adquiere por residencia continuada de:",
+      "options": [
+        {"id": "a", "text": "Un año con empadronamiento o cinco sin él"},
+        {"id": "b", "text": "Cinco años con declaración o veinte sin declaración"},
+        {"id": "c", "text": "Dos años con declaración de voluntad o diez años sin declaración en contrario"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La fórmula de examen es: dos años si se declara querer adquirirla y diez años si no se declara querer conservar la anterior.",
+      "source_note": "Artículo 14.5 CC; Atestado, apartado 22.5."
+    },
+    {
+      "id": "t01-b06-q022",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "declaraciones registrales",
+      "section_refs": ["22.5"],
+      "prompt": "Las declaraciones realizadas para adquirir una vecindad por dos años o evitar el cambio tras diez años:",
+      "options": [
+        {"id": "a", "text": "Constan en el Registro Civil y no necesitan reiterarse"},
+        {"id": "b", "text": "Deben renovarse anualmente ante el ayuntamiento"},
+        {"id": "c", "text": "Solo producen efectos mientras se mantenga el mismo empadronamiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Una declaración válida no debe repetirse cada diez años. Esto impide cambios automáticos sucesivos contra la voluntad ya expresada.",
+      "source_note": "Artículo 14.5 CC; Atestado, apartado 22.5."
+    },
+    {
+      "id": "t01-b06-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "regla en caso de duda",
+      "section_refs": ["22.5"],
+      "prompt": "En caso de duda sobre la vecindad civil de una persona, prevalece:",
+      "options": [
+        {"id": "a", "text": "La vecindad de Derecho común en todos los casos"},
+        {"id": "b", "text": "La vecindad correspondiente al lugar de nacimiento"},
+        {"id": "c", "text": "La vecindad del último domicilio fiscal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 14.6 CC establece la prevalencia de la vecindad del lugar de nacimiento cuando persiste la duda.",
+      "source_note": "Artículo 14.6 CC; Atestado, apartado 22.5."
+    },
+    {
+      "id": "t01-b06-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "vecindad al adquirir nacionalidad",
+      "section_refs": ["22.6"],
+      "prompt": "El extranjero que adquiere la nacionalidad española debe optar, al inscribirla y según las reglas aplicables, por alguna de las siguientes vecindades:",
+      "options": [
+        {"id": "a", "text": "Exclusivamente la del lugar en el que se tramita el expediente"},
+        {"id": "b", "text": "Cualquier vecindad sin conexión con su situación personal"},
+        {"id": "c", "text": "Lugar de residencia o nacimiento, última de sus progenitores o adoptantes, o la de su cónyuge"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La opción queda limitada a los puntos de conexión enumerados en el artículo 15 CC. En la carta de naturaleza la vecindad se determina en el real decreto.",
+      "source_note": "Artículo 15.1 y 15.2 CC; Atestado, apartado 22.6."
+    },
+    {
+      "id": "t01-b06-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "recuperación de vecindad",
+      "section_refs": ["22.6", "22.7"],
+      "prompt": "La recuperación de la nacionalidad española lleva consigo:",
+      "options": [
+        {"id": "a", "text": "La recuperación de la vecindad civil que se tenía al perder la nacionalidad"},
+        {"id": "b", "text": "La adquisición obligatoria de vecindad de Derecho común"},
+        {"id": "c", "text": "La vecindad del último municipio de empadronamiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 15.3 CC vincula la recuperación de la nacionalidad con la recuperación de la vecindad civil anterior.",
+      "source_note": "Artículo 15.3 CC; Atestado, apartados 22.6 y 22.7."
+    }
+  ]
+}

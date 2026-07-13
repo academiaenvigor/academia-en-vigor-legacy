@@ -1,0 +1,459 @@
+{
+  "id": "t01-b05c-conservacion-perdida-recuperacion-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 5C · Conservación, pérdida y recuperación de la nacionalidad",
+    "short_title": "Conservación, pérdida y recuperación",
+    "description": "Aplica las reglas de conservación, pérdida, nulidad y recuperación a casos concretos. Deberás distinguir españoles de origen y no originarios, residencia en el extranjero, adquisición o uso de otra nacionalidad, plazos de tres y quince años, declaración de conservación, fraude, excepciones y requisitos para recuperar la nacionalidad.",
+    "theme_number": 1,
+    "block_number": "5C",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["20", "20.1", "20.2", "20.3", "20.4", "20.5", "20.6"],
+    "concepts": [
+      "pérdida por adquisición voluntaria de otra nacionalidad",
+      "pérdida por uso exclusivo de nacionalidad extranjera",
+      "plazo de tres años",
+      "declaración de conservación",
+      "nacionalidades exceptuadas",
+      "renuncia expresa",
+      "descendientes españoles nacidos y residentes en el extranjero",
+      "excepción durante la guerra",
+      "pérdida de españoles no originarios",
+      "servicio de armas o cargo político extranjero",
+      "nulidad por falsedad, ocultación o fraude",
+      "protección de terceros de buena fe",
+      "acción del Ministerio Fiscal y plazo de quince años",
+      "requisitos de recuperación",
+      "excepciones y dispensa de residencia",
+      "habilitación previa del Gobierno",
+      "distinción entre nacionalidad y documentación",
+      "método de resolución de casos prácticos"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b05c-q001",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "privación y pérdida",
+      "section_refs": ["20", "20.5"],
+      "prompt": "Respecto de los españoles de origen, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "No pueden ser privados de la nacionalidad, aunque pueden concurrir supuestos legales de pérdida"},
+        {"id": "b", "text": "Nunca pueden perder la nacionalidad bajo ninguna circunstancia"},
+        {"id": "c", "text": "Pueden ser privados de ella mediante una sanción administrativa"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La privación sancionadora prohibida por el artículo 11.2 CE no se identifica con la pérdida producida por los actos y condiciones regulados en el artículo 24 CC.",
+      "source_note": "Artículo 11.2 CE y artículo 24 CC; Atestado, apartados 20 y 20.5."
+    },
+    {
+      "id": "t01-b05c-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "pérdida del artículo 24",
+      "section_refs": ["20.1"],
+      "prompt": "La pérdida por adquisición voluntaria de otra nacionalidad prevista en el artículo 24.1 CC afecta a españoles que estén emancipados y:",
+      "options": [
+        {"id": "a", "text": "Residan habitualmente en España"},
+        {"id": "b", "text": "Residan habitualmente en el extranjero"},
+        {"id": "c", "text": "Sean necesariamente españoles no originarios"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La emancipación y la residencia habitual en el extranjero forman parte del supuesto legal, junto con la adquisición voluntaria o el uso exclusivo de la nacionalidad anterior.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "plazo de pérdida",
+      "section_refs": ["20.1"],
+      "prompt": "La pérdida del artículo 24.1 CC se produce una vez transcurridos:",
+      "options": [
+        {"id": "a", "text": "Seis meses"},
+        {"id": "b", "text": "Dos años"},
+        {"id": "c", "text": "Tres años desde la adquisición de la otra nacionalidad o desde la emancipación, según el supuesto"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El inicio del plazo depende de si la causa es la adquisición voluntaria de otra nacionalidad o el uso exclusivo de la que se tenía antes de la emancipación.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "conservación",
+      "section_refs": ["20.1"],
+      "prompt": "La pérdida por adquisición voluntaria o uso exclusivo de otra nacionalidad puede evitarse:",
+      "options": [
+        {"id": "a", "text": "Declarando la voluntad de conservar la nacionalidad española dentro de tres años"},
+        {"id": "b", "text": "Renovando el DNI una vez transcurrido el plazo"},
+        {"id": "c", "text": "Empadronándose en un consulado"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La conservación es una declaración de voluntad ante el Registro Civil, no una renovación documental ni un empadronamiento.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "nacionalidades exceptuadas",
+      "section_refs": ["20.1"],
+      "prompt": "La adquisición por un español de origen de la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea Ecuatorial o Portugal:",
+      "options": [
+        {"id": "a", "text": "Produce siempre pérdida inmediata de la nacionalidad española"},
+        {"id": "b", "text": "No basta por sí sola para producir la pérdida prevista en el artículo 24.1 CC"},
+        {"id": "c", "text": "Solo se permite con autorización previa del Gobierno"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Código Civil exceptúa expresamente esas nacionalidades cuando la persona es española de origen.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "renuncia expresa",
+      "section_refs": ["20.1"],
+      "prompt": "Pierde la nacionalidad española quien renuncie expresamente a ella siempre que:",
+      "options": [
+        {"id": "a", "text": "Sea menor de edad y resida en España"},
+        {"id": "b", "text": "Carezca de cualquier otra nacionalidad"},
+        {"id": "c", "text": "Esté emancipado, tenga otra nacionalidad y resida habitualmente en el extranjero"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La exigencia de otra nacionalidad evita que la renuncia produzca apatridia y la residencia habitual en el extranjero completa el supuesto.",
+      "source_note": "Artículo 24.2 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "segunda generación nacida en el extranjero",
+      "section_refs": ["20.1"],
+      "prompt": "Quien haya nacido y resida en el extranjero y sea español por ser hijo de padre o madre españoles también nacidos fuera de España debe declarar la conservación:",
+      "options": [
+        {"id": "a", "text": "Dentro de los tres años siguientes a la mayoría de edad o emancipación, cuando concurran las condiciones legales"},
+        {"id": "b", "text": "Dentro de los diez días posteriores al nacimiento"},
+        {"id": "c", "text": "Únicamente al renovar el primer pasaporte"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La regla se aplica cuando las leyes del país de residencia atribuyen su nacionalidad y no se declara conservar la española dentro del plazo.",
+      "source_note": "Artículo 24.3 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "excepción durante la guerra",
+      "section_refs": ["20.1"],
+      "prompt": "Las causas de pérdida previstas en el artículo 24 CC no operan:",
+      "options": [
+        {"id": "a", "text": "Cuando el interesado haya cumplido setenta y cinco años"},
+        {"id": "b", "text": "Si España se encuentra en guerra"},
+        {"id": "c", "text": "Durante los primeros veinte días de residencia en el extranjero"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 24.4 CC impide la pérdida de la nacionalidad española por esos supuestos mientras España se halle en guerra.",
+      "source_note": "Artículo 24.4 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "pérdida de españoles no originarios",
+      "section_refs": ["20.2"],
+      "prompt": "El español que no sea de origen pierde la nacionalidad cuando durante tres años:",
+      "options": [
+        {"id": "a", "text": "Resida fuera de su comunidad autónoma"},
+        {"id": "b", "text": "No renueve su documento nacional de identidad"},
+        {"id": "c", "text": "Utilice exclusivamente la nacionalidad a la que hubiera declarado renunciar al adquirir la española"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Es una causa adicional de pérdida aplicable a españoles no originarios y distinta del régimen general del artículo 24.",
+      "source_note": "Artículo 25.1.a CC; Atestado, apartado 20.2."
+    },
+    {
+      "id": "t01-b05c-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "servicio de armas o cargo político extranjero",
+      "section_refs": ["20.2"],
+      "prompt": "El español no originario puede perder la nacionalidad si:",
+      "options": [
+        {"id": "a", "text": "Entra voluntariamente al servicio de armas o ejerce cargo político en un Estado extranjero contra prohibición expresa del Gobierno"},
+        {"id": "b", "text": "Trabaja en una empresa privada extranjera"},
+        {"id": "c", "text": "Vota en unas elecciones municipales de otro país"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La pérdida requiere voluntariedad y que la conducta se realice contra la prohibición expresa del Gobierno español.",
+      "source_note": "Artículo 25.1.b CC; Atestado, apartado 20.2."
+    },
+    {
+      "id": "t01-b05c-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "naturaleza del fraude",
+      "section_refs": ["20.3"],
+      "prompt": "La falsedad, ocultación o fraude en la adquisición de la nacionalidad produce técnicamente:",
+      "options": [
+        {"id": "a", "text": "Una conservación automática"},
+        {"id": "b", "text": "La nulidad de la adquisición declarada por sentencia firme"},
+        {"id": "c", "text": "Una suspensión temporal del pasaporte"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "No es una pérdida ordinaria: se declara inválida una adquisición obtenida mediante falsedad, ocultación o fraude.",
+      "source_note": "Artículo 25.2 CC; Atestado, apartado 20.3."
+    },
+    {
+      "id": "t01-b05c-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "efectos de la nulidad",
+      "section_refs": ["20.3"],
+      "prompt": "La nulidad de la adquisición por fraude:",
+      "options": [
+        {"id": "a", "text": "Perjudica siempre a cualquier tercero relacionado con el interesado"},
+        {"id": "b", "text": "Puede declararse mediante una simple resolución policial"},
+        {"id": "c", "text": "No perjudica a los terceros de buena fe"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 25.2 CC protege expresamente los derechos adquiridos por terceros de buena fe.",
+      "source_note": "Artículo 25.2 CC; Atestado, apartado 20.3."
+    },
+    {
+      "id": "t01-b05c-q013",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "acción de nulidad",
+      "section_refs": ["20.3"],
+      "prompt": "La acción de nulidad por falsedad, ocultación o fraude debe ejercitarla el Ministerio Fiscal dentro del plazo de:",
+      "options": [
+        {"id": "a", "text": "Quince años"},
+        {"id": "b", "text": "Tres años"},
+        {"id": "c", "text": "Veinte días"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 25.2 CC atribuye la acción al Ministerio Fiscal, de oficio o en virtud de denuncia, dentro de quince años.",
+      "source_note": "Artículo 25.2 CC; Atestado, apartado 20.3."
+    },
+    {
+      "id": "t01-b05c-q014",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "requisitos de recuperación",
+      "section_refs": ["20.4"],
+      "prompt": "Con carácter general, para recuperar la nacionalidad española se requiere residencia legal en España, declaración de voluntad e:",
+      "options": [
+        {"id": "a", "text": "Inscripción en el padrón durante diez años"},
+        {"id": "b", "text": "Inscripción de la recuperación en el Registro Civil"},
+        {"id": "c", "text": "Ingreso en la función pública"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 26 CC establece los tres requisitos generales, sin perjuicio de las excepciones y habilitaciones previstas.",
+      "source_note": "Artículo 26.1 CC; Atestado, apartado 20.4."
+    },
+    {
+      "id": "t01-b05c-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "emigrantes e hijos de emigrantes",
+      "section_refs": ["20.4"],
+      "prompt": "El requisito de residencia legal en España para recuperar la nacionalidad no se aplica:",
+      "options": [
+        {"id": "a", "text": "A toda persona que viva en el extranjero"},
+        {"id": "b", "text": "A cualquier antiguo turista en España"},
+        {"id": "c", "text": "A los emigrantes ni a los hijos de emigrantes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Código Civil exceptúa directamente a emigrantes e hijos de emigrantes del requisito de residencia para recuperar.",
+      "source_note": "Artículo 26.1.a CC; Atestado, apartado 20.4."
+    },
+    {
+      "id": "t01-b05c-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "dispensa de residencia",
+      "section_refs": ["20.4"],
+      "prompt": "En otros casos, el requisito de residencia legal para recuperar la nacionalidad puede ser dispensado:",
+      "options": [
+        {"id": "a", "text": "Por el Ministro de Justicia cuando concurran circunstancias excepcionales"},
+        {"id": "b", "text": "Por cualquier ayuntamiento sin necesidad de causa"},
+        {"id": "c", "text": "Por el interesado mediante declaración unilateral"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La dispensa es una decisión del Ministro de Justicia fundada en circunstancias excepcionales.",
+      "source_note": "Artículo 26.1.a CC; Atestado, apartado 20.4."
+    },
+    {
+      "id": "t01-b05c-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "habilitación previa",
+      "section_refs": ["20.4"],
+      "prompt": "Quien hubiera perdido la nacionalidad por encontrarse en alguno de los supuestos del artículo 25 CC necesita para recuperarla:",
+      "options": [
+        {"id": "a", "text": "Únicamente renovar su pasaporte"},
+        {"id": "b", "text": "Habilitación discrecional previa concedida por el Gobierno"},
+        {"id": "c", "text": "Una nueva adopción por ciudadano español"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La habilitación previa se añade a los requisitos de recuperación cuando la pérdida se produjo por las causas aplicables a españoles no originarios.",
+      "source_note": "Artículo 26.2 CC; Atestado, apartado 20.4."
+    },
+    {
+      "id": "t01-b05c-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "nacionalidad y documentación",
+      "section_refs": ["20.5", "20.6"],
+      "prompt": "El DNI o el pasaporte y la nacionalidad española:",
+      "options": [
+        {"id": "a", "text": "Son exactamente el mismo concepto jurídico"},
+        {"id": "b", "text": "Se adquieren y pierden siempre mediante el mismo acto"},
+        {"id": "c", "text": "Están relacionados, pero el documento acredita o identifica y no sustituye el estado civil de nacionalidad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Las declaraciones de conservación y recuperación se formalizan en el Registro Civil. La renovación documental no las sustituye.",
+      "source_note": "Código Civil y normativa documental; Atestado, apartados 20.5 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q019",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "caso de adquisición de nacionalidad no exceptuada",
+      "section_refs": ["20.1", "20.6"],
+      "prompt": "Un español de origen emancipado, residente habitual en el extranjero, adquiere voluntariamente la nacionalidad francesa. Para evitar la pérdida española debe:",
+      "options": [
+        {"id": "a", "text": "Declarar su voluntad de conservarla dentro de los tres años siguientes"},
+        {"id": "b", "text": "Regresar necesariamente a España antes de un mes"},
+        {"id": "c", "text": "Solicitar una carta de naturaleza"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Francia no figura entre las nacionalidades exceptuadas del artículo 24.1. La declaración de conservación dentro de plazo evita la pérdida.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartados 20.1 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "caso de nacionalidad exceptuada",
+      "section_refs": ["20.1", "20.6"],
+      "prompt": "Un español de origen residente en el extranjero adquiere voluntariamente la nacionalidad portuguesa. Esta adquisición:",
+      "options": [
+        {"id": "a", "text": "Produce pérdida inmediata de la nacionalidad española"},
+        {"id": "b", "text": "No basta por sí sola para producir la pérdida del artículo 24.1 CC"},
+        {"id": "c", "text": "Transforma la nacionalidad española de origen en derivativa"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Portugal está incluido en la excepción prevista para españoles de origen, junto con los demás países enumerados en el Código Civil.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartados 20.1 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "uso exclusivo de nacionalidad anterior",
+      "section_refs": ["20.1"],
+      "prompt": "En el supuesto de uso exclusivo de la nacionalidad extranjera que se tenía antes de la emancipación, el plazo de tres años se cuenta desde:",
+      "options": [
+        {"id": "a", "text": "La primera renovación del pasaporte extranjero"},
+        {"id": "b", "text": "El traslado de domicilio al extranjero"},
+        {"id": "c", "text": "La emancipación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Debe distinguirse del supuesto de adquisición voluntaria de otra nacionalidad, cuyo plazo comienza desde la adquisición.",
+      "source_note": "Artículo 24.1 CC; Atestado, apartado 20.1."
+    },
+    {
+      "id": "t01-b05c-q022",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "naturaleza de la conservación",
+      "section_refs": ["20.1", "20.6"],
+      "prompt": "La conservación de la nacionalidad española se realiza mediante:",
+      "options": [
+        {"id": "a", "text": "Una declaración de voluntad dentro del plazo legal"},
+        {"id": "b", "text": "La mera posesión física de un DNI caducado"},
+        {"id": "c", "text": "La renovación automática del empadronamiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La conservación exige una declaración formal. La documentación puede servir como prueba, pero no reemplaza esa declaración.",
+      "source_note": "Artículo 24 CC; Atestado, apartados 20.1 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "recuperación y documentación",
+      "section_refs": ["20.4", "20.6"],
+      "prompt": "Recuperar la nacionalidad española:",
+      "options": [
+        {"id": "a", "text": "Equivale únicamente a solicitar un nuevo pasaporte"},
+        {"id": "b", "text": "Exige recuperar primero el estado civil conforme al artículo 26 CC y después documentarlo"},
+        {"id": "c", "text": "Se produce automáticamente al entrar en territorio español"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La recuperación se completa con declaración e inscripción. La expedición posterior de documentos acredita una situación ya recuperada.",
+      "source_note": "Artículo 26 CC; Atestado, apartados 20.4 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "español de origen",
+      "section_refs": ["20.5", "20.6"],
+      "prompt": "Señale la opción correcta:",
+      "options": [
+        {"id": "a", "text": "La condición de español de origen impide cualquier pérdida legal"},
+        {"id": "b", "text": "Los españoles no originarios nunca pueden perder la nacionalidad"},
+        {"id": "c", "text": "La condición de origen impide la privación, pero no excluye todos los supuestos legales de pérdida"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La distinción entre privación y pérdida es esencial para interpretar conjuntamente la Constitución y el Código Civil.",
+      "source_note": "Artículo 11.2 CE y artículo 24 CC; Atestado, apartados 20.5 y 20.6."
+    },
+    {
+      "id": "t01-b05c-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "método de resolución",
+      "section_refs": ["20.6"],
+      "prompt": "Ante un supuesto práctico de pérdida de nacionalidad, el primer dato que conviene determinar es:",
+      "options": [
+        {"id": "a", "text": "Si la persona es española de origen o no"},
+        {"id": "b", "text": "La fecha de expedición de su último DNI"},
+        {"id": "c", "text": "El municipio español en el que estuvo empadronada"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Después deben examinarse emancipación, residencia habitual, nacionalidad adquirida o utilizada, excepciones, plazo y declaración de conservación.",
+      "source_note": "Atestado, apartado 20.6."
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "id": "t01-b03a-jerarquia-tipos-normativos-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 3A · Jerarquía y tipos normativos",
+    "short_title": "Jerarquía y tipos normativos",
+    "description": "Ordena el mapa normativo y comprueba si identificas el rango, autor, procedimiento y límites de cada disposición. Recorre la Constitución, las leyes orgánicas y ordinarias, el Derecho de la Unión, los tratados, los decretos legislativos y decretos-leyes, las leyes del artículo 150 CE, las leyes autonómicas y los reglamentos.",
+    "theme_number": 1,
+    "block_number": "3A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["7.1", "7.2", "7.3", "7.4"],
+    "concepts": [
+      "fundamento de la jerarquía normativa",
+      "esquema básico de rangos",
+      "ley orgánica y ley ordinaria",
+      "delegación legislativa en comisiones",
+      "primacía del Derecho de la Unión Europea",
+      "tratados internacionales",
+      "legislación delegada y decreto legislativo",
+      "textos articulados y textos refundidos",
+      "límites y control de la delegación legislativa",
+      "decreto-ley, presupuesto habilitante y límites",
+      "convalidación del decreto-ley",
+      "leyes marco",
+      "leyes orgánicas de transferencia o delegación",
+      "leyes de armonización",
+      "leyes autonómicas y competencia",
+      "concepto y límites del reglamento",
+      "reglamentos ejecutivos, independientes y de necesidad",
+      "jerarquía reglamentaria",
+      "diferencia entre real decreto, real decreto-ley y real decreto legislativo"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b03a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "fundamento constitucional",
+      "section_refs": ["7.1"],
+      "prompt": "El principio de jerarquía normativa está expresamente garantizado por:",
+      "options": [
+        {"id": "a", "text": "El artículo 9.3 de la Constitución Española"},
+        {"id": "b", "text": "El artículo 1.1 del Código Civil exclusivamente"},
+        {"id": "c", "text": "El artículo 81 de la Constitución Española"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 9.3 CE garantiza, entre otros principios, la legalidad, la jerarquía normativa, la publicidad de las normas y la seguridad jurídica.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 7.1."
+    },
+    {
+      "id": "t01-b03a-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "consecuencia de la jerarquía",
+      "section_refs": ["7.1"],
+      "prompt": "Según el artículo 1.2 del Código Civil, carecen de validez:",
+      "options": [
+        {"id": "a", "text": "Todas las disposiciones posteriores a una ley"},
+        {"id": "b", "text": "Las disposiciones que contradigan otra de rango superior"},
+        {"id": "c", "text": "Las normas especiales que se aparten de una regulación general"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Una disposición inferior no puede contradecir válidamente una superior. La especialidad y la cronología responden a problemas distintos.",
+      "source_note": "Artículo 1.2 CC; Atestado, apartado 7.1."
+    },
+    {
+      "id": "t01-b03a-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "esquema básico de rangos",
+      "section_refs": ["7.2"],
+      "prompt": "En el ordenamiento interno español, la norma suprema es:",
+      "options": [
+        {"id": "a", "text": "La ley orgánica"},
+        {"id": "b", "text": "El real decreto-ley"},
+        {"id": "c", "text": "La Constitución Española"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución ocupa la posición superior del ordenamiento interno y vincula a todos los poderes públicos.",
+      "source_note": "Constitución Española; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t01-b03a-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "ley orgánica y ordinaria",
+      "section_refs": ["7.2", "7.3"],
+      "prompt": "La relación entre ley orgánica y ley ordinaria se rige principalmente por el principio de:",
+      "options": [
+        {"id": "a", "text": "Competencia material y procedimiento"},
+        {"id": "b", "text": "Jerarquía general de la ley orgánica sobre cualquier ley ordinaria"},
+        {"id": "c", "text": "Prevalencia automática de la norma más reciente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La ley orgánica no es universalmente superior a la ordinaria; cada una tiene su ámbito material y procedimiento constitucional.",
+      "source_note": "Artículo 81 CE; Atestado, apartados 7.2 y 7.3."
+    },
+    {
+      "id": "t01-b03a-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "materias y mayoría de ley orgánica",
+      "section_refs": ["7.2", "7.3"],
+      "prompt": "La aprobación, modificación o derogación de una ley orgánica exige:",
+      "options": [
+        {"id": "a", "text": "Mayoría de tres quintos de ambas Cámaras en cualquier votación"},
+        {"id": "b", "text": "Mayoría absoluta del Congreso en una votación final sobre el conjunto"},
+        {"id": "c", "text": "Mayoría simple del Senado en votación final"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 81.2 CE exige mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto orgánico.",
+      "source_note": "Artículo 81.2 CE; Atestado, apartados 7.2 y 7.3."
+    },
+    {
+      "id": "t01-b03a-q006",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "delegación legislativa en comisiones",
+      "section_refs": ["7.3"],
+      "prompt": "¿En cuál de las siguientes materias no cabe delegar en una comisión legislativa permanente la aprobación de una ley?",
+      "options": [
+        {"id": "a", "text": "Una regulación administrativa ordinaria no reservada al Pleno"},
+        {"id": "b", "text": "Una ley civil ordinaria cuya aprobación haya sido delegada por la Cámara"},
+        {"id": "c", "text": "Los Presupuestos Generales del Estado"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "No cabe delegación legislativa en comisión para reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases ni Presupuestos Generales del Estado.",
+      "source_note": "Artículo 75.3 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "Derecho de la Unión Europea",
+      "section_refs": ["7.2"],
+      "prompt": "La primacía del Derecho de la Unión Europea:",
+      "options": [
+        {"id": "a", "text": "Opera en las materias atribuidas a la Unión y exige garantizar la efectividad del Derecho europeo aplicable"},
+        {"id": "b", "text": "Convierte toda norma europea en una reforma de la Constitución Española"},
+        {"id": "c", "text": "Solo resulta aplicable cuando una ley orgánica española lo autoriza en cada caso"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La primacía opera dentro del sistema de la Unión en los ámbitos atribuidos. No debe representarse sin matices como un simple escalón de la pirámide nacional.",
+      "source_note": "Artículos 93 a 96 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t01-b03a-q008",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "tratados internacionales",
+      "section_refs": ["7.2"],
+      "prompt": "Un tratado internacional válidamente celebrado y publicado oficialmente:",
+      "options": [
+        {"id": "a", "text": "Tiene siempre rango constitucional"},
+        {"id": "b", "text": "Forma parte del ordenamiento interno y se rige por los artículos 93 a 96 CE"},
+        {"id": "c", "text": "Puede ser modificado unilateralmente por una orden ministerial posterior"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Los tratados publicados se integran en el ordenamiento. Sus efectos no se explican afirmando que todos ocupan automáticamente rango constitucional o un idéntico escalón.",
+      "source_note": "Artículos 93 a 96 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t01-b03a-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "requisitos de la delegación legislativa",
+      "section_refs": ["7.3"],
+      "prompt": "La delegación legislativa de las Cortes Generales en el Gobierno debe otorgarse:",
+      "options": [
+        {"id": "a", "text": "De forma implícita y por tiempo indefinido"},
+        {"id": "b", "text": "A cualquier autoridad administrativa que designe el Gobierno"},
+        {"id": "c", "text": "De forma expresa, para materia concreta y con fijación de plazo"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La delegación debe ser expresa, concreta y temporal, y no puede permitir subdelegar en autoridades distintas del Gobierno.",
+      "source_note": "Artículo 82 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "texto articulado",
+      "section_refs": ["7.3"],
+      "prompt": "Cuando la finalidad de la delegación es formar un texto articulado, esta debe otorgarse mediante:",
+      "options": [
+        {"id": "a", "text": "Una ley de bases"},
+        {"id": "b", "text": "Una orden ministerial"},
+        {"id": "c", "text": "Una ley de armonización"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La ley de bases habilita al Gobierno para elaborar un texto articulado mediante real decreto legislativo.",
+      "source_note": "Artículo 82.2 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q011",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "texto refundido",
+      "section_refs": ["7.3"],
+      "prompt": "La autorización para refundir varios textos legales en uno solo se concede mediante:",
+      "options": [
+        {"id": "a", "text": "Una ley de bases"},
+        {"id": "b", "text": "Una ley ordinaria de autorización"},
+        {"id": "c", "text": "Un acuerdo de una comisión delegada del Gobierno"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La refundición se autoriza por ley ordinaria, que debe precisar si solo se reúnen textos o si también pueden regularizarse, aclararse y armonizarse.",
+      "source_note": "Artículo 82.2 y 82.5 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "límites de la ley de bases",
+      "section_refs": ["7.3"],
+      "prompt": "Las leyes de bases no pueden:",
+      "options": [
+        {"id": "a", "text": "Delimitar el objeto y alcance de la delegación"},
+        {"id": "b", "text": "Establecer principios y criterios para el texto articulado"},
+        {"id": "c", "text": "Autorizar su propia modificación ni facultar para dictar normas retroactivas"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 83 CE prohíbe que la ley de bases autorice modificarla o permita dictar normas con carácter retroactivo.",
+      "source_note": "Artículo 83 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q013",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "agotamiento y control de la delegación",
+      "section_refs": ["7.3"],
+      "prompt": "La delegación legislativa:",
+      "options": [
+        {"id": "a", "text": "Se agota con su ejercicio y los tribunales pueden controlar los excesos de delegación"},
+        {"id": "b", "text": "Permanece indefinidamente vigente después de publicarse el decreto legislativo"},
+        {"id": "c", "text": "Puede subdelegarse libremente en los ministros"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La delegación se agota al publicarse la norma correspondiente. Los excesos respecto de la habilitación están sometidos a control.",
+      "source_note": "Artículos 82 y 85 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q014",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "presupuesto del decreto-ley",
+      "section_refs": ["7.3"],
+      "prompt": "El Gobierno puede dictar un decreto-ley cuando concurra:",
+      "options": [
+        {"id": "a", "text": "Una delegación expresa mediante ley de bases"},
+        {"id": "b", "text": "Una situación de extraordinaria y urgente necesidad"},
+        {"id": "c", "text": "La autorización previa del Tribunal Constitucional"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El presupuesto habilitante del decreto-ley es la extraordinaria y urgente necesidad, conforme al artículo 86 CE.",
+      "source_note": "Artículo 86.1 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "límites materiales del decreto-ley",
+      "section_refs": ["7.3"],
+      "prompt": "Un decreto-ley no puede afectar:",
+      "options": [
+        {"id": "a", "text": "A ninguna materia económica"},
+        {"id": "b", "text": "A ninguna regulación administrativa"},
+        {"id": "c", "text": "Al Derecho electoral general, entre otras materias constitucionalmente excluidas"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "También quedan protegidos el ordenamiento de las instituciones básicas, el régimen autonómico y los derechos, deberes y libertades del título I CE.",
+      "source_note": "Artículo 86.1 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "convalidación del decreto-ley",
+      "section_refs": ["7.3"],
+      "prompt": "El Congreso debe pronunciarse sobre la convalidación o derogación de un decreto-ley dentro de los:",
+      "options": [
+        {"id": "a", "text": "Treinta días siguientes a su promulgación"},
+        {"id": "b", "text": "Veinte días siguientes a su publicación"},
+        {"id": "c", "text": "Tres meses siguientes a su aprobación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 86.2 CE fija un plazo de treinta días para el debate y votación de totalidad en el Congreso.",
+      "source_note": "Artículo 86.2 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "efectos de la convalidación",
+      "section_refs": ["7.3"],
+      "prompt": "La convalidación parlamentaria de un decreto-ley:",
+      "options": [
+        {"id": "a", "text": "Lo convierte automáticamente en ley orgánica"},
+        {"id": "b", "text": "Mantiene su naturaleza de decreto-ley, sin perjuicio de su posible tramitación posterior como proyecto de ley"},
+        {"id": "c", "text": "Impide que las Cortes lo tramiten por el procedimiento de urgencia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Convalidar mantiene la vigencia del decreto-ley, pero no lo transforma en ley ordinaria. Puede tramitarse después como proyecto de ley urgente.",
+      "source_note": "Artículo 86 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "leyes marco",
+      "section_refs": ["7.3"],
+      "prompt": "Mediante una ley marco, las Cortes Generales pueden:",
+      "options": [
+        {"id": "a", "text": "Modificar directamente cualquier Estatuto de Autonomía"},
+        {"id": "b", "text": "Sustituir a los parlamentos autonómicos en todas sus competencias"},
+        {"id": "c", "text": "Atribuir a una o varias comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices estatales"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La ley marco opera sobre materias estatales y habilita legislación autonómica dentro del marco fijado por la ley estatal.",
+      "source_note": "Artículo 150.1 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "transferencia o delegación a comunidades autónomas",
+      "section_refs": ["7.3"],
+      "prompt": "La transferencia o delegación a las comunidades autónomas de facultades correspondientes a materias estatales se realiza mediante:",
+      "options": [
+        {"id": "a", "text": "Ley orgánica"},
+        {"id": "b", "text": "Orden ministerial"},
+        {"id": "c", "text": "Decreto legislativo autonómico"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 150.2 CE exige ley orgánica, que debe prever la transferencia de medios financieros y las formas de control reservadas al Estado.",
+      "source_note": "Artículo 150.2 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "leyes de armonización",
+      "section_refs": ["7.3"],
+      "prompt": "La apreciación de la necesidad de dictar una ley de armonización por interés general corresponde:",
+      "options": [
+        {"id": "a", "text": "Al Gobierno mediante real decreto acordado en Consejo de Ministros"},
+        {"id": "b", "text": "A las Cortes Generales por mayoría absoluta de cada Cámara"},
+        {"id": "c", "text": "Al Senado por mayoría simple, sin intervención del Congreso"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Las leyes de armonización exigen que la necesidad por interés general sea apreciada por mayoría absoluta de cada Cámara.",
+      "source_note": "Artículo 150.3 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "leyes autonómicas",
+      "section_refs": ["7.3"],
+      "prompt": "Las leyes autonómicas:",
+      "options": [
+        {"id": "a", "text": "Son siempre reglamentos subordinados a cualquier ley estatal"},
+        {"id": "b", "text": "Carecen de rango de ley fuera de la capital de la comunidad"},
+        {"id": "c", "text": "Tienen rango de ley dentro de su ordenamiento y ámbito competencial"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La relación entre legislación estatal y autonómica depende principalmente de la distribución constitucional de competencias, no de una subordinación reglamentaria general.",
+      "source_note": "Constitución y Estatutos de Autonomía; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t01-b03a-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "concepto y límites del reglamento",
+      "section_refs": ["7.4"],
+      "prompt": "El reglamento es:",
+      "options": [
+        {"id": "a", "text": "Una norma general dictada por la Administración, subordinada a la Constitución y a la ley"},
+        {"id": "b", "text": "Una norma parlamentaria con el mismo rango que la ley orgánica"},
+        {"id": "c", "text": "Una disposición que puede regular libremente cualquier materia reservada a la ley"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La potestad reglamentaria está sometida a la Constitución, la ley, la reserva de ley, la competencia y el procedimiento correspondiente.",
+      "source_note": "Artículo 97 CE y legislación administrativa; Atestado, apartado 7.4."
+    },
+    {
+      "id": "t01-b03a-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "clases de reglamentos",
+      "section_refs": ["7.4"],
+      "prompt": "Los reglamentos que desarrollan una ley, los que regulan materias no reservadas dentro del espacio permitido y los dictados ante situaciones excepcionales habilitadas se denominan, respectivamente:",
+      "options": [
+        {"id": "a", "text": "Orgánicos, ordinarios y provisionales"},
+        {"id": "b", "text": "Ejecutivos, independientes y de necesidad"},
+        {"id": "c", "text": "Legislativos, delegados y armonizadores"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Es una clasificación doctrinal que atiende a la relación del reglamento con la ley y a su fundamento excepcional.",
+      "source_note": "Atestado, apartado 7.4."
+    },
+    {
+      "id": "t01-b03a-q024",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "jerarquía reglamentaria",
+      "section_refs": ["7.4"],
+      "prompt": "Según la Ley 50/1997, dentro de los reglamentos del Gobierno de la Nación tienen superior jerarquía:",
+      "options": [
+        {"id": "a", "text": "Las órdenes ministeriales sobre los reales decretos"},
+        {"id": "b", "text": "Las instrucciones internas sobre las órdenes ministeriales"},
+        {"id": "c", "text": "Los reales decretos del Presidente o acordados en Consejo de Ministros sobre las órdenes ministeriales"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Ley del Gobierno sitúa primero las disposiciones aprobadas por real decreto y después las aprobadas por orden ministerial.",
+      "source_note": "Artículo 24.2 de la Ley 50/1997; Atestado, apartado 7.4."
+    },
+    {
+      "id": "t01-b03a-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "forma y naturaleza de las disposiciones",
+      "section_refs": ["7.4"],
+      "prompt": "Señale la afirmación correcta sobre las disposiciones del Gobierno:",
+      "options": [
+        {"id": "a", "text": "Un real decreto ordinario puede ser reglamentario, mientras el real decreto-ley y el real decreto legislativo tienen rango de ley"},
+        {"id": "b", "text": "Toda disposición denominada real decreto posee necesariamente rango de ley"},
+        {"id": "c", "text": "Una instrucción interna puede innovar libremente el ordenamiento aunque falten competencia y procedimiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La denominación debe examinarse con precisión: real decreto no equivale a real decreto-ley ni a real decreto legislativo. Las instrucciones internas tampoco sustituyen al reglamento.",
+      "source_note": "Artículos 82, 85 y 86 CE y Ley 50/1997; Atestado, apartado 7.4."
+    }
+  ]
+}

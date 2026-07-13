@@ -1,0 +1,457 @@
+{
+  "id": "t01-b05a-adquisicion-nacionalidad-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 5A · Adquisición de la nacionalidad española",
+    "short_title": "Adquisición de la nacionalidad",
+    "description": "Distingue todas las vías de adquisición y consolidación anteriores al procedimiento por residencia. Practica nacionalidad de origen por filiación o nacimiento, adopción, posesión de estado, opción, plazos y personas que formulan la declaración, vías históricas temporales y carta de naturaleza.",
+    "theme_number": 1,
+    "block_number": "5A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["11", "12", "13", "13.1", "14", "15", "16", "16.1", "16.2", "16.3", "16.4", "17"],
+    "concepts": [
+      "concepto y base constitucional de la nacionalidad",
+      "españoles de origen por filiación",
+      "nacimiento en España de progenitor también nacido en España",
+      "prevención de la apatridia",
+      "filiación no determinada",
+      "determinación posterior a los dieciocho años",
+      "adopción de menor y mayor de edad",
+      "conservación de la nacionalidad anterior del adoptado",
+      "consolidación por posesión de estado",
+      "personas con derecho de opción",
+      "personas que formulan la opción",
+      "plazos de la opción y excepciones",
+      "formalización e inscripción de la opción",
+      "opciones históricas y temporales",
+      "carta de naturaleza",
+      "clasificación de las vías como originarias o derivativas"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b05a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "concepto de nacionalidad",
+      "section_refs": ["11"],
+      "prompt": "La nacionalidad puede definirse como:",
+      "options": [
+        {"id": "a", "text": "El vínculo jurídico que integra a una persona en un Estado y determina un estatuto de derechos y deberes"},
+        {"id": "b", "text": "El lugar en el que una persona se encuentra empadronada"},
+        {"id": "c", "text": "La vecindad civil correspondiente a una comunidad autónoma"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Nacionalidad, domicilio, empadronamiento y vecindad civil son conceptos distintos, aunque puedan relacionarse en algunos procedimientos.",
+      "source_note": "Artículo 11 CE; Atestado, apartado 11."
+    },
+    {
+      "id": "t01-b05a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "base constitucional",
+      "section_refs": ["11"],
+      "prompt": "La Constitución establece que la nacionalidad española se adquiere, conserva y pierde:",
+      "options": [
+        {"id": "a", "text": "De acuerdo exclusivamente con la costumbre"},
+        {"id": "b", "text": "De acuerdo con lo establecido por la ley"},
+        {"id": "c", "text": "Mediante decisión libre de cada ayuntamiento"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 11.1 CE remite a la ley la regulación de la adquisición, conservación y pérdida de la nacionalidad española.",
+      "source_note": "Artículo 11.1 CE; Atestado, apartado 11."
+    },
+    {
+      "id": "t01-b05a-q003",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "privación y pérdida",
+      "section_refs": ["11"],
+      "prompt": "La prohibición constitucional de privar de la nacionalidad a un español de origen significa que:",
+      "options": [
+        {"id": "a", "text": "Nunca puede producirse ninguna pérdida prevista legalmente"},
+        {"id": "b", "text": "Toda pérdida de nacionalidad es una sanción penal"},
+        {"id": "c", "text": "No cabe privación sancionadora, sin que ello excluya los supuestos legales de pérdida por actos y condiciones del interesado"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La privación impuesta como sanción y la pérdida producida por los supuestos legales no son conceptos idénticos.",
+      "source_note": "Artículo 11.2 CE y artículo 24 CC; Atestado, apartado 11."
+    },
+    {
+      "id": "t01-b05a-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "mapa de adquisición",
+      "section_refs": ["12"],
+      "prompt": "¿Cuál de las siguientes vías tiene naturaleza discrecional y exige circunstancias excepcionales?",
+      "options": [
+        {"id": "a", "text": "La carta de naturaleza"},
+        {"id": "b", "text": "La filiación respecto de padre español"},
+        {"id": "c", "text": "La adopción de un menor extranjero por español"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La carta de naturaleza se concede discrecionalmente mediante real decreto cuando concurren circunstancias excepcionales.",
+      "source_note": "Artículo 21.1 CC; Atestado, apartados 12 y 17."
+    },
+    {
+      "id": "t01-b05a-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "filiación",
+      "section_refs": ["13"],
+      "prompt": "Es español de origen:",
+      "options": [
+        {"id": "a", "text": "Todo extranjero que lleve un año empadronado en España"},
+        {"id": "b", "text": "El nacido de padre o madre españoles"},
+        {"id": "c", "text": "Todo nacido en territorio español sin excepción"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 17.1.a CC atribuye nacionalidad española de origen por filiación respecto de padre o madre españoles.",
+      "source_note": "Artículo 17.1.a CC; Atestado, apartado 13."
+    },
+    {
+      "id": "t01-b05a-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "nacimiento en España de progenitor nacido en España",
+      "section_refs": ["13"],
+      "prompt": "Es español de origen el nacido en España de padres extranjeros cuando al menos uno de ellos también hubiera nacido en España, salvo que se trate de hijo de:",
+      "options": [
+        {"id": "a", "text": "Una persona extranjera con residencia temporal"},
+        {"id": "b", "text": "Un ciudadano de un Estado miembro de la Unión Europea"},
+        {"id": "c", "text": "Funcionario diplomático o consular acreditado en España"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 17.1.b CC incluye esa excepción para los hijos de funcionarios diplomáticos o consulares acreditados.",
+      "source_note": "Artículo 17.1.b CC; Atestado, apartado 13."
+    },
+    {
+      "id": "t01-b05a-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "prevención de la apatridia",
+      "section_refs": ["13"],
+      "prompt": "El nacido en España de padres extranjeros es español de origen si:",
+      "options": [
+        {"id": "a", "text": "Ambos carecen de nacionalidad o ninguna de sus legislaciones atribuye nacionalidad al hijo"},
+        {"id": "b", "text": "Los progenitores llevan seis meses empadronados"},
+        {"id": "c", "text": "El menor renuncia a cualquier nacionalidad futura"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Esta regla evita que el nacido en España quede sin nacionalidad cuando ninguna ley nacional de los progenitores se la atribuye.",
+      "source_note": "Artículo 17.1.c CC; Atestado, apartado 13."
+    },
+    {
+      "id": "t01-b05a-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "filiación no determinada",
+      "section_refs": ["13"],
+      "prompt": "A efectos de nacionalidad, se presume nacido en España el menor de edad cuyo:",
+      "options": [
+        {"id": "a", "text": "Último domicilio conocido esté en territorio español"},
+        {"id": "b", "text": "Primer lugar conocido de estancia sea territorio español"},
+        {"id": "c", "text": "Representante legal tenga nacionalidad española"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La presunción se aplica al menor con filiación no determinada cuyo primer lugar conocido de estancia sea España.",
+      "source_note": "Artículo 17.1.d CC; Atestado, apartado 13."
+    },
+    {
+      "id": "t01-b05a-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "determinación posterior a los dieciocho años",
+      "section_refs": ["13.1"],
+      "prompt": "Si la filiación respecto de un español o el nacimiento en España se determina después de los dieciocho años:",
+      "options": [
+        {"id": "a", "text": "La nacionalidad se adquiere automáticamente con efectos retroactivos"},
+        {"id": "b", "text": "Solo cabe solicitar nacionalidad tras diez años de residencia"},
+        {"id": "c", "text": "Existe derecho a optar por la nacionalidad española de origen durante dos años desde la determinación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La determinación posterior no produce adquisición automática, pero abre una opción a nacionalidad de origen durante dos años.",
+      "source_note": "Artículo 17.2 CC; Atestado, apartado 13.1."
+    },
+    {
+      "id": "t01-b05a-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "adopción de menor",
+      "section_refs": ["14"],
+      "prompt": "El extranjero menor de dieciocho años adoptado por un español:",
+      "options": [
+        {"id": "a", "text": "Adquiere la nacionalidad española de origen desde la adopción"},
+        {"id": "b", "text": "Debe esperar diez años para poder optar"},
+        {"id": "c", "text": "Adquiere únicamente vecindad civil, pero no nacionalidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La adquisición es automática, de origen y se produce desde la constitución de la adopción.",
+      "source_note": "Artículo 19.1 CC; Atestado, apartado 14."
+    },
+    {
+      "id": "t01-b05a-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "adopción de mayor",
+      "section_refs": ["14"],
+      "prompt": "El extranjero mayor de dieciocho años adoptado por un español puede optar por la nacionalidad española de origen durante:",
+      "options": [
+        {"id": "a", "text": "Un año desde la inscripción"},
+        {"id": "b", "text": "Dos años desde la constitución de la adopción"},
+        {"id": "c", "text": "Diez años desde la adopción"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "A diferencia del menor, el adoptado mayor no adquiere automáticamente la nacionalidad: dispone de un derecho de opción de dos años.",
+      "source_note": "Artículo 19.2 CC; Atestado, apartado 14."
+    },
+    {
+      "id": "t01-b05a-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "nacionalidad anterior del adoptado",
+      "section_refs": ["14"],
+      "prompt": "Si, conforme a la ley de su país, el menor adoptado por español mantiene su nacionalidad anterior:",
+      "options": [
+        {"id": "a", "text": "No puede adquirir la nacionalidad española"},
+        {"id": "b", "text": "Debe renunciar a ella antes de constituirse la adopción"},
+        {"id": "c", "text": "Esa nacionalidad también es reconocida en España"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 19.3 CC reconoce en España la nacionalidad anterior que el menor conserve conforme a la ley de su país.",
+      "source_note": "Artículo 19.3 CC; Atestado, apartado 14."
+    },
+    {
+      "id": "t01-b05a-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "posesión de estado",
+      "section_refs": ["15"],
+      "prompt": "La consolidación de la nacionalidad por posesión de estado requiere:",
+      "options": [
+        {"id": "a", "text": "Posesión y utilización continuadas durante diez años, con buena fe y título inscrito en el Registro Civil"},
+        {"id": "b", "text": "Residencia irregular durante cinco años"},
+        {"id": "c", "text": "Uso ocasional de documentación española durante dos años"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La posesión de estado consolida la nacionalidad aunque después se anule el título que la originó, siempre que concurran los tres requisitos.",
+      "source_note": "Artículo 18 CC; Atestado, apartado 15."
+    },
+    {
+      "id": "t01-b05a-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "posesión y residencia",
+      "section_refs": ["15"],
+      "prompt": "Los diez años de posesión de estado se diferencian de los diez años generales de residencia porque los primeros:",
+      "options": [
+        {"id": "a", "text": "Constituyen una concesión discrecional del Gobierno"},
+        {"id": "b", "text": "Consolidan una nacionalidad usada de buena fe sobre la base de un título inscrito"},
+        {"id": "c", "text": "Exigen que la persona nunca haya sido considerada española"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "No se trata de adquirir por residir en España, sino de consolidar una nacionalidad que se poseía y utilizaba con apariencia válida.",
+      "source_note": "Artículo 18 CC; Atestado, apartado 15."
+    },
+    {
+      "id": "t01-b05a-q015",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titulares del derecho de opción",
+      "section_refs": ["16"],
+      "prompt": "Tiene derecho a optar por la nacionalidad española quien:",
+      "options": [
+        {"id": "a", "text": "Haya visitado España en dos ocasiones"},
+        {"id": "b", "text": "Sea cónyuge de un español, sin ningún otro requisito"},
+        {"id": "c", "text": "Esté o haya estado sujeto a la patria potestad de un español"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "También pueden optar quienes tengan padre o madre originariamente español y nacido en España y los incluidos en los artículos 17.2 y 19.2 CC.",
+      "source_note": "Artículo 20.1 CC; Atestado, apartado 16."
+    },
+    {
+      "id": "t01-b05a-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "opción del menor de catorce años",
+      "section_refs": ["16.1"],
+      "prompt": "La declaración de opción de una persona menor de catorce años es formulada:",
+      "options": [
+        {"id": "a", "text": "Por su representante legal, con los controles legalmente previstos"},
+        {"id": "b", "text": "Siempre por el propio menor sin asistencia"},
+        {"id": "c", "text": "Por el alcalde de su municipio"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El régimen diferencia según edad y situación. En el menor de catorce años actúa el representante legal con las autorizaciones o controles que procedan.",
+      "source_note": "Artículo 20.2 CC; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t01-b05a-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "opción desde los catorce años",
+      "section_refs": ["16.1"],
+      "prompt": "A partir de los catorce años, mientras no esté emancipado, el interesado formula la opción:",
+      "options": [
+        {"id": "a", "text": "Mediante representante, sin intervenir personalmente"},
+        {"id": "b", "text": "Por sí mismo, asistido por su representante legal"},
+        {"id": "c", "text": "Únicamente después de obtener autorización del Consejo de Ministros"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Desde los catorce años el interesado presta personalmente la declaración, aunque necesita la asistencia de su representante legal.",
+      "source_note": "Artículo 20.2 CC; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t01-b05a-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "opción y discapacidad",
+      "section_refs": ["16.1"],
+      "prompt": "La persona con discapacidad ejerce el derecho de opción:",
+      "options": [
+        {"id": "a", "text": "Exclusivamente mediante curador representativo"},
+        {"id": "b", "text": "Solo si una sentencia declara previamente su capacidad"},
+        {"id": "c", "text": "Por sí misma, con los apoyos y ajustes de procedimiento que precise"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La reforma adapta el ejercicio de la opción al sistema de apoyos y evita sustituir automáticamente la declaración de la persona.",
+      "source_note": "Artículo 20.2 CC y Ley 8/2021; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t01-b05a-q019",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "plazo general de opción",
+      "section_refs": ["16.2"],
+      "prompt": "La opción basada en haber estado sujeto a la patria potestad de un español caduca, como regla general:",
+      "options": [
+        {"id": "a", "text": "A los veinte años, con la adaptación legal si la emancipación según la ley personal se produce después de los dieciocho"},
+        {"id": "b", "text": "A los treinta años en todos los casos"},
+        {"id": "c", "text": "A los dos años desde el nacimiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El límite general de veinte años admite una prolongación cuando la ley personal del interesado no determina la emancipación a los dieciocho.",
+      "source_note": "Artículo 20.2.c CC; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t01-b05a-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "opción sin límite general de veinte años",
+      "section_refs": ["16.2"],
+      "prompt": "El derecho de opción de quien tiene padre o madre originariamente español y nacido en España:",
+      "options": [
+        {"id": "a", "text": "Caduca necesariamente al cumplir veinte años"},
+        {"id": "b", "text": "No está sometido al límite general de veinte años"},
+        {"id": "c", "text": "Solo puede ejercerse durante el primer año de residencia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Esta opción está exceptuada del límite general. No debe confundirse con las opciones de los artículos 17.2 y 19.2, que tienen sus propios plazos de dos años.",
+      "source_note": "Artículo 20.3 CC; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t01-b05a-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "formalización de la opción",
+      "section_refs": ["16.3"],
+      "prompt": "La opción por la nacionalidad española:",
+      "options": [
+        {"id": "a", "text": "Produce efectos automáticos sin declaración ni inscripción"},
+        {"id": "b", "text": "Se formaliza mediante una solicitud de empadronamiento"},
+        {"id": "c", "text": "Exige declaración ante el Registro Civil y la correspondiente inscripción"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La existencia del derecho de opción no basta por sí sola: debe ejercitarse formalmente y cumplirse los requisitos aplicables del artículo 23 CC.",
+      "source_note": "Artículos 20 y 23 CC; Atestado, apartado 16.3."
+    },
+    {
+      "id": "t01-b05a-q022",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "opciones históricas o temporales",
+      "section_refs": ["16.4"],
+      "prompt": "Las opciones establecidas por leyes de memoria histórica o democrática:",
+      "options": [
+        {"id": "a", "text": "Son vías especiales sometidas a sus propios beneficiarios y plazos, y no deben confundirse con el régimen permanente del artículo 20 CC"},
+        {"id": "b", "text": "Permanecen abiertas indefinidamente aunque la ley fije un plazo"},
+        {"id": "c", "text": "Sustituyen todas las demás formas de adquisición de nacionalidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las vías temporales deben estudiarse separadamente. Para cualquier gestión real es necesario comprobar si el plazo especial continúa abierto.",
+      "source_note": "Ley 52/2007 y disposición adicional octava de la Ley 20/2022; Atestado, apartado 16.4."
+    },
+    {
+      "id": "t01-b05a-q023",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "carta de naturaleza",
+      "section_refs": ["17"],
+      "prompt": "La nacionalidad por carta de naturaleza se concede:",
+      "options": [
+        {"id": "a", "text": "Automáticamente tras un año de residencia"},
+        {"id": "b", "text": "Discrecionalmente mediante real decreto cuando concurran circunstancias excepcionales"},
+        {"id": "c", "text": "Mediante ordenanza municipal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "No existe una tabla cerrada que convierta la carta de naturaleza en un derecho automático; el Gobierno valora las circunstancias excepcionales.",
+      "source_note": "Artículo 21.1 CC; Atestado, apartado 17."
+    },
+    {
+      "id": "t01-b05a-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "actos posteriores a la carta de naturaleza",
+      "section_refs": ["17"],
+      "prompt": "Concedida la carta de naturaleza, el interesado:",
+      "options": [
+        {"id": "a", "text": "Queda exento de inscripción en el Registro Civil"},
+        {"id": "b", "text": "Dispone siempre de diez años para completar el procedimiento"},
+        {"id": "c", "text": "Debe cumplir los requisitos aplicables del artículo 23 CC dentro del plazo de ciento ochenta días"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La concesión caduca si, tras la notificación, no se cumplen en ciento ochenta días el juramento o promesa, renuncia cuando proceda e inscripción.",
+      "source_note": "Artículos 21.4 y 23 CC; Atestado, apartado 17."
+    },
+    {
+      "id": "t01-b05a-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "naturaleza originaria o derivativa",
+      "section_refs": ["12", "14", "16"],
+      "prompt": "Señale la afirmación correcta sobre la naturaleza de las vías de adquisición:",
+      "options": [
+        {"id": "a", "text": "La adopción de un menor por español y las opciones de los artículos 17.2 y 19.2 conducen a nacionalidad de origen"},
+        {"id": "b", "text": "Toda opción produce siempre nacionalidad derivativa"},
+        {"id": "c", "text": "La carta de naturaleza atribuye necesariamente nacionalidad de origen"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La opción general suele ser derivativa, pero las opciones expresamente vinculadas a los artículos 17.2 y 19.2 permiten adquirir nacionalidad española de origen.",
+      "source_note": "Artículos 17.2, 19.2 y 20 CC; Atestado, apartados 12, 14 y 16."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-07-13",
+  "tests": [
+    {
+      "id": "t01-b01-derecho-acepciones-v1",
+      "theme_number": 1,
+      "block_number": 1,
+      "title": "Tema 1 · Test 1 · El Derecho y sus acepciones",
+      "description": "Comprueba si dominas el concepto y las funciones del Derecho y si distingues sus principales acepciones: objetivo y subjetivo, positivo y natural, público y privado, común y especial, general y particular. Combina preguntas conceptuales con pequeños supuestos para evitar que las definiciones se aprendan de forma aislada.",
+      "question_count": 20,
+      "recommended_duration_minutes": 15,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-01-derecho-acepciones.json"
+    },
+    {
+      "id": "t01-b02a-norma-juridica-v1",
+      "theme_number": 1,
+      "block_number": "2A",
+      "title": "Tema 1 · Test 2A · La norma jurídica positiva",
+      "description": "Trabaja la anatomía completa de la norma jurídica positiva: concepto, funciones, supuesto de hecho, consecuencia jurídica y diferencia entre norma y artículo. También pone a prueba sus caracteres y todas las clasificaciones doctrinales mediante definiciones, ejemplos y distractores próximos.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-02a-norma-juridica.json"
+    },
+    {
+      "id": "t01-b02b-fuentes-aplicacion-eficacia-v1",
+      "theme_number": 1,
+      "block_number": "2B",
+      "title": "Tema 1 · Test 2B · Fuentes, aplicación y eficacia de las normas",
+      "description": "Evalúa el sistema de fuentes y la forma en que las normas se interpretan, se integran y producen efectos. Incluye ley, costumbre, principios generales, tratados, jurisprudencia, equidad, entrada en vigor, derogación, analogía, plazos, ignorancia de la ley, renuncia, fraude, buena fe y abuso del derecho.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-02b-fuentes-aplicacion-eficacia.json"
+    },
+    {
+      "id": "t01-b03a-jerarquia-tipos-normativos-v1",
+      "theme_number": 1,
+      "block_number": "3A",
+      "title": "Tema 1 · Test 3A · Jerarquía y tipos normativos",
+      "description": "Ordena el mapa normativo y comprueba si identificas el rango, autor, procedimiento y límites de cada disposición. Recorre la Constitución, las leyes orgánicas y ordinarias, el Derecho de la Unión, los tratados, los decretos legislativos y decretos-leyes, las leyes del artículo 150 CE, las leyes autonómicas y los reglamentos.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-03a-jerarquia-tipos-normativos.json"
+    },
+    {
+      "id": "t01-b03b-conflictos-control-normativo-v1",
+      "theme_number": 1,
+      "block_number": "3B",
+      "title": "Tema 1 · Test 3B · Conflictos y control normativo",
+      "description": "No repite simplemente los tipos de normas del 3A: obliga a decidir qué criterio debe utilizarse ante conflictos reales. Practica jerarquía, competencia, cronología, especialidad, prevalencia, método de resolución, controles de validez y las principales trampas de examen.",
+      "question_count": 20,
+      "recommended_duration_minutes": 15,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-03b-conflictos-control-normativo.json"
+    },
+    {
+      "id": "t01-b04a-persona-nacimiento-ausencia-v1",
+      "theme_number": 1,
+      "block_number": "4A",
+      "title": "Tema 1 · Test 4A · Persona, nacimiento, ausencia y fallecimiento",
+      "description": "Sigue el recorrido jurídico completo de la persona desde su reconocimiento como sujeto de derechos hasta la extinción de la personalidad. Distingue persona física y jurídica, protección del concebido, nacimiento, inscripción, comoriencia, desaparición, ausencia legal, declaración de fallecimiento y efectos de una posible reaparición.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-04a-persona-nacimiento-ausencia.json"
+    },
+    {
+      "id": "t01-b04b-capacidad-emancipacion-apoyos-v1",
+      "theme_number": 1,
+      "block_number": "4B",
+      "title": "Tema 1 · Test 4B · Capacidad, emancipación y medidas de apoyo",
+      "description": "Comprueba si distingues titularidad y ejercicio de derechos y si sabes aplicar las reglas de mayoría, minoría y emancipación. Incluye las formas de emanciparse, sus requisitos y límites patrimoniales y el sistema vigente de medidas de apoyo, basado en la voluntad, los deseos y las preferencias de la persona.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-04b-capacidad-emancipacion-apoyos.json"
+    },
+    {
+      "id": "t01-b05a-adquisicion-nacionalidad-v1",
+      "theme_number": 1,
+      "block_number": "5A",
+      "title": "Tema 1 · Test 5A · Adquisición de la nacionalidad española",
+      "description": "Distingue todas las vías de adquisición y consolidación anteriores al procedimiento por residencia. Practica nacionalidad de origen por filiación o nacimiento, adopción, posesión de estado, opción, plazos y personas que formulan la declaración, vías históricas temporales y carta de naturaleza.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-05a-adquisicion-nacionalidad.json"
+    },
+    {
+      "id": "t01-b05b-nacionalidad-residencia-procedimiento-v1",
+      "theme_number": 1,
+      "block_number": "5B",
+      "title": "Tema 1 · Test 5B · Nacionalidad por residencia y procedimiento",
+      "description": "Domina la tabla 10-5-2-1 y aprende a aplicar cada plazo al supuesto correcto. El test recorre residencia legal, continuada e inmediatamente anterior, buena conducta e integración, tramitación del expediente, pruebas CCSE y DELE, dispensas y ajustes, resolución, jura, renuncia, inscripción y particularidades de los sefardíes.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-05b-nacionalidad-residencia-procedimiento.json"
+    },
+    {
+      "id": "t01-b05c-conservacion-perdida-recuperacion-v1",
+      "theme_number": 1,
+      "block_number": "5C",
+      "title": "Tema 1 · Test 5C · Conservación, pérdida y recuperación de la nacionalidad",
+      "description": "Aplica las reglas de conservación, pérdida, nulidad y recuperación a casos concretos. Deberás distinguir españoles de origen y no originarios, residencia en el extranjero, adquisición o uso de otra nacionalidad, plazos de tres y quince años, declaración de conservación, fraude, excepciones y requisitos para recuperar la nacionalidad.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-05c-conservacion-perdida-recuperacion.json"
+    },
+    {
+      "id": "t01-b06-domicilio-vecindad-civil-v1",
+      "theme_number": 1,
+      "block_number": 6,
+      "title": "Tema 1 · Test 6 · Domicilio y vecindad civil",
+      "description": "Diferencia correctamente domicilio, residencia, empadronamiento y espacio constitucionalmente protegido, y aplica las reglas especiales de diplomáticos y personas jurídicas. En vecindad civil practicarás atribución al nacer o ser adoptado, opción, matrimonio, residencia, adquisición de nacionalidad y recuperación.",
+      "question_count": 25,
+      "recommended_duration_minutes": 18,
+      "status": "draft_pending_human_review",
+      "file": "data/tests/tema-01/test-06-domicilio-vecindad-civil.json"
+    }
+  ]
+}

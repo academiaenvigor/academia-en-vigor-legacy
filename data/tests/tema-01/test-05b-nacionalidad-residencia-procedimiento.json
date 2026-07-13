@@ -1,0 +1,459 @@
+{
+  "id": "t01-b05b-nacionalidad-residencia-procedimiento-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 1 · Test 5B · Nacionalidad por residencia y procedimiento",
+    "short_title": "Nacionalidad por residencia",
+    "description": "Domina la tabla 10-5-2-1 y aprende a aplicar cada plazo al supuesto correcto. El test recorre residencia legal, continuada e inmediatamente anterior, buena conducta e integración, tramitación del expediente, pruebas CCSE y DELE, dispensas y ajustes, resolución, jura, renuncia, inscripción y particularidades de los sefardíes.",
+    "theme_number": 1,
+    "block_number": "5B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-13",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-01-el-derecho.md",
+    "sections": ["18", "18.1", "18.2", "18.3", "19", "19.1"],
+    "concepts": [
+      "residencia legal, continuada e inmediatamente anterior",
+      "plazo general de diez años",
+      "plazo de cinco años para refugiados",
+      "plazo de dos años y países incluidos",
+      "supuestos de un año",
+      "buena conducta cívica e integración",
+      "matrimonio y nacionalidad",
+      "condición de refugiado y solicitud de asilo",
+      "procedimiento de nacionalidad por residencia",
+      "órgano instructor y órgano resolutor",
+      "pruebas CCSE y DELE",
+      "exenciones, dispensas y ajustes",
+      "empadronamiento y residencia legal",
+      "juramento o promesa",
+      "declaración de renuncia y excepciones",
+      "inscripción registral",
+      "plazo de ciento ochenta días",
+      "régimen permanente de los sefardíes"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t01-b05b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "caracteres de la residencia",
+      "section_refs": ["18"],
+      "prompt": "La residencia exigida para adquirir la nacionalidad española debe ser:",
+      "options": [
+        {"id": "a", "text": "Legal, continuada e inmediatamente anterior a la solicitud"},
+        {"id": "b", "text": "Únicamente efectiva, aunque sea irregular"},
+        {"id": "c", "text": "Intermitente y posterior a la solicitud"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las tres condiciones son acumulativas. El empadronamiento o la mera presencia física no sustituyen la residencia legal exigida por el Código Civil.",
+      "source_note": "Artículo 22.3 CC; Atestado, apartado 18."
+    },
+    {
+      "id": "t01-b05b-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "plazo general",
+      "section_refs": ["18"],
+      "prompt": "El plazo general de residencia para solicitar la nacionalidad española es de:",
+      "options": [
+        {"id": "a", "text": "Cinco años"},
+        {"id": "b", "text": "Diez años"},
+        {"id": "c", "text": "Dos años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Diez años es la regla general, salvo que el interesado se encuentre en alguno de los supuestos privilegiados de cinco, dos o un año.",
+      "source_note": "Artículo 22.1 CC; Atestado, apartado 18."
+    },
+    {
+      "id": "t01-b05b-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "personas refugiadas",
+      "section_refs": ["18"],
+      "prompt": "Para quienes hayan obtenido la condición de refugiado, el plazo de residencia exigido es de:",
+      "options": [
+        {"id": "a", "text": "Un año"},
+        {"id": "b", "text": "Dos años"},
+        {"id": "c", "text": "Cinco años"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El plazo reducido se aplica a quien ha obtenido la condición de refugiado, no automáticamente a cualquier solicitante de protección internacional.",
+      "source_note": "Artículo 22.1 CC; Atestado, apartados 18 y 18.2."
+    },
+    {
+      "id": "t01-b05b-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "plazo de dos años",
+      "section_refs": ["18"],
+      "prompt": "El plazo de dos años se aplica a nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal y a:",
+      "options": [
+        {"id": "a", "text": "Sefardíes"},
+        {"id": "b", "text": "Nacionales de cualquier Estado de la Unión Europea"},
+        {"id": "c", "text": "Toda persona nacida fuera de España"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La lista del artículo 22.1 CC es cerrada. No incluye de forma general a todos los ciudadanos europeos.",
+      "source_note": "Artículo 22.1 CC; Atestado, apartado 18."
+    },
+    {
+      "id": "t01-b05b-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "nacional portugués",
+      "section_refs": ["18", "18.2"],
+      "prompt": "Un nacional de origen portugués puede solicitar la nacionalidad española tras una residencia legal, continuada e inmediatamente anterior de:",
+      "options": [
+        {"id": "a", "text": "Un año"},
+        {"id": "b", "text": "Dos años"},
+        {"id": "c", "text": "Cinco años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Portugal está incluido expresamente en el grupo del plazo de dos años.",
+      "source_note": "Artículo 22.1 CC; Atestado, apartados 18 y 18.2."
+    },
+    {
+      "id": "t01-b05b-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "nacido en España",
+      "section_refs": ["18.1"],
+      "prompt": "Quien haya nacido en territorio español puede solicitar la nacionalidad por residencia tras:",
+      "options": [
+        {"id": "a", "text": "Dos años de residencia"},
+        {"id": "b", "text": "Cinco años de residencia"},
+        {"id": "c", "text": "Un año de residencia"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Nacer en España no siempre atribuye nacionalidad de origen, pero permite acceder al plazo reducido de un año.",
+      "source_note": "Artículo 22.2.a CC; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t01-b05b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "opción no ejercitada",
+      "section_refs": ["18.1"],
+      "prompt": "El extranjero que no ejerció oportunamente su facultad de optar puede acceder a la nacionalidad por residencia con un plazo de:",
+      "options": [
+        {"id": "a", "text": "Un año"},
+        {"id": "b", "text": "Dos años"},
+        {"id": "c", "text": "Diez años"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "No ejercitar a tiempo la opción es uno de los supuestos tasados del artículo 22.2 CC para el plazo de un año.",
+      "source_note": "Artículo 22.2.b CC; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t01-b05b-q008",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "tutela, guarda o acogimiento",
+      "section_refs": ["18.1"],
+      "prompt": "Puede solicitar la nacionalidad con un año de residencia quien haya estado sujeto legalmente durante dos años consecutivos a tutela, curatela con facultades de representación plena, guarda o acogimiento de:",
+      "options": [
+        {"id": "a", "text": "Cualquier persona extranjera residente"},
+        {"id": "b", "text": "Un ciudadano o institución españoles"},
+        {"id": "c", "text": "Una institución internacional, exclusivamente"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El periodo de sujeción debe ser de dos años consecutivos, incluso si la situación continuase al presentar la solicitud.",
+      "source_note": "Artículo 22.2.c CC; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t01-b05b-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "matrimonio con español",
+      "section_refs": ["18.1", "18.2"],
+      "prompt": "El cónyuge de una persona española puede acogerse al plazo de un año cuando, al presentar la solicitud:",
+      "options": [
+        {"id": "a", "text": "Lleve seis meses casado, aunque esté separado de hecho"},
+        {"id": "b", "text": "Se haya casado en territorio español, sin residencia previa"},
+        {"id": "c", "text": "Lleve un año casado y no esté separado legalmente ni de hecho"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El matrimonio no concede automáticamente nacionalidad. Reduce el plazo de residencia a un año cuando concurren las condiciones legales.",
+      "source_note": "Artículo 22.2.d CC; Atestado, apartados 18.1 y 18.2."
+    },
+    {
+      "id": "t01-b05b-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "viudo de español",
+      "section_refs": ["18.1"],
+      "prompt": "El viudo o viuda de español puede acogerse al plazo de un año si:",
+      "options": [
+        {"id": "a", "text": "Al fallecimiento del cónyuge no existía separación legal ni de hecho"},
+        {"id": "b", "text": "El matrimonio había durado necesariamente diez años"},
+        {"id": "c", "text": "Renuncia antes de solicitar a su nacionalidad anterior en todos los casos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La clave es la inexistencia de separación legal o de hecho en el momento del fallecimiento del cónyuge español.",
+      "source_note": "Artículo 22.2.e CC; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t01-b05b-q011",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "descendientes de españoles originarios",
+      "section_refs": ["18.1"],
+      "prompt": "Puede acogerse al plazo de un año el nacido fuera de España de:",
+      "options": [
+        {"id": "a", "text": "Cualquier familiar que haya residido en España"},
+        {"id": "b", "text": "Padre, madre, abuelo o abuela que originariamente hubieran sido españoles"},
+        {"id": "c", "text": "Un cónyuge que haya obtenido un visado español"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 22.2.f CC exige el vínculo con padre, madre, abuelo o abuela originariamente españoles.",
+      "source_note": "Artículo 22.2.f CC; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t01-b05b-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "conducta e integración",
+      "section_refs": ["18.1", "18.3"],
+      "prompt": "Además de la residencia exigida, el interesado debe justificar en el expediente:",
+      "options": [
+        {"id": "a", "text": "Únicamente disponer de vivienda en propiedad"},
+        {"id": "b", "text": "Haber nacido necesariamente en España"},
+        {"id": "c", "text": "Buena conducta cívica y suficiente grado de integración en la sociedad española"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La ausencia de condenas es relevante, pero la buena conducta cívica constituye una valoración más amplia dentro del expediente.",
+      "source_note": "Artículo 22.4 CC; Atestado, apartados 18.1 y 18.3."
+    },
+    {
+      "id": "t01-b05b-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "matrimonio y adquisición",
+      "section_refs": ["18.2"],
+      "prompt": "El matrimonio con una persona española:",
+      "options": [
+        {"id": "a", "text": "No concede automáticamente la nacionalidad, aunque puede reducir a un año el plazo de residencia"},
+        {"id": "b", "text": "Produce nacionalidad española de origen desde la boda"},
+        {"id": "c", "text": "Elimina la necesidad de residencia y de expediente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El matrimonio es una circunstancia que permite un plazo privilegiado si se cumplen todas las condiciones, no una forma automática de adquisición.",
+      "source_note": "Artículo 22.2.d CC; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t01-b05b-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "nacional de origen",
+      "section_refs": ["18", "18.2"],
+      "prompt": "Para aplicar el plazo reducido de dos años por razón de nacionalidad, el Código Civil se refiere a:",
+      "options": [
+        {"id": "a", "text": "Toda persona que haya residido alguna vez en uno de los países enumerados"},
+        {"id": "b", "text": "Nacionales de origen de los países expresamente incluidos"},
+        {"id": "c", "text": "Cualquier descendiente de una persona nacional de la Unión Europea"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La condición de nacional de origen forma parte de la redacción del artículo 22.1 y debe comprobarse en el supuesto concreto.",
+      "source_note": "Artículo 22.1 CC; Atestado, apartados 18 y 18.2."
+    },
+    {
+      "id": "t01-b05b-q015",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "órganos del procedimiento",
+      "section_refs": ["18.3"],
+      "prompt": "En el procedimiento de nacionalidad por residencia, la instrucción corresponde a la Dirección General de Seguridad Jurídica y Fe Pública y la concesión corresponde:",
+      "options": [
+        {"id": "a", "text": "Al encargado del padrón municipal"},
+        {"id": "b", "text": "Al Instituto Cervantes"},
+        {"id": "c", "text": "Al Ministro de Justicia"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Dirección General instruye y formula la propuesta; el Ministro de Justicia dicta la resolución de concesión o denegación.",
+      "source_note": "Real Decreto 1004/2015; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "inicio y tramitación",
+      "section_refs": ["18.3"],
+      "prompt": "El procedimiento de nacionalidad por residencia:",
+      "options": [
+        {"id": "a", "text": "Se inicia a solicitud del interesado, normalmente por vía electrónica, y comprende comprobaciones e informes"},
+        {"id": "b", "text": "Se inicia siempre de oficio por el ayuntamiento"},
+        {"id": "c", "text": "Finaliza automáticamente al presentar el certificado de empadronamiento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La presentación abre el expediente, pero la Administración debe comprobar residencia, conducta, integración y demás requisitos antes de resolver.",
+      "source_note": "Real Decreto 1004/2015 y Orden JUS/1625/2016; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q017",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "pruebas de integración",
+      "section_refs": ["18.3"],
+      "prompt": "Con carácter general, las pruebas relacionadas con la integración son:",
+      "options": [
+        {"id": "a", "text": "Una entrevista policial y un examen de Derecho penal"},
+        {"id": "b", "text": "CCSE y DELE de nivel mínimo A2"},
+        {"id": "c", "text": "Un examen de conducción y otro de historia europea"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La CCSE evalúa conocimientos constitucionales y socioculturales; el DELE acredita, con carácter general, un nivel mínimo A2 de español.",
+      "source_note": "Real Decreto 1004/2015 y Orden JUS/1625/2016; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "exención del DELE",
+      "section_refs": ["18.3"],
+      "prompt": "La exención del DELE para determinados nacionales de países donde el español es lengua oficial:",
+      "options": [
+        {"id": "a", "text": "Supone automáticamente exención de toda prueba y de la renuncia a la nacionalidad anterior"},
+        {"id": "b", "text": "Convierte la adquisición en nacionalidad de origen"},
+        {"id": "c", "text": "No debe confundirse con la exención de CCSE ni con las excepciones a la renuncia"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Cada excepción responde a una regla distinta. Estar exento del examen de lengua no elimina por sí mismo las restantes exigencias.",
+      "source_note": "Orden JUS/1625/2016; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "dispensas y ajustes",
+      "section_refs": ["18.3"],
+      "prompt": "En las pruebas de integración:",
+      "options": [
+        {"id": "a", "text": "Pueden existir dispensas, adaptaciones y ajustes razonables en los supuestos previstos"},
+        {"id": "b", "text": "Nunca cabe adaptar el procedimiento a una discapacidad"},
+        {"id": "c", "text": "Toda dificultad de aprendizaje produce concesión automática"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las adaptaciones facilitan la participación en igualdad, pero no equivalen a una concesión automática de la nacionalidad.",
+      "source_note": "Real Decreto 1004/2015 y Orden JUS/1625/2016; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "empadronamiento y residencia legal",
+      "section_refs": ["18.3"],
+      "prompt": "El empadronamiento:",
+      "options": [
+        {"id": "a", "text": "Demuestra por sí solo toda la residencia legal exigida"},
+        {"id": "b", "text": "Puede servir como dato probatorio, pero no sustituye por sí solo la residencia legal"},
+        {"id": "c", "text": "Carece de cualquier valor como dato de residencia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Padrón y autorización de residencia pertenecen a planos distintos. La residencia debe estar amparada por una situación que compute legalmente.",
+      "source_note": "Artículo 22.3 CC; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "continuidad e inmediatez",
+      "section_refs": ["18.3"],
+      "prompt": "La exigencia de que la residencia sea inmediatamente anterior significa que:",
+      "options": [
+        {"id": "a", "text": "Puede completarse el periodo años antes y romper después toda vinculación residencial"},
+        {"id": "b", "text": "Las salidas de España son siempre irrelevantes"},
+        {"id": "c", "text": "El periodo exigido debe enlazar con la solicitud y conservar la continuidad requerida"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Las ausencias deben valorarse por su duración y circunstancias. Las que resulten incompatibles con una residencia continuada pueden frustrar el requisito.",
+      "source_note": "Artículo 22.3 CC; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t01-b05b-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "juramento o promesa",
+      "section_refs": ["19"],
+      "prompt": "Para la validez de la adquisición por residencia, el mayor de catorce años con aptitud para declarar debe:",
+      "options": [
+        {"id": "a", "text": "Jurar o prometer fidelidad al Rey y obediencia a la Constitución y las leyes"},
+        {"id": "b", "text": "Prestar juramento exclusivamente ante el Congreso"},
+        {"id": "c", "text": "Superar nuevamente las pruebas CCSE y DELE después de la concesión"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 23 CC exige la declaración solemne, la renuncia cuando proceda y la inscripción registral.",
+      "source_note": "Artículo 23.a CC; Atestado, apartado 19."
+    },
+    {
+      "id": "t01-b05b-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "excepciones a la renuncia",
+      "section_refs": ["19"],
+      "prompt": "No se exige declarar la renuncia a la nacionalidad anterior, entre otros, a los nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal y a:",
+      "options": [
+        {"id": "a", "text": "Todos los nacionales de la Unión Europea"},
+        {"id": "b", "text": "Los sefardíes originarios de España"},
+        {"id": "c", "text": "Cualquier persona nacida fuera de España"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La lista de excepciones a la renuncia cumple una función distinta de la tabla de plazos, aunque exista un importante solapamiento.",
+      "source_note": "Artículo 23.b CC; Atestado, apartado 19."
+    },
+    {
+      "id": "t01-b05b-q024",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "plazo posterior a la concesión",
+      "section_refs": ["19"],
+      "prompt": "La concesión de nacionalidad por residencia caduca si el interesado no cumple los requisitos posteriores dentro de:",
+      "options": [
+        {"id": "a", "text": "Treinta días"},
+        {"id": "b", "text": "Un año"},
+        {"id": "c", "text": "Ciento ochenta días desde la notificación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Dentro de los ciento ochenta días deben cumplirse los actos aplicables del artículo 23 y practicarse la inscripción correspondiente.",
+      "source_note": "Artículo 21.4 CC; Atestado, apartado 19."
+    },
+    {
+      "id": "t01-b05b-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "sefardíes",
+      "section_refs": ["19.1"],
+      "prompt": "Finalizado el procedimiento especial temporal de la Ley 12/2015, los sefardíes:",
+      "options": [
+        {"id": "a", "text": "Mantienen el plazo de dos años de residencia y la excepción de renuncia previstas en el Código Civil"},
+        {"id": "b", "text": "Han perdido toda posibilidad de adquirir nacionalidad española"},
+        {"id": "c", "text": "Adquieren automáticamente nacionalidad de origen sin expediente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El cierre de la vía especial no eliminó las reglas permanentes de los artículos 22 y 23 CC.",
+      "source_note": "Artículos 22.1 y 23.b CC y Ley 12/2015; Atestado, apartado 19.1."
+    }
+  ]
+}
