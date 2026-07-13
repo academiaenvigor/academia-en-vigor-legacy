@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Academia En Vigor · El temario que nunca descansa</title>
+<link rel="icon" type="image/svg+xml" href="img/logo-academia-en-vigor.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
+<style>
+:root{
+  --azul:#1d4ed8; --azul-oscuro:#1e3a8a; --azul-claro:#dbeafe;
+  --verde:#16a34a; --verde-oscuro:#14532d; --verde-claro:#dcfce7;
+  --tinta:#0f172a; --gris:#64748b; --linea:#e2e8f0; --fondo:#ffffff; --crema:#f8fafc;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',sans-serif;color:var(--tinta);background:var(--fondo);line-height:1.6}
+h1,h2,h3,.display{font-family:'Barlow Condensed',sans-serif}
+
+/* ===== CABECERA ===== */
+header{border-bottom:2px solid var(--tinta);padding:18px 20px 0;max-width:1100px;margin:0 auto}
+.marca{display:flex;align-items:center;gap:14px}
+.marca img{height:64px}
+.marca h1{font-size:2rem;font-weight:700;letter-spacing:2px;line-height:1}
+.marca .eslogan{color:var(--gris);font-size:.9rem;font-style:italic}
+/* Firma: el pulso que nunca descansa */
+.pulso{height:34px;display:block;width:100%;margin-top:8px}
+.pulso polyline{fill:none;stroke:var(--verde);stroke-width:2.5;stroke-linecap:round;
+  stroke-dasharray:640;stroke-dashoffset:640;animation:latir 3.2s linear infinite}
+@keyframes latir{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion: reduce){.pulso polyline{animation:none;stroke-dashoffset:0}}
+
+/* ===== CINTA DE DATOS ===== */
+.cinta{max-width:1100px;margin:0 auto;padding:14px 20px;display:flex;gap:26px;flex-wrap:wrap;border-bottom:1px solid var(--linea)}
+.dato{display:flex;flex-direction:column}
+.dato b{font-family:'Barlow Condensed';font-size:1.7rem;font-weight:700;line-height:1}
+.dato span{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--gris)}
+.dato.azul b{color:var(--azul)} .dato.verde b{color:var(--verde)}
+
+/* ===== BLOQUES Y TARJETAS ===== */
+main{max-width:1100px;margin:0 auto;padding:20px}
+.bloque{margin-bottom:34px}
+.bloque>h2{font-size:1.5rem;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;
+  padding-left:12px;border-left:6px solid var(--azul);margin-bottom:14px}
+.bloque.b-B>h2{border-color:var(--verde)} .bloque.b-C>h2{border-color:var(--tinta)}
+.rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.tema{border:1.5px solid var(--linea);border-radius:10px;padding:12px 14px;cursor:pointer;
+  background:var(--fondo);transition:border-color .15s, transform .15s;position:relative;overflow:hidden}
+.tema:hover,.tema:focus-visible{border-color:var(--azul);transform:translateY(-2px);outline:none}
+.tema.pendiente{opacity:.55;cursor:default}
+.tema.pendiente:hover{border-color:var(--linea);transform:none}
+/* escudo diagonal como indicador de estado */
+.tema::before{content:'';position:absolute;top:0;right:0;width:34px;height:34px;
+  background:linear-gradient(135deg,var(--azul-claro) 50%,var(--verde-claro) 50%);
+  clip-path:polygon(100% 0,0 0,100% 100%)}
+.tema.leido::before{background:linear-gradient(135deg,var(--azul) 50%,var(--verde) 50%)}
+.tema .num{font-family:'Barlow Condensed';font-weight:700;font-size:1.05rem;color:var(--azul)}
+.tema h3{font-size:.95rem;font-weight:600;line-height:1.3;margin:2px 0 8px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-size:.68rem;font-weight:600;padding:2px 8px;border-radius:20px;letter-spacing:.3px}
+.chip.frec{background:var(--azul-claro);color:var(--azul-oscuro)}
+.chip.gratis{background:var(--verde-claro);color:var(--verde-oscuro)}
+.chip.prox{background:var(--crema);color:var(--gris);border:1px dashed var(--linea)}
+.chip.hecho{background:var(--verde);color:#fff}
+
+/* ===== LECTOR ===== */
+#lector{display:none;max-width:860px;margin:0 auto;padding:20px}
+#lector.activo{display:block}
+main.oculto{display:none}
+.volver{font-family:'Barlow Condensed';font-weight:600;letter-spacing:1px;text-transform:uppercase;
+  background:none;border:2px solid var(--tinta);border-radius:8px;padding:6px 16px;cursor:pointer;font-size:.95rem}
+.volver:hover{background:var(--tinta);color:#fff}
+.marcar{float:right;background:var(--verde);color:#fff;border:none;border-radius:8px;
+  padding:8px 16px;cursor:pointer;font-weight:600;font-size:.85rem}
+.marcar.ya{background:var(--gris)}
+#contenido{margin-top:18px}
+#contenido img{max-width:100%;border:1px solid var(--linea);border-radius:10px;margin:10px 0}
+#contenido h1{font-size:1.9rem;border-bottom:3px solid var(--azul);padding-bottom:6px;margin:18px 0 10px}
+#contenido h2{font-size:1.4rem;margin:22px 0 8px;color:var(--azul-oscuro)}
+#contenido h3{font-size:1.15rem;margin:16px 0 6px}
+#contenido table{border-collapse:collapse;width:100%;margin:12px 0;font-size:.92rem}
+#contenido th{background:var(--azul-claro);text-align:left}
+#contenido th,#contenido td{border:1px solid var(--linea);padding:7px 10px}
+#contenido blockquote{background:var(--verde-claro);border-left:5px solid var(--verde);
+  padding:10px 14px;border-radius:0 8px 8px 0;margin:12px 0}
+#contenido code,#contenido pre{background:var(--crema);border-radius:6px;font-size:.85rem}
+#contenido pre{padding:12px;overflow-x:auto;border:1px solid var(--linea)}
+#contenido hr{border:none;border-top:1px solid var(--linea);margin:20px 0}
+#contenido a{color:var(--azul)}
+.cargando,.error{padding:40px;text-align:center;color:var(--gris)}
+footer{border-top:1px solid var(--linea);margin-top:30px;padding:16px 20px;text-align:center;color:var(--gris);font-size:.8rem}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="marca">
+    <img src="img/logo-academia-en-vigor.svg" alt="Academia En Vigor" onerror="this.style.display='none'">
+    <div>
+      <h1>ACADEMIA EN VIGOR</h1>
+      <div class="eslogan">El temario que nunca descansa · Policía Nacional · Escala Básica</div>
+    </div>
+  </div>
+  <svg class="pulso" viewBox="0 0 900 34" preserveAspectRatio="none" aria-hidden="true">
+    <polyline points="0,20 220,20 260,20 285,8 310,30 330,3 350,29 368,20 470,20 495,10 515,28 535,20 900,20"/>
+  </svg>
+</header>
+
+<div class="cinta" id="cinta"></div>
+
+<main id="indice"></main>
+
+<section id="lector">
+  <button class="volver" onclick="cerrarLector()">← Volver al temario</button>
+  <button class="marcar" id="btnMarcar" onclick="alternarLeido()">Marcar como estudiado</button>
+  <div id="contenido"><div class="cargando">Cargando el tema…</div></div>
+</section>
+
+<footer>🛡️ Academia En Vigor — preparado por personal en activo · Prototipo de plataforma · Los contenidos se actualizan con cada cambio legislativo</footer>
+
+<script>
+// ===== Config: archivos publicados (El Parte). Al publicar un tema nuevo, añade su línea. =====
+const ARCHIVOS = {
+  1:'temas/parte/tema-01-el-derecho.md',
+  2:'temas/parte/tema-02-constitucion-1.md',
+  3:'temas/parte/tema-03-constitucion-2.md',
+  4:'temas/parte/tema-04-union-europea.md',
+  5:'temas/parte/tema-05-age-gobierno.md',
+  6:'temas/parte/tema-06-funcionarios.md',
+  7:'temas/parte/tema-07-ministerio-interior.md',
+  8:'temas/parte/tema-08-dgp.md',
+  9:'temas/parte/tema-09-lo-2-1986.md',
+  10:'temas/parte/tema-10-entrada-residencia.md',
+};
+const BLOQUES = {A:'Ciencias Jurídicas', B:'Ciencias Sociales', C:'Materias Técnico-Científicas'};
+
+let DATA=null, temaAbierto=null;
+const leidos = new Set(JSON.parse(localStorage.getItem('aev-leidos')||'[]'));
+
+fetch('temario.json').then(r=>r.json()).then(d=>{ DATA=d; pintar(); })
+  .catch(()=>{ document.getElementById('indice').innerHTML='<div class="error">No se pudo cargar temario.json — comprueba que está en la raíz del repositorio.</div>'; });
+
+function pintar(){
+  const temas = DATA.temas||[];
+  const publicados = temas.filter(t=>ARCHIVOS[t.numero]).length;
+  const preguntas = DATA.meta?.estadistica_examenes?.total_preguntas_validas;
+  const examenes = (DATA.meta?.examenes_cargados||[]).length;
+
+  document.getElementById('cinta').innerHTML = `
+    <div class="dato azul"><b>${publicados}/45</b><span>temas publicados</span></div>
+    <div class="dato verde"><b>${leidos.size}</b><span>estudiados por ti</span></div>
+    ${examenes?`<div class="dato"><b>${examenes}</b><span>exámenes oficiales mapeados</span></div>`:''}
+    ${preguntas?`<div class="dato"><b>${preguntas}</b><span>preguntas reales referenciadas</span></div>`:''}`;
+
+  const cont = document.getElementById('indice');
+  cont.innerHTML='';
+  for(const [b,nombre] of Object.entries(BLOQUES)){
+    const del = temas.filter(t=>t.bloque===b);
+    if(!del.length) continue;
+    const sec = document.createElement('div');
+    sec.className = 'bloque b-'+b;
+    sec.innerHTML = `<h2>Bloque ${b} · ${nombre}</h2>`;
+    const rej = document.createElement('div'); rej.className='rejilla';
+    for(const t of del){
+      const pub = !!ARCHIVOS[t.numero];
+      const frec = t.frecuencia_examen?.preguntas_2015_2025;
+      const card = document.createElement('div');
+      card.className = 'tema' + (pub?'':' pendiente') + (leidos.has(t.numero)?' leido':'');
+      card.tabIndex = pub ? 0 : -1;
+      card.innerHTML = `
+        <div class="num">TEMA ${t.numero}</div>
+        <h3>${t.titulo}</h3>
+        <div class="chips">
+          ${leidos.has(t.numero)?'<span class="chip hecho">✓ Estudiado</span>':''}
+          ${frec?`<span class="chip frec">📅 ${frec} preguntas de examen</span>`:''}
+          ${t.gratuito?'<span class="chip gratis">GRATIS</span>':''}
+          ${pub?'':'<span class="chip prox">Próximamente</span>'}
+        </div>`;
+      if(pub){
+        card.onclick = ()=>abrirTema(t.numero, t.titulo);
+        card.onkeydown = e=>{ if(e.key==='Enter') abrirTema(t.numero, t.titulo); };
+      }
+      rej.appendChild(card);
+    }
+    sec.appendChild(rej);
+    cont.appendChild(sec);
+  }
+}
+
+function abrirTema(n){
+  temaAbierto = n;
+  document.getElementById('indice').classList.add('oculto');
+  const lector = document.getElementById('lector');
+  lector.classList.add('activo');
+  refrescarBotonMarcar();
+  const zona = document.getElementById('contenido');
+  zona.innerHTML = '<div class="cargando">Cargando el tema…</div>';
+  fetch(ARCHIVOS[n]).then(r=>{ if(!r.ok) throw 0; return r.text(); }).then(md=>{
+    // Los .md viven en temas/parte/ → sus imágenes relativas se reubican para la raíz
+    let html = marked.parse(md);
+    html = html.replaceAll('../../img/','img/').replaceAll('../../docs/','docs/');
+    zona.innerHTML = html;
+    window.scrollTo({top:0});
+  }).catch(()=>{ zona.innerHTML = '<div class="error">No se pudo cargar el tema. Comprueba la ruta en ARCHIVOS.</div>'; });
+}
+
+function cerrarLector(){
+  document.getElementById('lector').classList.remove('activo');
+  document.getElementById('indice').classList.remove('oculto');
+  temaAbierto=null; pintar();
+  window.scrollTo({top:0});
+}
+
+function alternarLeido(){
+  if(temaAbierto==null) return;
+  leidos.has(temaAbierto) ? leidos.delete(temaAbierto) : leidos.add(temaAbierto);
+  localStorage.setItem('aev-leidos', JSON.stringify([...leidos]));
+  refrescarBotonMarcar();
+}
+function refrescarBotonMarcar(){
+  const b = document.getElementById('btnMarcar');
+  const ya = leidos.has(temaAbierto);
+  b.textContent = ya ? '✓ Estudiado — pulsar para desmarcar' : 'Marcar como estudiado';
+  b.classList.toggle('ya', ya);
+}
+</script>
+</body>
+</html>
