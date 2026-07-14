@@ -1,17 +1,17 @@
 {
   "id": "t01-b01-derecho-acepciones-v1",
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "metadata": {
     "title": "Tema 1 · Test 1 · El Derecho y sus acepciones",
     "short_title": "Derecho y acepciones",
     "description": "Comprueba si dominas el concepto y las funciones del Derecho y si distingues sus principales acepciones: objetivo y subjetivo, positivo y natural, público y privado, común y especial, general y particular. Combina preguntas conceptuales con pequeños supuestos para evitar que las definiciones se aprendan de forma aislada.",
     "theme_number": 1,
     "block_number": 1,
-    "version": "1.0",
+    "version": "1.1",
     "language": "es-ES",
     "question_count": 20,
     "recommended_duration_minutes": 15,
-    "updated_at": "2026-07-13",
+    "updated_at": "2026-07-14",
     "status": "draft_pending_human_review",
     "original_content": true
   },
@@ -22,6 +22,12 @@
     "shuffle_options": true,
     "allow_unanswered": true,
     "show_feedback": "after_submission",
+    "feedback": {
+      "mode": "selected_option_then_review",
+      "option_feedback_fields": ["lead", "explanation"],
+      "show_question_review": true,
+      "tone": "educational_light_humor"
+    },
     "scoring": {
       "correct": 1,
       "incorrect": -0.5,
@@ -52,9 +58,9 @@
       "section_refs": ["1"],
       "prompt": "A efectos jurídicos, el Derecho puede definirse como:",
       "options": [
-        {"id": "a", "text": "El conjunto de decisiones morales que cada persona considera justas"},
-        {"id": "b", "text": "El sistema de normas, principios e instituciones que ordena la convivencia y regula relaciones jurídicas"},
-        {"id": "c", "text": "El catálogo de sanciones penales aplicables por los tribunales"}
+        {"id": "a", "text": "El conjunto de decisiones morales que cada persona considera justas", "feedback": {"lead": "😅 La conciencia ayuda, pero no publica boletines oficiales.", "explanation": "Esta opción confunde Derecho y moral. La moral orienta conductas según convicciones personales o sociales; el Derecho integra normas, principios e instituciones obligatorios dentro de un ordenamiento."}},
+        {"id": "b", "text": "El sistema de normas, principios e instituciones que ordena la convivencia y regula relaciones jurídicas", "feedback": {"lead": "✅ Bien visto: el Derecho viene con el equipo completo.", "explanation": "Es la definición más completa: incluye normas, principios e instituciones y destaca su finalidad ordenadora. Además de regular conductas, organiza poderes y relaciones jurídicas."}},
+        {"id": "c", "text": "El catálogo de sanciones penales aplicables por los tribunales", "feedback": {"lead": "🚨 Demasiada sirena para una definición tan amplia.", "explanation": "Reduce todo el Derecho al ámbito penal y a sus sanciones. El Derecho penal es solo una rama; también existen normas civiles, administrativas, laborales, constitucionales y muchas otras."}}
       ],
       "correct_option_id": "b",
       "explanation": "El Derecho es un sistema ordenado de normas, principios e instituciones. No se reduce a la moral individual ni al Derecho penal.",
@@ -68,9 +74,9 @@
       "section_refs": ["1"],
       "prompt": "Cuando el Derecho determina la composición y competencias de una institución pública, desarrolla principalmente una función:",
       "options": [
-        {"id": "a", "text": "Ordenadora"},
-        {"id": "b", "text": "Sancionadora penal"},
-        {"id": "c", "text": "Interpretativa de la moral"}
+        {"id": "a", "text": "Ordenadora", "feedback": {"lead": "✅ Exacto: cada institución en su sitio y con sus competencias.", "explanation": "La función ordenadora estructura la convivencia y los poderes públicos. Determinar la composición, organización y competencias de una institución es un ejemplo directo de esa función."}},
+        {"id": "b", "text": "Sancionadora penal", "feedback": {"lead": "😄 Aquí no hay delito; hay organigrama.", "explanation": "Organizar una institución no consiste en imponer penas. La función sancionadora reacciona ante infracciones, mientras que la ordenadora distribuye órganos, tareas y competencias."}},
+        {"id": "c", "text": "Interpretativa de la moral", "feedback": {"lead": "🧭 Buena brújula ética, pero mapa jurídico equivocado.", "explanation": "La pregunta se refiere a organización institucional, no a valorar convicciones morales. El Derecho ordena jurídicamente quién hace qué y con qué facultades."}}
       ],
       "correct_option_id": "a",
       "explanation": "La función ordenadora organiza la convivencia y las instituciones, incluyendo su estructura y competencias.",
@@ -84,9 +90,9 @@
       "section_refs": ["1"],
       "prompt": "Señale la afirmación correcta respecto de la función del Derecho frente al poder público:",
       "options": [
-        {"id": "a", "text": "El Derecho atribuye potestades, pero sus límites dependen exclusivamente de instrucciones internas"},
-        {"id": "b", "text": "El Derecho únicamente limita el poder judicial"},
-        {"id": "c", "text": "El Derecho legitima la atribución de potestades y, al mismo tiempo, establece sus límites"}
+        {"id": "a", "text": "El Derecho atribuye potestades, pero sus límites dependen exclusivamente de instrucciones internas", "feedback": {"lead": "📎 Una circular interna no tiene superpoderes.", "explanation": "Las potestades públicas están sometidas a la Constitución y al ordenamiento, no solo a instrucciones internas. Sus límites, finalidad, competencia y procedimiento deben tener fundamento jurídico."}},
+        {"id": "b", "text": "El Derecho únicamente limita el poder judicial", "feedback": {"lead": "😅 El límite no va por barrios ni por togas.", "explanation": "El sometimiento al Derecho alcanza a todos los poderes públicos. No se limita únicamente al poder judicial: también condiciona la actuación legislativa, ejecutiva y administrativa."}},
+        {"id": "c", "text": "El Derecho legitima la atribución de potestades y, al mismo tiempo, establece sus límites", "feedback": {"lead": "✅ Poder sí, pero con cinturón jurídico de seguridad.", "explanation": "El ordenamiento atribuye competencias y potestades, pero también fija límites y controles. Esa doble función permite actuar legítimamente y evita el ejercicio arbitrario del poder."}}
       ],
       "correct_option_id": "c",
       "explanation": "El ordenamiento atribuye potestades públicas y fija las condiciones, procedimientos y límites para ejercerlas legítimamente.",
@@ -100,9 +106,9 @@
       "section_refs": ["1"],
       "prompt": "La coercibilidad del Derecho significa que:",
       "options": [
-        {"id": "a", "text": "Toda infracción jurídica constituye necesariamente delito"},
-        {"id": "b", "text": "El ordenamiento prevé mecanismos legítimos para reaccionar frente al incumplimiento"},
-        {"id": "c", "text": "Todas las normas jurídicas deben ejecutarse mediante fuerza física"}
+        {"id": "a", "text": "Toda infracción jurídica constituye necesariamente delito", "feedback": {"lead": "🚔 No todo incumplimiento acaba en película policial.", "explanation": "Delito es solo la conducta tipificada penalmente. Un incumplimiento puede producir consecuencias civiles, administrativas, laborales o procesales sin constituir una infracción penal."}},
+        {"id": "b", "text": "El ordenamiento prevé mecanismos legítimos para reaccionar frente al incumplimiento", "feedback": {"lead": "✅ Correcto: coercible no significa repartir porrazos jurídicos.", "explanation": "La coercibilidad es la posibilidad de exigir el cumplimiento o aplicar consecuencias mediante mecanismos públicos legítimos. Puede concretarse en ejecución forzosa, indemnización, sanción u otras medidas previstas legalmente."}},
+        {"id": "c", "text": "Todas las normas jurídicas deben ejecutarse mediante fuerza física", "feedback": {"lead": "💪 El Derecho tiene fuerza, pero no siempre bíceps.", "explanation": "La fuerza física no es un requisito de toda norma. La coercibilidad alude a la garantía institucional del cumplimiento, que normalmente opera mediante procedimientos y resoluciones jurídicas."}}
       ],
       "correct_option_id": "b",
       "explanation": "Coercibilidad es la posibilidad de asegurar el cumplimiento o aplicar consecuencias mediante mecanismos públicos legítimos; no implica fuerza física ni sanción penal en todos los casos.",
@@ -116,9 +122,9 @@
       "section_refs": ["2.1"],
       "prompt": "El conjunto de normas que integran el ordenamiento jurídico recibe la denominación de:",
       "options": [
-        {"id": "a", "text": "Derecho objetivo"},
-        {"id": "b", "text": "Derecho subjetivo"},
-        {"id": "c", "text": "Derecho natural"}
+        {"id": "a", "text": "Derecho objetivo", "feedback": {"lead": "✅ Dianas jurídicas: hablamos del conjunto de normas.", "explanation": "El Derecho objetivo es el ordenamiento considerado como sistema de reglas vigentes, también llamado norma agendi. No describe una facultad individual, sino la norma que la reconoce."}},
+        {"id": "b", "text": "Derecho subjetivo", "feedback": {"lead": "🙋 Falta el titular: una norma no ejercita derechos.", "explanation": "El derecho subjetivo es una facultad o pretensión reconocida a una persona. La pregunta pide el nombre del conjunto de normas, que corresponde al Derecho objetivo."}},
+        {"id": "c", "text": "Derecho natural", "feedback": {"lead": "🌿 El apellido “natural” intenta despistar.", "explanation": "El Derecho natural alude a principios de justicia concebidos como anteriores o superiores al legislador. No es la denominación del conjunto de normas que integran un ordenamiento positivo."}}
       ],
       "correct_option_id": "a",
       "explanation": "El Derecho objetivo es el sistema de normas vigente; el derecho subjetivo es una facultad o pretensión reconocida a un sujeto.",
@@ -132,9 +138,9 @@
       "section_refs": ["2.1"],
       "prompt": "La facultad reconocida a una persona para exigir el cumplimiento de una obligación constituye:",
       "options": [
-        {"id": "a", "text": "Una norma de Derecho objetivo exclusivamente"},
-        {"id": "b", "text": "Una manifestación del Derecho natural"},
-        {"id": "c", "text": "Un derecho subjetivo"}
+        {"id": "a", "text": "Una norma de Derecho objetivo exclusivamente", "feedback": {"lead": "📚 La norma da la base, pero no es la facultad.", "explanation": "El Derecho objetivo contiene la regla que reconoce y protege la facultad. La posibilidad concreta de exigir una obligación pertenece a su titular y constituye un derecho subjetivo."}},
+        {"id": "b", "text": "Una manifestación del Derecho natural", "feedback": {"lead": "🌱 Suena solemne, pero la maceta jurídica es otra.", "explanation": "No se pregunta por un principio ideal de justicia, sino por una facultad jurídicamente reconocida a una persona. Esa facultad recibe el nombre de derecho subjetivo."}},
+        {"id": "c", "text": "Un derecho subjetivo", "feedback": {"lead": "✅ Correcto: hay titular, facultad y algo que exigir.", "explanation": "El derecho subjetivo es el poder, facultad o pretensión que el ordenamiento reconoce a una persona. Aquí permite al titular reclamar el cumplimiento de una obligación."}}
       ],
       "correct_option_id": "c",
       "explanation": "El derecho subjetivo es el poder, facultad o pretensión que el Derecho objetivo reconoce a una persona.",
@@ -148,9 +154,9 @@
       "section_refs": ["2.1"],
       "prompt": "¿Cuál de los siguientes elementos se corresponde con el contenido de un derecho subjetivo?",
       "options": [
-        {"id": "a", "text": "Las facultades concretas que puede ejercer su titular"},
-        {"id": "b", "text": "El diario oficial en el que se publicó la norma"},
-        {"id": "c", "text": "La mayoría parlamentaria que aprobó la ley"}
+        {"id": "a", "text": "Las facultades concretas que puede ejercer su titular", "feedback": {"lead": "✅ Clavado: el contenido cuenta qué puede hacer el titular.", "explanation": "El contenido de un derecho subjetivo está formado por las posibilidades de actuación, exigencia o defensa atribuidas a su titular. Son las facultades concretas que integran el derecho."}},
+        {"id": "b", "text": "El diario oficial en el que se publicó la norma", "feedback": {"lead": "📰 El boletín informa, pero no cabe dentro del derecho.", "explanation": "La publicación afecta a la publicidad y entrada en vigor de una norma. No constituye el contenido de un derecho subjetivo, que se refiere a las facultades de su titular."}},
+        {"id": "c", "text": "La mayoría parlamentaria que aprobó la ley", "feedback": {"lead": "🗳️ Buen dato legislativo, pésimo inquilino del derecho subjetivo.", "explanation": "La mayoría exigida pertenece al procedimiento de aprobación de una norma. No describe qué puede hacer la persona titular del derecho, que es lo que determina su contenido."}}
       ],
       "correct_option_id": "a",
       "explanation": "El contenido expresa las facultades que integran el derecho. La publicación y la mayoría legislativa pertenecen a otros planos.",
@@ -164,9 +170,9 @@
       "section_refs": ["2.1"],
       "prompt": "Un ciudadano invoca la tutela judicial efectiva frente a una actuación pública. En este supuesto:",
       "options": [
-        {"id": "a", "text": "Ejercita una costumbre contra una norma escrita"},
-        {"id": "b", "text": "Ejercita una facultad subjetiva reconocida por el ordenamiento objetivo"},
-        {"id": "c", "text": "Convierte un principio moral en una sanción jurídica"}
+        {"id": "a", "text": "Ejercita una costumbre contra una norma escrita", "feedback": {"lead": "🌀 Esa costumbre apareció sin invitación en el supuesto.", "explanation": "El ciudadano no invoca una práctica social, sino un derecho reconocido por el ordenamiento. La tutela judicial efectiva opera como derecho subjetivo con fundamento en una norma objetiva."}},
+        {"id": "b", "text": "Ejercita una facultad subjetiva reconocida por el ordenamiento objetivo", "feedback": {"lead": "✅ Perfecto: norma objetiva y facultad subjetiva encajan.", "explanation": "El ordenamiento objetivo reconoce la tutela judicial efectiva; el ciudadano la hace valer como derecho subjetivo. Es el ejemplo clásico de relación entre ambos conceptos."}},
+        {"id": "c", "text": "Convierte un principio moral en una sanción jurídica", "feedback": {"lead": "🧪 Ni la alquimia jurídica convierte moral en sanción así.", "explanation": "Invocar la tutela judicial no transforma un valor moral ni impone una sanción. Consiste en ejercer una facultad jurídica ya reconocida por el ordenamiento."}}
       ],
       "correct_option_id": "b",
       "explanation": "El ordenamiento objetivo reconoce el derecho y el ciudadano lo hace valer como derecho subjetivo.",
@@ -180,9 +186,9 @@
       "section_refs": ["2.2"],
       "prompt": "El Derecho positivo está formado por:",
       "options": [
-        {"id": "a", "text": "Las normas vigentes o reconocidas en un lugar y tiempo determinados"},
-        {"id": "b", "text": "Únicamente los principios universales considerados justos"},
-        {"id": "c", "text": "Las normas derogadas que fueron válidas en cualquier época"}
+        {"id": "a", "text": "Las normas vigentes o reconocidas en un lugar y tiempo determinados", "feedback": {"lead": "✅ Positivo: tiene coordenadas de lugar y tiempo.", "explanation": "El Derecho positivo es el establecido o reconocido por un ordenamiento concreto y aplicable en un momento y territorio determinados. Su positividad depende de esa incorporación jurídica."}},
+        {"id": "b", "text": "Únicamente los principios universales considerados justos", "feedback": {"lead": "🌍 Muy universal, pero poco positivo.", "explanation": "Esta formulación se aproxima al Derecho natural. El Derecho positivo no se define por una justicia universal, sino por su vigencia o reconocimiento en un ordenamiento concreto."}},
+        {"id": "c", "text": "Las normas derogadas que fueron válidas en cualquier época", "feedback": {"lead": "🕰️ El museo jurídico conserva historia, no vigencia.", "explanation": "Una norma derogada ya no integra, como regla general, el Derecho positivo vigente. Puede tener interés histórico o conservar efectos transitorios, pero la definición exige referencia al lugar y momento correspondientes."}}
       ],
       "correct_option_id": "a",
       "explanation": "La positividad vincula la norma con un ordenamiento, territorio y momento concretos.",
@@ -196,9 +202,9 @@
       "section_refs": ["2.2"],
       "prompt": "En relación con el Derecho natural, señale la opción correcta:",
       "options": [
-        {"id": "a", "text": "Es la primera fuente enumerada en el artículo 1.1 del Código Civil"},
-        {"id": "b", "text": "Equivale a toda norma escrita actualmente vigente"},
-        {"id": "c", "text": "Es una categoría filosófica referida a principios de justicia considerados anteriores o superiores al legislador"}
+        {"id": "a", "text": "Es la primera fuente enumerada en el artículo 1.1 del Código Civil", "feedback": {"lead": "📖 El artículo 1.1 no dejó entrar a ese invitado.", "explanation": "El Código Civil enumera como fuentes la ley, la costumbre y los principios generales del Derecho. El Derecho natural no aparece como fuente formal autónoma en ese precepto."}},
+        {"id": "b", "text": "Equivale a toda norma escrita actualmente vigente", "feedback": {"lead": "✍️ Escrito y vigente apunta justo al Derecho positivo.", "explanation": "Las normas vigentes pertenecen al Derecho positivo. El Derecho natural no depende de estar escrito o promulgado, sino de una concepción filosófica sobre principios superiores de justicia."}},
+        {"id": "c", "text": "Es una categoría filosófica referida a principios de justicia considerados anteriores o superiores al legislador", "feedback": {"lead": "✅ Correcto: aquí manda la filosofía jurídica.", "explanation": "El Derecho natural reúne principios de justicia concebidos como universales, anteriores o superiores al Derecho creado por el legislador. No debe confundirse con una fuente formal del artículo 1.1 del Código Civil."}}
       ],
       "correct_option_id": "c",
       "explanation": "El Derecho natural es una categoría filosófica y no figura como fuente formal en el artículo 1.1 CC.",
@@ -212,9 +218,9 @@
       "section_refs": ["2.2"],
       "prompt": "La consideración de que una norma positiva es injusta determina, por sí sola, que dicha norma:",
       "options": [
-        {"id": "a", "text": "Quede automáticamente derogada"},
-        {"id": "b", "text": "No pierda automáticamente su validez, que deberá combatirse por los procedimientos del ordenamiento"},
-        {"id": "c", "text": "Se transforme en una norma dispositiva"}
+        {"id": "a", "text": "Quede automáticamente derogada", "feedback": {"lead": "🪄 La derogación no funciona con un chasquido moral.", "explanation": "Considerar injusta una norma no la expulsa por sí solo del ordenamiento. La derogación requiere otra norma o el mecanismo jurídicamente previsto; la invalidez también debe hacerse valer por los procedimientos competentes."}},
+        {"id": "b", "text": "No pierda automáticamente su validez, que deberá combatirse por los procedimientos del ordenamiento", "feedback": {"lead": "✅ Exacto: crítica fundada sí, borrado automático no.", "explanation": "Justicia y validez jurídica son planos relacionados, pero distintos. Una norma positiva continúa produciendo efectos mientras no sea derogada, anulada o declarada inválida por el cauce correspondiente."}},
+        {"id": "c", "text": "Se transforme en una norma dispositiva", "feedback": {"lead": "🔄 Las normas no cambian de categoría por enfado.", "explanation": "Una norma dispositiva permite a los destinatarios pactar otra regulación dentro de ciertos límites. La consideración de injusticia no altera automáticamente su carácter imperativo o dispositivo."}}
       ],
       "correct_option_id": "b",
       "explanation": "La crítica de justicia y la validez jurídica no son idénticas. La invalidez debe declararse o producirse mediante los mecanismos jurídicos correspondientes.",
@@ -228,9 +234,9 @@
       "section_refs": ["2.3"],
       "prompt": "¿Cuál de las siguientes ramas se encuadra principalmente en el Derecho público?",
       "options": [
-        {"id": "a", "text": "Derecho penal"},
-        {"id": "b", "text": "Derecho mercantil"},
-        {"id": "c", "text": "Derecho civil patrimonial"}
+        {"id": "a", "text": "Derecho penal", "feedback": {"lead": "✅ Correcto: el ius puniendi lleva sello público.", "explanation": "El Derecho penal regula delitos, penas y otras consecuencias jurídicas mediante el poder punitivo del Estado. Por ello se integra principalmente en el Derecho público."}},
+        {"id": "b", "text": "Derecho mercantil", "feedback": {"lead": "🏪 El comercio se queda, principalmente, en la zona privada.", "explanation": "El Derecho mercantil regula sobre todo relaciones empresariales y actos de comercio entre sujetos privados. Aunque contiene normas imperativas y controles públicos, se encuadra tradicionalmente en el Derecho privado."}},
+        {"id": "c", "text": "Derecho civil patrimonial", "feedback": {"lead": "🏠 Patrimonio, contratos y particulares: otra ventanilla.", "explanation": "El Derecho civil patrimonial regula bienes, obligaciones y contratos, materias características del Derecho privado. La opción pública entre las tres es el Derecho penal."}}
       ],
       "correct_option_id": "a",
       "explanation": "El Derecho penal pertenece al Derecho público; el civil y el mercantil se encuadran principalmente en el privado.",
@@ -244,9 +250,9 @@
       "section_refs": ["2.3"],
       "prompt": "En el Derecho privado predomina:",
       "options": [
-        {"id": "a", "text": "El ejercicio de potestades de imperio por la Administración"},
-        {"id": "b", "text": "La imposición de penas por la comisión de delitos"},
-        {"id": "c", "text": "La regulación de relaciones entre particulares con mayor espacio para la autonomía de la voluntad"}
+        {"id": "a", "text": "El ejercicio de potestades de imperio por la Administración", "feedback": {"lead": "🏛️ Esa potestad ha aparcado en Derecho público.", "explanation": "Las potestades de imperio permiten a la Administración actuar desde una posición de autoridad y corresponden principalmente al Derecho público. No representan el rasgo predominante de las relaciones privadas."}},
+        {"id": "b", "text": "La imposición de penas por la comisión de delitos", "feedback": {"lead": "⚖️ Penas sí, pero en la sala del Derecho penal.", "explanation": "Imponer penas es manifestación del poder punitivo estatal y pertenece al Derecho público. El Derecho privado se centra en relaciones entre particulares y en su capacidad de autorregulación."}},
+        {"id": "c", "text": "La regulación de relaciones entre particulares con mayor espacio para la autonomía de la voluntad", "feedback": {"lead": "✅ Bien: aquí las partes tienen más margen de maniobra.", "explanation": "En el Derecho privado predominan las relaciones entre particulares y la autonomía de la voluntad. Ese margen no es ilimitado: debe respetar las normas imperativas, la ley, la moral y el orden público."}}
       ],
       "correct_option_id": "c",
       "explanation": "El Derecho privado regula principalmente relaciones entre particulares y reconoce un mayor ámbito a la autonomía de la voluntad, dentro de los límites legales.",
@@ -260,9 +266,9 @@
       "section_refs": ["2.3"],
       "prompt": "Respecto de la distinción entre Derecho público y Derecho privado, señale la afirmación correcta:",
       "options": [
-        {"id": "a", "text": "Toda actuación de una Administración queda sometida exclusivamente al Derecho público"},
-        {"id": "b", "text": "La distinción no es absoluta: una Administración puede actuar bajo reglas privadas y las relaciones privadas pueden estar sujetas a normas imperativas"},
-        {"id": "c", "text": "La presencia de un particular convierte siempre la relación en privada"}
+        {"id": "a", "text": "Toda actuación de una Administración queda sometida exclusivamente al Derecho público", "feedback": {"lead": "🚧 Cuidado con “toda” y “exclusivamente”: doble alarma de examen.", "explanation": "Una Administración puede realizar determinadas actuaciones sometidas total o parcialmente al Derecho privado. La naturaleza de la relación no depende solo de quién interviene, sino del régimen jurídico aplicable."}},
+        {"id": "b", "text": "La distinción no es absoluta: una Administración puede actuar bajo reglas privadas y las relaciones privadas pueden estar sujetas a normas imperativas", "feedback": {"lead": "✅ Exacto: la frontera existe, pero no lleva muro de hormigón.", "explanation": "La clasificación público-privado es útil, aunque admite zonas mixtas. La Administración puede actuar bajo reglas privadas y la autonomía privada queda limitada por normas obligatorias."}},
+        {"id": "c", "text": "La presencia de un particular convierte siempre la relación en privada", "feedback": {"lead": "👤 Un particular no cambia el uniforme jurídico de la relación.", "explanation": "Los particulares pueden relacionarse con la Administración en situaciones regidas por Derecho público. Para clasificar la relación hay que atender a su objeto, posición de las partes y régimen aplicable."}}
       ],
       "correct_option_id": "b",
       "explanation": "La separación sirve para clasificar, pero existen relaciones mixtas y actuaciones administrativas sometidas total o parcialmente a reglas privadas.",
@@ -276,9 +282,9 @@
       "section_refs": ["2.4"],
       "prompt": "El Derecho común se caracteriza por:",
       "options": [
-        {"id": "a", "text": "Regular de forma general una materia y poder actuar supletoriamente"},
-        {"id": "b", "text": "Aplicarse únicamente durante un periodo excepcional"},
-        {"id": "c", "text": "Regular exclusivamente a un colectivo profesional"}
+        {"id": "a", "text": "Regular de forma general una materia y poder actuar supletoriamente", "feedback": {"lead": "✅ Correcto: es la red general que también tapa lagunas.", "explanation": "El Derecho común establece la regulación general de una materia. Cuando el régimen especial no resuelve una cuestión, puede aplicarse supletoriamente si el ordenamiento lo permite."}},
+        {"id": "b", "text": "Aplicarse únicamente durante un periodo excepcional", "feedback": {"lead": "⏳ Eso describe una excepción temporal, no el Derecho común.", "explanation": "El carácter común no depende de una duración limitada. Se refiere a una regulación general que sirve de referencia frente a normas especiales y puede completar sus lagunas."}},
+        {"id": "c", "text": "Regular exclusivamente a un colectivo profesional", "feedback": {"lead": "👷 Exclusivo y sectorial: huele a régimen especial.", "explanation": "Una regulación dirigida solo a un colectivo concreto presenta carácter especial. El Derecho común, por el contrario, ofrece la disciplina general de la materia."}}
       ],
       "correct_option_id": "a",
       "explanation": "El Derecho común contiene la regulación general y puede completar las lagunas de regímenes especiales cuando proceda.",
@@ -292,9 +298,9 @@
       "section_refs": ["2.4"],
       "prompt": "Una norma especial respecto de otra general:",
       "options": [
-        {"id": "a", "text": "Deroga necesariamente toda la regulación general"},
-        {"id": "b", "text": "Solo puede existir si tiene rango superior"},
-        {"id": "c", "text": "Se aplica preferentemente al supuesto específico que regula, sin derogar por ello toda la norma general"}
+        {"id": "a", "text": "Deroga necesariamente toda la regulación general", "feedback": {"lead": "🧹 La norma especial no barre toda la casa general.", "explanation": "La especialidad determina qué norma se aplica al supuesto específico, pero no implica necesariamente la derogación completa de la norma general. Esta conserva su vigencia para los demás casos."}},
+        {"id": "b", "text": "Solo puede existir si tiene rango superior", "feedback": {"lead": "📏 Especialidad y jerarquía son reglas distintas; no mezclemos reglas.", "explanation": "Una norma puede ser especial sin tener rango superior. La jerarquía compara el rango normativo; la especialidad compara el ámbito material específico regulado."}},
+        {"id": "c", "text": "Se aplica preferentemente al supuesto específico que regula, sin derogar por ello toda la norma general", "feedback": {"lead": "✅ Exacto: bisturí para el caso concreto, no excavadora.", "explanation": "La norma especial desplaza a la general en el supuesto específicamente regulado. La norma general sigue vigente para el resto y puede actuar supletoriamente cuando proceda."}}
       ],
       "correct_option_id": "c",
       "explanation": "La especialidad determina aplicación preferente en su ámbito, mientras la regla general puede seguir vigente para los demás supuestos y actuar supletoriamente.",
@@ -308,9 +314,9 @@
       "section_refs": ["2.4"],
       "prompt": "Una regulación dirigida específicamente a un sector de actividad constituye, frente a la regulación general de la materia:",
       "options": [
-        {"id": "a", "text": "Derecho natural"},
-        {"id": "b", "text": "Derecho especial"},
-        {"id": "c", "text": "Derecho derogado"}
+        {"id": "a", "text": "Derecho natural", "feedback": {"lead": "🌿 El sector puede ser muy natural, pero la categoría no.", "explanation": "El Derecho natural se refiere a principios ideales de justicia, no al alcance sectorial de una regulación. Una norma destinada a un sector específico es Derecho especial."}},
+        {"id": "b", "text": "Derecho especial", "feedback": {"lead": "✅ Correcto: destinatario concreto, régimen especial.", "explanation": "El Derecho especial adapta o establece reglas para una materia, sector, colectivo o supuesto determinado frente a la regulación común o general."}},
+        {"id": "c", "text": "Derecho derogado", "feedback": {"lead": "🪦 Es específico, no difunto.", "explanation": "Que una norma se dirija a un sector concreto no significa que haya perdido vigencia. Derogada es la norma que ha sido privada de vigencia por el mecanismo correspondiente."}}
       ],
       "correct_option_id": "b",
       "explanation": "El Derecho especial regula un sector, colectivo o supuesto específico respecto del régimen común o general.",
@@ -324,9 +330,9 @@
       "section_refs": ["2.5"],
       "prompt": "Atendiendo a su ámbito territorial o personal, el Derecho general es el que:",
       "options": [
-        {"id": "a", "text": "Se aplica en todo el territorio o a una generalidad de sujetos dentro de su ámbito"},
-        {"id": "b", "text": "Carece de obligatoriedad para sus destinatarios"},
-        {"id": "c", "text": "Solo contiene principios no escritos"}
+        {"id": "a", "text": "Se aplica en todo el territorio o a una generalidad de sujetos dentro de su ámbito", "feedback": {"lead": "✅ Bien: general habla de alcance, no de decoración jurídica.", "explanation": "Esta clasificación atiende a la extensión territorial o personal. El Derecho general se proyecta sobre todo el territorio correspondiente o sobre una generalidad de sujetos dentro de su ámbito."}},
+        {"id": "b", "text": "Carece de obligatoriedad para sus destinatarios", "feedback": {"lead": "📣 General no significa opcional; eso sería un folleto.", "explanation": "La generalidad se refiere al ámbito de aplicación, no a la fuerza obligatoria. Una norma general vincula a quienes quedan comprendidos en su supuesto y ámbito."}},
+        {"id": "c", "text": "Solo contiene principios no escritos", "feedback": {"lead": "✍️ Puede estar escrito con todas sus letras.", "explanation": "La distinción entre general y particular no depende de la forma escrita. Atiende al territorio o conjunto de personas al que se aplica la regulación."}}
       ],
       "correct_option_id": "a",
       "explanation": "General y particular describen el alcance territorial o subjetivo de una regulación, no su obligatoriedad ni su forma escrita.",
@@ -340,9 +346,9 @@
       "section_refs": ["2.5"],
       "prompt": "Una norma válida únicamente para un ámbito territorial determinado puede calificarse doctrinalmente como:",
       "options": [
-        {"id": "a", "text": "Derecho subjetivo"},
-        {"id": "b", "text": "Derecho natural"},
-        {"id": "c", "text": "Derecho particular"}
+        {"id": "a", "text": "Derecho subjetivo", "feedback": {"lead": "🙋 Aquí falta una facultad y sobra territorio.", "explanation": "El derecho subjetivo es una facultad atribuida a un titular. La pregunta clasifica una norma por su ámbito territorial limitado, lo que corresponde al Derecho particular."}},
+        {"id": "b", "text": "Derecho natural", "feedback": {"lead": "🌍 Tener territorio no convierte la norma en Derecho natural.", "explanation": "El Derecho natural se define por su fundamento filosófico en principios de justicia. No clasifica normas según el territorio en que resultan aplicables."}},
+        {"id": "c", "text": "Derecho particular", "feedback": {"lead": "✅ Correcto: ámbito limitado, apellido particular.", "explanation": "El Derecho particular restringe su aplicación a un territorio o grupo determinado. La clave de la pregunta es precisamente la limitación territorial de la norma."}}
       ],
       "correct_option_id": "c",
       "explanation": "El Derecho particular limita su aplicación a un territorio o ámbito determinado.",
@@ -356,9 +362,9 @@
       "section_refs": ["1", "2.1", "2.3"],
       "prompt": "Una ley atribuye a la Policía una potestad de actuación y reconoce al ciudadano garantías frente a su ejercicio. ¿Qué afirmación es correcta?",
       "options": [
-        {"id": "a", "text": "La potestad pertenece al Derecho natural y la garantía al Derecho positivo"},
-        {"id": "b", "text": "El ordenamiento objetivo puede atribuir una potestad pública y reconocer simultáneamente derechos subjetivos de garantía"},
-        {"id": "c", "text": "La existencia de una potestad pública excluye cualquier derecho subjetivo del ciudadano"}
+        {"id": "a", "text": "La potestad pertenece al Derecho natural y la garantía al Derecho positivo", "feedback": {"lead": "🧩 Las piezas existen, pero ese montaje no supera la ITV jurídica.", "explanation": "Si la ley atribuye la potestad y reconoce la garantía, ambas tienen fundamento en el Derecho positivo y objetivo. La garantía puede ejercerse por el ciudadano como derecho subjetivo."}},
+        {"id": "b", "text": "El ordenamiento objetivo puede atribuir una potestad pública y reconocer simultáneamente derechos subjetivos de garantía", "feedback": {"lead": "✅ Exacto: potestad y garantía viajan en el mismo ordenamiento.", "explanation": "El Derecho objetivo organiza la actuación pública y, al mismo tiempo, reconoce al ciudadano facultades para defenderse frente a ella. Poder y límite jurídico son compatibles y complementarios."}},
+        {"id": "c", "text": "La existencia de una potestad pública excluye cualquier derecho subjetivo del ciudadano", "feedback": {"lead": "🚫 Potestad no significa barra libre para el poder público.", "explanation": "Toda potestad está sujeta a límites y controles. El ciudadano puede ser titular de derechos subjetivos y garantías frente a su ejercicio, como defensa, recurso o tutela judicial."}}
       ],
       "correct_option_id": "b",
       "explanation": "El mismo ordenamiento objetivo organiza la potestad pública y reconoce facultades y garantías subjetivas a los ciudadanos. Potestad y límite forman parte del sistema jurídico.",

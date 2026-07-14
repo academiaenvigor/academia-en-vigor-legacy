@@ -1,17 +1,17 @@
 {
   "id": "t01-b02b-fuentes-aplicacion-eficacia-v1",
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "metadata": {
     "title": "Tema 1 · Test 2B · Fuentes, aplicación y eficacia de las normas",
     "short_title": "Fuentes, aplicación y eficacia",
     "description": "Evalúa el sistema de fuentes y la forma en que las normas se interpretan, se integran y producen efectos. Incluye ley, costumbre, principios generales, tratados, jurisprudencia, equidad, entrada en vigor, derogación, analogía, plazos, ignorancia de la ley, renuncia, fraude, buena fe y abuso del derecho.",
     "theme_number": 1,
     "block_number": "2B",
-    "version": "1.0",
+    "version": "1.1",
     "language": "es-ES",
     "question_count": 25,
     "recommended_duration_minutes": 18,
-    "updated_at": "2026-07-13",
+    "updated_at": "2026-07-14",
     "status": "draft_pending_human_review",
     "original_content": true
   },
@@ -22,6 +22,12 @@
     "shuffle_options": true,
     "allow_unanswered": true,
     "show_feedback": "after_submission",
+    "feedback": {
+      "mode": "selected_option_then_review",
+      "option_feedback_fields": ["lead", "explanation"],
+      "show_question_review": true,
+      "tone": "educational_light_humor"
+    },
     "scoring": {
       "correct": 1,
       "incorrect": -0.5,
@@ -61,9 +67,9 @@
       "section_refs": ["4.1", "4.2"],
       "prompt": "Según el artículo 1.1 del Código Civil, son fuentes del ordenamiento jurídico español:",
       "options": [
-        {"id": "a", "text": "La ley, la costumbre y los principios generales del Derecho"},
-        {"id": "b", "text": "La ley, la jurisprudencia y la doctrina científica"},
-        {"id": "c", "text": "La Constitución, los reglamentos y las sentencias judiciales"}
+        {"id": "a", "text": "La ley, la costumbre y los principios generales del Derecho", "feedback": {"lead": "✅ Trío completo: el artículo 1.1 no pide cuarto integrante.", "explanation": "El artículo 1.1 del Código Civil enumera, en este orden, la ley, la costumbre y los principios generales del Derecho. Conviene memorizar tanto los tres elementos como su prelación."}},
+        {"id": "b", "text": "La ley, la jurisprudencia y la doctrina científica", "feedback": {"lead": "📚 Dos invitados se han colado en la lista oficial.", "explanation": "La jurisprudencia complementa el ordenamiento y la doctrina científica ayuda a estudiarlo, pero ninguna sustituye en la enumeración del artículo 1.1 CC a la costumbre y a los principios generales."}},
+        {"id": "c", "text": "La Constitución, los reglamentos y las sentencias judiciales", "feedback": {"lead": "⚠️ Son piezas jurídicas importantes, pero no la respuesta literal.", "explanation": "La pregunta exige la enumeración legal de las fuentes del artículo 1.1 CC. Constitución y reglamentos son normas, pero el precepto formula las categorías generales: ley, costumbre y principios generales."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 1.1 CC enumera la ley, la costumbre y los principios generales del Derecho. La jurisprudencia complementa el ordenamiento, pero no figura en esa enumeración como fuente directa.",
@@ -77,9 +83,9 @@
       "section_refs": ["4.1"],
       "prompt": "El Boletín Oficial del Estado, considerado como medio que permite conocer las normas publicadas, es una fuente:",
       "options": [
-        {"id": "a", "text": "Material del Derecho"},
-        {"id": "b", "text": "De conocimiento del Derecho"},
-        {"id": "c", "text": "Formal añadida a las del artículo 1.1 CC"}
+        {"id": "a", "text": "Material del Derecho", "feedback": {"lead": "🏗️ El BOE publica la obra; no es quien la impulsa.", "explanation": "Las fuentes materiales aluden a fuerzas o factores sociales, políticos o económicos que influyen en el contenido normativo. El BOE es el medio oficial que permite conocer las normas publicadas."}},
+        {"id": "b", "text": "De conocimiento del Derecho", "feedback": {"lead": "✅ Correcto: el BOE es el escaparate oficial de la norma.", "explanation": "Una fuente de conocimiento permite localizar y conocer el Derecho. El BOE cumple esa función mediante la publicación oficial, pero no crea una categoría formal adicional de fuente."}},
+        {"id": "c", "text": "Formal añadida a las del artículo 1.1 CC", "feedback": {"lead": "➕ El artículo 1.1 no admite ampliaciones por mudanza tipográfica.", "explanation": "Publicar una ley en el BOE hace posible su conocimiento y eficacia, pero el boletín no se convierte en fuente formal independiente. Es el soporte oficial de publicación."}}
       ],
       "correct_option_id": "b",
       "explanation": "El BOE es un medio oficial para conocer el Derecho. No constituye por ello una nueva fuente formal distinta de la ley, la costumbre y los principios generales.",
@@ -93,9 +99,9 @@
       "section_refs": ["4.1"],
       "prompt": "Cuando se estudia a las Cortes Generales como órgano con potestad para crear leyes, se está utilizando la expresión fuente del Derecho en sentido de:",
       "options": [
-        {"id": "a", "text": "Fuente de conocimiento"},
-        {"id": "b", "text": "Fuente material exclusivamente"},
-        {"id": "c", "text": "Fuente de producción"}
+        {"id": "a", "text": "Fuente de conocimiento", "feedback": {"lead": "📰 Las Cortes hacen leyes; no son una hemeroteca.", "explanation": "Las fuentes de conocimiento son medios para acceder al Derecho, como los diarios oficiales. La pregunta se centra en el órgano habilitado para crear normas."}},
+        {"id": "b", "text": "Fuente material exclusivamente", "feedback": {"lead": "🧱 Hay influencia política, pero la clave es la potestad normativa.", "explanation": "Fuente material puede referirse a factores que inspiran el contenido de las normas. Aquí se destaca una atribución jurídica concreta para producir leyes, por lo que procede hablar de fuente de producción."}},
+        {"id": "c", "text": "Fuente de producción", "feedback": {"lead": "✅ Exacto: órgano competente más potestad normativa.", "explanation": "Las fuentes de producción son los órganos o sujetos a los que el ordenamiento atribuye capacidad para crear normas. Las Cortes Generales producen leyes mediante el procedimiento constitucionalmente establecido."}}
       ],
       "correct_option_id": "c",
       "explanation": "Las fuentes de producción son los órganos o sujetos a los que el ordenamiento atribuye potestad para crear normas.",
@@ -109,9 +115,9 @@
       "section_refs": ["4.2"],
       "prompt": "La costumbre se aplica:",
       "options": [
-        {"id": "a", "text": "En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada"},
-        {"id": "b", "text": "Con preferencia sobre cualquier ley especial"},
-        {"id": "c", "text": "Únicamente cuando haya sido publicada íntegramente en el BOE"}
+        {"id": "a", "text": "En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada", "feedback": {"lead": "✅ Perfecto: subsidiaria, lícita y probada; tres controles superados.", "explanation": "Según el artículo 1.3 CC, la costumbre rige en defecto de ley aplicable, siempre que no contradiga la moral o el orden público y resulte probada. Son requisitos acumulativos."}},
+        {"id": "b", "text": "Con preferencia sobre cualquier ley especial", "feedback": {"lead": "🚧 La costumbre no adelanta a la ley por el arcén.", "explanation": "La costumbre tiene aplicación subsidiaria: opera cuando falta ley aplicable. No desplaza una ley especial válida que regule directamente el supuesto."}},
+        {"id": "c", "text": "Únicamente cuando haya sido publicada íntegramente en el BOE", "feedback": {"lead": "🗞️ Si estuviera en el BOE, ya perdería parte del misterio consuetudinario.", "explanation": "La costumbre nace de una práctica social con convicción de obligatoriedad, no de su publicación oficial. Lo exigido, como regla, es que quien la invoca pruebe su existencia y contenido."}}
       ],
       "correct_option_id": "a",
       "explanation": "La costumbre es subsidiaria de la ley, debe respetar la moral y el orden público y, como regla, debe probarse.",
@@ -125,9 +131,9 @@
       "section_refs": ["4.2"],
       "prompt": "Los usos jurídicos que no sean meramente interpretativos de una declaración de voluntad:",
       "options": [
-        {"id": "a", "text": "Carecen siempre de relevancia normativa"},
-        {"id": "b", "text": "Tienen la consideración de costumbre"},
-        {"id": "c", "text": "Prevalecen sobre las normas imperativas"}
+        {"id": "a", "text": "Carecen siempre de relevancia normativa", "feedback": {"lead": "🚫 Ese “siempre” ha vuelto a tender una trampa.", "explanation": "El artículo 1.3 CC reconoce valor consuetudinario a los usos jurídicos que no sean meramente interpretativos de una declaración de voluntad. Por tanto, sí pueden tener relevancia normativa."}},
+        {"id": "b", "text": "Tienen la consideración de costumbre", "feedback": {"lead": "✅ Correcto: uso jurídico no interpretativo, costumbre a efectos legales.", "explanation": "Cuando el uso no se limita a aclarar qué quisieron decir las partes, el Código Civil le atribuye consideración de costumbre. Se somete a sus requisitos y posición subsidiaria."}},
+        {"id": "c", "text": "Prevalecen sobre las normas imperativas", "feedback": {"lead": "🛑 La costumbre no tiene permiso para saltarse una norma obligatoria.", "explanation": "Los usos con valor de costumbre actúan en defecto de ley aplicable. No pueden desplazar normas imperativas ni legitimar resultados contrarios al ordenamiento."}}
       ],
       "correct_option_id": "b",
       "explanation": "El artículo 1.3 CC atribuye consideración de costumbre a los usos jurídicos que no sean meramente interpretativos.",
@@ -141,9 +147,9 @@
       "section_refs": ["4.2"],
       "prompt": "Los principios generales del Derecho se aplican:",
       "options": [
-        {"id": "a", "text": "Únicamente cuando hayan sido recogidos literalmente en una ley"},
-        {"id": "b", "text": "Antes que la ley y la costumbre"},
-        {"id": "c", "text": "En defecto de ley o costumbre, sin perjuicio de su función informadora del ordenamiento"}
+        {"id": "a", "text": "Únicamente cuando hayan sido recogidos literalmente en una ley", "feedback": {"lead": "✍️ Si exigieran copia literal, dejarían de integrar lagunas.", "explanation": "Los principios generales pueden aplicarse aunque no estén formulados palabra por palabra en una ley. Se deducen del sistema jurídico y cumplen funciones integradora e informadora."}},
+        {"id": "b", "text": "Antes que la ley y la costumbre", "feedback": {"lead": "⏩ Se han saltado dos puestos en la cola de fuentes.", "explanation": "Como fuente aplicable al caso, los principios generales actúan en defecto de ley y costumbre. No desplazan una regla legal o consuetudinaria válida y pertinente."}},
+        {"id": "c", "text": "En defecto de ley o costumbre, sin perjuicio de su función informadora del ordenamiento", "feedback": {"lead": "✅ Exacto: cierran lagunas y además iluminan todo el sistema.", "explanation": "El artículo 1.4 CC les atribuye aplicación subsidiaria tras ley y costumbre, y reconoce que informan el ordenamiento. Esta segunda función opera con carácter general."}}
       ],
       "correct_option_id": "c",
       "explanation": "Los principios generales cumplen una función integradora en defecto de ley y costumbre, y además informan todo el ordenamiento.",
@@ -157,9 +163,9 @@
       "section_refs": ["4.3"],
       "prompt": "Las normas contenidas en los tratados internacionales son directamente aplicables en España cuando:",
       "options": [
-        {"id": "a", "text": "Han pasado a formar parte del ordenamiento mediante su publicación íntegra en el BOE"},
-        {"id": "b", "text": "Han sido firmadas por cualquier representante administrativo"},
-        {"id": "c", "text": "Son citadas por una sentencia, aunque no se hayan publicado oficialmente"}
+        {"id": "a", "text": "Han pasado a formar parte del ordenamiento mediante su publicación íntegra en el BOE", "feedback": {"lead": "✅ Pasaporte jurídico sellado: incorporación y publicación íntegra.", "explanation": "El artículo 1.5 CC exige que las normas del tratado formen parte del ordenamiento mediante su publicación íntegra en el BOE. La Constitución también vincula su validez interna a la publicación oficial."}},
+        {"id": "b", "text": "Han sido firmadas por cualquier representante administrativo", "feedback": {"lead": "✒️ Una firma cualquiera no abre la frontera normativa.", "explanation": "La celebración de tratados está sometida a competencia y procedimiento constitucionales. Además, para su aplicación interna no basta una firma: es necesaria su incorporación y publicación oficial."}},
+        {"id": "c", "text": "Son citadas por una sentencia, aunque no se hayan publicado oficialmente", "feedback": {"lead": "⚖️ Una cita judicial no sustituye al BOE.", "explanation": "La sentencia puede interpretar un tratado aplicable, pero no suple el requisito de publicación íntegra para su integración y aplicabilidad en el ordenamiento español."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 1.5 CC exige que las normas del tratado hayan pasado a formar parte del ordenamiento mediante su publicación íntegra en el BOE.",
@@ -173,9 +179,9 @@
       "section_refs": ["4.4"],
       "prompt": "Conforme al Código Civil, la jurisprudencia:",
       "options": [
-        {"id": "a", "text": "Deroga las leyes que el Tribunal Supremo considere injustas"},
-        {"id": "b", "text": "Complementa el ordenamiento con la doctrina reiterada del Tribunal Supremo"},
-        {"id": "c", "text": "Es la primera fuente enumerada en el artículo 1.1 CC"}
+        {"id": "a", "text": "Deroga las leyes que el Tribunal Supremo considere injustas", "feedback": {"lead": "🪄 El Supremo interpreta; no borra leyes con una varita.", "explanation": "La derogación corresponde a una norma posterior y el control de constitucionalidad tiene sus cauces propios. La jurisprudencia del Tribunal Supremo interpreta y complementa el ordenamiento."}},
+        {"id": "b", "text": "Complementa el ordenamiento con la doctrina reiterada del Tribunal Supremo", "feedback": {"lead": "✅ Correcto: reiterada y del Supremo, las dos palabras cuentan.", "explanation": "El artículo 1.6 CC atribuye esta función a la doctrina que, de modo reiterado, establece el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales."}},
+        {"id": "c", "text": "Es la primera fuente enumerada en el artículo 1.1 CC", "feedback": {"lead": "🥇 No está en el podio del 1.1; aparece después, en el 1.6.", "explanation": "La primera fuente enumerada es la ley. La jurisprudencia no figura como fuente directa en el artículo 1.1, sino como complemento del ordenamiento en el artículo 1.6."}}
       ],
       "correct_option_id": "b",
       "explanation": "La jurisprudencia complementa el ordenamiento mediante la doctrina reiterada del Tribunal Supremo al interpretar y aplicar las fuentes.",
@@ -189,9 +195,9 @@
       "section_refs": ["6.3"],
       "prompt": "Los actos contrarios a normas imperativas o prohibitivas son:",
       "options": [
-        {"id": "a", "text": "Siempre válidos si sus autores desconocían la prohibición"},
-        {"id": "b", "text": "Anulables únicamente a petición de la Administración"},
-        {"id": "c", "text": "Nulos de pleno derecho, salvo que la propia norma establezca un efecto distinto"}
+        {"id": "a", "text": "Siempre válidos si sus autores desconocían la prohibición", "feedback": {"lead": "🙈 No conocer la norma no concede inmunidad jurídica.", "explanation": "La ignorancia de las leyes no excusa de su cumplimiento. Contravenir una norma imperativa o prohibitiva produce, como regla, nulidad de pleno derecho, con independencia del desconocimiento."}},
+        {"id": "b", "text": "Anulables únicamente a petición de la Administración", "feedback": {"lead": "🏢 La Administración no tiene la exclusiva de esta nulidad.", "explanation": "El artículo 6.3 CC establece nulidad de pleno derecho, no mera anulabilidad condicionada a una petición administrativa. Son categorías con régimen y efectos distintos."}},
+        {"id": "c", "text": "Nulos de pleno derecho, salvo que la propia norma establezca un efecto distinto", "feedback": {"lead": "✅ Exacto: regla de nulidad con una excepción expresamente prevista.", "explanation": "La consecuencia general del artículo 6.3 CC es la nulidad de pleno derecho. Sin embargo, debe comprobarse si la norma infringida establece para la contravención un efecto diferente."}}
       ],
       "correct_option_id": "c",
       "explanation": "El artículo 6.3 CC establece la nulidad de pleno derecho como regla, pero permite que la norma infringida disponga una consecuencia diferente.",
@@ -205,9 +211,9 @@
       "section_refs": ["4.5"],
       "prompt": "Los jueces y tribunales, respecto de los asuntos de que conozcan:",
       "options": [
-        {"id": "a", "text": "Tienen el deber inexcusable de resolver ateniéndose al sistema de fuentes"},
-        {"id": "b", "text": "Pueden negarse a resolver si no existe una ley que regule literalmente el caso"},
-        {"id": "c", "text": "Deben decidir exclusivamente conforme a equidad"}
+        {"id": "a", "text": "Tienen el deber inexcusable de resolver ateniéndose al sistema de fuentes", "feedback": {"lead": "✅ Correcto: el cartel de “vuelva cuando haya ley exacta” no vale.", "explanation": "El artículo 1.7 CC obliga a jueces y tribunales a resolver siempre los asuntos de que conozcan conforme al sistema de fuentes. Las lagunas deben integrarse, no convertirse en excusa."}},
+        {"id": "b", "text": "Pueden negarse a resolver si no existe una ley que regule literalmente el caso", "feedback": {"lead": "🚪 La laguna legal no es una puerta de salida.", "explanation": "Aunque falte una ley exactamente aplicable, el órgano judicial debe acudir a costumbre, principios generales y, cuando proceda, analogía. No puede dejar de resolver."}},
+        {"id": "c", "text": "Deben decidir exclusivamente conforme a equidad", "feedback": {"lead": "⚖️ La equidad ayuda a ajustar, pero no conduce sola por defecto.", "explanation": "La equidad se pondera al aplicar las normas, pero solo puede ser fundamento exclusivo si la ley lo autoriza expresamente. El juez debe respetar el sistema de fuentes."}}
       ],
       "correct_option_id": "a",
       "explanation": "La falta de una regla escrita exacta no permite dejar el conflicto sin solución; el órgano judicial debe utilizar el sistema de fuentes.",
@@ -221,9 +227,9 @@
       "section_refs": ["4.5"],
       "prompt": "La equidad puede ser fundamento exclusivo de una resolución judicial:",
       "options": [
-        {"id": "a", "text": "Siempre que el juez considere injusta la ley aplicable"},
-        {"id": "b", "text": "Únicamente cuando la ley lo permita expresamente"},
-        {"id": "c", "text": "En todo caso en que no exista jurisprudencia"}
+        {"id": "a", "text": "Siempre que el juez considere injusta la ley aplicable", "feedback": {"lead": "🎭 La opinión personal del juez no reescribe el guion legal.", "explanation": "La equidad no permite apartar una ley por considerarla injusta. Debe ponderarse en su aplicación y solo fundamenta por sí sola una resolución cuando una ley lo autoriza expresamente."}},
+        {"id": "b", "text": "Únicamente cuando la ley lo permita expresamente", "feedback": {"lead": "✅ Exacto: la equidad necesita invitación legal expresa.", "explanation": "El artículo 3.2 CC permite ponderar la equidad, pero prohíbe que sea fundamento exclusivo de una resolución salvo autorización legal expresa. La palabra “únicamente” es aquí correcta."}},
+        {"id": "c", "text": "En todo caso en que no exista jurisprudencia", "feedback": {"lead": "📚 La falta de jurisprudencia no deja la pista libre a la equidad.", "explanation": "La existencia o ausencia de jurisprudencia no decide cuándo la equidad puede ser fundamento exclusivo. Ese uso depende de una habilitación expresa de la ley."}}
       ],
       "correct_option_id": "b",
       "explanation": "La equidad debe ponderarse en la aplicación de las normas, pero solo puede sostener por sí sola una resolución cuando la ley lo autoriza expresamente.",
@@ -237,9 +243,9 @@
       "section_refs": ["4.5", "5.3"],
       "prompt": "La falta de una regulación concreta para un supuesto que necesita respuesta jurídica constituye:",
       "options": [
-        {"id": "a", "text": "La derogación tácita de todo el ordenamiento"},
-        {"id": "b", "text": "Una autorización para que el juez legisle libremente"},
-        {"id": "c", "text": "Una laguna legal que puede integrarse mediante los mecanismos del sistema de fuentes"}
+        {"id": "a", "text": "La derogación tácita de todo el ordenamiento", "feedback": {"lead": "💥 Una laguna no hace explotar el ordenamiento entero.", "explanation": "La ausencia de una regla concreta no deroga las demás normas. Es una carencia de regulación que debe resolverse mediante los instrumentos de integración admitidos."}},
+        {"id": "b", "text": "Una autorización para que el juez legisle libremente", "feedback": {"lead": "🧑‍⚖️ Integrar no es ponerse el sombrero de legislador sin límites.", "explanation": "El juez debe resolver conforme al sistema de fuentes y a los métodos jurídicos admitidos. No dispone de libertad absoluta para crear cualquier solución que considere conveniente."}},
+        {"id": "c", "text": "Una laguna legal que puede integrarse mediante los mecanismos del sistema de fuentes", "feedback": {"lead": "✅ Correcto: falta una pieza, pero el sistema trae herramientas.", "explanation": "Ante una laguna pueden operar la costumbre, los principios generales y, si existe semejanza e identidad de razón y no concurre prohibición, la analogía."}}
       ],
       "correct_option_id": "c",
       "explanation": "La laguna de una ley no supone que el ordenamiento carezca de respuesta. Pueden intervenir costumbre, principios generales y, si procede, analogía.",
@@ -253,9 +259,9 @@
       "section_refs": ["5.1"],
       "prompt": "Si una ley no dispone otra cosa, entrará en vigor:",
       "options": [
-        {"id": "a", "text": "A los veinte días de su completa publicación en el BOE"},
-        {"id": "b", "text": "El mismo día de su aprobación parlamentaria"},
-        {"id": "c", "text": "A los treinta días de su promulgación"}
+        {"id": "a", "text": "A los veinte días de su completa publicación en el BOE", "feedback": {"lead": "✅ Veinte días: cifra pequeña, pregunta grande de examen.", "explanation": "El artículo 2.1 CC fija una vacatio legis supletoria de veinte días desde la publicación completa en el BOE. La propia ley puede establecer otra fecha."}},
+        {"id": "b", "text": "El mismo día de su aprobación parlamentaria", "feedback": {"lead": "🏃 La ley no sale corriendo del Parlamento directamente a la vigencia.", "explanation": "Aprobación, sanción, promulgación, publicación y entrada en vigor son momentos distintos. Si la ley no dispone otra cosa, rige el plazo de veinte días desde su publicación completa."}},
+        {"id": "c", "text": "A los treinta días de su promulgación", "feedback": {"lead": "📆 Treinta suena redondo, pero el Código eligió veinte.", "explanation": "La regla supletoria no cuenta treinta días ni parte de la promulgación. El dato exacto es veinte días desde la completa publicación en el BOE."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 2.1 CC establece una vacatio legis supletoria de veinte días desde la publicación completa en el BOE.",
@@ -269,9 +275,9 @@
       "section_refs": ["5.1"],
       "prompt": "La derogación de una ley:",
       "options": [
-        {"id": "a", "text": "Puede producirse por una costumbre posterior contraria"},
-        {"id": "b", "text": "Puede ser expresa o resultar de la incompatibilidad con una ley posterior"},
-        {"id": "c", "text": "Hace revivir automáticamente todas las normas que aquella hubiera derogado"}
+        {"id": "a", "text": "Puede producirse por una costumbre posterior contraria", "feedback": {"lead": "🚫 La costumbre posterior no puede jubilar una ley.", "explanation": "Las leyes solo se derogan por otras leyes posteriores. La costumbre opera en defecto de ley aplicable y no tiene fuerza para derogar una disposición legal vigente."}},
+        {"id": "b", "text": "Puede ser expresa o resultar de la incompatibilidad con una ley posterior", "feedback": {"lead": "✅ Exacto: derogación declarada o incompatibilidad insalvable.", "explanation": "La ley posterior puede derogar expresamente la anterior o hacerlo tácitamente cuando ambas regulaciones son incompatibles. La derogación alcanza lo que resulte expresamente declarado o incompatible."}},
+        {"id": "c", "text": "Hace revivir automáticamente todas las normas que aquella hubiera derogado", "feedback": {"lead": "🧟 Las normas derogadas no resucitan automáticamente.", "explanation": "La derogación de una ley derogatoria no devuelve por sí sola la vigencia a las normas anteriores. La reviviscencia requiere una previsión normativa que así lo establezca."}}
       ],
       "correct_option_id": "b",
       "explanation": "Las leyes solo se derogan por otras posteriores. La derogación puede ser expresa o tácita por incompatibilidad y no provoca la reviviscencia automática de normas anteriores.",
@@ -285,9 +291,9 @@
       "section_refs": ["5.1"],
       "prompt": "Como regla general del Código Civil, las leyes:",
       "options": [
-        {"id": "a", "text": "Tienen siempre efecto retroactivo favorable y desfavorable"},
-        {"id": "b", "text": "Nunca pueden contener ninguna previsión retroactiva"},
-        {"id": "c", "text": "No tienen efecto retroactivo si no disponen lo contrario, respetando los límites constitucionales"}
+        {"id": "a", "text": "Tienen siempre efecto retroactivo favorable y desfavorable", "feedback": {"lead": "⏪ Ese “siempre” viaja al pasado sin billete legal.", "explanation": "La regla del artículo 2.3 CC es la irretroactividad salvo disposición contraria. Además, la Constitución prohíbe ciertos efectos retroactivos, especialmente en materia sancionadora desfavorable o restrictiva de derechos individuales."}},
+        {"id": "b", "text": "Nunca pueden contener ninguna previsión retroactiva", "feedback": {"lead": "🧱 “Nunca” también es demasiado muro para esta regla.", "explanation": "Una ley puede prever retroactividad dentro de los límites constitucionales. El Código Civil establece una regla supletoria, no una prohibición absoluta de toda retroactividad."}},
+        {"id": "c", "text": "No tienen efecto retroactivo si no disponen lo contrario, respetando los límites constitucionales", "feedback": {"lead": "✅ Correcto: irretroactividad por defecto y Constitución como frontera.", "explanation": "El artículo 2.3 CC exige una previsión para atribuir efecto retroactivo. Incluso existiendo, debe respetar las prohibiciones constitucionales aplicables."}}
       ],
       "correct_option_id": "c",
       "explanation": "El artículo 2.3 CC establece la irretroactividad como regla supletoria. La posible retroactividad queda sometida a las prohibiciones constitucionales aplicables.",
@@ -301,9 +307,9 @@
       "section_refs": ["5.2"],
       "prompt": "Según el artículo 3.1 CC, las normas deben interpretarse atendiendo, entre otros criterios, a:",
       "options": [
-        {"id": "a", "text": "El sentido de sus palabras, contexto, antecedentes, realidad social, espíritu y finalidad"},
-        {"id": "b", "text": "La intención personal del funcionario que deba aplicarlas"},
-        {"id": "c", "text": "Exclusivamente su tenor literal"}
+        {"id": "a", "text": "El sentido de sus palabras, contexto, antecedentes, realidad social, espíritu y finalidad", "feedback": {"lead": "✅ Lista completa: interpretar exige más de una lente.", "explanation": "El artículo 3.1 CC combina criterios literal, sistemático, histórico, sociológico y finalista. Su aplicación conjunta busca determinar el sentido de la norma atendiendo especialmente a su espíritu y finalidad."}},
+        {"id": "b", "text": "La intención personal del funcionario que deba aplicarlas", "feedback": {"lead": "🧠 La norma no cambia según el desayuno del funcionario.", "explanation": "La interpretación se apoya en criterios objetivos previstos legalmente. La opinión o intención personal de quien aplica la norma no es un criterio interpretativo autónomo."}},
+        {"id": "c", "text": "Exclusivamente su tenor literal", "feedback": {"lead": "🔍 La letra importa, pero no trabaja sola.", "explanation": "El sentido propio de las palabras es el punto de partida, no el único elemento. Debe conectarse con contexto, antecedentes, realidad social, espíritu y finalidad."}}
       ],
       "correct_option_id": "a",
       "explanation": "La interpretación combina criterios literal, sistemático, histórico, sociológico y finalista; no se limita automáticamente a uno solo.",
@@ -317,9 +323,9 @@
       "section_refs": ["5.2"],
       "prompt": "Señale la afirmación correcta sobre los criterios interpretativos del artículo 3.1 CC:",
       "options": [
-        {"id": "a", "text": "El criterio literal excluye siempre cualquier consideración sobre la finalidad"},
-        {"id": "b", "text": "Los criterios deben valorarse conjuntamente para determinar el sentido de la norma"},
-        {"id": "c", "text": "La realidad social permite dejar sin aplicación una norma vigente"}
+        {"id": "a", "text": "El criterio literal excluye siempre cualquier consideración sobre la finalidad", "feedback": {"lead": "📖 La letra no expulsa al espíritu de la norma.", "explanation": "El artículo 3.1 CC no establece compartimentos excluyentes. El tenor literal debe valorarse junto con los demás criterios, especialmente el espíritu y finalidad de la norma."}},
+        {"id": "b", "text": "Los criterios deben valorarse conjuntamente para determinar el sentido de la norma", "feedback": {"lead": "✅ Exacto: equipo interpretativo, no duelo de criterios.", "explanation": "Literalidad, contexto, antecedentes, realidad social y finalidad se complementan. El peso de cada criterio dependerá del problema, pero ninguno funciona automáticamente como regla única."}},
+        {"id": "c", "text": "La realidad social permite dejar sin aplicación una norma vigente", "feedback": {"lead": "🚦 Interpretar según la realidad no autoriza a saltarse la norma.", "explanation": "La realidad social ayuda a comprender y actualizar el sentido posible del texto. No permite derogar ni ignorar una norma vigente; esa función corresponde a los cauces normativos o de control previstos."}}
       ],
       "correct_option_id": "b",
       "explanation": "Los criterios no son compartimentos aislados. La realidad social ayuda a interpretar, pero no autoriza a derogar o ignorar una norma vigente.",
@@ -333,9 +339,9 @@
       "section_refs": ["5.3"],
       "prompt": "Para aplicar analógicamente una norma a un supuesto no regulado se requiere:",
       "options": [
-        {"id": "a", "text": "Que la norma aplicada tenga rango de ley orgánica"},
-        {"id": "b", "text": "Que exista únicamente semejanza terminológica"},
-        {"id": "c", "text": "Semejanza entre los supuestos e identidad de razón"}
+        {"id": "a", "text": "Que la norma aplicada tenga rango de ley orgánica", "feedback": {"lead": "🏛️ La analogía no pide carné de ley orgánica.", "explanation": "El rango orgánico no es requisito de la analogía. Lo relevante es que exista una laguna, semejanza entre el caso previsto y el no previsto e identidad de razón."}},
+        {"id": "b", "text": "Que exista únicamente semejanza terminológica", "feedback": {"lead": "🔤 Parecerse en las palabras no basta para ser gemelos jurídicos.", "explanation": "La coincidencia verbal puede ser superficial. La analogía exige que la razón jurídica que justifica la solución del supuesto regulado esté también presente en el no regulado."}},
+        {"id": "c", "text": "Semejanza entre los supuestos e identidad de razón", "feedback": {"lead": "✅ Correcto: parecido relevante y misma razón jurídica.", "explanation": "El artículo 4.1 CC permite aplicar analógicamente una norma cuando no contempla un supuesto específico, regula otro semejante y entre ambos existe identidad de razón."}}
       ],
       "correct_option_id": "c",
       "explanation": "La analogía integra una laguna aplicando la solución de un supuesto semejante cuando entre ambos existe identidad de razón.",
@@ -349,9 +355,9 @@
       "section_refs": ["5.3"],
       "prompt": "Las leyes penales, excepcionales y de ámbito temporal:",
       "options": [
-        {"id": "a", "text": "No se aplican a supuestos ni momentos distintos de los expresamente comprendidos"},
-        {"id": "b", "text": "Se aplican siempre por analogía cuando el resultado sea socialmente conveniente"},
-        {"id": "c", "text": "Solo admiten analogía si lo solicita la Administración"}
+        {"id": "a", "text": "No se aplican a supuestos ni momentos distintos de los expresamente comprendidos", "feedback": {"lead": "✅ Exacto: en estas leyes, la analogía encuentra la puerta cerrada.", "explanation": "El artículo 4.2 CC impide extender las leyes penales, excepcionales y temporales más allá de los casos o periodos expresamente comprendidos en ellas."}},
+        {"id": "b", "text": "Se aplican siempre por analogía cuando el resultado sea socialmente conveniente", "feedback": {"lead": "🚫 La conveniencia social no fabrica una excepción al 4.2.", "explanation": "La prohibición responde a legalidad y seguridad jurídica. No cabe ampliar por analogía estas normas aunque el resultado parezca útil o conveniente."}},
+        {"id": "c", "text": "Solo admiten analogía si lo solicita la Administración", "feedback": {"lead": "📨 Ni con instancia, sello y tres copias.", "explanation": "La limitación es objetiva y no depende de quién solicite la aplicación. La Administración no puede habilitar una extensión analógica que el Código Civil excluye."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 4.2 CC impide extender estas leyes a supuestos o momentos no comprendidos expresamente.",
@@ -365,9 +371,9 @@
       "section_refs": ["5.4"],
       "prompt": "En el cómputo civil de un plazo señalado por días:",
       "options": [
-        {"id": "a", "text": "Se incluye siempre el día inicial como primer día completo"},
-        {"id": "b", "text": "Se excluye el día inicial y el cómputo comienza al día siguiente"},
-        {"id": "c", "text": "Se excluyen automáticamente todos los días inhábiles"}
+        {"id": "a", "text": "Se incluye siempre el día inicial como primer día completo", "feedback": {"lead": "📅 El día inicial se queda mirando desde la banda.", "explanation": "En los plazos civiles señalados por días, el día inicial queda excluido y el cómputo comienza al siguiente. Esta es la regla del artículo 5.1 CC."}},
+        {"id": "b", "text": "Se excluye el día inicial y el cómputo comienza al día siguiente", "feedback": {"lead": "✅ Correcto: dies a quo fuera, contador en marcha mañana.", "explanation": "El primer día del plazo civil por días es el siguiente al hecho o notificación que lo inicia. Conviene distinguir esta regla de los regímenes procesal y administrativo."}},
+        {"id": "c", "text": "Se excluyen automáticamente todos los días inhábiles", "feedback": {"lead": "🏖️ En el cómputo civil, los inhábiles no se van de vacaciones.", "explanation": "El artículo 5.2 CC establece que en el cómputo civil no se excluyen los días inhábiles. No debe confundirse con reglas administrativas o procesales específicas."}}
       ],
       "correct_option_id": "b",
       "explanation": "El artículo 5 CC excluye el día inicial en los plazos por días. En el cómputo civil no se excluyen los días inhábiles.",
@@ -381,9 +387,9 @@
       "section_refs": ["5.4"],
       "prompt": "Un plazo civil fijado por meses vence en un mes que carece del día equivalente al inicial. En tal caso:",
       "options": [
-        {"id": "a", "text": "Se prorroga automáticamente al primer día del mes siguiente"},
-        {"id": "b", "text": "El plazo queda sin fecha de vencimiento"},
-        {"id": "c", "text": "El plazo expira el último día del mes de vencimiento"}
+        {"id": "a", "text": "Se prorroga automáticamente al primer día del mes siguiente", "feedback": {"lead": "➡️ El plazo no se muda al mes siguiente por falta de casilla.", "explanation": "Si en el mes de vencimiento no existe día equivalente al inicial, no hay prórroga automática. El artículo 5.1 CC fija el vencimiento en el último día de ese mes."}},
+        {"id": "b", "text": "El plazo queda sin fecha de vencimiento", "feedback": {"lead": "♾️ Ningún plazo consigue vida eterna por culpa de febrero.", "explanation": "El ordenamiento evita esa indeterminación mediante una regla de cierre: cuando falta el día equivalente, el plazo expira el último día del mes."}},
+        {"id": "c", "text": "El plazo expira el último día del mes de vencimiento", "feedback": {"lead": "✅ Correcto: si falta la fecha gemela, manda el último día.", "explanation": "Los plazos por meses o años se computan de fecha a fecha. Si el mes final carece del día correspondiente, el vencimiento se sitúa en su último día."}}
       ],
       "correct_option_id": "c",
       "explanation": "Los plazos por meses o años se computan de fecha a fecha; si no existe día equivalente, vencen el último día del mes.",
@@ -397,9 +403,9 @@
       "section_refs": ["6.1"],
       "prompt": "Respecto de la ignorancia de las leyes y el error de Derecho, señale la opción correcta:",
       "options": [
-        {"id": "a", "text": "La ignorancia no excusa del cumplimiento y el error de Derecho solo produce los efectos que las leyes determinen"},
-        {"id": "b", "text": "La ignorancia excusa siempre y el error de Derecho carece de cualquier efecto"},
-        {"id": "c", "text": "La ignorancia y el error de Derecho producen necesariamente la nulidad del acto"}
+        {"id": "a", "text": "La ignorancia no excusa del cumplimiento y el error de Derecho solo produce los efectos que las leyes determinen", "feedback": {"lead": "✅ Exacto: no saber no excusa y equivocarse no tiene efectos automáticos.", "explanation": "El artículo 6.1 CC contiene dos reglas distintas: la ignorancia de la ley no libera de cumplirla y el error de Derecho produce únicamente los efectos previstos por las leyes."}},
+        {"id": "b", "text": "La ignorancia excusa siempre y el error de Derecho carece de cualquier efecto", "feedback": {"lead": "🙉 Ojalá bastara con decir “no me lo sabía”, pero no.", "explanation": "La primera parte contradice directamente el artículo 6.1 CC. La segunda también es absoluta en exceso, porque el error de Derecho puede producir los efectos que una ley determine."}},
+        {"id": "c", "text": "La ignorancia y el error de Derecho producen necesariamente la nulidad del acto", "feedback": {"lead": "💣 La nulidad no viene incluida automáticamente en cada error.", "explanation": "Ni la ignorancia ni el error de Derecho provocan siempre nulidad. Debe examinarse la consecuencia que el ordenamiento asigne al supuesto concreto."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 6.1 CC contiene ambas reglas: la ignorancia no excusa y el error de Derecho tendrá únicamente los efectos previstos legalmente.",
@@ -413,9 +419,9 @@
       "section_refs": ["6.2"],
       "prompt": "La exclusión voluntaria de la ley aplicable y la renuncia de derechos son válidas cuando:",
       "options": [
-        {"id": "a", "text": "Se realizan siempre por escrito, con independencia de su contenido"},
-        {"id": "b", "text": "No contradicen el interés o el orden público ni perjudican a terceros"},
-        {"id": "c", "text": "Afectan exclusivamente a normas imperativas"}
+        {"id": "a", "text": "Se realizan siempre por escrito, con independencia de su contenido", "feedback": {"lead": "📝 El papel aguanta mucho, incluso renuncias inválidas.", "explanation": "La forma escrita no elimina los límites materiales del artículo 6.2 CC. La renuncia o exclusión debe respetar el interés y orden público y no perjudicar a terceros."}},
+        {"id": "b", "text": "No contradicen el interés o el orden público ni perjudican a terceros", "feedback": {"lead": "✅ Correcto: tres barreras que deben respetarse conjuntamente.", "explanation": "El artículo 6.2 CC admite la exclusión voluntaria y la renuncia solo dentro de esos límites. No basta con cumplir uno: no debe contrariarse interés u orden público ni perjudicarse a terceros."}},
+        {"id": "c", "text": "Afectan exclusivamente a normas imperativas", "feedback": {"lead": "🧱 Precisamente las normas imperativas no suelen admitir botón de renuncia.", "explanation": "La voluntad privada no puede excluir una norma obligatoria cuando el ordenamiento no lo permite. La renuncia válida opera sobre derechos disponibles y dentro de los límites legales."}}
       ],
       "correct_option_id": "b",
       "explanation": "El artículo 6.2 CC establece esos límites acumulativos a la exclusión voluntaria y a la renuncia.",
@@ -429,9 +435,9 @@
       "section_refs": ["6.4"],
       "prompt": "Los actos realizados al amparo del texto de una norma que persigan un resultado prohibido por el ordenamiento:",
       "options": [
-        {"id": "a", "text": "Quedan convalidados por respetar formalmente una norma de cobertura"},
-        {"id": "b", "text": "Solo producen efectos si existe una sanción penal expresa"},
-        {"id": "c", "text": "Se consideran ejecutados en fraude de ley y no impiden aplicar la norma eludida"}
+        {"id": "a", "text": "Quedan convalidados por respetar formalmente una norma de cobertura", "feedback": {"lead": "🎭 El disfraz legal no convierte el fraude en invitado legítimo.", "explanation": "En el fraude de ley se usa formalmente una norma de cobertura para lograr un resultado prohibido o contrario al ordenamiento. Esa apariencia no convalida la operación."}},
+        {"id": "b", "text": "Solo producen efectos si existe una sanción penal expresa", "feedback": {"lead": "🚔 El fraude de ley es más amplio que el Código Penal.", "explanation": "La reacción frente al fraude no depende de una sanción penal. Su consecuencia civil general es aplicar la norma que se intentó eludir, sin perjuicio de otros efectos procedentes."}},
+        {"id": "c", "text": "Se consideran ejecutados en fraude de ley y no impiden aplicar la norma eludida", "feedback": {"lead": "✅ Exacto: se levanta el disfraz y vuelve la norma eludida.", "explanation": "El artículo 6.4 CC neutraliza la maniobra aplicando la norma que se trató de evitar. La clave es distinguir la norma de cobertura de la norma defraudada."}}
       ],
       "correct_option_id": "c",
       "explanation": "El fraude utiliza una norma de cobertura para conseguir un resultado contrario al ordenamiento; la consecuencia es aplicar la norma que se trató de eludir.",
@@ -445,9 +451,9 @@
       "section_refs": ["6.3", "6.5"],
       "prompt": "Una persona ejercita formalmente un derecho de manera manifiestamente excesiva, antisocial y causando daño a un tercero. Esta conducta:",
       "options": [
-        {"id": "a", "text": "Puede constituir abuso del derecho y dar lugar a indemnización y medidas que impidan su persistencia"},
-        {"id": "b", "text": "Queda siempre protegida porque existe formalmente un derecho"},
-        {"id": "c", "text": "Determina necesariamente la nulidad de pleno derecho de todas sus actuaciones anteriores"}
+        {"id": "a", "text": "Puede constituir abuso del derecho y dar lugar a indemnización y medidas que impidan su persistencia", "feedback": {"lead": "✅ Correcto: tener un derecho no incluye licencia para atropellar a terceros.", "explanation": "El artículo 7 CC exige buena fe y rechaza el ejercicio antisocial o manifiestamente excesivo. El abuso puede generar indemnización y medidas judiciales o administrativas para impedir su continuación."}},
+        {"id": "b", "text": "Queda siempre protegida porque existe formalmente un derecho", "feedback": {"lead": "🦸 Un derecho no viene con capa de invulnerabilidad.", "explanation": "La existencia formal del derecho no protege cualquier modo de ejercerlo. Los límites de buena fe y prohibición del abuso atienden a intención, objeto, circunstancias, exceso y daño causado."}},
+        {"id": "c", "text": "Determina necesariamente la nulidad de pleno derecho de todas sus actuaciones anteriores", "feedback": {"lead": "🧹 El abuso no borra automáticamente todo el historial jurídico.", "explanation": "La consecuencia no es necesariamente la nulidad total de actuaciones previas. El artículo 7.2 contempla indemnización y medidas para impedir la persistencia del abuso, según el caso."}}
       ],
       "correct_option_id": "a",
       "explanation": "El artículo 7 CC exige buena fe y niega protección al abuso o ejercicio antisocial. Puede generar indemnización y medidas judiciales o administrativas para impedir su continuación.",
