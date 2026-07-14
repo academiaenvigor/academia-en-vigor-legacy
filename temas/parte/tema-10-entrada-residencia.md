@@ -41,7 +41,7 @@ ENTRADA, CIRCULACIÓN Y RESIDENCIA
 
 # 📖 1. EL RD 240/2007: QUIÉNES, ENTRADA Y RESIDENCIA
 📅 **Ha caído:** 2023 (×2) · 2022 — a quién se aplica y cómo entra el familiar de comunitario.
-<!-- 🎨 · img/t10-regimen-comunitario.png · esquema del RD 240/2007: el círculo del ciudadano UE con sus familiares alrededor (cónyuge, pareja, descendientes, ascendientes) y qué documento necesita cada uno para entrar -->
+![esquema del RD 240/2007: el círculo del ciudadano UE con sus familiares alrededor (cónyuge, pareja, descendientes, ascendientes) y qué documento necesita cada uno para entrar](../../img/t10-regimen-comunitario.png)
 
 ## 1.1. A quién se aplica ⭐
 - A los ciudadanos de los Estados de la **UE y del EEE** (Islandia, Noruega, Liechtenstein) y, por acuerdo, **Suiza**.
@@ -72,7 +72,7 @@ ENTRADA, CIRCULACIÓN Y RESIDENCIA
 
 # 📖 2. EL TÍTULO I DE LA LOEX, LO ESENCIAL
 📅 **Ha caído:** 2022 · 2021 — el menor indocumentado y los límites a la circulación.
-<!-- 🎨 · img/t10-derechos-loex.png · panel de derechos del extranjero con su condición de ejercicio: cuáles en igualdad, cuáles exigen residencia legal -->
+![panel de derechos del extranjero con su condición de ejercicio: cuáles en igualdad, cuáles exigen residencia legal](../../img/t10-derechos-loex.png)
 
 Los extranjeros gozan en España de los derechos del Título I de la CE **en los términos de los tratados y la ley** (recuerda el art. 13 CE del tema 2). Lo más preguntado:
 - **Documentación (art. 4):** derecho y **deber** de conservar la documentación que acredite su identidad y situación — no pueden ser privados de ella, salvo los supuestos legales.
@@ -89,7 +89,7 @@ Los extranjeros gozan en España de los derechos del Título I de la CE **en los
 
 # 📖 3. REQUISITOS, DENEGACIÓN DE ENTRADA Y DEVOLUCIÓN ⭐⭐
 📅 **Ha caído:** 2022 (×2) — la pareja de conceptos que el tribunal siempre cruza.
-<!-- 🎨 · img/t10-denegacion-vs-devolucion.png · cara a cara en dos tarjetas: DENEGACIÓN de entrada (frontera, no cumple requisitos, retorno) vs DEVOLUCIÓN (prohibición vigente o entrada ilegal, sin expediente de expulsión) -->
+![cara a cara en dos tarjetas: DENEGACIÓN de entrada (frontera, no cumple requisitos, retorno) vs DEVOLUCIÓN (prohibición vigente o entrada ilegal, sin expediente de expulsión)](../../img/t10-denegacion-vs-devolucion.png)
 
 ## 3.1. Requisitos de entrada (art. 25 LOEX)
 Por **puesto habilitado**, con **pasaporte o documento de viaje** válido, **visado** cuando sea exigible, acreditación de **medios económicos** y del objeto de la estancia, y **no estar sujeto a prohibición de entrada** ni suponer peligro para la salud, el orden público o las relaciones internacionales de España. La estancia de corta duración: máximo **90 días** (por período de 180).
@@ -122,7 +122,7 @@ Libres por puestos habilitados, con las excepciones legales (prohibiciones de sa
 
 # 📖 5. RESIDENCIA TEMPORAL: TRABAJO, ARRAIGOS 🆕 Y LARGA DURACIÓN
 📅 **Ha caído:** 2025-2 (×2) · 2021 — arraigo familiar de 5 años, visado de búsqueda de empleo de 12 meses y el trabajo de temporada.
-<!-- 🎨 · img/t10-arraigos-1155.png · los CINCO arraigos del RD 1155/2024 en tarjetas: social, sociolaboral, socioformativo, familiar (5 años) y segunda oportunidad, con la permanencia de 2 años destacada (LA imagen estrella del tema) -->
+![los CINCO arraigos del RD 1155/2024 en tarjetas: social, sociolaboral, socioformativo, familiar (5 años) y segunda oportunidad, con la permanencia de 2 años destacada](../../img/t10-arraigos-1155.png)
 
 ## 5.1. El mapa general
 - **Residencia TEMPORAL:** autoriza a permanecer **más de 90 días y menos de 5 años**.

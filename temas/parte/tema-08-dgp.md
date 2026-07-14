@@ -44,7 +44,7 @@ LA DGP Y LA POLICÍA NACIONAL
 
 # 📖 1. EL DIRECTOR GENERAL Y SUS 4+1 CENTROS DIRECTIVOS
 📅 **Ha caído:** 2025-2 · 2023 · 2022 — quién preside la Junta de Gobierno, quién manda en lo operativo y quién convoca las oposiciones.
-<!-- 🎨 SVG · img/t08-organigrama-dgp.svg · organigrama de la DGP: el DGP arriba, sus 4 centros directivos + la DCI con línea directa, y de la DAO colgando las 5 CG y la DOTD (LA imagen estrella del tema... y del temario) -->
+![organigrama de la DGP: el DGP arriba, sus 4 centros directivos + la DCI con línea directa, y de la DAO colgando las 5 CG y la DOTD](../../img/t08-organigrama-dgp.png)
 
 - **El Director General de la Policía** tiene **rango de SUBSECRETARIO** y, bajo la dependencia del Secretario de Estado de Seguridad, ejerce **el MANDO DIRECTO de la Policía Nacional**. ⭐ Entre sus funciones: dirigir e impulsar los servicios centrales y territoriales, y **CONVOCAR los procesos selectivos** de ingreso (cayó en 2022: convoca el DGP, no el Ministro ni la División de Formación).
 - De la persona titular dependen **CUATRO centros directivos**:
@@ -76,7 +76,7 @@ LA DGP Y LA POLICÍA NACIONAL
 
 # 📖 3. LAS SUBDIRECCIONES, LA DCI Y LOS ÓRGANOS COLEGIADOS
 📅 **Ha caído:** 2025-2 (×4) — Área de Retribuciones, Área de Innovación Formativa, Centro de Comunicaciones Internacionales y Junta de Gobierno.
-<!-- 🎨 SVG · img/t08-divisiones.svg · las dos Subdirecciones con sus Divisiones colgando, y la DCI aparte con su línea directa al DGP y sus tres oficinas internacionales -->
+![las dos Subdirecciones con sus Divisiones colgando, y la DCI aparte con su línea directa al DGP y sus tres oficinas internacionales](../../img/t08-divisiones.png)
 
 **SG de RECURSOS HUMANOS Y FORMACIÓN** — de ella dependen:
 - **La División de PERSONAL:** gestión de RRHH, régimen disciplinario... ⭐ De su **Secretaría General** dependen el **Área de RETRIBUCIONES** (cayó en 2025) y la **Oficina del Policía**. En ella se integra también la **Unidad de Prevención de Riesgos Laborales y Protección Socio-Sanitaria** (cayó en 2025).
@@ -108,7 +108,7 @@ LA DGP Y LA POLICÍA NACIONAL
 
 # 📖 4. DE LA JEFATURA SUPERIOR A LA COMISARÍA DE DISTRITO
 📅 **Ha caído:** 2025-2 — la unidad básica en las grandes urbes (comisarías de distrito).
-<!-- 🎨 SVG · img/t08-territorial.svg · pirámide territorial: JSP → Provincial → Zonal/Local → Distrito, con las piezas de frontera y cooperación a un lado -->
+![pirámide territorial: JSP → Provincial → Zonal/Local → Distrito, con las piezas de frontera y cooperación a un lado](../../img/t08-territorial.png)
 
 La organización territorial está integrada por:
 - **Las JEFATURAS SUPERIORES DE POLICÍA:** el mando policial en su ámbito territorial (generalmente la Comunidad Autónoma). Son **20** (Anexo I de la Orden).
@@ -127,7 +127,7 @@ La organización territorial está integrada por:
 
 # 📖 5. ESCALAS Y CATEGORÍAS (LO 9/2015)
 📅 **Ha caído:** 2023 — la divisa de dos ramas de laurel.
-<!-- 🎨 SVG · img/t08-escalas.svg · la escalera de las 4 escalas y 7 categorías, con la titulación de acceso de cada una -->
+![la escalera de las 4 escalas y 7 categorías, con la titulación de acceso de cada una](../../img/t08-escalas.png)
 
 La Policía Nacional es un **instituto armado de naturaleza CIVIL** (lo desarrollarás en el tema 9), organizado en **CUATRO ESCALAS y SIETE CATEGORÍAS**:
 
@@ -166,7 +166,7 @@ La Policía Nacional es un **instituto armado de naturaleza CIVIL** (lo desarrol
 
 # 📖 8. FALTAS, SANCIONES, PRESCRIPCIÓN Y COMPETENCIA
 📅 **Ha caído:** 2025-2 (×2) · 2023 · 2021 — el traslado forzoso, el arma extraviada (¡dos veces, con truco!) y la incoación por falta leve.
-<!-- 🎨 SVG · img/t08-disciplinario.svg · tabla semáforo de faltas MG/G/L con sus sanciones y prescripciones, y destacada la doble trampa del arma: inexcusable=grave / simple=leve -->
+![tabla semáforo de faltas MG/G/L con sus sanciones y prescripciones, y destacada la doble trampa del arma: inexcusable=grave / simple=leve](../../img/t08-disciplinario.png)
 
 ## 8.1. Las faltas: muy graves, graves y leves
 - **MUY GRAVES** (ejemplos): incumplimiento del deber de fidelidad a la Constitución; toda actuación que suponga **discriminación**; el **abandono de servicio**; la publicación o utilización indebida de **secretos oficiales**; la **insubordinación**; embriaguez o consumo de drogas **durante el servicio** o con habitualidad...
