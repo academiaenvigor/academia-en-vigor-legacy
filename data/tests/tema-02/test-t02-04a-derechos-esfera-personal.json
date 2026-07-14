@@ -1,0 +1,454 @@
+{
+  "id": "t02-b04a-derechos-esfera-personal-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 4A · Derechos de la esfera personal",
+    "short_title": "Derechos de la esfera personal",
+    "description": "Comprueba si dominas los derechos de los artículos 15 a 19 y si sabes aplicarlos a situaciones próximas a la actuación policial. Trabaja vida e integridad, pena de muerte, libertad ideológica y religiosa, duración y garantías de la detención, habeas corpus, honor, intimidad, propia imagen, domicilio, comunicaciones, protección de datos y circulación. Presta especial atención a las diferencias entre literalidad constitucional y Derecho vigente, a los plazos y a las excepciones que suelen convertirse en trampas de examen.",
+    "theme_number": 2,
+    "block_number": "4A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["15", "15.1", "15.2", "15.3", "15.4", "15.5"],
+    "concepts": [
+      "vida e integridad física y moral",
+      "pena de muerte: Constitución y Derecho vigente",
+      "intervenciones corporales y deber de garantía",
+      "libertad ideológica, religiosa y de culto",
+      "aconfesionalidad y cooperación",
+      "libertad y seguridad",
+      "duración y derechos de la detención",
+      "habeas corpus",
+      "honor, intimidad y propia imagen",
+      "inviolabilidad del domicilio",
+      "secreto de las comunicaciones",
+      "protección de datos",
+      "residencia, circulación, entrada y salida"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b04a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titularidad del artículo 15",
+      "section_refs": ["15.1"],
+      "prompt": "El artículo 15 CE reconoce el derecho a la vida y a la integridad física y moral:",
+      "options": [
+        {"id": "a", "text": "Únicamente a los españoles"},
+        {"id": "b", "text": "A todos"},
+        {"id": "c", "text": "Solo a los ciudadanos mayores de edad"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 15 comienza con la fórmula «Todos tienen derecho», por lo que una pregunta literal no permite sustituirla por «los españoles», «los ciudadanos» o «los mayores de edad». La protección se vincula a la persona y comprende vida, integridad física e integridad moral. En este bloque es esencial atender al sujeto exacto empleado por cada precepto, porque una formulación aparentemente razonable puede ser incorrecta.",
+      "source_note": "Artículo 15 CE; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "contenido del artículo 15",
+      "section_refs": ["15.1"],
+      "prompt": "¿Qué prohibiciones recoge expresamente el artículo 15 CE?",
+      "options": [
+        {"id": "a", "text": "Tortura y penas o tratos inhumanos o degradantes"},
+        {"id": "b", "text": "Toda intervención corporal, incluso consentida y terapéutica"},
+        {"id": "c", "text": "Cualquier incomodidad causada durante una actuación legítima"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 15 prohíbe que alguien sea sometido a tortura o a penas o tratos inhumanos o degradantes. No toda intervención corporal está prohibida: puede resultar legítima si reúne cobertura legal, finalidad, competencia y proporcionalidad. Tampoco cualquier molestia o trato incorrecto alcanza automáticamente la gravedad constitucional exigida para considerarse inhumano o degradante, aunque pueda generar otras responsabilidades.",
+      "source_note": "Artículo 15 CE; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q003",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "pena de muerte",
+      "section_refs": ["15.1"],
+      "prompt": "¿Qué afirmación diferencia correctamente el texto del artículo 15 y el Derecho actualmente vigente?",
+      "options": [
+        {"id": "a", "text": "La Constitución permite la pena de muerte en tiempo de paz, pero una ley ordinaria la suprimió"},
+        {"id": "b", "text": "El artículo 15 no contiene ninguna referencia a la pena de muerte"},
+        {"id": "c", "text": "El artículo 15 conserva una excepción para leyes penales militares en guerra, pero la Ley Orgánica 11/1995 abolió también esa pena"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La literalidad constitucional declara abolida la pena de muerte salvo lo que puedan disponer las leyes penales militares para tiempos de guerra. Esa excepción es una posibilidad constitucional, no una obligación de imponerla. La Ley Orgánica 11/1995 eliminó la pena de muerte también en tiempo de guerra, de modo que hoy no existe en el ordenamiento español. El test debe distinguir texto constitucional y legislación vigente.",
+      "source_note": "Artículo 15 CE y Ley Orgánica 11/1995; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "integridad física y moral",
+      "section_refs": ["15.1"],
+      "prompt": "La diferencia básica entre integridad física e integridad moral consiste en que:",
+      "options": [
+        {"id": "a", "text": "La integridad moral protege exclusivamente la reputación pública"},
+        {"id": "b", "text": "La física protege el cuerpo y la moral la inviolabilidad personal frente a humillaciones graves"},
+        {"id": "c", "text": "La integridad física solo se aplica a personas detenidas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La integridad física protege el cuerpo frente a lesiones o intervenciones no justificadas, mientras la integridad moral tutela a la persona frente a humillaciones o tratos graves que lesionen su dignidad. La reputación se relaciona principalmente con el honor del artículo 18.1. Ambos derechos corresponden a todos y no quedan limitados a detenidos, aunque la custodia genere deberes reforzados de protección.",
+      "source_note": "Artículo 15 CE; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q005",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "intervenciones corporales",
+      "section_refs": ["15.1"],
+      "prompt": "Una intervención corporal impuesta puede ser constitucionalmente legítima cuando cuenta con:",
+      "options": [
+        {"id": "a", "text": "Previsión legal, finalidad legítima, autoridad competente y proporcionalidad"},
+        {"id": "b", "text": "Una mera sospecha policial, cualquiera que sea su intensidad"},
+        {"id": "c", "text": "Utilidad práctica, aunque no exista habilitación jurídica"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las intervenciones corporales pueden afectar a integridad, intimidad o libertad y exigen cobertura legal, finalidad legítima, actuación de autoridad competente y proporcionalidad. Cuanto mayor sea la intensidad de la injerencia, mayores serán las garantías necesarias. Una sospecha no convierte por sí misma cualquier medida en válida y la utilidad de obtener un resultado nunca sustituye la habilitación ni el control jurídico.",
+      "source_note": "Artículos 15, 17 y 18 CE; doctrina constitucional; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "posición de garantía en custodia",
+      "section_refs": ["15.1"],
+      "prompt": "Respecto de una persona detenida o bajo custodia, el artículo 15 exige especialmente:",
+      "options": [
+        {"id": "a", "text": "Atender únicamente las lesiones que ya existían antes de la detención"},
+        {"id": "b", "text": "Presumir que toda petición de asistencia sanitaria pretende retrasar diligencias"},
+        {"id": "c", "text": "Prevenir daños, atender vulnerabilidades y documentar y justificar el uso de la fuerza"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La privación de libertad coloca a la persona bajo control público y genera una posición especial de garantía. Deben prevenirse lesiones, solicitar asistencia sanitaria cuando proceda, proteger a personas vulnerables y documentar el uso de la fuerza. Estas obligaciones no dependen de que el daño se origine antes o después de la detención. La fuerza solo puede emplearse con habilitación, necesidad y proporcionalidad.",
+      "source_note": "Artículo 15 CE; Atestado, apartado 15.1."
+    },
+    {
+      "id": "t02-b04a-q007",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "límites de la libertad religiosa",
+      "section_refs": ["15.2"],
+      "prompt": "Las manifestaciones de la libertad ideológica, religiosa y de culto tienen como límite constitucional expreso:",
+      "options": [
+        {"id": "a", "text": "La opinión mayoritaria de la sociedad"},
+        {"id": "b", "text": "El mantenimiento del orden público protegido por la ley"},
+        {"id": "c", "text": "La autorización discrecional del Gobierno"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 16.1 garantiza estas libertades a individuos y comunidades sin más limitación, en sus manifestaciones, que la necesaria para mantener el orden público protegido por la ley. La literalidad no habla de moral mayoritaria ni de autorización gubernativa. Debe repararse en que el límite se formula respecto de las manifestaciones externas y está sometido a necesidad y protección legal del orden público.",
+      "source_note": "Artículo 16.1 CE; Atestado, apartado 15.2."
+    },
+    {
+      "id": "t02-b04a-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "declaración sobre creencias",
+      "section_refs": ["15.2"],
+      "prompt": "El artículo 16.2 CE dispone que:",
+      "options": [
+        {"id": "a", "text": "Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias"},
+        {"id": "b", "text": "Toda persona debe declarar su religión en documentos oficiales"},
+        {"id": "c", "text": "Solo los españoles pueden negarse a declarar sobre sus creencias"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La regla es clara: nadie puede ser obligado a declarar sobre su ideología, religión o creencias. El sujeto «nadie» no permite restringir la garantía a españoles y la Constitución no establece un deber general de identificar la religión en documentos públicos. La pregunta suele alterarse mediante sujetos más limitados o sustituyendo la prohibición de obligación por una prohibición absoluta de manifestación voluntaria.",
+      "source_note": "Artículo 16.2 CE; Atestado, apartado 15.2."
+    },
+    {
+      "id": "t02-b04a-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "aconfesionalidad y cooperación",
+      "section_refs": ["15.2"],
+      "prompt": "El modelo religioso constitucional español se caracteriza porque:",
+      "options": [
+        {"id": "a", "text": "La Iglesia Católica tiene carácter de confesión estatal"},
+        {"id": "b", "text": "Los poderes públicos tienen prohibido relacionarse con cualquier confesión"},
+        {"id": "c", "text": "Ninguna confesión es estatal y los poderes públicos mantienen relaciones de cooperación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 16.3 establece que ninguna confesión tendrá carácter estatal, pero ordena a los poderes públicos tener en cuenta las creencias religiosas de la sociedad y mantener relaciones de cooperación con la Iglesia Católica y las demás confesiones. Por tanto, aconfesionalidad no significa hostilidad ni incomunicación institucional; neutralidad y cooperación pueden coexistir dentro del marco constitucional.",
+      "source_note": "Artículo 16.3 CE; Atestado, apartado 15.2."
+    },
+    {
+      "id": "t02-b04a-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "libertad y seguridad",
+      "section_refs": ["15.3"],
+      "prompt": "Según el artículo 17.1 CE, puede privarse de libertad a una persona:",
+      "options": [
+        {"id": "a", "text": "Siempre que una autoridad invoque razones de seguridad"},
+        {"id": "b", "text": "Solo en los casos y en la forma previstos por la ley y con respeto al propio artículo 17"},
+        {"id": "c", "text": "Por decisión de cualquier particular que presencie una infracción administrativa"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Toda persona tiene derecho a la libertad y seguridad y nadie puede ser privado de su libertad fuera de los casos y la forma previstos por la ley y sin observar el artículo 17. Invocar genéricamente la seguridad no basta. La ley puede regular supuestos concretos de detención por particulares, pero no permite a cualquiera privar de libertad por cualquier infracción administrativa ni al margen de sus requisitos.",
+      "source_note": "Artículo 17.1 CE; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q011",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "doble límite de la detención",
+      "section_refs": ["15.3"],
+      "prompt": "La duración constitucional de la detención preventiva está sometida a:",
+      "options": [
+        {"id": "a", "text": "El tiempo estrictamente necesario y, en todo caso, un máximo de setenta y dos horas"},
+        {"id": "b", "text": "Un plazo ordinario fijo de setenta y dos horas que siempre puede agotarse"},
+        {"id": "c", "text": "Un máximo de cuarenta y ocho horas sin atender a la necesidad de las diligencias"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 17.2 impone una doble barrera: la detención no puede durar más del tiempo estrictamente necesario para las averiguaciones y, en todo caso, dentro de setenta y dos horas debe producirse libertad o puesta a disposición judicial. El máximo no es un plazo normal disponible. Si las diligencias terminan antes, mantener la detención hasta las setenta y dos horas puede ser ilegítimo.",
+      "source_note": "Artículo 17.2 CE; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "finalización de diligencias",
+      "section_refs": ["15.3"],
+      "prompt": "Si las averiguaciones necesarias concluyen a las veinte horas de la detención:",
+      "options": [
+        {"id": "a", "text": "La policía puede mantener siempre a la persona otras cincuenta y dos horas"},
+        {"id": "b", "text": "La detención se transforma automáticamente en prisión provisional"},
+        {"id": "c", "text": "Debe procederse sin demora a la libertad o puesta a disposición judicial, sin agotar el máximo"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La regla del tiempo estrictamente necesario opera aunque no se haya alcanzado el máximo de setenta y dos horas. Finalizadas las averiguaciones que justifican la detención, debe acordarse libertad o puesta a disposición judicial sin demoras indebidas. La prisión provisional solo puede ser adoptada por la autoridad judicial conforme a la ley; no surge automáticamente por decisión policial ni por el transcurso del tiempo.",
+      "source_note": "Artículo 17.2 CE; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "información al detenido",
+      "section_refs": ["15.3"],
+      "prompt": "La información constitucional a la persona detenida debe proporcionarse:",
+      "options": [
+        {"id": "a", "text": "Al finalizar el atestado y únicamente por escrito"},
+        {"id": "b", "text": "De forma inmediata y comprensible, sobre sus derechos y las razones de la detención"},
+        {"id": "c", "text": "Solo si el detenido pregunta expresamente por sus derechos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 17.3 exige información inmediata y de modo comprensible sobre derechos y razones de la detención. No puede diferirse al final del atestado ni condicionarse a que la persona la solicite. La legislación procesal desarrolla y amplía el catálogo y las formas de documentación, pero el núcleo constitucional incluye inmediatez, comprensibilidad, derechos y motivo concreto de la privación de libertad.",
+      "source_note": "Artículo 17.3 CE; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q014",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "declaración y asistencia letrada",
+      "section_refs": ["15.3"],
+      "prompt": "Entre las garantías expresas del artículo 17.3 se encuentran:",
+      "options": [
+        {"id": "a", "text": "No ser obligado a declarar y contar con asistencia de abogado en diligencias policiales y judiciales"},
+        {"id": "b", "text": "Elegir siempre libremente cualquier lugar para permanecer detenido"},
+        {"id": "c", "text": "Obtener la libertad automática si no desea prestar declaración"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución declara que la persona detenida no puede ser obligada a declarar y garantiza asistencia de abogado en diligencias policiales y judiciales en los términos legales. Guardar silencio no produce libertad automática ni permite elegir el lugar de custodia. Además, la Ley de Enjuiciamiento Criminal contiene otros derechos, pero una pregunta sobre el artículo 17.3 exige identificar su núcleo literal.",
+      "source_note": "Artículo 17.3 CE; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q015",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "finalidad del habeas corpus",
+      "section_refs": ["15.3"],
+      "prompt": "La finalidad constitucional del procedimiento de habeas corpus es:",
+      "options": [
+        {"id": "a", "text": "Determinar definitivamente si el detenido es culpable del delito investigado"},
+        {"id": "b", "text": "Sustituir todos los recursos frente a una futura sentencia penal"},
+        {"id": "c", "text": "Producir la inmediata puesta a disposición judicial de quien esté ilegalmente detenido"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El habeas corpus es un control rápido de la legalidad y de las condiciones de la privación de libertad, no un juicio sobre culpabilidad ni un recurso frente a una sentencia futura. Busca que la persona presuntamente detenida de forma ilegal sea llevada inmediatamente ante el juez, quien examina la situación y adopta una de las decisiones previstas en la ley orgánica reguladora.",
+      "source_note": "Artículo 17.4 CE y Ley Orgánica 6/1984; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "solicitud de habeas corpus",
+      "section_refs": ["15.3"],
+      "prompt": "Para solicitar la incoación de habeas corpus, la Ley Orgánica 6/1984:",
+      "options": [
+        {"id": "a", "text": "Exige siempre abogado y procurador desde la solicitud"},
+        {"id": "b", "text": "No exige preceptivamente abogado ni procurador para formular la solicitud"},
+        {"id": "c", "text": "Solo permite actuar al Ministerio Fiscal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El procedimiento se diseña como sencillo y accesible: para iniciar el habeas corpus no es preceptiva la intervención de abogado ni procurador. Están legitimados, entre otros, la persona privada de libertad, determinados familiares, Ministerio Fiscal y Defensor del Pueblo, y también cabe incoación de oficio por el juez competente. Limitarlo al fiscal o exigir representación obligatoria frustraría su rapidez.",
+      "source_note": "Artículos 3 y 4 de la Ley Orgánica 6/1984; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "plazo del habeas corpus",
+      "section_refs": ["15.3"],
+      "prompt": "Desde que se dicta el auto de incoación del habeas corpus, el juez debe practicar actuaciones y resolver:",
+      "options": [
+        {"id": "a", "text": "En un plazo máximo de veinticuatro horas"},
+        {"id": "b", "text": "En setenta y dos horas, prorrogables por otras setenta y dos"},
+        {"id": "c", "text": "En diez días hábiles"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Ley Orgánica 6/1984 establece que, desde el auto de incoación, los jueces deben practicar todas las actuaciones y dictar la resolución que proceda en veinticuatro horas. No debe confundirse este plazo judicial del habeas corpus con el máximo constitucional general de la detención preventiva. Son relojes diferentes, asociados a procedimientos y momentos distintos.",
+      "source_note": "Artículo 7 de la Ley Orgánica 6/1984; Atestado, apartado 15.3."
+    },
+    {
+      "id": "t02-b04a-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "derechos del artículo 18.1",
+      "section_refs": ["15.4"],
+      "prompt": "El artículo 18.1 CE garantiza el derecho:",
+      "options": [
+        {"id": "a", "text": "A la libertad de residencia, circulación y salida"},
+        {"id": "b", "text": "A la inviolabilidad del domicilio y al secreto postal"},
+        {"id": "c", "text": "Al honor, a la intimidad personal y familiar y a la propia imagen"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El apartado primero del artículo 18 reúne honor, intimidad personal y familiar y propia imagen. La inviolabilidad domiciliaria está en el apartado segundo, el secreto de las comunicaciones en el tercero y la limitación del uso de la informática en el cuarto. Residencia y circulación pertenecen al artículo 19. El examen puede mezclar derechos próximos para comprobar la numeración exacta.",
+      "source_note": "Artículo 18.1 CE; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "domicilio constitucional",
+      "section_refs": ["15.4"],
+      "prompt": "A efectos del artículo 18.2, el domicilio constitucional es principalmente:",
+      "options": [
+        {"id": "a", "text": "Todo inmueble que figure inscrito a nombre de una persona"},
+        {"id": "b", "text": "El espacio donde se desarrolla vida privada, aunque no coincida con propiedad, padrón o domicilio civil"},
+        {"id": "c", "text": "Cualquier local abierto al público durante su horario comercial"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El domicilio constitucional protege el espacio apto para desarrollar la vida privada. Puede abarcar una habitación de hotel o una estancia utilizada como morada y no depende de ser propietario o estar empadronado. A la inversa, no todo inmueble de una persona ni cada zona de un local abierto al público recibe automáticamente la misma protección. La clave es la función de privacidad del espacio.",
+      "source_note": "Artículo 18.2 CE y doctrina constitucional; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "supuestos de entrada domiciliaria",
+      "section_refs": ["15.4"],
+      "prompt": "La entrada o registro en domicilio puede realizarse constitucionalmente, sin perjuicio de los requisitos legales, con:",
+      "options": [
+        {"id": "a", "text": "Consentimiento del titular, resolución judicial o flagrante delito"},
+        {"id": "b", "text": "Denuncia anónima, sospecha intensa o autorización del propietario"},
+        {"id": "c", "text": "Orden verbal de cualquier funcionario o interés general"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 18.2 contiene tres puertas constitucionales: consentimiento del titular, resolución judicial y flagrante delito. La mnemotecnia CO-JU-FLA ayuda a recordarlas. Una denuncia o sospecha puede justificar investigar o solicitar autorización judicial, pero no equivale por sí misma a flagrancia. Tampoco el propietario puede consentir si quien ocupa legítimamente la vivienda es otra persona que desarrolla allí su vida privada.",
+      "source_note": "Artículo 18.2 CE; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "consentimiento domiciliario",
+      "section_refs": ["15.4"],
+      "prompt": "El propietario de una vivienda alquilada autoriza una entrada policial, pero el arrendatario que vive en ella se opone. Como regla general:",
+      "options": [
+        {"id": "a", "text": "La autorización del dueño basta siempre porque conserva la propiedad"},
+        {"id": "b", "text": "La oposición carece de valor si el arrendatario no está empadronado"},
+        {"id": "c", "text": "El consentimiento relevante corresponde al titular del ámbito domiciliario, no al mero propietario que no mora allí"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La inviolabilidad protege la vida privada desarrollada en el espacio, no la titularidad dominical. Por ello, el dueño que no vive en la vivienda no puede sustituir normalmente el consentimiento del morador. El empadronamiento tampoco crea ni elimina por sí solo el domicilio constitucional. Sin consentimiento válido, la entrada requerirá resolución judicial o una verdadera situación de flagrante delito.",
+      "source_note": "Artículo 18.2 CE y doctrina constitucional; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q022",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "flagrante delito",
+      "section_refs": ["15.4"],
+      "prompt": "La flagrancia que permite entrar en domicilio sin resolución judicial exige:",
+      "options": [
+        {"id": "a", "text": "Cualquier sospecha subjetiva de que podría existir una infracción"},
+        {"id": "b", "text": "Percepción inmediata del delito que se comete o acaba de cometerse y necesidad urgente de intervención"},
+        {"id": "c", "text": "Una denuncia presentada al menos veinticuatro horas antes"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La flagrancia no es una sospecha intensa ni una etiqueta que pueda aplicarse a cualquier investigación. Requiere evidencia o percepción inmediata de un delito en ejecución o recién cometido y una necesidad urgente que haga improcedente esperar autorización judicial. Si hay tiempo y posibilidad real de solicitar resolución, la mera sospecha o información previa no sustituye el control judicial exigido por el artículo 18.2.",
+      "source_note": "Artículo 18.2 CE y doctrina constitucional; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "secreto de las comunicaciones",
+      "section_refs": ["15.4"],
+      "prompt": "El secreto de las comunicaciones del artículo 18.3:",
+      "options": [
+        {"id": "a", "text": "Protege el proceso comunicativo frente a terceros y solo admite la excepción de resolución judicial"},
+        {"id": "b", "text": "Solo alcanza cartas, telegramas y llamadas, pero nunca comunicaciones tecnológicas actuales"},
+        {"id": "c", "text": "Puede levantarse mediante autorización administrativa ordinaria"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 18.3 garantiza el secreto y menciona especialmente comunicaciones postales, telegráficas y telefónicas, pero la enumeración es abierta y se proyecta sobre nuevas tecnologías. La excepción constitucional es la resolución judicial, no una simple autorización administrativa. El derecho protege el proceso comunicativo frente a terceros; el contenido ya almacenado puede activar también intimidad y protección de datos.",
+      "source_note": "Artículo 18.3 CE; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "informática y protección de datos",
+      "section_refs": ["15.4"],
+      "prompt": "El artículo 18.4 CE ordena limitar por ley el uso de la informática para:",
+      "options": [
+        {"id": "a", "text": "Impedir toda creación de archivos públicos o privados"},
+        {"id": "b", "text": "Garantizar únicamente el secreto empresarial"},
+        {"id": "c", "text": "Garantizar honor, intimidad personal y familiar y pleno ejercicio de los derechos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La finalidad literal del artículo 18.4 es garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos. A partir de este precepto se ha reconocido un derecho autónomo de protección de datos o control sobre la información personal. No prohíbe cualquier archivo ni tiene por objeto exclusivo los secretos de las empresas.",
+      "source_note": "Artículo 18.4 CE; Atestado, apartado 15.4."
+    },
+    {
+      "id": "t02-b04a-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "residencia y circulación",
+      "section_refs": ["15.5"],
+      "prompt": "Según la literalidad del artículo 19 CE:",
+      "options": [
+        {"id": "a", "text": "Los españoles pueden elegir residencia, circular y entrar y salir de España; estos derechos no se limitan por motivos políticos o ideológicos"},
+        {"id": "b", "text": "Toda persona puede entrar y salir de España sin sujeción a los términos establecidos por la ley"},
+        {"id": "c", "text": "Solo los ciudadanos de la Unión pueden circular por el territorio nacional"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 19 utiliza como sujeto a «los españoles»: reconoce elegir residencia, circular por el territorio y entrar y salir de España en los términos legales, sin que este último derecho pueda limitarse por motivos políticos o ideológicos. El régimen de los extranjeros se completa mediante el artículo 13, la legislación de extranjería y el Derecho de la Unión; no puede trasladarse sin matices a la literalidad del artículo 19.",
+      "source_note": "Artículo 19 CE; Atestado, apartado 15.5."
+    }
+  ]
+}

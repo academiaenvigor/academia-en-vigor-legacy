@@ -1,0 +1,453 @@
+{
+  "id": "t02-b04c-garantias-procesales-legalidad-sancionadora-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 4C · Garantías procesales y legalidad sancionadora",
+    "short_title": "Garantías procesales y legalidad",
+    "description": "Comprueba si sabes aplicar la tutela judicial efectiva y todas las garantías del artículo 24 sin confundirlas con el derecho a obtener una sentencia favorable. Trabaja presunción de inocencia, prueba, indefensión y ausencia de dilaciones, junto con la legalidad penal y administrativa del artículo 25, la prohibición de analogía perjudicial, la reinserción y los derechos de las personas presas. Finaliza con las sanciones administrativas privativas de libertad y el alcance exacto de la prohibición de los Tribunales de Honor.",
+    "theme_number": 2,
+    "block_number": "4C",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["17", "17.1", "17.2", "17.3", "17.4", "17.5", "17.6"],
+    "concepts": [
+      "tutela judicial efectiva",
+      "acceso, motivación, recursos y ejecución",
+      "garantías del artículo 24.2",
+      "presunción de inocencia",
+      "indefensión material",
+      "legalidad penal y administrativa sancionadora",
+      "norma previa, escrita y determinada",
+      "analogía perjudicial y retroactividad favorable",
+      "reeducación y reinserción",
+      "derechos del condenado a prisión",
+      "sanciones de la Administración civil",
+      "Tribunales de Honor"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b04c-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titularidad de la tutela judicial",
+      "section_refs": ["17.1"],
+      "prompt": "El artículo 24.1 CE reconoce el derecho a obtener tutela judicial efectiva:",
+      "options": [
+        {"id": "a", "text": "Solo a los ciudadanos españoles"},
+        {"id": "b", "text": "A todas las personas, respecto de sus derechos e intereses legítimos"},
+        {"id": "c", "text": "Únicamente a quienes sean parte en un procedimiento penal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La fórmula constitucional es «Todas las personas» y no queda limitada a españoles ni al proceso penal. La tutela opera en el ejercicio de derechos e intereses legítimos ante jueces y tribunales y exige que no se produzca indefensión. El acceso concreto se somete a requisitos procesales legítimos, pero estos no pueden convertirse en obstáculos arbitrarios o desproporcionados que vacíen el derecho.",
+      "source_note": "Artículo 24.1 CE; Atestado, apartado 17.1."
+    },
+    {
+      "id": "t02-b04c-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "contenido de la tutela judicial",
+      "section_refs": ["17.1"],
+      "prompt": "La tutela judicial efectiva comprende, con los requisitos legalmente previstos:",
+      "options": [
+        {"id": "a", "text": "Acceso a la jurisdicción, resolución motivada, recursos previstos y ejecución de resoluciones firmes"},
+        {"id": "b", "text": "El derecho incondicionado a utilizar cualquier recurso imaginable"},
+        {"id": "c", "text": "La garantía de que toda pretensión será estimada"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La tutela incluye acceso a la jurisdicción, obtención de una resolución motivada y fundada en Derecho, utilización de los recursos creados por la ley y ejecución de las resoluciones firmes. No crea todos los recursos posibles ni elimina sus requisitos de admisión. Tampoco garantiza ganar el litigio: protege una respuesta judicial respetuosa con el proceso y no un resultado necesariamente favorable.",
+      "source_note": "Artículo 24.1 CE y doctrina constitucional; Atestado, apartado 17.1."
+    },
+    {
+      "id": "t02-b04c-q003",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "resolución desfavorable",
+      "section_refs": ["17.1"],
+      "prompt": "Un tribunal desestima motivadamente una pretensión tras un proceso con garantías. Por el solo hecho de perder el litigio:",
+      "options": [
+        {"id": "a", "text": "Se vulnera siempre la tutela judicial efectiva"},
+        {"id": "b", "text": "La sentencia queda anulada automáticamente"},
+        {"id": "c", "text": "No existe vulneración, pues la tutela no asegura una decisión favorable"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 24 garantiza acceso y respuesta judicial fundada, no que el órgano comparta la tesis de la parte. Si la decisión está motivada, respeta el proceso y no incurre en arbitrariedad o error constitucionalmente relevante, el resultado desfavorable no vulnera por sí solo la tutela. Los errores de legalidad ordinaria se combaten, cuando proceda, mediante los recursos previstos, sin convertir el amparo en una nueva instancia general.",
+      "source_note": "Artículo 24.1 CE y doctrina constitucional; Atestado, apartado 17.1."
+    },
+    {
+      "id": "t02-b04c-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "ejecución de resoluciones",
+      "section_refs": ["17.1"],
+      "prompt": "La ejecución de una resolución judicial firme:",
+      "options": [
+        {"id": "a", "text": "Forma parte de la tutela judicial efectiva en los términos legalmente previstos"},
+        {"id": "b", "text": "Es una cuestión administrativa sin conexión con el artículo 24"},
+        {"id": "c", "text": "Puede omitirse libremente por la parte obligada"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Una tutela que terminara con una resolución incapaz de hacerse efectiva resultaría incompleta. Por ello, la ejecución de resoluciones firmes integra el derecho, sin perjuicio de los cauces, incidentes y límites establecidos por la ley. No queda a voluntad de quien debe cumplir ni se reduce a una actividad administrativa ajena al órgano judicial. La ejecución debe respetar lo decidido y las garantías procesales.",
+      "source_note": "Artículo 24.1 CE y doctrina constitucional; Atestado, apartado 17.1."
+    },
+    {
+      "id": "t02-b04c-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "garantías del artículo 24.2",
+      "section_refs": ["17.2"],
+      "prompt": "¿Cuál aparece expresamente entre las garantías del artículo 24.2 CE?",
+      "options": [
+        {"id": "a", "text": "El derecho a elegir libremente cualquier juez"},
+        {"id": "b", "text": "El derecho al juez ordinario predeterminado por la ley"},
+        {"id": "c", "text": "El derecho a que todos los procesos sean secretos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución reconoce el juez ordinario predeterminado por la ley, lo que protege frente a órganos creados o seleccionados para un caso concreto. La parte no elige libremente al juzgador y el proceso público es precisamente otra garantía del artículo 24.2, aunque pueda admitir excepciones legales justificadas. Predeterminación legal y elección personal son conceptos opuestos que suelen utilizarse como distractores.",
+      "source_note": "Artículo 24.2 CE; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "catálogo procesal",
+      "section_refs": ["17.2"],
+      "prompt": "El artículo 24.2 reconoce, entre otros, el derecho:",
+      "options": [
+        {"id": "a", "text": "A impedir toda práctica de prueba propuesta por la otra parte"},
+        {"id": "b", "text": "A que cualquier proceso termine en un plazo fijo de treinta días"},
+        {"id": "c", "text": "A defensa y letrado, información de la acusación, proceso público sin dilaciones indebidas y prueba pertinente"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El catálogo incluye defensa y asistencia letrada, conocimiento de la acusación, proceso público sin dilaciones indebidas y con todas las garantías y uso de medios de prueba pertinentes. No existe un plazo constitucional uniforme de treinta días ni derecho a bloquear la prueba contraria. La pertinencia permite excluir pruebas irrelevantes o innecesarias mediante una decisión judicial razonada.",
+      "source_note": "Artículo 24.2 CE; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "autoincriminación",
+      "section_refs": ["17.2"],
+      "prompt": "En relación con la autoincriminación, el artículo 24.2 reconoce:",
+      "options": [
+        {"id": "a", "text": "Únicamente el derecho a guardar silencio antes del juicio"},
+        {"id": "b", "text": "No declarar contra uno mismo y no confesarse culpable"},
+        {"id": "c", "text": "El derecho a impedir cualquier investigación sobre los hechos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución diferencia expresamente el derecho a no declarar contra sí mismo y el derecho a no confesarse culpable. No se reducen a una fase previa al juicio ni paralizan toda investigación: la acusación puede obtener pruebas lícitas independientes de la voluntad autoincriminatoria. Deben distinguirse además de la garantía del detenido del artículo 17.3, aunque exista relación entre ambas.",
+      "source_note": "Artículo 24.2 CE; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "deber de declarar y excepciones",
+      "section_refs": ["17.2"],
+      "prompt": "La Constitución remite a la ley los casos en que no existe obligación de declarar sobre hechos presuntamente delictivos por razón de:",
+      "options": [
+        {"id": "a", "text": "Parentesco o secreto profesional"},
+        {"id": "b", "text": "Amistad o vecindad"},
+        {"id": "c", "text": "Discrepancia política con la investigación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El último inciso del artículo 24.2 dispone que la ley regulará los supuestos en que, por parentesco o secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos. La Constitución no menciona amistad, vecindad ni discrepancia política. La remisión legal resulta esencial, porque determina quién puede acogerse, en qué procesos y bajo qué condiciones.",
+      "source_note": "Artículo 24.2 CE; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "presunción de inocencia",
+      "section_refs": ["17.2"],
+      "prompt": "Para destruir válidamente la presunción de inocencia se requiere:",
+      "options": [
+        {"id": "a", "text": "Una sospecha policial intensa, aunque no se convierta en prueba"},
+        {"id": "b", "text": "La falta de explicación del acusado como única base de la condena"},
+        {"id": "c", "text": "Actividad probatoria de cargo válida, practicada con garantías y racionalmente valorada"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Una condena necesita prueba de cargo válida, incorporada con garantías y valorada racionalmente por el órgano judicial. La sospecha puede justificar investigar y, con requisitos, adoptar medidas, pero no equivale a prueba suficiente para condenar. El silencio o la ausencia de explicación no pueden convertirse por sí solos en la prueba de cargo que corresponde aportar a la acusación.",
+      "source_note": "Artículo 24.2 CE y doctrina constitucional; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q010",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "medidas cautelares y presunción",
+      "section_refs": ["17.2"],
+      "prompt": "La presunción de inocencia:",
+      "options": [
+        {"id": "a", "text": "Impide adoptar cualquier medida cautelar antes de sentencia firme"},
+        {"id": "b", "text": "Es compatible con medidas cautelares legalmente previstas si concurren sus presupuestos"},
+        {"id": "c", "text": "Deja de existir desde que se presenta una denuncia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La condición de inocente no desaparece por denuncia o imputación, pero no hace imposible toda medida cautelar. Estas medidas no son penas anticipadas y pueden adoptarse cuando existe cobertura legal, finalidad cautelar, indicios y proporcionalidad, bajo el control correspondiente. Su legitimidad depende de sus presupuestos y motivación; utilizarlas como castigo previo sí lesionaría el sistema de garantías.",
+      "source_note": "Artículo 24.2 CE y doctrina constitucional; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q011",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "indefensión material",
+      "section_refs": ["17.1", "17.2"],
+      "prompt": "Para apreciar indefensión constitucional, normalmente debe existir:",
+      "options": [
+        {"id": "a", "text": "Un perjuicio real y efectivo en las posibilidades de defensa"},
+        {"id": "b", "text": "Cualquier defecto formal, aunque sea irrelevante y subsanado"},
+        {"id": "c", "text": "Una resolución desfavorable, aunque el proceso haya sido correcto"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "No toda irregularidad alcanza dimensión constitucional. La indefensión del artículo 24 exige que el defecto cause un menoscabo real y efectivo de las posibilidades de alegar, probar o contradecir. Un error meramente formal, sin consecuencia material o debidamente subsanado, no basta. Tampoco perder el proceso equivale a indefensión si la parte pudo defenderse con las garantías correspondientes.",
+      "source_note": "Artículo 24 CE y doctrina constitucional; Atestado, apartados 17.1 y 17.2."
+    },
+    {
+      "id": "t02-b04c-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "dilaciones indebidas",
+      "section_refs": ["17.2"],
+      "prompt": "El derecho a un proceso sin dilaciones indebidas significa que:",
+      "options": [
+        {"id": "a", "text": "Todo procedimiento debe terminar dentro del mismo plazo fijo"},
+        {"id": "b", "text": "Cualquier demora mínima constituye automáticamente vulneración"},
+        {"id": "c", "text": "Deben valorarse duración, complejidad, conducta de las partes y actuación de los órganos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución no fija un plazo idéntico para todos los procesos. Para determinar si una demora es indebida se atiende a complejidad del asunto, duración total, comportamiento de las partes, actuación judicial e intereses afectados. Una dilación puede ser excesiva aunque no se incumpla un plazo concreto, y una duración prolongada puede estar justificada por la dificultad real del caso.",
+      "source_note": "Artículo 24.2 CE y doctrina constitucional; Atestado, apartado 17.2."
+    },
+    {
+      "id": "t02-b04c-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "legalidad sancionadora",
+      "section_refs": ["17.3"],
+      "prompt": "El artículo 25.1 impide condenar o sancionar por una acción u omisión que, al producirse:",
+      "options": [
+        {"id": "a", "text": "No constituía delito, falta o infracción administrativa según la legislación vigente"},
+        {"id": "b", "text": "No había sido criticada públicamente"},
+        {"id": "c", "text": "No había causado un perjuicio económico"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El principio exige que la conducta fuese infracción conforme a la legislación vigente cuando ocurrió. Abarca tanto condenas penales como sanciones administrativas y se proyecta sobre acciones y omisiones. La desaprobación social o la existencia de daño económico no crean por sí mismas una infracción. Es necesaria una norma previa que describa suficientemente la conducta y su consecuencia sancionadora.",
+      "source_note": "Artículo 25.1 CE; Atestado, apartado 17.3."
+    },
+    {
+      "id": "t02-b04c-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "exigencias de legalidad",
+      "section_refs": ["17.3"],
+      "prompt": "Del principio de legalidad penal y sancionadora se derivan exigencias de:",
+      "options": [
+        {"id": "a", "text": "Norma posterior, consuetudinaria y deliberadamente ambigua"},
+        {"id": "b", "text": "Norma previa, escrita y suficientemente determinada"},
+        {"id": "c", "text": "Decisión individual de la autoridad sin cobertura normativa"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La legalidad sancionadora exige una norma anterior a los hechos, escrita y con precisión suficiente para conocer qué conducta está prohibida y qué consecuencia puede imponerse. La costumbre o una decisión individual no pueden crear infracciones o penas. La determinación no exige una descripción matemática de cada situación, pero sí previsibilidad y límites que impidan sancionar arbitrariamente.",
+      "source_note": "Artículo 25.1 CE y doctrina constitucional; Atestado, apartado 17.3."
+    },
+    {
+      "id": "t02-b04c-q015",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "analogía perjudicial",
+      "section_refs": ["17.3"],
+      "prompt": "Una autoridad sanciona una conducta no tipificada porque se parece a otra que sí lo está. Esta analogía perjudicial:",
+      "options": [
+        {"id": "a", "text": "Es válida siempre que la sanción sea pequeña"},
+        {"id": "b", "text": "Es obligatoria cuando existe una laguna normativa"},
+        {"id": "c", "text": "Es incompatible con la legalidad sancionadora"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "No cabe extender una infracción a conductas no comprendidas en el tipo mediante analogía que perjudique al acusado o sancionado. Si el legislador no ha tipificado el comportamiento, la autoridad no puede completar la laguna creando una prohibición para ese caso. La cuantía de la sanción no elimina la garantía. Debe distinguirse analogía prohibida de interpretación razonable dentro del sentido posible de la norma.",
+      "source_note": "Artículo 25.1 CE y doctrina constitucional; Atestado, apartado 17.3."
+    },
+    {
+      "id": "t02-b04c-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "retroactividad favorable",
+      "section_refs": ["17.3"],
+      "prompt": "Si una norma sancionadora posterior resulta más favorable para la persona sancionada:",
+      "options": [
+        {"id": "a", "text": "Puede aplicarse retroactivamente en los términos previstos por el ordenamiento"},
+        {"id": "b", "text": "Nunca puede afectar a hechos anteriores"},
+        {"id": "c", "text": "Solo se aplica si también agrava otra parte de la sanción"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La prohibición constitucional se dirige a la retroactividad sancionadora desfavorable, mientras el ordenamiento reconoce la retroactividad de la disposición sancionadora favorable. Debe analizarse cuál es realmente más beneficiosa y aplicarse de forma coherente, no construir artificialmente una norma combinando fragmentos de regímenes distintos. La finalidad es evitar mantener consecuencias más graves que el legislador ya no considera necesarias.",
+      "source_note": "Artículos 9.3 y 25.1 CE; Atestado, apartado 17.3."
+    },
+    {
+      "id": "t02-b04c-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "término falta",
+      "section_refs": ["17.3"],
+      "prompt": "La palabra «falta» del artículo 25.1 CE:",
+      "options": [
+        {"id": "a", "text": "Fue eliminada del texto constitucional al reformarse el Código Penal"},
+        {"id": "b", "text": "Se refiere exclusivamente a faltas disciplinarias militares"},
+        {"id": "c", "text": "Permanece en la Constitución aunque el Código Penal eliminó las antiguas faltas como categoría"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La literalidad constitucional continúa diciendo «delito, falta o infracción administrativa». La reforma del Código Penal que suprimió la categoría de faltas no modificó automáticamente la Constitución. En un examen de texto constitucional debe conservarse el término, aunque al explicar el Derecho penal vigente se aclare que las antiguas faltas dejaron de existir como categoría y parte de las conductas pasaron a delitos leves.",
+      "source_note": "Artículo 25.1 CE; Atestado, apartado 17.3."
+    },
+    {
+      "id": "t02-b04c-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "finalidad de penas y medidas",
+      "section_refs": ["17.4"],
+      "prompt": "Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia:",
+      "options": [
+        {"id": "a", "text": "La mera retribución, excluyendo cualquier finalidad social"},
+        {"id": "b", "text": "La reeducación y reinserción social"},
+        {"id": "c", "text": "La realización obligatoria de trabajos forzados"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 25.2 dispone que penas privativas de libertad y medidas de seguridad se orientan a reeducación y reinserción social y no pueden consistir en trabajos forzados. La orientación constitucional condiciona el sistema penitenciario, pero no elimina otras funciones legítimas de la pena ni garantiza automáticamente una modalidad concreta de cumplimiento o la concesión de libertad condicional.",
+      "source_note": "Artículo 25.2 CE; Atestado, apartado 17.4."
+    },
+    {
+      "id": "t02-b04c-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "derechos del condenado",
+      "section_refs": ["17.4"],
+      "prompt": "El condenado a prisión que cumple la pena conserva los derechos fundamentales del Capítulo II, salvo los limitados por:",
+      "options": [
+        {"id": "a", "text": "El fallo condenatorio, el sentido de la pena y la ley penitenciaria"},
+        {"id": "b", "text": "Cualquier instrucción verbal sin base legal"},
+        {"id": "c", "text": "La decisión discrecional de cualquier funcionario"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La prisión no borra la condición de titular de derechos. El artículo 25.2 permite únicamente las limitaciones expresas derivadas del contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria. Las restricciones deben tener fundamento y respetar proporcionalidad. Una instrucción sin cobertura o una decisión puramente discrecional no forman una cuarta fuente autónoma de limitación.",
+      "source_note": "Artículo 25.2 CE; Atestado, apartado 17.4."
+    },
+    {
+      "id": "t02-b04c-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "derechos específicos del interno",
+      "section_refs": ["17.4"],
+      "prompt": "El artículo 25.2 reconoce en todo caso a la persona condenada a prisión:",
+      "options": [
+        {"id": "a", "text": "El derecho a elegir el establecimiento penitenciario"},
+        {"id": "b", "text": "La libertad condicional desde el primer día"},
+        {"id": "c", "text": "Trabajo remunerado, beneficios de Seguridad Social, acceso a cultura y desarrollo integral"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución menciona trabajo remunerado y beneficios correspondientes de Seguridad Social, acceso a la cultura y desarrollo integral de la personalidad. No reconoce elección libre del centro ni concesión automática de libertad condicional. El modo concreto de ejercicio se articula por la legislación penitenciaria, pero la administración no puede desconocer estos contenidos ni convertir la pena en trabajos forzados.",
+      "source_note": "Artículo 25.2 CE; Atestado, apartado 17.4."
+    },
+    {
+      "id": "t02-b04c-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "reinserción y modalidad de cumplimiento",
+      "section_refs": ["17.4"],
+      "prompt": "La orientación de las penas hacia la reinserción social:",
+      "options": [
+        {"id": "a", "text": "Obliga a conceder siempre el tercer grado cuando lo solicita el interno"},
+        {"id": "b", "text": "No crea por sí sola un derecho automático a una modalidad concreta de cumplimiento"},
+        {"id": "c", "text": "Impide imponer penas privativas de libertad"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La reinserción es una orientación constitucional del sistema, pero las clasificaciones, permisos o libertad condicional dependen de los requisitos y valoraciones legalmente previstos. El artículo 25.2 no garantiza automáticamente el resultado solicitado por cada interno ni prohíbe la prisión. Sí exige que la ejecución no ignore la finalidad resocializadora y que las decisiones respeten legalidad, motivación y derechos.",
+      "source_note": "Artículo 25.2 CE y doctrina constitucional; Atestado, apartado 17.4."
+    },
+    {
+      "id": "t02-b04c-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Administración civil y privación de libertad",
+      "section_refs": ["17.5"],
+      "prompt": "Conforme al artículo 25.3 CE, la Administración civil:",
+      "options": [
+        {"id": "a", "text": "No puede imponer sanciones que directa o subsidiariamente impliquen privación de libertad"},
+        {"id": "b", "text": "Puede imponer prisión subsidiaria por impago de cualquier multa"},
+        {"id": "c", "text": "Puede acordar penas de prisión de hasta un mes"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La prohibición alcanza sanciones administrativas que impliquen privación de libertad tanto directamente como de forma subsidiaria. La Administración civil no puede convertir una multa impagada en prisión ni imponer penas cortas de encarcelamiento. Esto no debe confundirse con las privaciones de libertad acordadas por jueces conforme a leyes penales o con otras medidas administrativas no sancionadoras sometidas a su régimen propio.",
+      "source_note": "Artículo 25.3 CE; Atestado, apartado 17.5."
+    },
+    {
+      "id": "t02-b04c-q023",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "alcance del artículo 25.3",
+      "section_refs": ["17.5"],
+      "prompt": "La prohibición del artículo 25.3 se refiere literalmente a:",
+      "options": [
+        {"id": "a", "text": "Todos los órganos públicos sin distinción y cualquier medida no sancionadora"},
+        {"id": "b", "text": "La Administración civil y las sanciones que impliquen privación de libertad"},
+        {"id": "c", "text": "Solo los ayuntamientos y las sanciones tributarias"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El sujeto literal es la Administración civil y el objeto son sanciones que directa o subsidiariamente impliquen privación de libertad. No debe ampliarse la frase hasta hacerla coincidir con cualquier actuación de todo órgano público ni reducirse a municipios o tributos. Los jueces pueden imponer penas privativas conforme al Derecho penal, y las medidas administrativas no sancionadoras requieren un análisis diferente.",
+      "source_note": "Artículo 25.3 CE; Atestado, apartado 17.5."
+    },
+    {
+      "id": "t02-b04c-q024",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Tribunales de Honor",
+      "section_refs": ["17.6"],
+      "prompt": "El artículo 26 CE prohíbe los Tribunales de Honor en el ámbito de:",
+      "options": [
+        {"id": "a", "text": "Las asociaciones culturales y los partidos políticos exclusivamente"},
+        {"id": "b", "text": "Todas las instituciones públicas y privadas sin ninguna precisión"},
+        {"id": "c", "text": "La Administración civil y las organizaciones profesionales"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La literalidad constitucional identifica dos ámbitos: Administración civil y organizaciones profesionales. No utiliza la fórmula general «en toda institución». En una pregunta literal, ampliar o reducir esa enumeración vuelve incorrecta la respuesta, aunque otras normas puedan contener prohibiciones o regímenes adicionales. Debe memorizarse el binomio exacto y no confundirlo con la jurisdicción ordinaria.",
+      "source_note": "Artículo 26 CE; Atestado, apartado 17.6."
+    },
+    {
+      "id": "t02-b04c-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "distinción entre garantías",
+      "section_refs": ["17.2", "17.3", "17.6"],
+      "prompt": "¿Qué correspondencia es correcta?",
+      "options": [
+        {"id": "a", "text": "Presunción de inocencia: art. 24.2; legalidad sancionadora: art. 25.1; Tribunales de Honor: art. 26"},
+        {"id": "b", "text": "Presunción de inocencia: art. 25.1; legalidad sancionadora: art. 24.2; Tribunales de Honor: art. 23"},
+        {"id": "c", "text": "Presunción de inocencia: art. 26; legalidad sancionadora: art. 25.3; Tribunales de Honor: art. 24.1"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La presunción de inocencia cierra el catálogo del artículo 24.2; la garantía de que nadie sea condenado o sancionado por hechos no tipificados al producirse está en el 25.1; y la prohibición de Tribunales de Honor aparece en el 26. El artículo 25.3 contiene una regla distinta sobre sanciones de la Administración civil que impliquen privación de libertad.",
+      "source_note": "Artículos 24.2, 25.1, 25.3 y 26 CE; Atestado, apartado 17."
+    }
+  ]
+}

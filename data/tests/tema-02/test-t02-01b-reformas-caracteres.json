@@ -1,0 +1,452 @@
+{
+  "id": "t02-b01b-reformas-caracteres-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 1B · Reformas y caracteres de la Constitución",
+    "short_title": "Reformas y caracteres",
+    "description": "Comprueba si conoces las cuatro reformas de la Constitución vigentes en 2026, sus fechas, artículos y contenido, y si distingues correctamente los principales caracteres del texto constitucional. Combina cronología, supuestos y definiciones para evitar confundir rigidez con irreformabilidad, apertura con falta de eficacia o Monarquía parlamentaria con dirección política de la Corona.",
+    "theme_number": 2,
+    "block_number": "1B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["4", "4.1", "4.2", "4.3", "4.4", "5", "5.1", "5.2", "5.3", "5.4", "5.5", "5.6", "5.7", "5.8", "5.9"],
+    "concepts": [
+      "número y cronología de las reformas constitucionales",
+      "reforma del artículo 13.2 en 1992",
+      "reforma del artículo 135 en 2011",
+      "reforma del artículo 49 en 2024",
+      "reforma del artículo 69.3 en 2026",
+      "Constitución escrita, codificada y extensa",
+      "Constitución consensuada y rígida",
+      "Constitución normativa, suprema y derivada",
+      "Monarquía parlamentaria",
+      "Constitución democrática, social y descentralizada",
+      "carácter abierto y remisiones legislativas"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b01b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "número de reformas constitucionales",
+      "section_refs": ["4"],
+      "prompt": "A julio de 2026, la Constitución Española ha sido reformada:",
+      "options": [
+        {"id": "a", "text": "Cuatro veces"},
+        {"id": "b", "text": "Tres veces"},
+        {"id": "c", "text": "Cinco veces"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución ha sido reformada cuatro veces: en 1992 se modificó el artículo 13.2; en 2011, el artículo 135; en 2024, el artículo 49; y en 2026, el artículo 69.3. Responder tres quedó desactualizado tras la reforma publicada en mayo de 2026. No debe confundirse el número de reformas con el de artículos afectados, aunque en estos casos cada reforma se centró en un precepto.",
+      "source_note": "Reformas constitucionales de 1992, 2011, 2024 y 2026; Atestado, apartado 4."
+    },
+    {
+      "id": "t02-b01b-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "cronología de las reformas",
+      "section_refs": ["4"],
+      "prompt": "¿Cuál es el orden cronológico correcto de los artículos reformados?",
+      "options": [
+        {"id": "a", "text": "49, 13.2, 135 y 69.3"},
+        {"id": "b", "text": "13.2, 135, 49 y 69.3"},
+        {"id": "c", "text": "135, 13.2, 69.3 y 49"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La secuencia correcta es 13.2 en 1992, 135 en 2011, 49 en 2024 y 69.3 en 2026. Una mnemotecnia útil es asociar cada reforma a su materia: sufragio municipal de extranjeros, estabilidad presupuestaria, discapacidad y representación insular en el Senado. Las demás secuencias alteran el orden histórico y pueden inducir a confundir las dos reformas más recientes.",
+      "source_note": "Textos oficiales de las cuatro reformas; Atestado, apartado 4."
+    },
+    {
+      "id": "t02-b01b-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reforma de 1992",
+      "section_refs": ["4.1"],
+      "prompt": "La primera reforma de la Constitución, realizada en 1992, afectó al:",
+      "options": [
+        {"id": "a", "text": "Artículo 49"},
+        {"id": "b", "text": "Artículo 135"},
+        {"id": "c", "text": "Artículo 13.2"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La reforma de 1992 modificó el apartado 2 del artículo 13. El artículo 135 fue reformado en 2011 y el 49 en 2024. El cambio se relacionó con el proceso de integración europea y permitió que tratado o ley, bajo criterios de reciprocidad, reconocieran a extranjeros sufragio activo y pasivo en elecciones municipales.",
+      "source_note": "Reforma del artículo 13.2 CE, de 27 de agosto de 1992; Atestado, apartado 4.1."
+    },
+    {
+      "id": "t02-b01b-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "contenido de la reforma de 1992",
+      "section_refs": ["4.1"],
+      "prompt": "La reforma del artículo 13.2 CE permitió que, atendiendo a criterios de reciprocidad, tratado o ley reconocieran a extranjeros:",
+      "options": [
+        {"id": "a", "text": "Sufragio activo y pasivo en elecciones municipales"},
+        {"id": "b", "text": "Derecho a ser diputado o senador en igualdad absoluta con los españoles"},
+        {"id": "c", "text": "Nacionalidad española automática por residir en un municipio"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 13.2 permite establecer por tratado o ley, con reciprocidad, el derecho de sufragio activo y pasivo de extranjeros en elecciones municipales. La reforma añadió especialmente la dimensión pasiva, es decir, la posibilidad de ser elegible. No abre el acceso general al Congreso o al Senado ni concede nacionalidad: regula una excepción concreta respecto de los derechos políticos del artículo 23.",
+      "source_note": "Artículo 13.2 CE y reforma de 1992; Atestado, apartado 4.1."
+    },
+    {
+      "id": "t02-b01b-q005",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "origen de la reforma de 1992",
+      "section_refs": ["4.1"],
+      "prompt": "La reforma constitucional de 1992 estuvo directamente relacionada con:",
+      "options": [
+        {"id": "a", "text": "La creación de las comunidades autónomas"},
+        {"id": "b", "text": "La integración europea y las exigencias vinculadas al Tratado de la Unión Europea"},
+        {"id": "c", "text": "La regulación constitucional de la deuda pública"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La reforma respondió a la integración europea y a la necesidad de acomodar el artículo 13.2 a las previsiones del Tratado de la Unión Europea sobre ciudadanía y sufragio municipal. El Tribunal Constitucional había advertido la contradicción respecto del sufragio pasivo. La organización autonómica procede del texto de 1978 y la deuda pública fue el núcleo de la reforma del artículo 135 en 2011.",
+      "source_note": "Exposición de motivos de la reforma de 1992; Atestado, apartado 4.1."
+    },
+    {
+      "id": "t02-b01b-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reforma de 2011",
+      "section_refs": ["4.2"],
+      "prompt": "La reforma constitucional de 2011 modificó el artículo:",
+      "options": [
+        {"id": "a", "text": "13.2"},
+        {"id": "b", "text": "49"},
+        {"id": "c", "text": "135"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "En 2011 se reformó el artículo 135, situado en el Título VII sobre Economía y Hacienda. El artículo 13.2 corresponde a la reforma de 1992 y el 49 a la de 2024. La modificación de 2011 constitucionalizó una regulación más amplia de la estabilidad presupuestaria, déficit estructural, deuda pública y prioridad de determinados pagos.",
+      "source_note": "Reforma del artículo 135 CE, de 27 de septiembre de 2011; Atestado, apartado 4.2."
+    },
+    {
+      "id": "t02-b01b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "estabilidad presupuestaria",
+      "section_refs": ["4.2"],
+      "prompt": "El núcleo material de la reforma del artículo 135 CE fue:",
+      "options": [
+        {"id": "a", "text": "La estabilidad presupuestaria y los límites de déficit estructural y deuda pública"},
+        {"id": "b", "text": "La ampliación del derecho de sufragio municipal"},
+        {"id": "c", "text": "La elección de senadores por Ibiza y Formentera"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La reforma de 2011 introdujo el principio de estabilidad presupuestaria para las administraciones públicas y reglas sobre déficit estructural y volumen de deuda. El sufragio municipal corresponde al artículo 13.2 reformado en 1992 y la representación de Ibiza y Formentera al artículo 69.3 reformado en 2026. Asociar año, artículo y materia evita intercambiar las reformas.",
+      "source_note": "Artículo 135 CE y reforma de 2011; Atestado, apartado 4.2."
+    },
+    {
+      "id": "t02-b01b-q008",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "prioridad del pago de la deuda",
+      "section_refs": ["4.2"],
+      "prompt": "Conforme al artículo 135 CE reformado, los créditos para satisfacer intereses y capital de la deuda pública de las Administraciones:",
+      "options": [
+        {"id": "a", "text": "Pueden eliminarse libremente durante la ejecución presupuestaria"},
+        {"id": "b", "text": "Se entienden siempre incluidos en los presupuestos y su pago goza de prioridad absoluta en los términos constitucionales"},
+        {"id": "c", "text": "Solo tienen prioridad cuando lo decide cada ayuntamiento"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 135 establece que los créditos para intereses y capital de la deuda se entienden siempre incluidos en el estado de gastos de los presupuestos y que su pago goza de prioridad absoluta, con las condiciones constitucionales. No depende de una decisión municipal ni puede desconocerse libremente. Esta regla forma parte de la reforma de 2011 y no debe atribuirse al texto originario sin matices.",
+      "source_note": "Artículo 135.3 CE; Atestado, apartado 4.2."
+    },
+    {
+      "id": "t02-b01b-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reforma de 2024",
+      "section_refs": ["4.3"],
+      "prompt": "La reforma constitucional de 2024 afectó al artículo:",
+      "options": [
+        {"id": "a", "text": "69.3"},
+        {"id": "b", "text": "135"},
+        {"id": "c", "text": "49"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La reforma de 2024 dio nueva redacción al artículo 49, dedicado a las personas con discapacidad. El artículo 135 fue reformado en 2011 y el 69.3 en 2026. Además de actualizar la terminología, el nuevo artículo refuerza un enfoque basado en derechos, autonomía, inclusión, accesibilidad y participación de las organizaciones representativas.",
+      "source_note": "Reforma del artículo 49 CE, de 15 de febrero de 2024; Atestado, apartado 4.3."
+    },
+    {
+      "id": "t02-b01b-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "contenido de la reforma de 2024",
+      "section_refs": ["4.3"],
+      "prompt": "La nueva redacción del artículo 49 CE se caracteriza por:",
+      "options": [
+        {"id": "a", "text": "Centrarse en las personas con discapacidad, su autonomía, inclusión, accesibilidad y ejercicio de derechos"},
+        {"id": "b", "text": "Regular exclusivamente prestaciones económicas asistenciales"},
+        {"id": "c", "text": "Suprimir toda obligación de los poderes públicos en materia de discapacidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La reforma de 2024 adopta un enfoque centrado en las personas con discapacidad y ordena promover libertad e igualdad reales, autonomía personal, inclusión social, accesibilidad universal y participación de sus organizaciones. No se limita a prestaciones económicas ni elimina deberes públicos. La actualización terminológica fue importante, pero la reforma también transformó el contenido y perspectiva constitucionales.",
+      "source_note": "Artículo 49 CE y reforma de 2024; Atestado, apartado 4.3."
+    },
+    {
+      "id": "t02-b01b-q011",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "protección específica en el artículo 49",
+      "section_refs": ["4.3"],
+      "prompt": "El artículo 49 CE reformado presta una atención particular a las necesidades específicas de:",
+      "options": [
+        {"id": "a", "text": "Únicamente empleados públicos con discapacidad"},
+        {"id": "b", "text": "Mujeres y menores con discapacidad"},
+        {"id": "c", "text": "Solo personas mayores de sesenta y cinco años"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La redacción de 2024 ordena atender particularmente las necesidades específicas de las mujeres y los menores con discapacidad. No restringe el artículo a empleados públicos ni a personas mayores. Esta previsión incorpora una mirada específica sobre situaciones de especial vulnerabilidad dentro del marco general de derechos, autonomía, inclusión y accesibilidad de todas las personas con discapacidad.",
+      "source_note": "Artículo 49.2 CE; Atestado, apartado 4.3."
+    },
+    {
+      "id": "t02-b01b-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reforma de 2026",
+      "section_refs": ["4.4"],
+      "prompt": "La cuarta reforma constitucional, publicada en 2026, modificó:",
+      "options": [
+        {"id": "a", "text": "El artículo 13.2 sobre sufragio municipal"},
+        {"id": "b", "text": "El artículo 49 sobre discapacidad"},
+        {"id": "c", "text": "El artículo 69.3 sobre representación insular en el Senado"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La reforma de 19 de mayo de 2026 modificó el apartado 3 del artículo 69, relativo a los senadores elegidos en las circunscripciones insulares. Los artículos 13.2 y 49 ya habían sido reformados en 1992 y 2024. Esta cuarta reforma obliga a actualizar temarios y bancos de preguntas que todavía indiquen que la Constitución solo fue reformada tres veces.",
+      "source_note": "Reforma del artículo 69.3 CE, de 19 de mayo de 2026; Atestado, apartado 4.4."
+    },
+    {
+      "id": "t02-b01b-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "representación de Ibiza y Formentera",
+      "section_refs": ["4.4"],
+      "prompt": "La reforma del artículo 69.3 CE de 2026 establece que:",
+      "options": [
+        {"id": "a", "text": "Ibiza y Formentera forman circunscripciones propias y eligen cada una un senador"},
+        {"id": "b", "text": "Formentera pierde toda representación en el Senado"},
+        {"id": "c", "text": "Las Islas Baleares dejan de participar en la elección de senadores"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La reforma separó Ibiza y Formentera como circunscripciones insulares a efectos del Senado, atribuyendo a cada una la elección de un senador. No elimina representación ni afecta a la participación balear en conjunto. El cambio responde específicamente a que Formentera disponga de senador propio, en lugar de compartir circunscripción y representación con Ibiza.",
+      "source_note": "Artículo 69.3 CE y reforma de 2026; Atestado, apartado 4.4."
+    },
+    {
+      "id": "t02-b01b-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "eficacia electoral de la reforma de 2026",
+      "section_refs": ["4.4"],
+      "prompt": "Las nuevas circunscripciones de Ibiza y Formentera previstas por la reforma de 2026 serán efectivas:",
+      "options": [
+        {"id": "a", "text": "Retroactivamente desde las últimas elecciones celebradas antes de la reforma"},
+        {"id": "b", "text": "En las primeras elecciones al Senado que se celebren después de la entrada en vigor de la reforma"},
+        {"id": "c", "text": "Solo cuando lo autorice mediante referéndum cada municipio afectado"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La reforma prevé que la nueva configuración produzca efectos en las primeras elecciones al Senado celebradas después de su entrada en vigor. No altera retroactivamente elecciones ya celebradas ni exige referendos municipales adicionales. La distinción entre entrada en vigor de la reforma y aplicación efectiva en el siguiente proceso electoral es una trampa temporal importante.",
+      "source_note": "Disposición transitoria de la reforma del artículo 69.3 CE de 2026; Atestado, apartado 4.4."
+    },
+    {
+      "id": "t02-b01b-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "reformas y número de artículos",
+      "section_refs": ["3.1", "4"],
+      "prompt": "Tras las cuatro reformas constitucionales, el número total de artículos de la Constitución es:",
+      "options": [
+        {"id": "a", "text": "173, porque cada reforma añade un artículo"},
+        {"id": "b", "text": "165, porque los artículos reformados dejan de computar"},
+        {"id": "c", "text": "169, porque se ha modificado la redacción de preceptos existentes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución sigue teniendo 169 artículos. Las reformas de 1992, 2011, 2024 y 2026 modificaron apartados o redacciones de artículos ya existentes, pero no añadieron cuatro nuevos números al articulado ni eliminaron los reformados. Debe distinguirse el número de reformas, el número de preceptos afectados y la numeración total del texto constitucional.",
+      "source_note": "Texto consolidado de la Constitución Española; Atestado, apartados 3.1 y 4."
+    },
+    {
+      "id": "t02-b01b-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Constitución escrita y codificada",
+      "section_refs": ["5.1"],
+      "prompt": "Calificar la Constitución Española como escrita y codificada significa que:",
+      "options": [
+        {"id": "a", "text": "Su contenido fundamental está sistematizado en un texto constitucional solemne"},
+        {"id": "b", "text": "Solo puede interpretarse atendiendo a costumbres no escritas"},
+        {"id": "c", "text": "Está formada exclusivamente por sentencias del Tribunal Constitucional"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución es escrita y codificada porque sus reglas fundamentales se recogen sistemáticamente en un texto solemne y articulado. Ello la diferencia de modelos constitucionales construidos a partir de múltiples leyes, costumbres y precedentes. La jurisprudencia constitucional interpreta y garantiza el texto, pero no sustituye su carácter escrito ni constituye por sí sola toda la Constitución.",
+      "source_note": "Doctrina constitucional; Atestado, apartado 5.1."
+    },
+    {
+      "id": "t02-b01b-q017",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Constitución extensa",
+      "section_refs": ["5.2"],
+      "prompt": "La Constitución Española se considera extensa porque:",
+      "options": [
+        {"id": "a", "text": "Contiene únicamente una breve declaración de principios"},
+        {"id": "b", "text": "Sus 169 artículos regulan derechos, instituciones, economía y organización territorial, entre otras materias"},
+        {"id": "c", "text": "Incluye íntegramente todas las leyes orgánicas del Estado"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Se considera extensa por la amplitud de sus 169 artículos y de las materias reguladas: derechos, órganos del Estado, relaciones institucionales, economía, territorio, Tribunal Constitucional y reforma. No incorpora el texto completo de las leyes orgánicas, que desarrollan determinadas materias. Tampoco es una constitución meramente breve o limitada a unos principios generales.",
+      "source_note": "Estructura de la Constitución; Atestado, apartado 5.2."
+    },
+    {
+      "id": "t02-b01b-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Constitución consensuada",
+      "section_refs": ["5.3"],
+      "prompt": "El carácter consensuado de la Constitución se refiere a que:",
+      "options": [
+        {"id": "a", "text": "Fue impuesta íntegramente por una única fuerza política"},
+        {"id": "b", "text": "Todos sus artículos fueron aprobados sin debate ni discrepancia"},
+        {"id": "c", "text": "Resultó de acuerdos entre fuerzas con proyectos políticos diferentes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución fue consensuada porque fuerzas políticas diversas alcanzaron acuerdos para construir un texto común y estable. Consenso no significa ausencia total de conflicto, unanimidad en cada detalle o identidad ideológica. Muchas fórmulas abiertas del texto reflejan precisamente compromisos que permitieron desarrollos legislativos y autonómicos posteriores dentro del marco constitucional.",
+      "source_note": "Proceso constituyente; Atestado, apartado 5.3."
+    },
+    {
+      "id": "t02-b01b-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "rigidez constitucional",
+      "section_refs": ["5.4"],
+      "prompt": "Afirmar que la Constitución es rígida significa que:",
+      "options": [
+        {"id": "a", "text": "Su reforma exige procedimientos más complejos que la aprobación de una ley ordinaria"},
+        {"id": "b", "text": "No puede reformarse en ninguna circunstancia"},
+        {"id": "c", "text": "Solo puede modificarse mediante reglamentos del Gobierno"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Rigidez significa que la reforma constitucional está sometida a procedimientos y mayorías reforzados distintos de los de una ley ordinaria, principalmente los artículos 167 y 168. No equivale a una Constitución pétrea o irreformable: las cuatro reformas realizadas lo demuestran. Un reglamento gubernamental nunca puede modificar la Constitución por su posición inferior en la jerarquía normativa.",
+      "source_note": "Artículos 167 y 168 CE; Atestado, apartado 5.4."
+    },
+    {
+      "id": "t02-b01b-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "carácter normativo y supremo",
+      "section_refs": ["5.5"],
+      "prompt": "El carácter normativo y supremo de la Constitución implica que:",
+      "options": [
+        {"id": "a", "text": "Sus preceptos son recomendaciones políticas sin consecuencias jurídicas"},
+        {"id": "b", "text": "Obliga jurídicamente y condiciona la validez de las normas inferiores"},
+        {"id": "c", "text": "Puede ser desplazada por cualquier ley posterior especial"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución es una norma jurídica vinculante y ocupa la posición superior del ordenamiento. Las leyes y reglamentos deben respetarla y pueden ser controlados cuando la contradicen. No es una recomendación ni queda desplazada por los criterios de cronología o especialidad aplicables entre normas del mismo rango. Su supremacía exige interpretar el ordenamiento conforme a ella.",
+      "source_note": "Artículo 9.1 CE; Atestado, apartado 5.5."
+    },
+    {
+      "id": "t02-b01b-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Constitución derivada",
+      "section_refs": ["5.6"],
+      "prompt": "El carácter derivado de la Constitución Española alude a que:",
+      "options": [
+        {"id": "a", "text": "Carece de originalidad y copia literalmente una única constitución extranjera"},
+        {"id": "b", "text": "Deriva jurídicamente de una ley ordinaria anterior"},
+        {"id": "c", "text": "Recibe influencias de otros modelos constitucionales y de la tradición española"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Calificarla como derivada significa que recibe influencias del constitucionalismo comparado —especialmente europeo tras la Segunda Guerra Mundial— y de la tradición constitucional española. No implica una copia literal de un único texto ni subordinación jurídica a una ley ordinaria. La Constitución transforma esas influencias en una regulación propia aprobada mediante el proceso constituyente español.",
+      "source_note": "Doctrina constitucional; Atestado, apartado 5.6."
+    },
+    {
+      "id": "t02-b01b-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Monarquía parlamentaria",
+      "section_refs": ["5.7"],
+      "prompt": "El carácter monárquico y parlamentario de la Constitución significa que:",
+      "options": [
+        {"id": "a", "text": "El Rey es Jefe del Estado, mientras la dirección política corresponde al Gobierno responsable ante las Cortes"},
+        {"id": "b", "text": "El Rey dirige personalmente la política interior y exterior"},
+        {"id": "c", "text": "El Gobierno no responde políticamente ante el Congreso"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "En la Monarquía parlamentaria, el Rey ostenta la Jefatura del Estado y ejerce funciones constitucionales, mientras el Gobierno dirige la política interior y exterior y responde ante el Congreso. No es una monarquía de gobierno personal. El componente parlamentario se refleja precisamente en la responsabilidad política gubernamental y en la necesidad de refrendo de los actos del Rey.",
+      "source_note": "Artículos 1.3, 56, 64, 97 y 108 CE; Atestado, apartado 5.7."
+    },
+    {
+      "id": "t02-b01b-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "carácter democrático, social y descentralizado",
+      "section_refs": ["5.8"],
+      "prompt": "La Constitución es democrática, social y descentralizada porque, respectivamente:",
+      "options": [
+        {"id": "a", "text": "El Rey concentra la soberanía, el mercado excluye toda intervención y las regiones carecen de autonomía"},
+        {"id": "b", "text": "La soberanía reside en el pueblo, se promueve la igualdad real y se reconoce autonomía a nacionalidades y regiones"},
+        {"id": "c", "text": "La soberanía corresponde a las Cortes, todos los derechos son prestaciones y cada comunidad es soberana"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El elemento democrático parte de la soberanía nacional residente en el pueblo; el social exige promover libertad e igualdad reales y orientar la acción pública; y el descentralizado combina la unidad de la Nación con la autonomía de nacionalidades y regiones. La autonomía no equivale a soberanía y el Estado social tampoco convierte todos los derechos en prestaciones económicas.",
+      "source_note": "Artículos 1.1, 1.2, 2 y 9.2 CE; Atestado, apartado 5.8."
+    },
+    {
+      "id": "t02-b01b-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Constitución abierta",
+      "section_refs": ["5.9"],
+      "prompt": "Definir la Constitución como abierta o inacabada en determinados aspectos significa que:",
+      "options": [
+        {"id": "a", "text": "Carece de fuerza jurídica hasta que se aprueben todas las leyes posibles"},
+        {"id": "b", "text": "Puede ser modificada libremente por cualquier mayoría parlamentaria"},
+        {"id": "c", "text": "Remite materias a leyes y estatutos que deben desarrollarla dentro de sus límites"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución configura un marco que remite numerosas materias a leyes orgánicas, leyes ordinarias y estatutos de autonomía. Esa apertura permite desarrollos políticos y territoriales diferentes, pero siempre dentro de los límites constitucionales. No significa falta de eficacia ni autorización para que una mayoría ordinaria modifique indirectamente la Constitución o vacíe su contenido.",
+      "source_note": "Remisiones constitucionales al legislador; Atestado, apartado 5.9."
+    },
+    {
+      "id": "t02-b01b-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "integración de caracteres constitucionales",
+      "section_refs": ["5.3", "5.4", "5.5", "5.9"],
+      "prompt": "Señale la afirmación que integra correctamente varios caracteres de la Constitución:",
+      "options": [
+        {"id": "a", "text": "Es consensuada sin exigir unanimidad, rígida sin ser irreformable y abierta sin dejar de ser normativa y suprema"},
+        {"id": "b", "text": "Es rígida porque nunca puede cambiar y abierta porque las leyes pueden contradecirla"},
+        {"id": "c", "text": "Es normativa únicamente cuando una ley reproduce literalmente sus preceptos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Los caracteres deben entenderse de forma compatible: el consenso fue acuerdo entre posiciones diversas, no unanimidad absoluta; la rigidez exige procedimientos reforzados, pero permite reformar; y la apertura admite desarrollo legislativo sin perder fuerza normativa ni supremacía. Las otras formulaciones convierten la rigidez en petrificación o la apertura en subordinación a la ley, justamente las trampas que deben evitarse.",
+      "source_note": "Doctrina constitucional y artículos 9.1, 167 y 168 CE; Atestado, apartado 5."
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "id": "t02-b03-titulo-i-titulares-igualdad-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 3 · Título I, titulares e igualdad",
+    "short_title": "Título I, titulares e igualdad",
+    "description": "Recorre el mapa completo del Título I y comprueba si sabes situar cada capítulo, sección y grupo de artículos, relacionando su ubicación con el nivel de protección. Trabaja además la dignidad y la regla interpretativa del artículo 10, nacionalidad y mayoría de edad, el régimen constitucional de los extranjeros, participación municipal, extradición, asilo e igualdad. Incluye trampas de literalidad sobre quién es titular de cada derecho y sobre las garantías especiales del artículo 14.",
+    "theme_number": 2,
+    "block_number": "3",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["12", "13", "13.1", "13.2", "14", "14.1", "14.2", "14.3", "14.4", "14.5"],
+    "concepts": [
+      "estructura del Título I",
+      "ubicación y garantías de los derechos",
+      "dignidad y fundamento del orden político",
+      "interpretación conforme a tratados de derechos humanos",
+      "nacionalidad constitucional",
+      "mayoría de edad",
+      "libertades públicas de los extranjeros",
+      "participación política y elecciones municipales",
+      "extradición y delitos políticos",
+      "asilo",
+      "igualdad y prohibición de discriminación",
+      "titularidad según la fórmula constitucional"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b03-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "denominación y extensión del Título I",
+      "section_refs": ["12"],
+      "prompt": "El Título I de la Constitución se denomina y comprende, respectivamente:",
+      "options": [
+        {"id": "a", "text": "De los derechos fundamentales; artículos 14 a 55"},
+        {"id": "b", "text": "De los derechos y deberes fundamentales; artículos 10 a 55"},
+        {"id": "c", "text": "De los españoles y los extranjeros; artículos 11 a 55"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La denominación exacta es «De los derechos y deberes fundamentales» y su extensión abarca los artículos 10 a 55. «De los españoles y los extranjeros» es únicamente el nombre del Capítulo I, que comprende los artículos 11 a 13. La expresión «derechos fundamentales» tampoco reproduce el título completo y comenzar en el artículo 14 dejaría fuera el artículo 10 y el Capítulo I.",
+      "source_note": "Título I CE; Atestado, apartado 12."
+    },
+    {
+      "id": "t02-b03-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "artículo 10",
+      "section_refs": ["12", "13"],
+      "prompt": "Dentro de la estructura del Título I, el artículo 10:",
+      "options": [
+        {"id": "a", "text": "Precede a los capítulos y contiene la dignidad y la regla interpretativa sobre derechos"},
+        {"id": "b", "text": "Forma parte de la Sección 1.ª del Capítulo II"},
+        {"id": "c", "text": "Integra el Capítulo I junto con los artículos 11 a 13"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 10 abre el Título I antes de su división en capítulos. Su apartado primero fija fundamentos axiológicos del sistema de derechos y el segundo establece un criterio de interpretación conforme a instrumentos internacionales. El Capítulo I comienza en el artículo 11 y la Sección 1.ª del Capítulo II comienza en el artículo 15, por lo que incluir el artículo 10 en cualquiera de ellos es un error de estructura.",
+      "source_note": "Artículo 10 y estructura del Título I CE; Atestado, apartados 12 y 13."
+    },
+    {
+      "id": "t02-b03-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Capítulo I",
+      "section_refs": ["12", "14"],
+      "prompt": "El Capítulo I del Título I, «De los españoles y los extranjeros», comprende:",
+      "options": [
+        {"id": "a", "text": "Los artículos 10 a 14"},
+        {"id": "b", "text": "Los artículos 14 a 29"},
+        {"id": "c", "text": "Los artículos 11 a 13"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Capítulo I comprende exactamente los artículos 11, 12 y 13, dedicados a nacionalidad, mayoría de edad y extranjeros. El artículo 10 está antes de la división en capítulos y el artículo 14 ya abre el Capítulo II, aunque queda fuera de sus dos secciones. Esta frontera es importante porque la ubicación de cada precepto influye en su régimen de garantías.",
+      "source_note": "Capítulo I del Título I CE; Atestado, apartados 12 y 14."
+    },
+    {
+      "id": "t02-b03-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Capítulo II",
+      "section_refs": ["12"],
+      "prompt": "El Capítulo II del Título I, relativo a derechos y libertades, se extiende:",
+      "options": [
+        {"id": "a", "text": "Del artículo 15 al 38, sin incluir el artículo 14"},
+        {"id": "b", "text": "Del artículo 14 al 38, con el artículo 14 antes de sus dos secciones"},
+        {"id": "c", "text": "Del artículo 14 al 52, incluyendo los principios rectores"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Capítulo II comprende los artículos 14 a 38. El artículo 14 está dentro del capítulo, pero antes y fuera de las dos secciones. La Sección 1.ª abarca los artículos 15 a 29 y la Sección 2.ª los artículos 30 a 38. Los artículos 39 a 52 forman el Capítulo III, dedicado a los principios rectores de la política social y económica.",
+      "source_note": "Capítulo II del Título I CE; Atestado, apartado 12."
+    },
+    {
+      "id": "t02-b03-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "secciones del Capítulo II",
+      "section_refs": ["12"],
+      "prompt": "¿Qué distribución de las secciones del Capítulo II es correcta?",
+      "options": [
+        {"id": "a", "text": "Sección 1.ª, artículos 14 a 29; Sección 2.ª, artículos 30 a 38"},
+        {"id": "b", "text": "Sección 1.ª, artículos 15 a 28; Sección 2.ª, artículos 29 a 38"},
+        {"id": "c", "text": "Sección 1.ª, artículos 15 a 29; Sección 2.ª, artículos 30 a 38"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Sección 1.ª, «De los derechos fundamentales y de las libertades públicas», comprende los artículos 15 a 29. La Sección 2.ª, «De los derechos y deberes de los ciudadanos», comprende los artículos 30 a 38. El artículo 14 no pertenece a la Sección 1.ª, aunque tenga protección reforzada, y el artículo 29 sí queda incluido en ella.",
+      "source_note": "Secciones 1.ª y 2.ª del Capítulo II CE; Atestado, apartado 12."
+    },
+    {
+      "id": "t02-b03-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "capítulos III a V",
+      "section_refs": ["12"],
+      "prompt": "Señale la correspondencia correcta dentro del Título I:",
+      "options": [
+        {"id": "a", "text": "Capítulo III: artículos 39-52; Capítulo IV: 53-54; Capítulo V: 55"},
+        {"id": "b", "text": "Capítulo III: artículos 38-51; Capítulo IV: 52-54; Capítulo V: 55-56"},
+        {"id": "c", "text": "Capítulo III: artículos 39-50; Capítulo IV: 51-53; Capítulo V: 54-55"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Capítulo III reúne los principios rectores de los artículos 39 a 52; el Capítulo IV contiene las garantías y el Defensor del Pueblo en los artículos 53 y 54; y el Capítulo V regula la suspensión en el artículo 55. El artículo 56 ya pertenece al Título II, dedicado a la Corona. Memorizar los límites evita desplazar preceptos entre bloques con garantías distintas.",
+      "source_note": "Capítulos III, IV y V del Título I CE; Atestado, apartado 12."
+    },
+    {
+      "id": "t02-b03-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "ubicación y garantías",
+      "section_refs": ["12", "14.4"],
+      "prompt": "La ubicación de un derecho dentro del Título I:",
+      "options": [
+        {"id": "a", "text": "Es irrelevante porque todos los derechos reciben exactamente las mismas garantías"},
+        {"id": "b", "text": "Ayuda a determinar su régimen de garantías, reserva normativa y vías de protección"},
+        {"id": "c", "text": "Solo sirve para ordenar el texto y nunca produce consecuencias jurídicas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución establece niveles de protección distintos según la ubicación. No reciben el mismo tratamiento la tutela judicial del artículo 24, la propiedad del artículo 33 y la vivienda del artículo 47. Deben examinarse, entre otras cuestiones, el artículo 53, la reserva de ley orgánica del artículo 81 y las vías de amparo. La palabra «derecho» no basta para atribuir automáticamente idénticas garantías.",
+      "source_note": "Artículos 53 y 81 CE; Atestado, apartados 12 y 14.4."
+    },
+    {
+      "id": "t02-b03-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "fundamentos del artículo 10.1",
+      "section_refs": ["13.1"],
+      "prompt": "Según el artículo 10.1 CE, son fundamento del orden político y de la paz social:",
+      "options": [
+        {"id": "a", "text": "La dignidad, los derechos inviolables inherentes, el libre desarrollo, el respeto a la ley y a los derechos de los demás"},
+        {"id": "b", "text": "La legalidad, jerarquía, publicidad, seguridad jurídica y responsabilidad"},
+        {"id": "c", "text": "La unidad, autonomía, solidaridad y soberanía territorial"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 10.1 reúne la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás. El segundo grupo mezcla garantías del artículo 9.3 y el tercero conceptos del artículo 2 junto con una soberanía territorial que la Constitución no proclama. La pregunta exige localizar listas próximas.",
+      "source_note": "Artículo 10.1 CE; Atestado, apartado 13.1."
+    },
+    {
+      "id": "t02-b03-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "función de la dignidad",
+      "section_refs": ["13.1"],
+      "prompt": "La dignidad de la persona en el artículo 10.1:",
+      "options": [
+        {"id": "a", "text": "Es uno de los cuatro valores enumerados literalmente en el artículo 1.1"},
+        {"id": "b", "text": "Solo protege a quienes poseen nacionalidad española"},
+        {"id": "c", "text": "Actúa como fundamento axiológico del sistema de derechos y no aparece en la lista literal del artículo 1.1"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La dignidad cumple una función estructural como fundamento del orden político y la paz social y como punto de partida para interpretar los derechos. No forma parte de la lista literal del artículo 1.1, integrada por libertad, justicia, igualdad y pluralismo político. Tampoco se limita a nacionales españoles: está vinculada a la persona y condiciona incluso el régimen de derechos de los extranjeros.",
+      "source_note": "Artículos 1.1 y 10.1 CE; Atestado, apartado 13.1."
+    },
+    {
+      "id": "t02-b03-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "interpretación del artículo 10.2",
+      "section_refs": ["13.2"],
+      "prompt": "Las normas relativas a los derechos fundamentales y libertades se interpretarán conforme a:",
+      "options": [
+        {"id": "a", "text": "Cualquier resolución extranjera, aunque no guarde relación con España"},
+        {"id": "b", "text": "Solo la Declaración Universal, excluyendo los tratados ratificados"},
+        {"id": "c", "text": "La Declaración Universal y los tratados y acuerdos sobre esas materias ratificados por España"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 10.2 menciona la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España. La referencia no se extiende indiscriminadamente a cualquier documento extranjero, ni se agota en la Declaración Universal. Deben concurrir materia relacionada con derechos y libertades y, respecto de los tratados y acuerdos, ratificación por España.",
+      "source_note": "Artículo 10.2 CE; Atestado, apartado 13.2."
+    },
+    {
+      "id": "t02-b03-q011",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "alcance del artículo 10.2",
+      "section_refs": ["13.2"],
+      "prompt": "La regla del artículo 10.2 CE implica que un tratado de derechos humanos ratificado por España:",
+      "options": [
+        {"id": "a", "text": "Reforma automáticamente el texto constitucional"},
+        {"id": "b", "text": "Es criterio interpretativo de las normas constitucionales sobre derechos, sin crear por sí solo nuevos derechos constitucionales amparables"},
+        {"id": "c", "text": "Solo puede ser utilizado por órganos internacionales, nunca por jueces españoles"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 10.2 obliga a interpretar las normas sobre derechos fundamentales y libertades conforme a los instrumentos mencionados, pero no convierte automáticamente cada contenido del tratado en un nuevo derecho constitucional autónomo ni modifica formalmente la Constitución. Los jueces españoles deben utilizar este criterio. Debe diferenciarse la función interpretativa del tratado de su incorporación y efectos en el ordenamiento interno.",
+      "source_note": "Artículo 10.2 CE; Atestado, apartado 13.2."
+    },
+    {
+      "id": "t02-b03-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "nacionalidad",
+      "section_refs": ["14.1"],
+      "prompt": "Conforme al artículo 11.1 CE, la nacionalidad española se adquiere, conserva y pierde:",
+      "options": [
+        {"id": "a", "text": "De acuerdo con lo establecido por la ley"},
+        {"id": "b", "text": "Exclusivamente conforme a los estatutos de autonomía"},
+        {"id": "c", "text": "Por decisión discrecional del Gobierno sin regulación legal"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 11.1 remite expresamente a la ley la adquisición, conservación y pérdida de la nacionalidad española. La materia no corresponde a los estatutos de autonomía ni queda entregada a una discrecionalidad gubernamental sin reglas. La Constitución establece además garantías y posibilidades específicas en los apartados segundo y tercero, que deben completarse con la legislación civil.",
+      "source_note": "Artículo 11.1 CE; Atestado, apartado 14.1."
+    },
+    {
+      "id": "t02-b03-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "privación de nacionalidad",
+      "section_refs": ["14.1"],
+      "prompt": "La garantía constitucional según la cual nadie puede ser privado de su nacionalidad española se refiere expresamente:",
+      "options": [
+        {"id": "a", "text": "A cualquier persona que haya residido legalmente en España"},
+        {"id": "b", "text": "A todo español, cualquiera que sea la forma de adquisición"},
+        {"id": "c", "text": "A los españoles de origen"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 11.2 dispone literalmente que ningún español de origen podrá ser privado de su nacionalidad. La precisión «de origen» es decisiva y no puede suprimirse en una pregunta literal. Ello no significa que cualquier pérdida para un español de origen sea conceptualmente imposible: debe distinguirse la privación impuesta de otras situaciones reguladas por la ley, cuestión desarrollada en el tema civil de nacionalidad.",
+      "source_note": "Artículo 11.2 CE; Atestado, apartado 14.1."
+    },
+    {
+      "id": "t02-b03-q014",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "doble nacionalidad",
+      "section_refs": ["14.1"],
+      "prompt": "Respecto de los tratados de doble nacionalidad, el artículo 11.3 permite celebrarlos:",
+      "options": [
+        {"id": "a", "text": "Únicamente con Estados miembros de la Unión Europea y siempre con reciprocidad"},
+        {"id": "b", "text": "Con países iberoamericanos o con los que tengan o hayan tenido particular vinculación con España"},
+        {"id": "c", "text": "Con cualquier país, pero solo mediante reforma constitucional"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución permite concertar tratados de doble nacionalidad con países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. Añade que en esos países los españoles pueden naturalizarse sin perder la nacionalidad de origen incluso cuando no reconozcan reciprocidad. No limita la posibilidad a la Unión Europea ni exige una reforma constitucional para cada tratado.",
+      "source_note": "Artículo 11.3 CE; Atestado, apartado 14.1."
+    },
+    {
+      "id": "t02-b03-q015",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "mayoría de edad",
+      "section_refs": ["14.2"],
+      "prompt": "Según el artículo 12 CE, los españoles son mayores de edad:",
+      "options": [
+        {"id": "a", "text": "A los dieciocho años"},
+        {"id": "b", "text": "A los veintiún años"},
+        {"id": "c", "text": "A los dieciséis años si trabajan o viven independientemente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 12 fija de manera directa la mayoría de edad de los españoles en los dieciocho años. La emancipación o determinadas capacidades especiales antes de esa edad no cambian la mayoría constitucional, y alcanzarla tampoco elimina requisitos de edad específicos para actividades o cargos concretos. La pregunta exige no confundir mayoría de edad, emancipación y habilitaciones sectoriales.",
+      "source_note": "Artículo 12 CE; Atestado, apartado 14.2."
+    },
+    {
+      "id": "t02-b03-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "libertades públicas de extranjeros",
+      "section_refs": ["14.3"],
+      "prompt": "Conforme al artículo 13.1 CE, los extranjeros gozarán en España de las libertades públicas del Título I:",
+      "options": [
+        {"id": "a", "text": "Exactamente en los mismos términos que los españoles y sin posible regulación legal"},
+        {"id": "b", "text": "En los términos que establezcan los tratados y la ley"},
+        {"id": "c", "text": "Solo cuando exista reciprocidad con su Estado de origen"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 13.1 reconoce a los extranjeros las libertades públicas garantizadas por el Título I en los términos establecidos por tratados y ley. Esto no autoriza al legislador a vaciar los derechos ligados a la dignidad humana, pero tampoco significa identidad absoluta de régimen en todos los derechos. La reciprocidad aparece expresamente en cuestiones concretas, no como condición general de toda libertad pública.",
+      "source_note": "Artículos 10.1 y 13.1 CE; Atestado, apartado 14.3."
+    },
+    {
+      "id": "t02-b03-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "participación política de extranjeros",
+      "section_refs": ["14.3"],
+      "prompt": "La excepción constitucional a la titularidad española de los derechos del artículo 23 puede alcanzar, atendiendo a reciprocidad:",
+      "options": [
+        {"id": "a", "text": "Todas las elecciones generales, autonómicas y municipales"},
+        {"id": "b", "text": "Solo el sufragio activo en elecciones municipales"},
+        {"id": "c", "text": "El sufragio activo y pasivo en elecciones municipales, si así se establece por tratado o ley"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 13.2 reserva en principio a los españoles los derechos del artículo 23, pero admite que tratado o ley reconozcan, con criterios de reciprocidad, sufragio activo y pasivo en elecciones municipales. No extiende la excepción a elecciones generales o autonómicas y no se limita al voto activo. Precisamente la inclusión del sufragio pasivo motivó la reforma constitucional de 1992.",
+      "source_note": "Artículo 13.2 CE; Atestado, apartado 14.3."
+    },
+    {
+      "id": "t02-b03-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "extradición",
+      "section_refs": ["14.3"],
+      "prompt": "La extradición, según el artículo 13.3 CE:",
+      "options": [
+        {"id": "a", "text": "Solo se concede en cumplimiento de tratado o ley, atendiendo a la reciprocidad"},
+        {"id": "b", "text": "Puede concederse sin base legal cuando la solicita un Estado democrático"},
+        {"id": "c", "text": "Exige necesariamente un tratado bilateral y nunca puede fundarse en la ley"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución dispone que la extradición solo se concederá en cumplimiento de un tratado o de la ley y atendiendo al principio de reciprocidad. Por tanto, no es imprescindible que siempre exista un tratado bilateral, pues puede existir cobertura legal, pero tampoco basta una solicitud extranjera basada en conveniencia política. Deben concurrir fundamento jurídico y las condiciones constitucionales y legales aplicables.",
+      "source_note": "Artículo 13.3 CE; Atestado, apartado 14.3."
+    },
+    {
+      "id": "t02-b03-q019",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "delitos políticos y terrorismo",
+      "section_refs": ["14.3"],
+      "prompt": "A efectos de extradición, la Constitución establece que:",
+      "options": [
+        {"id": "a", "text": "Los delitos políticos quedan excluidos, pero los actos de terrorismo no se consideran delitos políticos"},
+        {"id": "b", "text": "Todo acto de terrorismo se considera delito político y queda excluido"},
+        {"id": "c", "text": "Los delitos políticos solo pueden extraditarse si no existe reciprocidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 13.3 excluye de la extradición los delitos políticos y precisa inmediatamente que los actos de terrorismo no se consideran como tales. Esa precisión impide utilizar la excepción política para excluir automáticamente el terrorismo. La reciprocidad es un principio general de la extradición en el mismo precepto, pero no transforma los delitos políticos en extraditables ni altera la calificación expresa del terrorismo.",
+      "source_note": "Artículo 13.3 CE; Atestado, apartado 14.3."
+    },
+    {
+      "id": "t02-b03-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "asilo",
+      "section_refs": ["14.3"],
+      "prompt": "El artículo 13.4 CE remite a la ley la determinación de los términos en que pueden gozar del derecho de asilo:",
+      "options": [
+        {"id": "a", "text": "Solo los nacionales de Estados miembros de la Unión Europea"},
+        {"id": "b", "text": "Únicamente quienes hayan sido reconocidos previamente como refugiados por la ONU"},
+        {"id": "c", "text": "Los ciudadanos de otros países y los apátridas"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución se refiere a los ciudadanos de otros países y a los apátridas y encomienda a la ley establecer los términos en que podrán gozar del derecho de asilo en España. No restringe literalmente esta previsión a nacionales de la Unión ni exige en el propio artículo un reconocimiento previo por una organización internacional. Los requisitos concretos pertenecen a la legislación de desarrollo.",
+      "source_note": "Artículo 13.4 CE; Atestado, apartado 14.3."
+    },
+    {
+      "id": "t02-b03-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "literalidad del artículo 14",
+      "section_refs": ["14.4"],
+      "prompt": "El artículo 14 CE comienza afirmando que:",
+      "options": [
+        {"id": "a", "text": "Todas las personas residentes son iguales ante cualquier autoridad"},
+        {"id": "b", "text": "Los españoles son iguales ante la ley"},
+        {"id": "c", "text": "Los ciudadanos europeos son iguales ante los tribunales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La fórmula literal del artículo 14 es «Los españoles son iguales ante la ley». Esto no permite concluir que los extranjeros carezcan de toda protección frente a discriminaciones, pues intervienen dignidad, otros derechos y legislación aplicable, pero en una pregunta de literalidad no puede sustituirse el sujeto constitucional. Identificar palabras como «españoles», «todos» o «toda persona» cambia la respuesta.",
+      "source_note": "Artículo 14 CE; Atestado, apartados 14.4 y 14.5."
+    },
+    {
+      "id": "t02-b03-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "causas de discriminación",
+      "section_refs": ["14.4"],
+      "prompt": "La enumeración de causas de discriminación del artículo 14:",
+      "options": [
+        {"id": "a", "text": "Es cerrada y solo comprende nacimiento, raza, sexo, religión y opinión"},
+        {"id": "b", "text": "Puede ampliarse libremente por reglamento para excluir nuevos grupos"},
+        {"id": "c", "text": "Incluye causas expresas y termina con cualquier otra condición o circunstancia personal o social"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Tras mencionar nacimiento, raza, sexo, religión y opinión, el artículo 14 añade «cualquier otra condición o circunstancia personal o social». Se trata de una cláusula abierta que permite examinar otras causas de diferenciación. No es una lista cerrada ni una habilitación reglamentaria para excluir personas; su función es ampliar la protección frente a diferencias discriminatorias no enumeradas nominalmente.",
+      "source_note": "Artículo 14 CE; Atestado, apartado 14.4."
+    },
+    {
+      "id": "t02-b03-q023",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "diferencia de trato",
+      "section_refs": ["14.4"],
+      "prompt": "Una diferencia de trato entre dos grupos es compatible con el artículo 14 cuando:",
+      "options": [
+        {"id": "a", "text": "Las situaciones son diferentes y la medida posee justificación objetiva, razonable y proporcionada"},
+        {"id": "b", "text": "La Administración afirma que es conveniente, sin ofrecer ninguna razón comprobable"},
+        {"id": "c", "text": "Se apoya en cualquiera de las causas expresamente citadas en el artículo 14"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La igualdad no prohíbe toda diferencia. Debe comprobarse si las situaciones son comparables, si existe una finalidad legítima y si el criterio utilizado resulta objetivo, razonable y proporcionado. Una afirmación genérica de conveniencia no basta, y utilizar una causa especialmente protegida exige un control particularmente riguroso. Diferencia de trato y discriminación no son expresiones automáticamente equivalentes.",
+      "source_note": "Artículo 14 CE y doctrina constitucional; Atestado, apartado 14.4."
+    },
+    {
+      "id": "t02-b03-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "garantías del artículo 14",
+      "section_refs": ["12", "14.4"],
+      "prompt": "Respecto del artículo 14 CE, es correcto afirmar que:",
+      "options": [
+        {"id": "a", "text": "Carece de recurso de amparo porque está fuera de la Sección 1.ª"},
+        {"id": "b", "text": "Tiene procedimiento preferente y sumario y amparo, aunque está fuera de las dos secciones del Capítulo II"},
+        {"id": "c", "text": "Su desarrollo está siempre reservado a ley orgánica por pertenecer formalmente a la Sección 1.ª"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 14 está dentro del Capítulo II pero fuera de sus secciones. Pese a ello, el artículo 53.2 le reconoce tutela mediante procedimiento preferente y sumario y, en su caso, recurso de amparo. No pertenece formalmente a la Sección 1.ª, por lo que no se le traslada sin más la reserva de ley orgánica del artículo 81.1 ni el régimen agravado por esa sola ubicación.",
+      "source_note": "Artículos 14, 53.2 y 81.1 CE; Atestado, apartados 12 y 14.4."
+    },
+    {
+      "id": "t02-b03-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "titularidad literal",
+      "section_refs": ["14.5"],
+      "prompt": "En preguntas de literalidad constitucional, ¿qué asociación de titulares es correcta?",
+      "options": [
+        {"id": "a", "text": "Artículo 15: todos; artículo 17: toda persona; artículo 19: los españoles"},
+        {"id": "b", "text": "Artículo 15: solo españoles; artículo 17: ciudadanos; artículo 19: toda persona"},
+        {"id": "c", "text": "Artículos 15, 17 y 19: exclusivamente los ciudadanos españoles"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 15 comienza con «Todos tienen derecho a la vida», el 17 con «Toda persona tiene derecho a la libertad y a la seguridad» y el 19 atribuye a «Los españoles» residencia y circulación en su literalidad. Estas fórmulas no son intercambiables en un test oficial. La titularidad jurídica completa puede requerir interpretación, pero una pregunta que reproduce el texto exige respetar el sujeto exacto empleado.",
+      "source_note": "Artículos 15, 17 y 19 CE; Atestado, apartado 14.5."
+    }
+  ]
+}

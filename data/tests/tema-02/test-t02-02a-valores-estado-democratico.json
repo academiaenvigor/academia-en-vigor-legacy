@@ -1,0 +1,452 @@
+{
+  "id": "t02-b02a-valores-estado-democratico-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 2A · Valores constitucionales y Estado democrático",
+    "short_title": "Valores y Estado democrático",
+    "description": "Trabaja los cuatro valores superiores del artículo 1.1 y su relación con la libertad, la justicia, la igualdad y el pluralismo político. Aplica además la soberanía nacional, la legitimidad democrática, la representación, los mecanismos de participación directa, el artículo 23 y la posición constitucional de los partidos políticos mediante preguntas literales y pequeños supuestos.",
+    "theme_number": 2,
+    "block_number": "2A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["6", "6.1", "6.2", "6.3", "6.4", "7", "7.1", "7.2", "7.3"],
+    "concepts": [
+      "valores superiores del artículo 1.1",
+      "dimensiones de la libertad",
+      "justicia como valor y función",
+      "igualdad formal y real",
+      "trato diferente justificado",
+      "pluralismo político",
+      "soberanía nacional y legitimidad democrática",
+      "democracia representativa",
+      "participación directa",
+      "derechos del artículo 23",
+      "funciones y límites de los partidos políticos"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b02a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "valores superiores",
+      "section_refs": ["6"],
+      "prompt": "El artículo 1.1 CE enumera como valores superiores del ordenamiento jurídico:",
+      "options": [
+        {"id": "a", "text": "Libertad, justicia, igualdad y pluralismo político"},
+        {"id": "b", "text": "Dignidad, seguridad, solidaridad y legalidad"},
+        {"id": "c", "text": "Unidad, autonomía, jerarquía y publicidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La lista cerrada del artículo 1.1 CE es libertad, justicia, igualdad y pluralismo político. Dignidad, seguridad, solidaridad, legalidad, unidad o autonomía son conceptos constitucionales relevantes, pero aparecen en otros preceptos o cumplen funciones distintas. La mnemotecnia L-J-I-P ayuda a recordar los cuatro valores sin incorporar términos próximos que suelen utilizarse como distractores.",
+      "source_note": "Artículo 1.1 CE; Atestado, apartado 6."
+    },
+    {
+      "id": "t02-b02a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "lista cerrada de valores",
+      "section_refs": ["6"],
+      "prompt": "¿Cuál de los siguientes conceptos no forma parte de la enumeración del artículo 1.1 CE?",
+      "options": [
+        {"id": "a", "text": "Pluralismo político"},
+        {"id": "b", "text": "Dignidad de la persona"},
+        {"id": "c", "text": "Justicia"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La dignidad de la persona es esencial en la Constitución, pero aparece en el artículo 10.1 como fundamento del orden político y de la paz social, no en la lista de valores superiores del artículo 1.1. Justicia y pluralismo político sí integran esa lista junto con libertad e igualdad. La trampa consiste en confundir relevancia constitucional con pertenencia a una enumeración concreta.",
+      "source_note": "Artículos 1.1 y 10.1 CE; Atestado, apartado 6."
+    },
+    {
+      "id": "t02-b02a-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "literalidad del artículo 1.1",
+      "section_refs": ["6"],
+      "prompt": "Según la literalidad del artículo 1.1 CE, España:",
+      "options": [
+        {"id": "a", "text": "Se organiza como Estado federal que reconoce cuatro principios rectores"},
+        {"id": "b", "text": "Se proclama Estado liberal que recomienda determinados derechos"},
+        {"id": "c", "text": "Se constituye en un Estado social y democrático de Derecho que propugna valores superiores"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 1.1 declara que España se constituye en un Estado social y democrático de Derecho y que propugna como valores superiores libertad, justicia, igualdad y pluralismo político. No utiliza la expresión Estado federal ni presenta esos valores como recomendaciones. La fórmula une tres dimensiones del Estado y cuatro valores que orientan todo el ordenamiento.",
+      "source_note": "Artículo 1.1 CE; Atestado, apartado 6."
+    },
+    {
+      "id": "t02-b02a-q004",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "dimensiones de la libertad",
+      "section_refs": ["6.1"],
+      "prompt": "La libertad como valor superior presenta:",
+      "options": [
+        {"id": "a", "text": "Una dimensión individual de decisión y otra colectiva vinculada a participación, asociación y pluralidad"},
+        {"id": "b", "text": "Únicamente una dimensión económica relacionada con la propiedad"},
+        {"id": "c", "text": "Solo una dimensión colectiva ejercitable por partidos políticos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La libertad posee una dimensión individual, que permite decidir y actuar dentro del ordenamiento, y otra colectiva, manifestada en participación, expresión, reunión, asociación y pluralidad. No se agota en la economía ni pertenece exclusivamente a los partidos. Además, el artículo 9.2 ordena promover condiciones para que libertad e igualdad sean reales y efectivas.",
+      "source_note": "Artículos 1.1 y 9.2 CE; Atestado, apartado 6.1."
+    },
+    {
+      "id": "t02-b02a-q005",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "justicia como valor",
+      "section_refs": ["6.2"],
+      "prompt": "Un funcionario considera personalmente injusta una ley vigente. El valor superior justicia:",
+      "options": [
+        {"id": "a", "text": "Le permite dejarla sin aplicar siempre que motive su opinión"},
+        {"id": "b", "text": "Orienta el ordenamiento, pero no autoriza a desconocer por criterio personal una ley válida"},
+        {"id": "c", "text": "Convierte automáticamente la ley en nula desde que se formula la crítica"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La justicia orienta el ordenamiento y también designa una función pública ejercida por jueces y tribunales, pero no habilita a cada autoridad para inaplicar leyes según su apreciación personal. La validez debe examinarse y, en su caso, combatirse mediante los procedimientos jurídicos correspondientes. Confundir justicia con decisión subjetiva destruiría la legalidad y la seguridad jurídica.",
+      "source_note": "Artículos 1.1, 9.1 y 117 CE; Atestado, apartado 6.2."
+    },
+    {
+      "id": "t02-b02a-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "igualdad formal y real",
+      "section_refs": ["6.3"],
+      "prompt": "La igualdad formal y la igualdad real y efectiva se conectan principalmente con:",
+      "options": [
+        {"id": "a", "text": "Los artículos 2 y 8 CE, respectivamente"},
+        {"id": "b", "text": "Los artículos 10 y 23 CE, respectivamente"},
+        {"id": "c", "text": "Los artículos 14 y 9.2 CE, respectivamente"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 14 expresa la igualdad ante la ley y prohíbe discriminaciones, mientras el artículo 9.2 ordena a los poderes públicos promover las condiciones para que libertad e igualdad sean reales y efectivas y remover obstáculos. No son enfoques opuestos: la igualdad constitucional combina prohibición de discriminación y acción pública transformadora.",
+      "source_note": "Artículos 9.2 y 14 CE; Atestado, apartado 6.3."
+    },
+    {
+      "id": "t02-b02a-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "trato diferente y discriminación",
+      "section_refs": ["6.3"],
+      "prompt": "Desde la perspectiva constitucional, tratar de forma distinta dos situaciones diferentes:",
+      "options": [
+        {"id": "a", "text": "Puede ser válido si existe una justificación objetiva, razonable y proporcionada"},
+        {"id": "b", "text": "Constituye siempre una discriminación prohibida"},
+        {"id": "c", "text": "Es válido sin necesidad de finalidad ni proporcionalidad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La igualdad no exige tratar de forma idéntica situaciones materialmente distintas. Una diferencia puede ser constitucional si persigue una finalidad legítima y cuenta con justificación objetiva, razonable y proporcionada. Lo prohibido es la diferencia arbitraria o discriminatoria. Tampoco basta afirmar que los casos son distintos: debe existir una relación adecuada entre el criterio empleado y la finalidad.",
+      "source_note": "Artículos 1.1, 9.2 y 14 CE; doctrina constitucional; Atestado, apartado 6.3."
+    },
+    {
+      "id": "t02-b02a-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "pluralismo político",
+      "section_refs": ["6.4"],
+      "prompt": "El pluralismo político constitucional:",
+      "options": [
+        {"id": "a", "text": "Se agota exclusivamente en la existencia de partidos políticos"},
+        {"id": "b", "text": "Comprende diversidad de opciones y se manifiesta también mediante elecciones, opinión pública, asociaciones y sociedad civil"},
+        {"id": "c", "text": "Permite actuar al margen de la Constitución y de la ley"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Los partidos son instrumento fundamental del pluralismo, pero no su única expresión. También se manifiesta en elecciones, libertades de opinión y expresión, asociaciones y actividad de la sociedad civil. La diversidad política se desarrolla dentro del marco constitucional: pluralismo no significa que cualquier medio o conducta quede permitido al margen de la Constitución y la ley.",
+      "source_note": "Artículos 1.1, 6, 20, 21 y 22 CE; Atestado, apartado 6.4."
+    },
+    {
+      "id": "t02-b02a-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "dignidad de la persona",
+      "section_refs": ["6"],
+      "prompt": "La dignidad de la persona aparece expresamente como fundamento del orden político y de la paz social en el:",
+      "options": [
+        {"id": "a", "text": "Artículo 1.1 CE"},
+        {"id": "b", "text": "Artículo 2 CE"},
+        {"id": "c", "text": "Artículo 10.1 CE"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 10.1 sitúa la dignidad de la persona, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos como fundamento del orden político y la paz social. No figura en la enumeración cerrada del artículo 1.1 ni en el artículo 2, dedicado a unidad, autonomía y solidaridad.",
+      "source_note": "Artículo 10.1 CE; Atestado, apartado 6."
+    },
+    {
+      "id": "t02-b02a-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "solidaridad territorial",
+      "section_refs": ["6"],
+      "prompt": "La solidaridad entre las nacionalidades y regiones se reconoce expresamente en el:",
+      "options": [
+        {"id": "a", "text": "Artículo 2 CE"},
+        {"id": "b", "text": "Artículo 1.1 CE como quinto valor superior"},
+        {"id": "c", "text": "Artículo 6 CE como función exclusiva de los partidos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 2 fundamenta la Constitución en la unidad de la Nación española y reconoce y garantiza la autonomía de nacionalidades y regiones y la solidaridad entre todas ellas. La solidaridad es un principio constitucional esencial, pero no un quinto valor añadido a la lista del artículo 1.1. Tampoco es una función exclusiva de los partidos del artículo 6.",
+      "source_note": "Artículo 2 CE; Atestado, apartado 6."
+    },
+    {
+      "id": "t02-b02a-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titular de la soberanía",
+      "section_refs": ["7", "7.1"],
+      "prompt": "Conforme al artículo 1.2 CE, la soberanía nacional reside:",
+      "options": [
+        {"id": "a", "text": "En las Cortes Generales"},
+        {"id": "b", "text": "En el pueblo español"},
+        {"id": "c", "text": "En el Gobierno de la Nación"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 1.2 afirma que la soberanía nacional reside en el pueblo español. Las Cortes representan al pueblo y el Gobierno ejerce funciones constitucionales, pero ninguno posee un poder originario superior a aquel. La expresión tampoco atribuye soberanía separada a cada institución o territorio: los poderes del Estado emanan del pueblo español.",
+      "source_note": "Artículo 1.2 CE; Atestado, apartados 7 y 7.1."
+    },
+    {
+      "id": "t02-b02a-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "origen de los poderes del Estado",
+      "section_refs": ["7", "7.1"],
+      "prompt": "El artículo 1.2 CE establece que del pueblo español:",
+      "options": [
+        {"id": "a", "text": "Emanan únicamente las Cortes Generales"},
+        {"id": "b", "text": "Depende solo la elección de los ayuntamientos"},
+        {"id": "c", "text": "Emanan los poderes del Estado"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La literalidad constitucional declara que del pueblo español emanan los poderes del Estado. Esto expresa su legitimidad democrática, aunque cada órgano ejerza después las competencias concretas que le atribuyen la Constitución y las leyes. No se reduce a las Cortes ni a las elecciones municipales. La soberanía popular no elimina la separación funcional y los límites jurídicos del poder.",
+      "source_note": "Artículo 1.2 CE; Atestado, apartado 7.1."
+    },
+    {
+      "id": "t02-b02a-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "legitimidad y competencias",
+      "section_refs": ["7.1"],
+      "prompt": "En un Estado democrático constitucional, las instituciones públicas:",
+      "options": [
+        {"id": "a", "text": "Ejercen competencias atribuidas por la Constitución y las leyes, sin poder originario superior al pueblo"},
+        {"id": "b", "text": "Pueden ampliar unilateralmente sus competencias si obtienen apoyo electoral"},
+        {"id": "c", "text": "Actúan válidamente al margen del Derecho siempre que invoquen la voluntad popular"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La legitimidad democrática no concede poderes ilimitados. Las instituciones reciben competencias de la Constitución y del ordenamiento y deben ejercerlas conforme a procedimientos y límites. El apoyo electoral no permite autoatribuirse facultades ni actuar fuera del Derecho. La soberanía reside en el pueblo, pero se canaliza mediante una Constitución que distribuye, limita y controla el poder.",
+      "source_note": "Artículos 1.2 y 9.1 CE; Atestado, apartado 7.1."
+    },
+    {
+      "id": "t02-b02a-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "manifestaciones del Estado democrático",
+      "section_refs": ["7.1"],
+      "prompt": "¿Cuál de los siguientes elementos es una manifestación del Estado democrático?",
+      "options": [
+        {"id": "a", "text": "La ausencia de responsabilidad de los gobernantes"},
+        {"id": "b", "text": "El sufragio, la representación, las libertades públicas y el control parlamentario"},
+        {"id": "c", "text": "La prohibición general de asociaciones y reuniones políticas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Estado democrático se manifiesta mediante sufragio, representación, participación directa en los casos previstos, partidos, libertades de expresión, reunión y asociación, control parlamentario, responsabilidad y acceso igual a cargos públicos. La irresponsabilidad política general y la prohibición de libertades colectivas son incompatibles con la democracia constitucional.",
+      "source_note": "Artículos 1.2, 6, 20 a 23 y 108 CE; Atestado, apartado 7.1."
+    },
+    {
+      "id": "t02-b02a-q015",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "mayoría y Constitución",
+      "section_refs": ["7.1", "7.3"],
+      "prompt": "Una decisión apoyada por la mayoría parlamentaria:",
+      "options": [
+        {"id": "a", "text": "Es constitucional por el solo hecho de obtener mayoría"},
+        {"id": "b", "text": "Puede suprimir cualquier derecho si no existe oposición social"},
+        {"id": "c", "text": "Debe respetar la Constitución, los derechos, las minorías y los procedimientos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La regla de mayoría es esencial, pero opera dentro de la Constitución. Una mayoría no puede desconocer derechos fundamentales, competencias, procedimientos o garantías de las minorías. La legitimidad democrática y el Estado de Derecho se complementan: la decisión debe proceder de órganos representativos y, a la vez, respetar los límites jurídicos superiores.",
+      "source_note": "Artículos 1.1, 9.1 y 53 CE; Atestado, apartados 7.1 y 7.3."
+    },
+    {
+      "id": "t02-b02a-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "democracia representativa",
+      "section_refs": ["7.2"],
+      "prompt": "El modelo democrático diseñado por la Constitución es:",
+      "options": [
+        {"id": "a", "text": "Principalmente representativo, sin excluir mecanismos de participación directa"},
+        {"id": "b", "text": "Exclusivamente directo, sin representantes elegidos"},
+        {"id": "c", "text": "Corporativo, sin elecciones periódicas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La democracia constitucional española es principalmente representativa: los ciudadanos eligen representantes que actúan en las instituciones. Ello no excluye mecanismos directos como referéndum o iniciativa legislativa popular en los términos constitucionales y legales. No existe un sistema exclusivamente asambleario ni se prescinde de elecciones periódicas y sufragio universal.",
+      "source_note": "Artículos 23, 66, 68, 69, 87.3 y 92 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t02-b02a-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "participación directa",
+      "section_refs": ["7.2"],
+      "prompt": "Entre los mecanismos constitucionales de participación directa se encuentran:",
+      "options": [
+        {"id": "a", "text": "Solo las encuestas privadas sin efectos jurídicos"},
+        {"id": "b", "text": "El referéndum y la iniciativa legislativa popular en los términos previstos"},
+        {"id": "c", "text": "La sustitución permanente de las Cortes por asambleas ciudadanas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución contempla mecanismos de participación directa como las modalidades de referéndum y la iniciativa legislativa popular, sujetos a condiciones y límites. Una encuesta privada no se convierte por ello en participación constitucional y estos mecanismos no sustituyen permanentemente a las Cortes. Complementan un sistema cuyo funcionamiento ordinario es representativo.",
+      "source_note": "Artículos 87.3 y 92 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t02-b02a-q018",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "participación política del artículo 23.1",
+      "section_refs": ["7.2"],
+      "prompt": "El artículo 23.1 CE reconoce a los ciudadanos el derecho a participar en los asuntos públicos:",
+      "options": [
+        {"id": "a", "text": "Solo mediante afiliación obligatoria a un partido"},
+        {"id": "b", "text": "Exclusivamente por consultas convocadas por ayuntamientos"},
+        {"id": "c", "text": "Directamente o por medio de representantes libremente elegidos en elecciones periódicas por sufragio universal"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 23.1 reconoce participación directa o mediante representantes libremente elegidos en elecciones periódicas por sufragio universal. No exige afiliación partidista ni limita la participación a consultas municipales. La literalidad conecta democracia representativa, participación directa y periodicidad electoral, elementos esenciales para evitar que una designación no electiva se presente como equivalente.",
+      "source_note": "Artículo 23.1 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t02-b02a-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "acceso a funciones y cargos públicos",
+      "section_refs": ["7.1", "7.2"],
+      "prompt": "El artículo 23.2 CE reconoce el derecho a acceder a funciones y cargos públicos:",
+      "options": [
+        {"id": "a", "text": "En condiciones de igualdad y con los requisitos que señalen las leyes"},
+        {"id": "b", "text": "Sin que pueda exigirse requisito legal alguno"},
+        {"id": "c", "text": "Únicamente a quienes pertenezcan al partido mayoritario"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El acceso debe producirse en condiciones de igualdad y conforme a los requisitos que establezcan las leyes. La igualdad no elimina las exigencias objetivas vinculadas al cargo o función, pero impide privilegios arbitrarios como reservarlos al partido mayoritario. Este derecho completa la participación política del artículo 23.1 y posee protección reforzada como derecho fundamental.",
+      "source_note": "Artículo 23.2 CE; Atestado, apartados 7.1 y 7.2."
+    },
+    {
+      "id": "t02-b02a-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "alcance del derecho de participación",
+      "section_refs": ["7.2"],
+      "prompt": "Respecto del contenido del artículo 23 CE, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Toda consulta informal realizada por cualquier entidad privada forma parte necesariamente del derecho fundamental"},
+        {"id": "b", "text": "No toda consulta o intervención en una organización privada constituye participación política protegida por el artículo 23"},
+        {"id": "c", "text": "El artículo 23 se limita exclusivamente al derecho de reunión"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 23 protege la participación en asuntos públicos y el acceso igual a funciones y cargos públicos. No toda votación, encuesta o intervención interna en una entidad privada adquiere por ello naturaleza política constitucional. El derecho de reunión se encuentra en el artículo 21. La clave es identificar si existe participación en asuntos públicos mediante los cauces constitucionales y legales.",
+      "source_note": "Artículo 23 CE; Atestado, apartado 7.2."
+    },
+    {
+      "id": "t02-b02a-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "funciones de los partidos políticos",
+      "section_refs": ["7.3"],
+      "prompt": "Según el artículo 6 CE, los partidos políticos:",
+      "options": [
+        {"id": "a", "text": "Ejercen directamente todos los poderes del Estado"},
+        {"id": "b", "text": "Son órganos administrativos integrados en el Gobierno"},
+        {"id": "c", "text": "Expresan el pluralismo, concurren a formar y manifestar la voluntad popular y son instrumento fundamental de participación"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 6 atribuye a los partidos tres funciones nucleares: expresar el pluralismo político, concurrir a la formación y manifestación de la voluntad popular y servir como instrumento fundamental de participación. No son órganos administrativos ni titulares directos de todos los poderes. Su importancia constitucional no elimina la autonomía de las instituciones ni otras formas de participación social.",
+      "source_note": "Artículo 6 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t02-b02a-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "libertad y límites de los partidos",
+      "section_refs": ["7.3"],
+      "prompt": "La creación y el ejercicio de la actividad de los partidos políticos son:",
+      "options": [
+        {"id": "a", "text": "Libres dentro del respeto a la Constitución y a la ley"},
+        {"id": "b", "text": "Libres sin ningún límite jurídico"},
+        {"id": "c", "text": "Dependientes de autorización discrecional del Gobierno en cada elección"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución reconoce libertad de creación y actividad de los partidos, pero expresamente dentro del respeto a la Constitución y a la ley. La libertad política no significa inmunidad frente al ordenamiento ni autorización gubernamental discrecional. Los límites deben estar jurídicamente establecidos y aplicarse con garantías, evitando tanto la actuación ilícita como el control partidista por el Ejecutivo.",
+      "source_note": "Artículo 6 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t02-b02a-q023",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "democracia interna de los partidos",
+      "section_refs": ["7.3"],
+      "prompt": "La estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+      "options": [
+        {"id": "a", "text": "Jerárquicos y reservados por mandato constitucional"},
+        {"id": "b", "text": "Democráticos"},
+        {"id": "c", "text": "Determinados libremente por el Gobierno"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El último inciso del artículo 6 exige que la estructura interna y el funcionamiento de los partidos sean democráticos. Su libertad de organización no permite suprimir esta exigencia constitucional. Tampoco corresponde al Gobierno diseñar discrecionalmente su estructura. La democracia debe proyectarse tanto en la competencia entre opciones políticas como en la organización de los instrumentos fundamentales de participación.",
+      "source_note": "Artículo 6 CE; Atestado, apartado 7.3."
+    },
+    {
+      "id": "t02-b02a-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "partidos y pluralismo",
+      "section_refs": ["6.4", "7.3"],
+      "prompt": "La consideración de los partidos como instrumento fundamental de participación significa que:",
+      "options": [
+        {"id": "a", "text": "Solo a través de un partido puede expresarse cualquier opinión política"},
+        {"id": "b", "text": "Los partidos sustituyen jurídicamente al pueblo como titular de la soberanía"},
+        {"id": "c", "text": "Tienen una posición constitucional central, pero el pluralismo también se expresa por otras vías"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Los partidos ocupan una posición central en la formación de la voluntad popular y la participación, pero no monopolizan toda expresión política ni sustituyen al pueblo como titular de la soberanía. Elecciones, opinión pública, asociaciones, reuniones y sociedad civil también canalizan el pluralismo. «Instrumento fundamental» significa esencial, no exclusivo ni soberano.",
+      "source_note": "Artículos 1.1, 1.2 y 6 CE; Atestado, apartados 6.4 y 7.3."
+    },
+    {
+      "id": "t02-b02a-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "democracia constitucional",
+      "section_refs": ["7", "7.1", "7.2", "7.3"],
+      "prompt": "¿Qué afirmación describe mejor la democracia constitucional española?",
+      "options": [
+        {"id": "a", "text": "Combina soberanía popular, representación y participación con límites constitucionales, derechos y protección de minorías"},
+        {"id": "b", "text": "Identifica democracia con la capacidad ilimitada de cualquier mayoría para decidir"},
+        {"id": "c", "text": "Excluye los partidos políticos y toda forma de participación directa"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La democracia constitucional combina origen popular del poder, elecciones, representación, participación directa, partidos y libertades con límites jurídicos y respeto a derechos, minorías y procedimientos. La mayoría gobierna, pero no posee poder ilimitado. Tampoco se excluyen los partidos ni los mecanismos directos; ambos se integran en un modelo principalmente representativo y sometido a la Constitución.",
+      "source_note": "Artículos 1.1, 1.2, 6, 9.1 y 23 CE; Atestado, apartado 7."
+    }
+  ]
+}

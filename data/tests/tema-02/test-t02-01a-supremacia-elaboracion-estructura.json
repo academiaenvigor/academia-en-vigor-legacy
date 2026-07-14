@@ -1,0 +1,451 @@
+{
+  "id": "t02-b01a-supremacia-elaboracion-estructura-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 1A · Supremacía, elaboración y estructura constitucional",
+    "short_title": "Supremacía, elaboración y estructura",
+    "description": "Comprueba si dominas la fuerza normativa y la supremacía formal y material de la Constitución, el proceso constituyente y sus protagonistas, la secuencia exacta de fechas de 1978 y la estructura completa del texto. Incluye preguntas de literalidad, relaciones entre títulos y materias y las trampas más habituales sobre preámbulo, disposiciones y partes dogmática y orgánica.",
+    "theme_number": 2,
+    "block_number": "1A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["1", "2", "2.1", "2.2", "2.3", "3", "3.1", "3.2", "3.3"],
+    "concepts": [
+      "Constitución como norma suprema",
+      "supremacía formal y material",
+      "fuerza normativa y mecanismos de garantía",
+      "Transición y consenso constitucional",
+      "Ponencia constitucional de siete miembros",
+      "fechas esenciales de 1978",
+      "estructura formal y disposiciones",
+      "contenido de los títulos",
+      "parte dogmática y parte orgánica",
+      "función interpretativa del preámbulo"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b01a-q001",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "supremacía formal y material",
+      "section_refs": ["1"],
+      "prompt": "La supremacía formal y la supremacía material de la Constitución significan, respectivamente, que:",
+      "options": [
+        {"id": "a", "text": "Solo puede reformarse por sus procedimientos específicos y todas las normas y actuaciones inferiores deben respetar su contenido"},
+        {"id": "b", "text": "Puede modificarse mediante ley ordinaria y únicamente vincula a los órganos judiciales"},
+        {"id": "c", "text": "Carece de aplicación directa y prevalece solo cuando no existe una ley posterior"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La supremacía formal impide que una norma inferior modifique la Constitución: su cambio exige los procedimientos constitucionales de reforma. La supremacía material obliga a que leyes, reglamentos y actuaciones públicas respeten su contenido. No es una norma subsidiaria ni queda a disposición de una ley posterior, y vincula a todos los ciudadanos y poderes públicos, no solo a los jueces.",
+      "source_note": "Artículos 9.1 y 166 a 169 CE; Atestado, apartado 1."
+    },
+    {
+      "id": "t02-b01a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "fuerza normativa de la Constitución",
+      "section_refs": ["1"],
+      "prompt": "Respecto de la eficacia jurídica de la Constitución, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Es únicamente un programa político dirigido al legislador"},
+        {"id": "b", "text": "Es una norma jurídica vinculante, aunque algunos preceptos necesiten desarrollo legal"},
+        {"id": "c", "text": "Solo produce efectos después de que cada precepto sea reproducido por una ley"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución tiene fuerza normativa y obliga desde su entrada en vigor. Algunos preceptos son directamente aplicables y otros requieren desarrollo legislativo, pero esa remisión no permite al legislador contradecirlos o vaciarlos. Considerarla un simple programa político o exigir que cada artículo sea reproducido por una ley negaría su posición como norma jurídica suprema.",
+      "source_note": "Artículo 9.1 CE; Atestado, apartado 1."
+    },
+    {
+      "id": "t02-b01a-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "sujeción a la Constitución",
+      "section_refs": ["1"],
+      "prompt": "El artículo 9.1 de la Constitución establece que están sujetos a la Constitución y al resto del ordenamiento jurídico:",
+      "options": [
+        {"id": "a", "text": "Exclusivamente los poderes públicos"},
+        {"id": "b", "text": "Solo los ciudadanos españoles mayores de edad"},
+        {"id": "c", "text": "Los ciudadanos y los poderes públicos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 9.1 CE menciona expresamente a los ciudadanos y a los poderes públicos. La Constitución no vincula únicamente a la Administración o a los tribunales, ni limita la sujeción a españoles mayores de edad. La referencia conjunta no coloca la Constitución y las demás normas al mismo nivel: el resto del ordenamiento obtiene su validez dentro del marco constitucional.",
+      "source_note": "Artículo 9.1 CE; Atestado, apartado 1."
+    },
+    {
+      "id": "t02-b01a-q004",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "garantías de la supremacía",
+      "section_refs": ["1"],
+      "prompt": "Una ley contradice la Constitución y un reglamento contradice la ley. ¿Qué afirmación describe correctamente su control?",
+      "options": [
+        {"id": "a", "text": "La constitucionalidad de la ley corresponde al sistema de justicia constitucional, mientras los jueces pueden inaplicar reglamentos contrarios a la Constitución o a la ley"},
+        {"id": "b", "text": "Cualquier juez puede derogar por sí mismo la ley y debe aplicar siempre el reglamento"},
+        {"id": "c", "text": "Ambas normas conservan plena validez porque fueron publicadas oficialmente"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "Las leyes están sometidas al control de constitucionalidad atribuido al Tribunal Constitucional mediante los procedimientos previstos. Los órganos judiciales no pueden tratar una ley como un simple reglamento, pero sí inaplican los reglamentos contrarios a la Constitución, a la ley o a la jerarquía normativa. La publicación es necesaria para la eficacia, pero no sana una contradicción con normas superiores.",
+      "source_note": "Artículos 9.1, 9.3, 161 y 163 CE; artículo 6 LOPJ; Atestado, apartado 1."
+    },
+    {
+      "id": "t02-b01a-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Cortes constituyentes de 1977",
+      "section_refs": ["2.1"],
+      "prompt": "Las elecciones que dieron lugar a las Cortes que asumieron de hecho la función constituyente se celebraron el:",
+      "options": [
+        {"id": "a", "text": "6 de diciembre de 1978"},
+        {"id": "b", "text": "15 de junio de 1977"},
+        {"id": "c", "text": "29 de diciembre de 1978"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Las elecciones generales del 15 de junio de 1977 originaron unas Cortes que, además de legislar, asumieron de hecho la elaboración constitucional. El 6 de diciembre de 1978 corresponde al referéndum constitucional y el 29 de diciembre a la publicación y entrada en vigor. La pregunta separa el inicio político del proceso de las fechas finales del texto.",
+      "source_note": "Historia del proceso constituyente; Atestado, apartado 2.1."
+    },
+    {
+      "id": "t02-b01a-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "consenso constitucional",
+      "section_refs": ["2.1"],
+      "prompt": "El consenso como rasgo del proceso constituyente de 1978 implica que:",
+      "options": [
+        {"id": "a", "text": "El texto fue redactado exclusivamente por el Gobierno sin intervención parlamentaria"},
+        {"id": "b", "text": "Todas las fuerzas políticas defendían desde el principio un proyecto idéntico"},
+        {"id": "c", "text": "Fuerzas con posiciones distintas alcanzaron acuerdos sobre derechos, instituciones y organización territorial"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El consenso no significa unanimidad ideológica ni ausencia de desacuerdos, sino búsqueda de fórmulas aceptables para fuerzas políticas con proyectos distintos. Permitió integrar posiciones sobre derechos, Estado social, Corona y organización territorial. Tampoco excluyó la tramitación parlamentaria: la Constitución fue elaborada, debatida y aprobada por las Cortes y ratificada por el pueblo.",
+      "source_note": "Historia del proceso constituyente; Atestado, apartado 2.1."
+    },
+    {
+      "id": "t02-b01a-q007",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "composición de la Ponencia constitucional",
+      "section_refs": ["2.2"],
+      "prompt": "La Ponencia encargada de elaborar el anteproyecto constitucional estuvo formada por:",
+      "options": [
+        {"id": "a", "text": "Siete diputados"},
+        {"id": "b", "text": "Nueve senadores"},
+        {"id": "c", "text": "Doce miembros del Gobierno"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Comisión de Asuntos Constitucionales y Libertades Públicas del Congreso designó una Ponencia de siete diputados, conocidos habitualmente como los padres de la Constitución. No fue una comisión de senadores ni un grupo de ministros. Memorizar el número siete ayuda, pero en examen también debe distinguirse a sus integrantes de otras figuras políticas relevantes de la Transición.",
+      "source_note": "Trabajos parlamentarios de la Constitución; Atestado, apartado 2.2."
+    },
+    {
+      "id": "t02-b01a-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "integrantes de la Ponencia constitucional",
+      "section_refs": ["2.2"],
+      "prompt": "¿Cuál de las siguientes personas formó parte de la Ponencia constitucional?",
+      "options": [
+        {"id": "a", "text": "Adolfo Suárez González"},
+        {"id": "b", "text": "Miquel Roca i Junyent"},
+        {"id": "c", "text": "Felipe González Márquez"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Miquel Roca i Junyent, representante de la Minoría Catalana, fue uno de los siete ponentes. Adolfo Suárez y Felipe González tuvieron una importancia política indiscutible durante la Transición, pero no integraron la Ponencia. Esta es una trampa típica: confundir liderazgo político general con pertenencia al órgano parlamentario que preparó el anteproyecto.",
+      "source_note": "Trabajos parlamentarios de la Constitución; Atestado, apartado 2.2."
+    },
+    {
+      "id": "t02-b01a-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "ponentes y formaciones políticas",
+      "section_refs": ["2.2"],
+      "prompt": "Señale la asociación correcta entre ponente y formación política en el proceso constituyente:",
+      "options": [
+        {"id": "a", "text": "Gregorio Peces-Barba Martínez — Alianza Popular"},
+        {"id": "b", "text": "Manuel Fraga Iribarne — PSOE"},
+        {"id": "c", "text": "Jordi Solé Tura — PCE-PSUC"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Jordi Solé Tura representó al PCE-PSUC. Gregorio Peces-Barba estaba vinculado al PSOE y Manuel Fraga a Alianza Popular, de modo que las otras asociaciones intercambian deliberadamente las formaciones. En la Ponencia también participaron tres miembros de UCD —Cisneros, Herrero y Rodríguez de Miñón y Pérez-Llorca— y Miquel Roca por Minoría Catalana.",
+      "source_note": "Trabajos parlamentarios de la Constitución; Atestado, apartado 2.2."
+    },
+    {
+      "id": "t02-b01a-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "aprobación parlamentaria",
+      "section_refs": ["2.3"],
+      "prompt": "Los Plenos del Congreso y del Senado aprobaron la Constitución el:",
+      "options": [
+        {"id": "a", "text": "31 de octubre de 1978"},
+        {"id": "b", "text": "6 de diciembre de 1978"},
+        {"id": "c", "text": "27 de diciembre de 1978"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La aprobación parlamentaria por los Plenos del Congreso y del Senado tuvo lugar el 31 de octubre de 1978. El 6 de diciembre fue la ratificación en referéndum y el 27 de diciembre la sanción y promulgación por el Rey. La secuencia completa se memoriza como 31-O, 6-D, 27-D y 29-D, asociando siempre cada fecha con su acto.",
+      "source_note": "Proceso constituyente; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "referéndum constitucional",
+      "section_refs": ["2.3"],
+      "prompt": "La ratificación de la Constitución por el pueblo español mediante referéndum tuvo lugar el:",
+      "options": [
+        {"id": "a", "text": "15 de junio de 1977"},
+        {"id": "b", "text": "6 de diciembre de 1978"},
+        {"id": "c", "text": "29 de diciembre de 1978"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El referéndum constitucional se celebró el 6 de diciembre de 1978, fecha hoy conmemorada como Día de la Constitución. No fue la fecha de las elecciones de 1977 ni la de publicación y entrada en vigor. El texto había sido aprobado por las Cortes el 31 de octubre y todavía debía ser sancionado, promulgado y publicado.",
+      "source_note": "Proceso constituyente; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q012",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "sanción y promulgación",
+      "section_refs": ["2.3"],
+      "prompt": "La Constitución fue sancionada y promulgada por el Rey el:",
+      "options": [
+        {"id": "a", "text": "31 de octubre de 1978"},
+        {"id": "b", "text": "6 de diciembre de 1978"},
+        {"id": "c", "text": "27 de diciembre de 1978"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La sanción y promulgación por el Rey se produjeron el 27 de diciembre de 1978. La aprobación parlamentaria fue el 31 de octubre y el referéndum el 6 de diciembre. El 29 de diciembre se publicó en el BOE y entró en vigor. La fecha de 27 de diciembre aparece además en la denominación oficial y en el identificador europeo del texto constitucional.",
+      "source_note": "Constitución Española, encabezamiento y firma; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "publicación y entrada en vigor",
+      "section_refs": ["2.3"],
+      "prompt": "La publicación en el BOE y la entrada en vigor de la Constitución se produjeron:",
+      "options": [
+        {"id": "a", "text": "El 29 de diciembre de 1978"},
+        {"id": "b", "text": "El 27 de diciembre de 1978"},
+        {"id": "c", "text": "Veinte días después de su publicación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución se publicó en el BOE de 29 de diciembre de 1978 y entró en vigor ese mismo día por mandato de su disposición final. No se aplicó la regla supletoria de veinte días del Código Civil. El 27 de diciembre corresponde a la sanción y promulgación. En examen debe asociarse publicación y vigencia a una única fecha: 29-D.",
+      "source_note": "Disposición final CE; BOE núm. 311, de 29 de diciembre de 1978; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "secuencia del proceso constitucional",
+      "section_refs": ["2.3"],
+      "prompt": "¿Cuál es el orden cronológico correcto de los actos finales del proceso constitucional?",
+      "options": [
+        {"id": "a", "text": "Referéndum, aprobación parlamentaria, publicación, sanción"},
+        {"id": "b", "text": "Aprobación parlamentaria, referéndum, sanción y promulgación, publicación y entrada en vigor"},
+        {"id": "c", "text": "Sanción, referéndum, aprobación parlamentaria y publicación"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La secuencia correcta es: aprobación por Congreso y Senado el 31 de octubre; ratificación popular el 6 de diciembre; sanción y promulgación real el 27; y publicación y entrada en vigor el 29 de diciembre. Las demás secuencias alteran la lógica constitucional y las fechas. La mnemotecnia 31-O / 6-D / 27-D / 29-D debe aprenderse con el acto asociado.",
+      "source_note": "Proceso constituyente y disposición final CE; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "fórmula de aprobación y ratificación",
+      "section_refs": ["2.3"],
+      "prompt": "La fórmula que precede al preámbulo declara que la Constitución fue:",
+      "options": [
+        {"id": "a", "text": "Aprobada por el Gobierno y ratificada por el Tribunal Constitucional"},
+        {"id": "b", "text": "Redactada por el Rey y aprobada por los ayuntamientos"},
+        {"id": "c", "text": "Aprobada por las Cortes y ratificada por el pueblo español"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El encabezamiento oficial proclama que las Cortes aprobaron y el pueblo español ratificó la Constitución. La fórmula refleja la doble intervención parlamentaria y popular del proceso. El Gobierno impulsó la Transición y el Rey sancionó y promulgó el texto, pero ninguno sustituye a las Cortes como órgano aprobador ni al pueblo como sujeto de la ratificación referendaria.",
+      "source_note": "Encabezamiento de la Constitución Española; Atestado, apartado 2.3."
+    },
+    {
+      "id": "t02-b01a-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "función del preámbulo",
+      "section_refs": ["3.3"],
+      "prompt": "Respecto del preámbulo de la Constitución, señale la afirmación correcta:",
+      "options": [
+        {"id": "a", "text": "Expresa objetivos y sirve como criterio interpretativo, pero no está articulado ni crea por sí solo derechos subjetivos directamente reclamables"},
+        {"id": "b", "text": "Integra los artículos 1 a 9 y puede reformarse mediante reglamento"},
+        {"id": "c", "text": "Carece de toda relevancia jurídica e interpretativa"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El preámbulo proclama fines y orientaciones del constituyente y puede ayudar a interpretar el articulado, pero no está dividido en artículos ni constituye por sí solo una fuente autónoma de derechos subjetivos directamente exigibles. Los artículos 1 a 9 pertenecen al Título Preliminar. Negarle toda relevancia es tan incorrecto como atribuirle el mismo contenido normativo que a un derecho articulado.",
+      "source_note": "Preámbulo CE; Atestado, apartado 3.3."
+    },
+    {
+      "id": "t02-b01a-q017",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "número de artículos",
+      "section_refs": ["3.1"],
+      "prompt": "La Constitución Española contiene:",
+      "options": [
+        {"id": "a", "text": "168 artículos"},
+        {"id": "b", "text": "169 artículos"},
+        {"id": "c", "text": "170 artículos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución contiene 169 artículos, desde el artículo 1 hasta el 169. El artículo 168 regula el procedimiento agravado de reforma, lo que favorece el distractor de 168 artículos. Las disposiciones adicionales, transitorias, derogatoria y final no se cuentan como artículos. El número total permanece en 169 aunque se haya reformado el contenido de algunos preceptos.",
+      "source_note": "Estructura formal de la Constitución Española; Atestado, apartado 3.1."
+    },
+    {
+      "id": "t02-b01a-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "número de títulos",
+      "section_refs": ["3.1"],
+      "prompt": "¿Cuál es la formulación más precisa sobre los títulos de la Constitución?",
+      "options": [
+        {"id": "a", "text": "Contiene diez títulos en total, incluido el Preliminar"},
+        {"id": "b", "text": "Contiene doce títulos numerados y ningún título preliminar"},
+        {"id": "c", "text": "Contiene un Título Preliminar y diez títulos numerados del I al X"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La expresión más exacta es un Título Preliminar, que comprende los artículos 1 a 9, y diez títulos numerados del I al X. Si se cuenta el Preliminar, existen once grandes títulos, pero no once títulos numerados. Decir simplemente diez incluyendo el Preliminar omite uno de los bloques y afirmar que hay doce numerados contradice la estructura oficial.",
+      "source_note": "Índice sistemático de la Constitución Española; Atestado, apartado 3.1."
+    },
+    {
+      "id": "t02-b01a-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "disposiciones constitucionales",
+      "section_refs": ["3.1"],
+      "prompt": "La fórmula 4-9-1-1 aplicada a la estructura constitucional significa:",
+      "options": [
+        {"id": "a", "text": "Cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final"},
+        {"id": "b", "text": "Cuatro títulos, nueve capítulos, una sección y una reforma"},
+        {"id": "c", "text": "Cuatro reformas, nueve leyes orgánicas, una disposición adicional y una transitoria"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución termina con cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final. La mnemotecnia 4-9-1-1 se refiere exclusivamente a esos bloques y no al número de reformas, títulos o capítulos. La disposición final es especialmente importante porque ordena la entrada en vigor el mismo día de la publicación oficial en el BOE.",
+      "source_note": "Disposiciones de la Constitución Española; Atestado, apartado 3.1."
+    },
+    {
+      "id": "t02-b01a-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Título Preliminar",
+      "section_refs": ["3.2"],
+      "prompt": "El Título Preliminar de la Constitución comprende:",
+      "options": [
+        {"id": "a", "text": "Los artículos 10 a 55 sobre derechos y deberes"},
+        {"id": "b", "text": "Los artículos 1 a 9 sobre los principios básicos del Estado"},
+        {"id": "c", "text": "Los artículos 56 a 65 sobre la Corona"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Título Preliminar abarca los artículos 1 a 9 y reúne principios básicos como el Estado social y democrático de Derecho, soberanía, Monarquía parlamentaria, unidad y autonomía, lenguas, símbolos, partidos, sindicatos, Fuerzas Armadas y sujeción al ordenamiento. Los artículos 10 a 55 forman el Título I y los 56 a 65 el Título II.",
+      "source_note": "Título Preliminar CE; Atestado, apartado 3.2."
+    },
+    {
+      "id": "t02-b01a-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Título I",
+      "section_refs": ["3.2"],
+      "prompt": "El Título I, relativo a los derechos y deberes fundamentales, comprende los artículos:",
+      "options": [
+        {"id": "a", "text": "1 a 9"},
+        {"id": "b", "text": "56 a 65"},
+        {"id": "c", "text": "10 a 55"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Título I se extiende desde el artículo 10 hasta el 55 y regula derechos y deberes fundamentales, sus garantías y la suspensión. Los artículos 1 a 9 pertenecen al Título Preliminar y los 56 a 65 al Título II, dedicado a la Corona. En examen conviene asociar los límites numéricos con la materia y no aprenderlos como cifras aisladas.",
+      "source_note": "Título I CE; Atestado, apartado 3.2."
+    },
+    {
+      "id": "t02-b01a-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "correspondencia entre títulos y materias",
+      "section_refs": ["3.2"],
+      "prompt": "¿Cuál de las siguientes correspondencias entre título y materia es correcta?",
+      "options": [
+        {"id": "a", "text": "Título IX — Tribunal Constitucional"},
+        {"id": "b", "text": "Título VII — Poder Judicial"},
+        {"id": "c", "text": "Título VIII — Economía y Hacienda"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Título IX, artículos 159 a 165, regula el Tribunal Constitucional. El Poder Judicial corresponde al Título VI, mientras Economía y Hacienda ocupa el VII. El Título VIII se dedica a la organización territorial del Estado. Los distractores desplazan materias a títulos próximos, una técnica frecuente en preguntas de estructura constitucional.",
+      "source_note": "Títulos VI a IX CE; Atestado, apartado 3.2."
+    },
+    {
+      "id": "t02-b01a-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "Título X",
+      "section_refs": ["3.2"],
+      "prompt": "El Título X de la Constitución regula:",
+      "options": [
+        {"id": "a", "text": "Las relaciones entre el Gobierno y las Cortes Generales"},
+        {"id": "b", "text": "La reforma constitucional en los artículos 166 a 169"},
+        {"id": "c", "text": "El Tribunal Constitucional en los artículos 159 a 165"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Título X, último de los numerados, contiene los artículos 166 a 169 y regula la reforma constitucional. Las relaciones entre Gobierno y Cortes se encuentran en el Título V, artículos 108 a 116, y el Tribunal Constitucional en el Título IX. La ubicación final de la reforma refuerza la idea de supremacía formal y rigidez constitucional.",
+      "source_note": "Título X CE; Atestado, apartado 3.2."
+    },
+    {
+      "id": "t02-b01a-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "parte dogmática",
+      "section_refs": ["3.3"],
+      "prompt": "Según la clasificación doctrinal habitual, la parte dogmática de la Constitución comprende principalmente:",
+      "options": [
+        {"id": "a", "text": "Los Títulos II a X exclusivamente"},
+        {"id": "b", "text": "Solo el preámbulo y las disposiciones transitorias"},
+        {"id": "c", "text": "El Título Preliminar y el Título I"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La clasificación doctrinal sitúa en la parte dogmática el Título Preliminar y el Título I, donde aparecen valores, principios, derechos y deberes. «Dogmática» no significa religiosa ni se refiere a la rigidez de la reforma. Los Títulos II a X forman esencialmente la parte orgánica, dedicada a instituciones, poderes, territorio y reforma.",
+      "source_note": "Estructura doctrinal de la Constitución; Atestado, apartado 3.3."
+    },
+    {
+      "id": "t02-b01a-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "parte orgánica",
+      "section_refs": ["3.3"],
+      "prompt": "La parte orgánica de la Constitución se caracteriza por:",
+      "options": [
+        {"id": "a", "text": "Regular principalmente los órganos del Estado, sus relaciones, el territorio, el Tribunal Constitucional y la reforma"},
+        {"id": "b", "text": "Contener exclusivamente los valores superiores del artículo 1.1"},
+        {"id": "c", "text": "Estar formada únicamente por normas sin eficacia jurídica directa"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La parte orgánica comprende esencialmente los Títulos II a X y regula la Corona, Cortes, Gobierno, Poder Judicial, economía, organización territorial, Tribunal Constitucional y reforma. No se reduce a los valores del artículo 1.1, incluidos en la parte dogmática. La denominación «orgánica» describe su objeto institucional y no implica que sus normas carezcan de eficacia jurídica.",
+      "source_note": "Estructura doctrinal de la Constitución; Atestado, apartado 3.3."
+    }
+  ]
+}

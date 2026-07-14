@@ -1,0 +1,452 @@
+{
+  "id": "t02-b04b-expresion-reunion-asociacion-participacion-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 4B · Expresión, reunión, asociación y participación",
+    "short_title": "Expresión, reunión y participación",
+    "description": "Evalúa los derechos de los artículos 20 a 23 mediante preguntas literales y supuestos breves. Distingue expresión de información veraz, censura previa de secuestro judicial y los límites vinculados al honor, la intimidad y la infancia. Practica además reunión y manifestación, comunicación previa y sus plazos, asociaciones ilegales y prohibidas, inscripción y disolución, participación política y acceso igualitario a funciones y cargos públicos.",
+    "theme_number": 2,
+    "block_number": "4B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["16", "16.1", "16.2", "16.3", "16.4"],
+    "concepts": [
+      "libertad de expresión e información",
+      "creación y libertad de cátedra",
+      "veracidad y diligencia informativa",
+      "censura previa y secuestro judicial",
+      "límites del artículo 20",
+      "reunión pacífica y sin armas",
+      "comunicación de manifestaciones y plazos",
+      "prohibición y modificación de manifestaciones",
+      "asociaciones ilegales, secretas y paramilitares",
+      "inscripción y disolución de asociaciones",
+      "participación y acceso a cargos públicos"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b04b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "derechos del artículo 20.1",
+      "section_refs": ["16.1"],
+      "prompt": "¿Cuál de los siguientes grupos contiene únicamente derechos reconocidos en el artículo 20.1 CE?",
+      "options": [
+        {"id": "a", "text": "Expresión y difusión de ideas, creación literaria y científica, libertad de cátedra e información veraz"},
+        {"id": "b", "text": "Reunión, asociación, petición y huelga"},
+        {"id": "c", "text": "Honor, domicilio, secreto de comunicaciones y circulación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 20.1 protege la expresión y difusión de pensamientos, ideas y opiniones; la producción y creación literaria, artística, científica y técnica; la libertad de cátedra; y comunicar o recibir información veraz. Reunión y asociación están en los artículos 21 y 22, mientras honor, domicilio y comunicaciones pertenecen al 18. El examen suele mezclar derechos próximos para comprobar su localización.",
+      "source_note": "Artículo 20.1 CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "expresión frente a información",
+      "section_refs": ["16.1"],
+      "prompt": "La diferencia constitucional básica entre libertad de expresión y libertad de información consiste en que:",
+      "options": [
+        {"id": "a", "text": "Toda opinión debe demostrarse como objetivamente verdadera"},
+        {"id": "b", "text": "La expresión recae sobre ideas o juicios y la información sobre hechos sometidos al requisito de veracidad"},
+        {"id": "c", "text": "La información solo protege a periodistas colegiados y la expresión solo a particulares"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La expresión ampara pensamientos, opiniones y juicios de valor, que no pueden someterse a una prueba de verdad como si fueran hechos. La información se refiere a hechos con relevancia comunicativa y exige veracidad. Ninguna de las dos libertades pertenece en exclusiva a periodistas o particulares. En casos reales puede haber mensajes mixtos y será necesario identificar qué elemento predomina para ponderar correctamente.",
+      "source_note": "Artículo 20.1.a y d CE; doctrina constitucional; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q003",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "veracidad informativa",
+      "section_refs": ["16.1"],
+      "prompt": "El requisito constitucional de información veraz exige principalmente:",
+      "options": [
+        {"id": "a", "text": "Que el hecho publicado resulte absolutamente exacto en todos sus detalles"},
+        {"id": "b", "text": "Que la noticia sea favorable para la persona afectada"},
+        {"id": "c", "text": "Diligencia razonable en la comprobación de los hechos antes de difundirlos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Veracidad no significa infalibilidad absoluta. La protección depende de que quien informa haya actuado con diligencia razonable para contrastar los hechos según las circunstancias, las fuentes disponibles y la relevancia de la noticia. Una información puede contener errores accesorios y seguir protegida, mientras una afirmación casual o fabricada no se vuelve veraz por acertar después. Tampoco se exige que resulte favorable al afectado.",
+      "source_note": "Artículo 20.1.d CE y doctrina constitucional; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "cláusula de conciencia y secreto profesional",
+      "section_refs": ["16.1"],
+      "prompt": "La Constitución remite a la ley la regulación de la cláusula de conciencia y el secreto profesional:",
+      "options": [
+        {"id": "a", "text": "En el ejercicio de la libertad de información"},
+        {"id": "b", "text": "En cualquier actividad económica, sin relación con la comunicación"},
+        {"id": "c", "text": "Exclusivamente dentro de la libertad de cátedra"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 20.1.d, tras reconocer el derecho a comunicar o recibir información veraz, indica que la ley regulará la cláusula de conciencia y el secreto profesional en el ejercicio de estas libertades. No se trata de una referencia genérica a cualquier profesión ni se integra específicamente en la libertad de cátedra. La ubicación dentro de la letra d ayuda a recordar su conexión informativa.",
+      "source_note": "Artículo 20.1.d CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "censura previa",
+      "section_refs": ["16.1"],
+      "prompt": "El ejercicio de los derechos del artículo 20:",
+      "options": [
+        {"id": "a", "text": "Puede someterse siempre a autorización administrativa previa"},
+        {"id": "b", "text": "No puede restringirse mediante ningún tipo de censura previa"},
+        {"id": "c", "text": "Solo queda libre de censura cuando se ejerce en medios públicos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 20.2 prohíbe restringir estos derechos mediante cualquier tipo de censura previa. La Administración no puede condicionar con carácter general la difusión de ideas o informaciones a una aprobación anticipada. Ello no impide responsabilidades posteriores ni medidas judiciales legalmente previstas frente a contenidos ilícitos, pero debe distinguirse claramente el control previo prohibido de la reacción posterior sometida a garantías.",
+      "source_note": "Artículo 20.2 CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "medios públicos",
+      "section_refs": ["16.1"],
+      "prompt": "Respecto de los medios de comunicación social dependientes del Estado o de entes públicos, la ley regulará:",
+      "options": [
+        {"id": "a", "text": "Su privatización obligatoria y la exclusión de grupos sociales"},
+        {"id": "b", "text": "Su control gubernamental sin intervención parlamentaria"},
+        {"id": "c", "text": "Su organización y control parlamentario y el acceso de grupos significativos, respetando pluralismo y lenguas"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 20.3 remite a la ley la organización y el control parlamentario de los medios públicos y exige garantizar el acceso a ellos de grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y las diversas lenguas de España. No impone privatización ni entrega su control exclusivamente al Gobierno. La expresión clave es control parlamentario, no mera dirección administrativa.",
+      "source_note": "Artículo 20.3 CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "límites del artículo 20",
+      "section_refs": ["16.1"],
+      "prompt": "Las libertades del artículo 20 tienen como límites especiales:",
+      "options": [
+        {"id": "a", "text": "Honor, intimidad, propia imagen y protección de juventud e infancia"},
+        {"id": "b", "text": "La mera incomodidad de cualquier autoridad o personaje público"},
+        {"id": "c", "text": "Toda crítica que emplee un tono duro o molesto"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 20.4 remite a los derechos del Título I y a las leyes que los desarrollen y menciona especialmente honor, intimidad, propia imagen y protección de juventud e infancia. Una crítica no pierde automáticamente protección por ser áspera o incómoda. Deben ponderarse contenido, contexto, relevancia pública y derechos enfrentados, sin convertir la susceptibilidad del afectado en una censura general.",
+      "source_note": "Artículo 20.4 CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q008",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "ponderación entre derechos",
+      "section_refs": ["16.1"],
+      "prompt": "Para resolver un conflicto entre información y honor debe valorarse, entre otros elementos:",
+      "options": [
+        {"id": "a", "text": "Solo si el afectado manifiesta sentirse molesto"},
+        {"id": "b", "text": "Contexto, interés público, diligencia, contenido y condición de las personas afectadas"},
+        {"id": "c", "text": "Únicamente si la información fue difundida en papel"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La solución no depende de un único dato ni del soporte empleado. La ponderación considera relevancia pública, diligencia en el contraste, naturaleza de hechos u opiniones, contexto, forma de difusión y proyección pública de las personas. Sentirse ofendido no determina por sí solo la vulneración, pero la libertad comunicativa tampoco ampara automáticamente cualquier imputación. Debe buscarse un equilibrio razonado entre derechos constitucionales.",
+      "source_note": "Artículos 18.1 y 20 CE; doctrina constitucional; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "secuestro de publicaciones",
+      "section_refs": ["16.1"],
+      "prompt": "El secuestro de publicaciones, grabaciones y otros medios de información solo puede acordarse mediante:",
+      "options": [
+        {"id": "a", "text": "Resolución del órgano administrativo competente"},
+        {"id": "b", "text": "Acuerdo de la mayoría parlamentaria"},
+        {"id": "c", "text": "Resolución judicial"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 20.5 reserva a la resolución judicial el secuestro de publicaciones, grabaciones y otros medios de información. No basta una orden administrativa ni un acuerdo político. Debe diferenciarse esta medida judicial sobre materiales ya producidos de la censura previa, que está prohibida. Ambas reglas protegen la libertad comunicativa, pero operan en momentos y con técnicas constitucionales diferentes.",
+      "source_note": "Artículo 20.5 CE; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q010",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "opinión e información mixta",
+      "section_refs": ["16.1"],
+      "prompt": "Una publicación combina hechos comprobables y valoraciones críticas. Para determinar su protección debe:",
+      "options": [
+        {"id": "a", "text": "Considerarse íntegramente opinión y excluir cualquier exigencia de diligencia"},
+        {"id": "b", "text": "Prohibirse por mezclar información y opiniones"},
+        {"id": "c", "text": "Identificarse el elemento predominante y aplicar a los hechos la exigencia de veracidad diligente"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Muchos mensajes reales combinan relato fáctico y juicio de valor. Debe analizarse qué elemento predomina y separar, cuando sea posible, los hechos de las valoraciones. Los hechos requieren diligencia razonable en su comprobación; las opiniones no son verdaderas o falsas en el mismo sentido, aunque tienen límites. La mezcla no vuelve ilícita la publicación ni elimina automáticamente el requisito de veracidad.",
+      "source_note": "Artículo 20.1.a y d CE; doctrina constitucional; Atestado, apartado 16.1."
+    },
+    {
+      "id": "t02-b04b-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reunión pacífica y sin armas",
+      "section_refs": ["16.2"],
+      "prompt": "El ejercicio del derecho de reunión pacífica y sin armas:",
+      "options": [
+        {"id": "a", "text": "No necesita autorización previa"},
+        {"id": "b", "text": "Requiere siempre permiso gubernativo"},
+        {"id": "c", "text": "Solo está reconocido a asociaciones inscritas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 21.1 reconoce el derecho de reunión pacífica y sin armas y dispone expresamente que su ejercicio no necesita autorización previa. Esto no significa ausencia de regulación ni elimina la comunicación para reuniones en tránsito público y manifestaciones. Autorización y comunicación no son sinónimos: la segunda informa a la autoridad y permite adoptar medidas de protección sin convertir el derecho en una concesión.",
+      "source_note": "Artículo 21.1 CE; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "comunicación de manifestaciones",
+      "section_refs": ["16.2"],
+      "prompt": "Las reuniones en lugares de tránsito público y las manifestaciones:",
+      "options": [
+        {"id": "a", "text": "Necesitan autorización judicial previa"},
+        {"id": "b", "text": "No requieren ninguna comunicación a autoridad alguna"},
+        {"id": "c", "text": "Deben comunicarse previamente a la autoridad, sin que la comunicación sea una solicitud de permiso"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 21.2 exige comunicación previa para reuniones en tránsito público y manifestaciones. No es una autorización: el derecho no nace porque la Administración lo conceda. La comunicación proporciona datos para proteger participantes, terceros y bienes. Solo cabe prohibición cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes, mediante decisión motivada y controlable.",
+      "source_note": "Artículo 21.2 CE y Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "plazo ordinario de comunicación",
+      "section_refs": ["16.2"],
+      "prompt": "Con carácter general, la comunicación de una manifestación debe realizarse con una antelación:",
+      "options": [
+        {"id": "a", "text": "Mínima de diez y máxima de treinta días naturales"},
+        {"id": "b", "text": "Exacta de quince días hábiles"},
+        {"id": "c", "text": "Mínima de veinticuatro y máxima de setenta y dos horas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 8 de la Ley Orgánica 9/1983 fija como regla una antelación mínima de diez días naturales y máxima de treinta. Debe memorizarse tanto la horquilla como el carácter natural de los días. Las veinticuatro horas corresponden al supuesto urgente por causas extraordinarias y graves, no al régimen ordinario. La norma tampoco establece un plazo único de quince días hábiles.",
+      "source_note": "Artículo 8 de la Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "comunicación urgente",
+      "section_refs": ["16.2"],
+      "prompt": "Cuando concurren causas extraordinarias y graves que justifican la urgencia, la comunicación puede hacerse con una antelación mínima de:",
+      "options": [
+        {"id": "a", "text": "Doce horas"},
+        {"id": "b", "text": "Veinticuatro horas"},
+        {"id": "c", "text": "Cuarenta y ocho horas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Ley Orgánica 9/1983 permite comunicar con al menos veinticuatro horas cuando existan causas extraordinarias y graves que justifiquen la urgencia de convocatoria y celebración. No basta una preferencia de los organizadores ni se aplica automáticamente a cualquier convocatoria rápida. Debe diferenciarse este plazo de comunicación del plazo de recurso y del máximo para notificar determinadas decisiones administrativas.",
+      "source_note": "Artículo 8 de la Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "prohibición de manifestaciones",
+      "section_refs": ["16.2"],
+      "prompt": "La autoridad puede prohibir una manifestación cuando existan:",
+      "options": [
+        {"id": "a", "text": "Discrepancias políticas con el mensaje convocante"},
+        {"id": "b", "text": "Molestias ordinarias de tráfico, sin peligro alguno"},
+        {"id": "c", "text": "Razones fundadas de alteración del orden público con peligro para personas o bienes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La causa constitucional exige dos elementos conectados: razones fundadas de alteración del orden público y peligro para personas o bienes. La discrepancia con el contenido reivindicativo es constitucionalmente inadmisible y las molestias ordinarias propias de una manifestación no bastan por sí solas. La prohibición es excepcional y debe motivarse, pudiendo valorarse antes modificaciones menos restrictivas de fecha, lugar o itinerario.",
+      "source_note": "Artículo 21.2 CE y artículo 10 de la Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "modificación y resolución administrativa",
+      "section_refs": ["16.2"],
+      "prompt": "Si aprecia el riesgo constitucionalmente previsto, la autoridad gubernativa puede:",
+      "options": [
+        {"id": "a", "text": "Disolver definitivamente la organización convocante"},
+        {"id": "b", "text": "Prohibir o proponer cambios de fecha, lugar, duración o itinerario mediante resolución motivada"},
+        {"id": "c", "text": "Modificar verbalmente la convocatoria sin explicar los motivos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Ley Orgánica permite prohibir la reunión o proponer modificaciones de fecha, lugar, duración o itinerario cuando concurran razones fundadas, pero exige resolución motivada. La medida debe responder al riesgo y respetar proporcionalidad, considerando alternativas menos restrictivas. La autoridad no adquiere por ello competencia para disolver la entidad convocante ni puede sustituir la motivación por una orden verbal genérica.",
+      "source_note": "Artículo 10 de la Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "plazos de resolución y recurso",
+      "section_refs": ["16.2"],
+      "prompt": "Según la regulación estudiada, la resolución de prohibición o modificación se notifica como máximo en 72 horas y los organizadores pueden interponer el recurso especial en:",
+      "options": [
+        {"id": "a", "text": "Cuarenta y ocho horas"},
+        {"id": "b", "text": "Diez días naturales"},
+        {"id": "c", "text": "Un mes"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La autoridad debe notificar la decisión motivada dentro del máximo de setenta y dos horas desde la comunicación, y los organizadores disponen de cuarenta y ocho horas para interponer el recurso contencioso-administrativo especial. No deben confundirse estos plazos con la comunicación ordinaria de diez a treinta días o la urgente de veinticuatro horas. Cada cifra corresponde a una fase distinta.",
+      "source_note": "Artículo 10 de la Ley Orgánica 9/1983 y artículo 122 LJCA; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "reunión espontánea",
+      "section_refs": ["16.2"],
+      "prompt": "La ausencia de comunicación previa en una concentración espontánea:",
+      "options": [
+        {"id": "a", "text": "Convierte automáticamente la reunión en violenta"},
+        {"id": "b", "text": "Autoriza siempre el uso inmediato de cualquier medio de disolución"},
+        {"id": "c", "text": "No elimina la necesidad de valorar riesgos reales, legalidad, necesidad y proporcionalidad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El incumplimiento de la comunicación puede tener consecuencias jurídicas, pero no transforma por sí mismo una reunión pacífica en violenta ni legitima cualquier respuesta. La actuación pública debe atender al comportamiento real, los riesgos para personas y bienes y los requisitos legales de intervención, protegiendo simultáneamente seguridad y ejercicio del derecho. Comunicación previa y carácter pacífico son cuestiones relacionadas, pero distintas.",
+      "source_note": "Artículo 21 CE y Ley Orgánica 9/1983; Atestado, apartado 16.2."
+    },
+    {
+      "id": "t02-b04b-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "asociaciones ilegales",
+      "section_refs": ["16.3"],
+      "prompt": "Son ilegales, según el artículo 22.2 CE, las asociaciones que:",
+      "options": [
+        {"id": "a", "text": "No soliciten subvenciones públicas"},
+        {"id": "b", "text": "Persigan fines o utilicen medios tipificados como delito"},
+        {"id": "c", "text": "Defiendan ideas minoritarias dentro de la legalidad"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La ilegalidad constitucional se vincula a perseguir fines o utilizar medios tipificados como delito. La defensa pacífica de ideas minoritarias está amparada por el pluralismo y no convierte a una asociación en ilegal. Tampoco la financiación pública determina su licitud. Debe distinguirse esta categoría de las asociaciones secretas y paramilitares, que el apartado quinto declara expresamente prohibidas.",
+      "source_note": "Artículo 22.2 CE; Atestado, apartado 16.3."
+    },
+    {
+      "id": "t02-b04b-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "inscripción registral",
+      "section_refs": ["16.3"],
+      "prompt": "Las asociaciones constituidas al amparo del artículo 22 deben inscribirse en un registro:",
+      "options": [
+        {"id": "a", "text": "A los solos efectos de publicidad"},
+        {"id": "b", "text": "Para que la Administración autorice discrecionalmente su existencia"},
+        {"id": "c", "text": "Únicamente cuando tengan más de cien miembros"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 22.3 establece la inscripción registral a los solos efectos de publicidad. La asociación no nace porque la Administración conceda discrecionalmente un permiso. La legislación desarrolla formalización, personalidad, inscripción y efectos, pero la regla constitucional impide convertir el registro en una autorización política previa. Tampoco existe en el precepto un umbral de cien integrantes.",
+      "source_note": "Artículo 22.3 CE y Ley Orgánica 1/2002; Atestado, apartado 16.3."
+    },
+    {
+      "id": "t02-b04b-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "disolución y suspensión",
+      "section_refs": ["16.3"],
+      "prompt": "La disolución o suspensión de actividades de una asociación solo puede acordarse:",
+      "options": [
+        {"id": "a", "text": "Por resolución administrativa motivada"},
+        {"id": "b", "text": "Por decisión de la mayoría parlamentaria"},
+        {"id": "c", "text": "Mediante resolución judicial motivada"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 22.4 reserva la disolución o suspensión a una resolución judicial motivada. La Administración puede realizar funciones registrales y ejercer acciones conforme a la ley, pero no disolver por sí misma una asociación. La motivación y la intervención judicial protegen el pluralismo y evitan que la continuidad de una entidad dependa de la afinidad política con el poder ejecutivo o legislativo.",
+      "source_note": "Artículo 22.4 CE; Atestado, apartado 16.3."
+    },
+    {
+      "id": "t02-b04b-q022",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "asociaciones prohibidas",
+      "section_refs": ["16.3"],
+      "prompt": "La Constitución prohíbe expresamente las asociaciones:",
+      "options": [
+        {"id": "a", "text": "De ámbito internacional y cultural"},
+        {"id": "b", "text": "Secretas y de carácter paramilitar"},
+        {"id": "c", "text": "Que no reciban financiación pública"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 22.5 prohíbe las asociaciones secretas y las de carácter paramilitar. No debe confundirse «prohibidas» con «ilegales»: estas últimas persiguen fines o utilizan medios tipificados como delito según el apartado segundo. Una asociación cultural o internacional puede ser plenamente lícita y su financiación pública o privada no determina por sí sola su encaje en estas categorías.",
+      "source_note": "Artículo 22.5 CE; Atestado, apartado 16.3."
+    },
+    {
+      "id": "t02-b04b-q023",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "reunión y asociación",
+      "section_refs": ["16.2", "16.3"],
+      "prompt": "La diferencia general entre reunión y asociación es que:",
+      "options": [
+        {"id": "a", "text": "La reunión es una agrupación temporal y la asociación crea una organización con vocación de permanencia"},
+        {"id": "b", "text": "Toda reunión posee personalidad jurídica y toda asociación es ocasional"},
+        {"id": "c", "text": "La reunión requiere registro y la asociación nunca puede inscribirse"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La reunión agrupa temporalmente a personas para una finalidad, mientras la asociación constituye una organización con cierta permanencia y estructura. Esto explica que las reglas sobre comunicación de manifestaciones y las relativas a registro asociativo respondan a realidades distintas. Una manifestación no adquiere personalidad jurídica por celebrarse y una asociación puede inscribirse a efectos de publicidad sin necesitar autorización política.",
+      "source_note": "Artículos 21 y 22 CE; Atestado, apartados 16.2 y 16.3."
+    },
+    {
+      "id": "t02-b04b-q024",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "participación política",
+      "section_refs": ["16.4"],
+      "prompt": "El artículo 23.1 reconoce a los ciudadanos el derecho a participar en los asuntos públicos:",
+      "options": [
+        {"id": "a", "text": "Solo directamente y sin representantes"},
+        {"id": "b", "text": "Directamente o por representantes libremente elegidos en elecciones periódicas por sufragio universal"},
+        {"id": "c", "text": "Únicamente mediante partidos políticos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 23.1 contempla participación directa o por medio de representantes libremente elegidos en elecciones periódicas por sufragio universal. Los partidos son instrumentos fundamentales, pero no agotan todas las vías de participación constitucional. Tampoco la democracia española es exclusivamente directa. La pregunta exige retener las dos modalidades y las características de la elección representativa.",
+      "source_note": "Artículo 23.1 CE; Atestado, apartado 16.4."
+    },
+    {
+      "id": "t02-b04b-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "acceso a funciones y cargos",
+      "section_refs": ["16.4"],
+      "prompt": "El artículo 23.2 reconoce el derecho a acceder a funciones y cargos públicos:",
+      "options": [
+        {"id": "a", "text": "En condiciones de igualdad, con los requisitos que señalen las leyes"},
+        {"id": "b", "text": "Sin necesidad de cumplir requisitos legales de ninguna clase"},
+        {"id": "c", "text": "Con garantía constitucional de obtener siempre la plaza solicitada"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El derecho es acceder en condiciones de igualdad a funciones y cargos públicos con los requisitos que señalen las leyes. Conecta con mérito y capacidad en el empleo público, pero no garantiza a una persona concreta obtener una plaza ni elimina los requisitos legítimos del proceso. Protege frente a exclusiones o desigualdades contrarias al ordenamiento y exige que las reglas de acceso se apliquen de forma igualitaria.",
+      "source_note": "Artículos 23.2 y 103.3 CE; Atestado, apartado 16.4."
+    }
+  ]
+}

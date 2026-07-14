@@ -1,0 +1,452 @@
+{
+  "id": "t02-b02b-estado-derecho-social-organizacion-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 2B · Estado de Derecho, Estado social y organización básica",
+    "short_title": "Estado de Derecho, social y organización",
+    "description": "Comprueba si sabes diferenciar los pilares del Estado de Derecho y del Estado social y aplicar los tres apartados del artículo 9, con especial atención a sus siete garantías y a la irretroactividad. También trabaja la Monarquía parlamentaria, la unidad, autonomía y solidaridad del artículo 2 y la literalidad de los artículos 3, 4, 5, 7 y 8. Incluye supuestos breves y trampas sobre forma de Estado, forma política, organización territorial, lenguas, banderas, sindicatos y Fuerzas Armadas.",
+    "theme_number": 2,
+    "block_number": "2B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["8", "8.1", "8.2", "8.3", "9", "9.1", "9.2", "10", "11", "11.1"],
+    "concepts": [
+      "Estado de Derecho",
+      "sujeción a la Constitución y al ordenamiento",
+      "garantías del artículo 9.3",
+      "irretroactividad constitucional",
+      "Estado social y artículo 9.2",
+      "Monarquía parlamentaria",
+      "unidad, autonomía y solidaridad",
+      "lenguas y banderas",
+      "capital del Estado",
+      "sindicatos y asociaciones empresariales",
+      "Fuerzas Armadas"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b02b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Estado de Derecho",
+      "section_refs": ["8"],
+      "prompt": "La idea constitucional de Estado de Derecho significa principalmente que:",
+      "options": [
+        {"id": "a", "text": "El poder está limitado por el Derecho, sometido a la Constitución y sujeto a controles"},
+        {"id": "b", "text": "Toda decisión pública es válida si persigue una finalidad útil"},
+        {"id": "c", "text": "La existencia de cualquier ley basta, aunque contradiga la Constitución"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Estado de Derecho no se reduce a que existan leyes: exige que los poderes actúen dentro de competencias, procedimientos y límites jurídicos, respeten la Constitución y puedan ser controlados. Una finalidad útil no sana una actuación ilegal y una ley contraria a la Constitución no queda legitimada por el mero hecho de haber sido aprobada. La clave de examen es unir poder, límite jurídico y control.",
+      "source_note": "Artículos 1.1 y 9 CE; Atestado, apartado 8."
+    },
+    {
+      "id": "t02-b02b-q002",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "elementos del Estado de Derecho",
+      "section_refs": ["8.1"],
+      "prompt": "¿Qué grupo contiene únicamente elementos propios del Estado de Derecho?",
+      "options": [
+        {"id": "a", "text": "Soberanía autonómica, censura previa y ausencia de responsabilidad pública"},
+        {"id": "b", "text": "Supremacía constitucional, imperio de la ley, garantía de derechos e independencia judicial"},
+        {"id": "c", "text": "Concentración de poderes, normas secretas y discrecionalidad sin control"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "Son pilares del Estado de Derecho la supremacía constitucional, el imperio de la ley, la separación funcional de poderes, la garantía de los derechos, la legalidad administrativa, la independencia judicial, el control de constitucionalidad y la responsabilidad pública. La concentración del poder, las normas secretas o la actuación inmune al control representan justamente su negación. Las comunidades autónomas poseen autonomía, no soberanía propia.",
+      "source_note": "Artículos 1.1, 9, 103, 106 y 117 CE; Atestado, apartado 8.1."
+    },
+    {
+      "id": "t02-b02b-q003",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "sujeción al ordenamiento",
+      "section_refs": ["8.2"],
+      "prompt": "Según el artículo 9.1 CE, están sujetos a la Constitución y al resto del ordenamiento jurídico:",
+      "options": [
+        {"id": "a", "text": "Solo los ciudadanos"},
+        {"id": "b", "text": "Exclusivamente los poderes públicos"},
+        {"id": "c", "text": "Los ciudadanos y los poderes públicos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 9.1 menciona expresamente a los ciudadanos y a los poderes públicos. La sujeción es común, aunque su posición no sea idéntica: el particular dispone, como regla general, de libertad dentro del ordenamiento, mientras la Administración necesita una potestad atribuida y debe ejercerla para la finalidad legal. Las respuestas que excluyen a uno de los dos grupos rompen la literalidad del precepto.",
+      "source_note": "Artículo 9.1 CE; Atestado, apartado 8.2."
+    },
+    {
+      "id": "t02-b02b-q004",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "vinculación de Administración y ciudadanos",
+      "section_refs": ["8.2"],
+      "prompt": "Una autoridad adopta una medida no prevista por el ordenamiento porque considera que producirá un buen resultado. Desde el Estado de Derecho:",
+      "options": [
+        {"id": "a", "text": "La utilidad no sustituye la competencia, el procedimiento, la finalidad legal ni la proporcionalidad"},
+        {"id": "b", "text": "La medida es válida siempre que no reciba oposición ciudadana"},
+        {"id": "c", "text": "La Administración puede hacer todo lo que no tenga expresamente prohibido"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Administración no actúa con la libertad general propia de los particulares, sino mediante potestades atribuidas por el ordenamiento y sometidas a competencia, procedimiento, finalidad y control. Una buena intención o un resultado eficaz no crean una habilitación inexistente. En los supuestos policiales esta es una trampa frecuente: eficacia y oportunidad deben desenvolverse siempre dentro de la legalidad y la proporcionalidad.",
+      "source_note": "Artículos 9.1, 103.1 y 106.1 CE; Atestado, apartados 8.2 y 8.3."
+    },
+    {
+      "id": "t02-b02b-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "garantías del artículo 9.3",
+      "section_refs": ["8.3"],
+      "prompt": "¿Cuál es la enumeración correcta de las garantías del artículo 9.3 CE?",
+      "options": [
+        {"id": "a", "text": "Libertad, justicia, igualdad, pluralismo, unidad, autonomía y solidaridad"},
+        {"id": "b", "text": "Legalidad, jerarquía normativa, publicidad, irretroactividad en los casos previstos, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad"},
+        {"id": "c", "text": "Dignidad, libre desarrollo, tutela judicial, proporcionalidad, eficacia, coordinación y descentralización"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 9.3 contiene siete garantías: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de ciertas disposiciones, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos. Los otros grupos mezclan valores del artículo 1.1, principios del artículo 2, fundamentos del artículo 10.1 y principios administrativos. La mnemotecnia del tema es LE-JE-PU-I-SE-RE-IN.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 8.3."
+    },
+    {
+      "id": "t02-b02b-q006",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "delimitación del artículo 9.3",
+      "section_refs": ["8.3"],
+      "prompt": "¿Cuál de los siguientes conceptos no aparece expresamente en el artículo 9.3 CE?",
+      "options": [
+        {"id": "a", "text": "Seguridad jurídica"},
+        {"id": "b", "text": "Responsabilidad"},
+        {"id": "c", "text": "Proporcionalidad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Seguridad jurídica y responsabilidad sí forman parte de la enumeración literal del artículo 9.3. La proporcionalidad es un principio jurídico decisivo y aparece en numerosos ámbitos, pero no figura nominalmente en esa lista. El examen suele introducir conceptos verdaderos y constitucionalmente relevantes para comprobar si el aspirante conoce una enumeración concreta, no solo si reconoce términos jurídicos plausibles.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 8.3."
+    },
+    {
+      "id": "t02-b02b-q007",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "irretroactividad",
+      "section_refs": ["8.3"],
+      "prompt": "El artículo 9.3 CE garantiza la irretroactividad de:",
+      "options": [
+        {"id": "a", "text": "Las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"},
+        {"id": "b", "text": "Toda norma nueva que resulte desfavorable para cualquier interés"},
+        {"id": "c", "text": "Únicamente las leyes penales, pero no las disposiciones administrativas sancionadoras"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La fórmula constitucional no prohíbe toda retroactividad desfavorable. Se refiere a las disposiciones sancionadoras no favorables y a las restrictivas de derechos individuales. Tampoco queda limitada al Derecho penal: alcanza el ámbito sancionador en sentido más amplio. La trampa consiste en transformar una garantía delimitada en una prohibición general o, al contrario, reducirla indebidamente a las penas criminales.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 8.3."
+    },
+    {
+      "id": "t02-b02b-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "publicidad normativa",
+      "section_refs": ["8.3"],
+      "prompt": "La publicidad de las normas persigue principalmente que:",
+      "options": [
+        {"id": "a", "text": "Toda norma deba difundirse mediante campañas institucionales"},
+        {"id": "b", "text": "Las normas sean accesibles y cognoscibles mediante su publicación oficial antes de exigirse"},
+        {"id": "c", "text": "Solo las leyes, y nunca los reglamentos, necesiten publicación"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La garantía de publicidad impide exigir el cumplimiento de normas secretas y conecta con su publicación oficial, conocimiento posible y entrada en vigor. No obliga a realizar campañas divulgativas ni se limita a las leyes parlamentarias: las disposiciones generales también requieren la publicidad prevista por el ordenamiento. Publicidad no significa que cada ciudadano deba conocer efectivamente la norma, sino que pueda acceder a ella.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 8.3."
+    },
+    {
+      "id": "t02-b02b-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "interdicción de la arbitrariedad",
+      "section_refs": ["8.3"],
+      "prompt": "La interdicción de la arbitrariedad de los poderes públicos impide:",
+      "options": [
+        {"id": "a", "text": "Cualquier decisión que admita más de una solución jurídicamente posible"},
+        {"id": "b", "text": "Toda potestad discrecional reconocida por la ley"},
+        {"id": "c", "text": "Decisiones caprichosas, inmotivadas o carentes de justificación objetiva"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Arbitrariedad no equivale a discrecionalidad. La ley puede permitir elegir entre varias soluciones legítimas, pero la elección debe perseguir la finalidad prevista, apoyarse en razones y respetar límites como igualdad y proporcionalidad. Lo prohibido es decidir caprichosamente o sin justificación objetiva. Por ello, que existan varias alternativas legales no hace arbitraria la decisión; lo decisivo es cómo y por qué se adopta.",
+      "source_note": "Artículo 9.3 CE; Atestado, apartado 8.3."
+    },
+    {
+      "id": "t02-b02b-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "legalidad y responsabilidad",
+      "section_refs": ["8.1", "8.3"],
+      "prompt": "En un Estado de Derecho, una actuación pública contraria al ordenamiento:",
+      "options": [
+        {"id": "a", "text": "Puede ser controlada y generar las consecuencias o responsabilidades establecidas legalmente"},
+        {"id": "b", "text": "Queda convalidada si fue dictada por una autoridad superior"},
+        {"id": "c", "text": "Solo puede revisarse cuando constituya delito"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El control jurídico y la responsabilidad de los poderes públicos son elementos del Estado de Derecho. La posición jerárquica de quien decide no convierte en válida una actuación ilegal, y el control no se limita al proceso penal: puede existir revisión administrativa, contencioso-administrativa, constitucional u otra respuesta prevista. Debe distinguirse entre invalidez del acto, responsabilidad patrimonial y responsabilidad personal, que no son automáticamente lo mismo.",
+      "source_note": "Artículos 9.3, 106 y 121 CE; Atestado, apartados 8.1 y 8.3."
+    },
+    {
+      "id": "t02-b02b-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "mandatos del artículo 9.2",
+      "section_refs": ["9.1"],
+      "prompt": "El artículo 9.2 CE encomienda a los poderes públicos:",
+      "options": [
+        {"id": "a", "text": "Garantizar que todas las personas alcancen idénticos resultados materiales"},
+        {"id": "b", "text": "Promover libertad e igualdad reales y efectivas, remover obstáculos y facilitar la participación"},
+        {"id": "c", "text": "Sustituir la iniciativa social y económica de los ciudadanos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 9.2 contiene tres grandes mandatos: promover las condiciones para que libertad e igualdad sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud; y facilitar la participación en la vida política, económica, cultural y social. No promete identidad absoluta de resultados ni elimina la iniciativa individual. Su sentido es exigir una actuación pública que haga efectivos los valores constitucionales.",
+      "source_note": "Artículo 9.2 CE; Atestado, apartado 9.1."
+    },
+    {
+      "id": "t02-b02b-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "Estado social y exigibilidad",
+      "section_refs": ["9", "9.2"],
+      "prompt": "La proclamación de España como Estado social implica que:",
+      "options": [
+        {"id": "a", "text": "Todos los objetivos sociales son derechos fundamentales protegidos directamente por amparo"},
+        {"id": "b", "text": "Los principios rectores carecen de toda eficacia jurídica"},
+        {"id": "c", "text": "Los poderes asumen tareas sociales, pero la garantía y exigibilidad de cada mandato dependen de su ubicación y desarrollo constitucional"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El Estado social exige intervención para corregir desigualdades y procurar condiciones materiales dignas, pero no convierte automáticamente todo objetivo social en derecho fundamental susceptible de amparo. Los principios rectores sí poseen eficacia constitucional: informan la legislación, la práctica judicial y la actuación pública, aunque su alegación jurisdiccional depende de las leyes que los desarrollen. Ubicación y sistema de garantías son claves.",
+      "source_note": "Artículos 1.1, 9.2 y 53.3 CE; Atestado, apartados 9 y 9.2."
+    },
+    {
+      "id": "t02-b02b-q013",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "manifestaciones del Estado social",
+      "section_refs": ["9.2"],
+      "prompt": "¿Cuál de las siguientes constituye una manifestación constitucional del Estado social?",
+      "options": [
+        {"id": "a", "text": "La protección de la salud, la Seguridad Social y un sistema tributario justo inspirado en igualdad y progresividad"},
+        {"id": "b", "text": "La prohibición de toda intervención pública en la economía"},
+        {"id": "c", "text": "La eliminación constitucional de los derechos laborales colectivos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El Estado social se manifiesta en los principios rectores, la Seguridad Social, la protección de la salud, familia, vivienda y medio ambiente, los derechos laborales y un sistema tributario justo inspirado en igualdad y progresividad. La Constitución no prohíbe toda intervención económica ni elimina la dimensión colectiva del trabajo. Al contrario, reconoce capacidad pública de actuación y derechos como libertad sindical y huelga.",
+      "source_note": "Artículos 28, 31, 39 a 52 y 128 CE; Atestado, apartado 9.2."
+    },
+    {
+      "id": "t02-b02b-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "igualdad real",
+      "section_refs": ["9.1"],
+      "prompt": "Una medida pública trata de compensar una desventaja material acreditada. Desde el artículo 9.2 CE:",
+      "options": [
+        {"id": "a", "text": "Es necesariamente inconstitucional porque toda diferencia de trato está prohibida"},
+        {"id": "b", "text": "Puede ser legítima si persigue igualdad real con justificación objetiva y proporcionada"},
+        {"id": "c", "text": "Es siempre válida, aunque carezca de finalidad legítima o sea desproporcionada"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La igualdad real permite adoptar medidas que corrijan desventajas, pero no concede una autorización ilimitada. La diferencia debe perseguir una finalidad constitucionalmente legítima y ser objetiva, razonable y proporcionada. La igualdad formal del artículo 14 y el mandato transformador del artículo 9.2 se complementan: una medida compensatoria puede ser válida, pero también puede ser discriminatoria si carece de justificación suficiente.",
+      "source_note": "Artículos 9.2 y 14 CE; Atestado, apartados 6.3 y 9.1."
+    },
+    {
+      "id": "t02-b02b-q015",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "riqueza e interés general",
+      "section_refs": ["9.2"],
+      "prompt": "Según la Constitución, toda la riqueza del país en sus distintas formas y sea cual fuere su titularidad:",
+      "options": [
+        {"id": "a", "text": "Pertenece jurídicamente al Estado"},
+        {"id": "b", "text": "Está excluida de cualquier intervención pública"},
+        {"id": "c", "text": "Está subordinada al interés general"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 128.1 declara que toda la riqueza del país, en sus distintas formas y cualquiera que sea su titularidad, está subordinada al interés general. Esto no significa que toda riqueza pase a ser propiedad estatal ni que desaparezca la propiedad privada. Expresa la dimensión social del orden económico constitucional y permite medidas legales orientadas al interés general dentro de las garantías correspondientes.",
+      "source_note": "Artículo 128.1 CE; Atestado, apartado 9.2."
+    },
+    {
+      "id": "t02-b02b-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Monarquía parlamentaria",
+      "section_refs": ["10"],
+      "prompt": "El artículo 1.3 CE define como forma política del Estado español:",
+      "options": [
+        {"id": "a", "text": "La Monarquía parlamentaria"},
+        {"id": "b", "text": "El Estado autonómico"},
+        {"id": "c", "text": "El Estado social y democrático de Derecho"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La literalidad del artículo 1.3 establece que la forma política del Estado español es la Monarquía parlamentaria. Estado social y democrático de Derecho es la fórmula del artículo 1.1, mientras Estado autonómico es una denominación doctrinal del modelo territorial derivado principalmente de los artículos 2 y 137 y del Título VIII. La pregunta mezcla tres expresiones correctas, pero de categorías diferentes.",
+      "source_note": "Artículos 1.1, 1.3, 2 y 137 CE; Atestado, apartado 10."
+    },
+    {
+      "id": "t02-b02b-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "dirección política",
+      "section_refs": ["10"],
+      "prompt": "En la Monarquía parlamentaria española, la dirección de la política interior y exterior corresponde:",
+      "options": [
+        {"id": "a", "text": "Al Rey, por ostentar la Jefatura del Estado"},
+        {"id": "b", "text": "Al Gobierno, que responde políticamente ante el Congreso"},
+        {"id": "c", "text": "Al Tribunal Constitucional, como intérprete supremo de la Constitución"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y responde solidariamente de su gestión política ante el Congreso. El Rey es jefe del Estado y ejerce las funciones constitucionales atribuidas, pero no dirige la política gubernamental. El Tribunal Constitucional controla la constitucionalidad en los términos previstos, no gobierna ni asume dirección política.",
+      "source_note": "Artículos 56, 97 y 108 CE; Atestado, apartado 10."
+    },
+    {
+      "id": "t02-b02b-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "refrendo",
+      "section_refs": ["10"],
+      "prompt": "Como regla general, los actos del Rey:",
+      "options": [
+        {"id": "a", "text": "Son decisiones políticas autónomas que no necesitan intervención de otra autoridad"},
+        {"id": "b", "text": "Son siempre refrendados exclusivamente por el presidente del Congreso"},
+        {"id": "c", "text": "Están sujetos a refrendo en los términos constitucionales, asumiendo la responsabilidad quien los refrenda"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La regla constitucional es que los actos del Rey sean refrendados por las autoridades previstas, que asumen la responsabilidad. No todos corresponden al presidente del Congreso: normalmente refrendan el presidente del Gobierno o los ministros competentes, con supuestos concretos atribuidos al presidente del Congreso. Esta técnica explica que la Corona ejerza funciones constitucionales sin asumir la dirección política ni responsabilidad propia por esos actos.",
+      "source_note": "Artículos 56.3 y 64 CE; Atestado, apartado 10."
+    },
+    {
+      "id": "t02-b02b-q019",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "clasificación constitucional",
+      "section_refs": ["9", "10", "11"],
+      "prompt": "¿Qué correspondencia es correcta?",
+      "options": [
+        {"id": "a", "text": "Forma de Estado: social y democrático de Derecho; forma política: Monarquía parlamentaria; organización territorial: modelo autonómico"},
+        {"id": "b", "text": "Forma política: Estado social; forma de Estado: Monarquía; organización territorial: soberanía autonómica"},
+        {"id": "c", "text": "Forma de Estado: Estado autonómico; forma política: Estado de Derecho; organización territorial: Monarquía parlamentaria"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La clasificación didáctica distingue la definición del Estado como social y democrático de Derecho, la forma política de Monarquía parlamentaria y la organización territorial descentralizada o autonómica. Aunque la terminología doctrinal puede matizarse, esta correspondencia evita la trampa de intercambiar categorías. Además, autonomía territorial no significa soberanía de cada comunidad, pues la soberanía nacional reside en el pueblo español.",
+      "source_note": "Artículos 1, 2 y 137 CE; Atestado, apartados 9 a 11."
+    },
+    {
+      "id": "t02-b02b-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "artículo 2",
+      "section_refs": ["11"],
+      "prompt": "El artículo 2 CE combina expresamente:",
+      "options": [
+        {"id": "a", "text": "Federalismo, confederación y libre separación"},
+        {"id": "b", "text": "Unidad de la Nación española, autonomía de nacionalidades y regiones y solidaridad"},
+        {"id": "c", "text": "Soberanía de cada comunidad, independencia territorial y cooperación voluntaria"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 2 se fundamenta en la indisoluble unidad de la Nación española, reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y proclama la solidaridad entre todas ellas. No establece soberanías territoriales ni derecho de separación. Unidad, autonomía y solidaridad deben estudiarse como componentes simultáneos del mismo modelo, no como opciones incompatibles entre sí.",
+      "source_note": "Artículo 2 CE; Atestado, apartado 11."
+    },
+    {
+      "id": "t02-b02b-q021",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "autonomía y soberanía",
+      "section_refs": ["11"],
+      "prompt": "La autonomía de las comunidades autónomas:",
+      "options": [
+        {"id": "a", "text": "Equivale a soberanía originaria e ilimitada"},
+        {"id": "b", "text": "Permite desconocer unilateralmente el reparto constitucional de competencias"},
+        {"id": "c", "text": "Se ejerce dentro de la Constitución, el estatuto y el sistema competencial, sin confundirse con soberanía"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Autonomía es capacidad de autogobierno dentro del marco constitucional; no es soberanía originaria ni poder ilimitado. Las comunidades ejercen competencias conforme a la Constitución, sus estatutos y las normas que articulan el reparto competencial. La soberanía nacional reside en el pueblo español según el artículo 1.2. Esta diferencia conceptual es una de las trampas más repetidas al estudiar el artículo 2.",
+      "source_note": "Artículos 1.2, 2 y 137 CE; Atestado, apartado 11."
+    },
+    {
+      "id": "t02-b02b-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "régimen lingüístico",
+      "section_refs": ["11.1"],
+      "prompt": "De acuerdo con el artículo 3 CE:",
+      "options": [
+        {"id": "a", "text": "El castellano es oficial del Estado; todos los españoles deben conocerlo y pueden usarlo; las demás lenguas serán también oficiales en sus comunidades según sus estatutos"},
+        {"id": "b", "text": "Todas las lenguas españolas son oficiales en todo el territorio y existe idéntico deber constitucional de conocerlas"},
+        {"id": "c", "text": "Las demás lenguas españolas solo pueden utilizarse en relaciones privadas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 3 declara oficial del Estado al castellano y atribuye a todos los españoles el deber de conocerlo y el derecho a usarlo. Las demás lenguas españolas serán también oficiales en las respectivas comunidades autónomas de acuerdo con sus estatutos. El precepto no establece para ellas un deber general de conocimiento idéntico al del castellano ni limita su uso al ámbito privado.",
+      "source_note": "Artículo 3 CE; Atestado, apartado 11.1."
+    },
+    {
+      "id": "t02-b02b-q023",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "bandera y capital",
+      "section_refs": ["11.1"],
+      "prompt": "Señale la afirmación constitucionalmente correcta:",
+      "options": [
+        {"id": "a", "text": "La capital es la ciudad de Madrid y la franja amarilla de la bandera tiene igual anchura que las rojas"},
+        {"id": "b", "text": "La capital es la villa de Madrid y las banderas autonómicas se usan junto a la española en edificios públicos y actos oficiales"},
+        {"id": "c", "text": "La capital se fija por ley orgánica y las banderas autonómicas sustituyen a la española en sus edificios públicos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 5 emplea la expresión exacta «villa de Madrid». El artículo 4 dispone que la bandera tiene franjas horizontales roja, amarilla y roja, siendo la amarilla de doble anchura que cada roja, y que las banderas autonómicas reconocidas estatutariamente se utilizan junto a la española en edificios públicos y actos oficiales. Ni la sustituyen ni la capital queda remitida a una ley orgánica.",
+      "source_note": "Artículos 4 y 5 CE; Atestado, apartado 11.1."
+    },
+    {
+      "id": "t02-b02b-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "sindicatos y asociaciones empresariales",
+      "section_refs": ["11.1"],
+      "prompt": "Según el artículo 7 CE, los sindicatos de trabajadores y las asociaciones empresariales:",
+      "options": [
+        {"id": "a", "text": "Son órganos constitucionales integrados en la Administración"},
+        {"id": "b", "text": "Solo pueden crearse mediante autorización previa del Gobierno"},
+        {"id": "c", "text": "Defienden y promueven intereses económicos y sociales propios; su creación y actividad son libres y su estructura y funcionamiento deben ser democráticos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 7 atribuye a sindicatos y asociaciones empresariales la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y actividad son libres dentro del respeto a la Constitución y a la ley, y su estructura interna y funcionamiento deben ser democráticos. No son órganos administrativos ni la Constitución condiciona su creación a una autorización gubernativa previa.",
+      "source_note": "Artículo 7 CE; Atestado, apartado 11.1."
+    },
+    {
+      "id": "t02-b02b-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "Fuerzas Armadas",
+      "section_refs": ["11.1"],
+      "prompt": "Conforme a la literalidad del artículo 8 CE, las Fuerzas Armadas:",
+      "options": [
+        {"id": "a", "text": "Están constituidas por Ejército de Tierra, Armada y Ejército del Aire, y garantizan soberanía e independencia, integridad territorial y ordenamiento constitucional"},
+        {"id": "b", "text": "Incluyen a las Fuerzas y Cuerpos de Seguridad y dependen de una ley ordinaria de organización"},
+        {"id": "c", "text": "Tienen como única misión la defensa exterior y su organización se regula por reglamento"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 8 enumera Ejército de Tierra, Armada y Ejército del Aire y les atribuye tres misiones: garantizar la soberanía e independencia de España, defender su integridad territorial y defender el ordenamiento constitucional. Las Fuerzas y Cuerpos de Seguridad no integran esa enumeración, pues se contemplan en el artículo 104. Además, las bases de la organización militar deben regularse mediante ley orgánica.",
+      "source_note": "Artículos 8 y 104 CE; Atestado, apartado 11.1."
+    }
+  ]
+}

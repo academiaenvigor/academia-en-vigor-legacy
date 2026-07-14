@@ -1,0 +1,452 @@
+{
+  "id": "t02-b05a-defensa-tributos-matrimonio-propiedad-fundacion-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 5A · Defensa, tributos, matrimonio, propiedad y fundación",
+    "short_title": "Derechos y deberes de los artículos 30 a 34",
+    "description": "Inicia la Sección 2.ª con los derechos y deberes de los artículos 30 a 34. Comprueba si dominas la defensa de España, las obligaciones militares, la objeción de conciencia, el servicio civil y los deberes ante catástrofes; los principios tributarios y del gasto público; la regulación constitucional del matrimonio; y la propiedad, herencia, expropiación y fundaciones. Incorpora trampas sobre titulares, reserva de ley, progresividad, confiscatoriedad, indemnización y remisiones entre artículos.",
+    "theme_number": 2,
+    "block_number": "5A",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["19", "19.1", "19.2", "19.3", "19.4", "19.5"],
+    "concepts": [
+      "derecho y deber de defender España",
+      "obligaciones militares y objeción de conciencia",
+      "servicio civil y deberes ante emergencias",
+      "capacidad económica y sistema tributario justo",
+      "igualdad, progresividad y no confiscatoriedad",
+      "asignación del gasto, eficiencia y economía",
+      "prestaciones públicas y reserva de ley",
+      "matrimonio y plena igualdad jurídica",
+      "propiedad privada, herencia y función social",
+      "garantías de la privación de bienes",
+      "fundaciones y remisiones al artículo 22"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b05a-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "defensa de España",
+      "section_refs": ["19.1"],
+      "prompt": "El artículo 30.1 CE reconoce el derecho y el deber de defender España:",
+      "options": [
+        {"id": "a", "text": "A toda persona que se encuentre en territorio español"},
+        {"id": "b", "text": "A los españoles"},
+        {"id": "c", "text": "Únicamente a los miembros de las Fuerzas Armadas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La literalidad del artículo 30.1 utiliza como sujeto a «los españoles» y configura simultáneamente un derecho y un deber de defender España. No se limita a los miembros profesionales de las Fuerzas Armadas ni se atribuye con esa fórmula a toda persona presente en el territorio. Como en otros preceptos, cambiar el titular exacto convierte una respuesta aparentemente razonable en incorrecta.",
+      "source_note": "Artículo 30.1 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "obligaciones militares",
+      "section_refs": ["19.1"],
+      "prompt": "La determinación de las obligaciones militares de los españoles corresponde:",
+      "options": [
+        {"id": "a", "text": "A la ley"},
+        {"id": "b", "text": "A cada ayuntamiento mediante ordenanza"},
+        {"id": "c", "text": "A instrucciones internas sin publicación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 30.2 dispone que la ley fijará las obligaciones militares de los españoles. La materia no puede quedar creada por ordenanzas locales ni por instrucciones internas carentes de publicidad y rango suficiente. Debe distinguirse la previsión constitucional de las concretas decisiones legislativas sobre el modelo de Fuerzas Armadas y la situación del servicio militar obligatorio.",
+      "source_note": "Artículo 30.2 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "objeción de conciencia",
+      "section_refs": ["19.1"],
+      "prompt": "En relación con el servicio militar obligatorio, la Constitución encomienda a la ley regular:",
+      "options": [
+        {"id": "a", "text": "Solo la duración, sin causas de exención"},
+        {"id": "b", "text": "Únicamente las sanciones por incumplimiento"},
+        {"id": "c", "text": "La objeción de conciencia y las demás causas de exención, con las debidas garantías"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 30.2 menciona expresamente la objeción de conciencia y las demás causas de exención del servicio militar obligatorio y exige que se regulen con las debidas garantías. Añade la posibilidad de imponer una prestación social sustitutoria. Aunque el servicio militar esté suspendido en la práctica, esta literalidad permanece en el texto constitucional y puede ser objeto de examen.",
+      "source_note": "Artículo 30.2 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q004",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "amparo de la objeción de conciencia",
+      "section_refs": ["19.1"],
+      "prompt": "La objeción de conciencia del artículo 30.2 puede ser protegida mediante recurso de amparo:",
+      "options": [
+        {"id": "a", "text": "Porque todo el artículo 30 pertenece a la Sección 1.ª"},
+        {"id": "b", "text": "Por la previsión expresa del artículo 53.2, pese a estar en la Sección 2.ª"},
+        {"id": "c", "text": "Solo si una ley ordinaria decide convertirla en derecho fundamental"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 30 está en la Sección 2.ª, pero el artículo 53.2 incluye expresamente la objeción de conciencia reconocida en el artículo 30 entre los derechos susceptibles de amparo. Es una excepción que debe memorizarse: la protección no deriva de una supuesta ubicación en la Sección 1.ª ni depende de que una ley ordinaria pueda modificar el ámbito constitucional del amparo.",
+      "source_note": "Artículos 30.2 y 53.2 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "servicio civil",
+      "section_refs": ["19.1"],
+      "prompt": "El artículo 30.3 establece que podrá crearse un servicio civil:",
+      "options": [
+        {"id": "a", "text": "Para el cumplimiento de fines de interés general"},
+        {"id": "b", "text": "Exclusivamente como sanción administrativa"},
+        {"id": "c", "text": "Solo para sustituir empleos privados"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución utiliza una formulación potestativa: «Podrá establecerse un servicio civil para el cumplimiento de fines de interés general». No lo configura como sanción ni como mecanismo para sustituir puestos de trabajo privados. Debe distinguirse este servicio civil del apartado tercero de la prestación social sustitutoria que podía imponerse en relación con la objeción de conciencia del apartado segundo.",
+      "source_note": "Artículo 30.3 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "deberes ante emergencias",
+      "section_refs": ["19.1"],
+      "prompt": "Mediante ley podrán regularse deberes de los ciudadanos en casos de:",
+      "options": [
+        {"id": "a", "text": "Cualquier inconveniente cotidiano decidido por la Administración"},
+        {"id": "b", "text": "Únicamente conflicto armado internacional"},
+        {"id": "c", "text": "Grave riesgo, catástrofe o calamidad pública"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 30.4 contiene una lista concreta: grave riesgo, catástrofe o calamidad pública. Estos deberes requieren ley y no pueden crearse libremente para cualquier molestia ordinaria mediante una orden administrativa. Tampoco se reducen a situaciones bélicas. El precepto proporciona fundamento constitucional a obligaciones de colaboración o protección civil dentro de los términos legales.",
+      "source_note": "Artículo 30.4 CE; Atestado, apartado 19.1."
+    },
+    {
+      "id": "t02-b05a-q007",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "deber tributario",
+      "section_refs": ["19.2"],
+      "prompt": "Conforme al artículo 31.1, contribuirán al sostenimiento de los gastos públicos:",
+      "options": [
+        {"id": "a", "text": "Todos, de acuerdo con su capacidad económica"},
+        {"id": "b", "text": "Solo los españoles mayores de veinticinco años"},
+        {"id": "c", "text": "Únicamente las personas jurídicas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El precepto comienza con «Todos contribuirán» y conecta el deber con la capacidad económica. No restringe literalmente la obligación a españoles, determinada edad o personas jurídicas. La capacidad económica sirve como criterio básico de justicia tributaria: la contribución debe guardar relación con manifestaciones de riqueza, dentro del sistema creado por ley y respetando los demás principios constitucionales.",
+      "source_note": "Artículo 31.1 CE; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principios tributarios",
+      "section_refs": ["19.2"],
+      "prompt": "El sistema tributario del artículo 31.1 debe ser:",
+      "options": [
+        {"id": "a", "text": "Proporcional en todos sus tributos y sin excepciones"},
+        {"id": "b", "text": "Idéntico para todas las personas, con independencia de su capacidad"},
+        {"id": "c", "text": "Justo, inspirado en igualdad y progresividad y sin alcance confiscatorio"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución exige un sistema tributario justo inspirado en los principios de igualdad y progresividad que no tenga alcance confiscatorio. No impone que cada tributo sea proporcional ni que todas las personas paguen la misma cantidad. Igualdad tributaria se conecta con capacidad económica y admite tratamientos distintos cuando se apoyan en criterios objetivos y coherentes con la justicia del sistema.",
+      "source_note": "Artículo 31.1 CE; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q009",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "progresividad del sistema",
+      "section_refs": ["19.2"],
+      "prompt": "La progresividad constitucional se predica principalmente:",
+      "options": [
+        {"id": "a", "text": "De cada tasa y precio público considerado aisladamente"},
+        {"id": "b", "text": "Del sistema tributario en su conjunto, sin exigir idéntica estructura a cada tributo"},
+        {"id": "c", "text": "Solo del gasto público, pero no de los ingresos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 31.1 califica al sistema tributario, por lo que la progresividad se valora esencialmente en el conjunto y no obliga a que cada figura aislada sea progresiva. Pueden coexistir impuestos progresivos con tributos proporcionales u otras figuras, siempre que el resultado sistémico respete justicia, igualdad, capacidad y no confiscatoriedad. El gasto tiene sus propios principios en el apartado segundo.",
+      "source_note": "Artículo 31.1 CE; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "no confiscatoriedad",
+      "section_refs": ["19.2"],
+      "prompt": "La prohibición de alcance confiscatorio significa que el sistema tributario:",
+      "options": [
+        {"id": "a", "text": "No puede absorber de manera desmedida o anular la riqueza gravada mediante la carga fiscal"},
+        {"id": "b", "text": "No puede establecer ningún impuesto sobre el patrimonio o la renta"},
+        {"id": "c", "text": "Debe fijar el mismo porcentaje efectivo para todas las rentas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La no confiscatoriedad limita una carga que llegue a consumir o vaciar sustancialmente la riqueza sometida a tributación. No prohíbe gravar renta, patrimonio o transmisiones ni impone un tipo uniforme. Debe valorarse junto con capacidad económica y progresividad. No toda cuota elevada es automáticamente confiscatoria, pero el poder tributario no puede convertirse materialmente en una vía de desapoderamiento.",
+      "source_note": "Artículo 31.1 CE y doctrina constitucional; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "principios del gasto público",
+      "section_refs": ["19.2"],
+      "prompt": "La programación y ejecución del gasto público responderán a criterios de:",
+      "options": [
+        {"id": "a", "text": "Progresividad y capacidad económica"},
+        {"id": "b", "text": "Publicidad y jerarquía normativa"},
+        {"id": "c", "text": "Eficiencia y economía"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 31.2 dispone que el gasto público realizará una asignación equitativa de los recursos y que su programación y ejecución responderán a eficiencia y economía. Progresividad y capacidad se asocian al sistema tributario del apartado primero, mientras publicidad y jerarquía son garantías generales del artículo 9.3. La trampa consiste en intercambiar listas constitucionales cercanas.",
+      "source_note": "Artículo 31.2 CE; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "prestaciones públicas",
+      "section_refs": ["19.2"],
+      "prompt": "Las prestaciones personales o patrimoniales de carácter público solo pueden establecerse:",
+      "options": [
+        {"id": "a", "text": "Por acuerdo informal de la autoridad"},
+        {"id": "b", "text": "Con arreglo a la ley"},
+        {"id": "c", "text": "Mediante costumbre administrativa"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 31.3 establece una reserva de ley para prestaciones personales o patrimoniales de carácter público. La autoridad no puede crear cargas obligatorias mediante acuerdos informales o costumbres administrativas. La ley debe proporcionar la base y los elementos esenciales, sin perjuicio del desarrollo reglamentario permitido. La garantía abarca no solo tributos, sino también otras prestaciones públicas de esas características.",
+      "source_note": "Artículo 31.3 CE; Atestado, apartado 19.2."
+    },
+    {
+      "id": "t02-b05a-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "literalidad del matrimonio",
+      "section_refs": ["19.3"],
+      "prompt": "El artículo 32.1 CE afirma literalmente que tienen derecho a contraer matrimonio con plena igualdad jurídica:",
+      "options": [
+        {"id": "a", "text": "Todos los ciudadanos mayores de dieciséis años"},
+        {"id": "b", "text": "El hombre y la mujer"},
+        {"id": "c", "text": "Únicamente los españoles"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La fórmula literal es «El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica». La evolución legislativa y jurisprudencial permite el matrimonio entre personas del mismo sexo, pero no ha modificado esas palabras del artículo 32. En preguntas de literalidad debe reproducirse el texto sin deducir de él una prohibición que la Constitución no establece.",
+      "source_note": "Artículo 32.1 CE; Atestado, apartado 19.3."
+    },
+    {
+      "id": "t02-b05a-q014",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "igualdad matrimonial",
+      "section_refs": ["19.3"],
+      "prompt": "La igualdad jurídica exigida por el artículo 32.1 se proyecta:",
+      "options": [
+        {"id": "a", "text": "Sobre la posición de quienes contraen matrimonio"},
+        {"id": "b", "text": "Solo sobre el patrimonio previo de las familias"},
+        {"id": "c", "text": "Únicamente durante la ceremonia y no en la relación matrimonial"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La plena igualdad jurídica impide configurar posiciones de superioridad o subordinación entre quienes contraen matrimonio y se proyecta sobre derechos y deberes matrimoniales. No se limita al acto de celebración ni a un aspecto patrimonial concreto. La ley desarrolla sus consecuencias y regímenes económicos, pero debe hacerlo respetando igualdad y ausencia de discriminación en la relación jurídica.",
+      "source_note": "Artículos 14 y 32.1 CE; Atestado, apartado 19.3."
+    },
+    {
+      "id": "t02-b05a-q015",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "reserva legal matrimonial",
+      "section_refs": ["19.3"],
+      "prompt": "La ley regulará, según el artículo 32.2:",
+      "options": [
+        {"id": "a", "text": "Solo el lugar donde debe celebrarse el matrimonio"},
+        {"id": "b", "text": "Únicamente la edad, excluyendo separación y disolución"},
+        {"id": "c", "text": "Formas, edad, capacidad, derechos y deberes, separación, disolución y sus efectos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El apartado segundo contiene una remisión amplia: formas de matrimonio, edad y capacidad, derechos y deberes de los cónyuges, causas de separación y disolución y sus efectos. No regula directamente cada detalle, sino que encomienda esa tarea al legislador dentro del marco constitucional. Olvidar separación, disolución o efectos suele utilizarse para construir enumeraciones incompletas.",
+      "source_note": "Artículo 32.2 CE; Atestado, apartado 19.3."
+    },
+    {
+      "id": "t02-b05a-q016",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "texto constitucional y evolución legal",
+      "section_refs": ["19.3"],
+      "prompt": "Respecto de la expresión «el hombre y la mujer» del artículo 32.1, es correcto afirmar que:",
+      "options": [
+        {"id": "a", "text": "Impide necesariamente cualquier matrimonio entre personas del mismo sexo"},
+        {"id": "b", "text": "Es la literalidad vigente, compatible con la regulación legal actual del matrimonio"},
+        {"id": "c", "text": "Fue sustituida por una reforma constitucional en 2005"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El texto constitucional no fue reformado en 2005 y conserva la expresión original. La legislación civil amplió el matrimonio a personas del mismo sexo y esa regulación fue declarada compatible con la Constitución. El examen puede preguntar por el tenor literal o por el Derecho vigente; responder bien exige identificar cuál de los dos planos se está evaluando y no mezclarlos.",
+      "source_note": "Artículo 32 CE y legislación civil vigente; Atestado, apartado 19.3."
+    },
+    {
+      "id": "t02-b05a-q017",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "propiedad y herencia",
+      "section_refs": ["19.4"],
+      "prompt": "El artículo 33.1 reconoce el derecho:",
+      "options": [
+        {"id": "a", "text": "A la propiedad privada y a la herencia"},
+        {"id": "b", "text": "A la propiedad pública exclusiva de todos los bienes"},
+        {"id": "c", "text": "A una vivienda gratuita como contenido de la propiedad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El apartado primero reconoce conjuntamente propiedad privada y herencia. La vivienda se contempla en el artículo 47 con naturaleza y garantías distintas, y la Constitución no establece propiedad pública exclusiva de toda riqueza. Reconocer propiedad no significa que sea absoluta: su contenido queda delimitado por la función social de acuerdo con las leyes, según el apartado segundo.",
+      "source_note": "Artículo 33.1 CE; Atestado, apartado 19.4."
+    },
+    {
+      "id": "t02-b05a-q018",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "función social",
+      "section_refs": ["19.4"],
+      "prompt": "La función social de la propiedad privada y la herencia:",
+      "options": [
+        {"id": "a", "text": "Elimina ambos derechos sin necesidad de ley"},
+        {"id": "b", "text": "Solo actúa cuando existe una sanción penal"},
+        {"id": "c", "text": "Delimita su contenido de acuerdo con las leyes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 33.2 integra la función social en la propia delimitación del contenido de propiedad y herencia conforme a las leyes. No constituye una supresión automática ni una pena. El legislador puede establecer deberes y límites vinculados al uso social de los bienes, pero debe respetar el contenido constitucional y distinguir la delimitación general de una privación singular expropiatoria.",
+      "source_note": "Artículo 33.2 CE; Atestado, apartado 19.4."
+    },
+    {
+      "id": "t02-b05a-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "garantías expropiatorias",
+      "section_refs": ["19.4"],
+      "prompt": "La privación de bienes o derechos requiere constitucionalmente:",
+      "options": [
+        {"id": "a", "text": "Solo una decisión administrativa, aunque no exista causa"},
+        {"id": "b", "text": "Causa justificada de utilidad pública o interés social, indemnización y conformidad con las leyes"},
+        {"id": "c", "text": "Una condena penal firme en todos los casos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 33.3 exige causa justificada de utilidad pública o interés social, correspondiente indemnización y actuación conforme a las leyes. No toda expropiación depende de una condena penal ni basta una decisión sin causa. Estas garantías equilibran propiedad e interés general y permiten distinguir la expropiación legítima de una privación arbitraria o carente de compensación.",
+      "source_note": "Artículo 33.3 CE; Atestado, apartado 19.4."
+    },
+    {
+      "id": "t02-b05a-q020",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "indemnización expropiatoria",
+      "section_refs": ["19.4"],
+      "prompt": "Respecto de la indemnización expropiatoria, la literalidad del artículo 33.3 exige:",
+      "options": [
+        {"id": "a", "text": "La correspondiente indemnización, sin utilizar expresamente la palabra «previa»"},
+        {"id": "b", "text": "Que siempre se pague cinco años después de la ocupación"},
+        {"id": "c", "text": "Que nunca exista compensación si se invoca interés social"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El texto constitucional dice «mediante la correspondiente indemnización» y no reproduce la fórmula «previa indemnización» de otros textos históricos. Esto no autoriza cualquier demora o ausencia de pago: la expropiación debe respetar la legislación y ofrecer compensación adecuada. La trampa de examen consiste en atribuir al precepto una palabra que no aparece literalmente, aunque parezca jurídicamente intuitiva.",
+      "source_note": "Artículo 33.3 CE; Atestado, apartado 19.4."
+    },
+    {
+      "id": "t02-b05a-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "delimitación y privación",
+      "section_refs": ["19.4"],
+      "prompt": "La función social y la expropiación se diferencian porque:",
+      "options": [
+        {"id": "a", "text": "Toda delimitación legal del uso de un bien exige siempre indemnización expropiatoria"},
+        {"id": "b", "text": "La expropiación nunca priva de bienes, solo fija límites generales"},
+        {"id": "c", "text": "La función social delimita generalmente el contenido; la expropiación supone privación singular con garantías"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La función social permite al legislador configurar con carácter general facultades y deberes que integran el contenido de la propiedad. La expropiación, en cambio, implica una privación singular por utilidad pública o interés social y exige indemnización y procedimiento legal. No todo límite general es expropiatorio ni toda privación puede presentarse como simple delimitación para eludir garantías.",
+      "source_note": "Artículo 33.2 y 33.3 CE; Atestado, apartado 19.4."
+    },
+    {
+      "id": "t02-b05a-q022",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "derecho de fundación",
+      "section_refs": ["19.5"],
+      "prompt": "El artículo 34.1 reconoce el derecho de fundación:",
+      "options": [
+        {"id": "a", "text": "Solo para fines particulares lucrativos"},
+        {"id": "b", "text": "Para fines de interés general, con arreglo a la ley"},
+        {"id": "c", "text": "Sin finalidad definida y al margen del ordenamiento"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La fundación constitucional se reconoce para fines de interés general y con arreglo a la ley. No se configura como instrumento destinado exclusivamente al beneficio lucrativo privado ni como organización libre de controles. La afectación de un patrimonio a fines generales explica su régimen específico y la diferencia respecto de sociedades mercantiles o asociaciones basadas principalmente en la agrupación de personas.",
+      "source_note": "Artículo 34.1 CE; Atestado, apartado 19.5."
+    },
+    {
+      "id": "t02-b05a-q023",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "remisión al artículo 22",
+      "section_refs": ["19.5"],
+      "prompt": "A las fundaciones se aplica también lo dispuesto en los apartados del artículo 22:",
+      "options": [
+        {"id": "a", "text": "2 y 4"},
+        {"id": "b", "text": "1 y 3"},
+        {"id": "c", "text": "3 y 5"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 34.2 remite exactamente a los apartados 2 y 4 del artículo 22. El segundo declara ilegales las asociaciones con fines o medios delictivos y el cuarto exige resolución judicial motivada para disolver o suspender. La remisión no incluye la inscripción a efectos de publicidad del apartado tercero ni la prohibición de asociaciones secretas y paramilitares del quinto.",
+      "source_note": "Artículos 34.2, 22.2 y 22.4 CE; Atestado, apartado 19.5."
+    },
+    {
+      "id": "t02-b05a-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "fundaciones ilícitas",
+      "section_refs": ["19.5"],
+      "prompt": "Como consecuencia de la remisión constitucional, una fundación que persiga fines o utilice medios tipificados como delito:",
+      "options": [
+        {"id": "a", "text": "Es válida si está inscrita"},
+        {"id": "b", "text": "Solo recibe una advertencia administrativa"},
+        {"id": "c", "text": "Queda sometida a la regla de ilegalidad del artículo 22.2"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La remisión del artículo 34.2 incorpora a las fundaciones la regla del artículo 22.2 sobre fines o medios delictivos. La inscripción no convierte en lícito un fin criminal ni reduce necesariamente la respuesta a una advertencia. Además, la disolución o suspensión se conecta con la garantía judicial motivada del artículo 22.4, también expresamente aplicable a las fundaciones.",
+      "source_note": "Artículos 34.2 y 22.2 CE; Atestado, apartado 19.5."
+    },
+    {
+      "id": "t02-b05a-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "mapa de los artículos 30 a 34",
+      "section_refs": ["19.1", "19.2", "19.3", "19.4", "19.5"],
+      "prompt": "¿Qué correspondencia es correcta dentro de la Sección 2.ª?",
+      "options": [
+        {"id": "a", "text": "Art. 30 defensa; 31 tributos; 32 matrimonio; 33 propiedad y herencia; 34 fundación"},
+        {"id": "b", "text": "Art. 30 tributos; 31 defensa; 32 propiedad; 33 fundación; 34 matrimonio"},
+        {"id": "c", "text": "Art. 30 matrimonio; 31 propiedad; 32 defensa; 33 tributos; 34 trabajo"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La secuencia correcta es defensa de España, sistema tributario y gasto público, matrimonio, propiedad privada y herencia, y fundación. El artículo 35, que seguirá en el test 5B, inicia el bloque relativo al trabajo. Recordar esta cadena permite localizar rápidamente el precepto aplicable y evita confundir contenidos de la Sección 2.ª en preguntas de numeración.",
+      "source_note": "Artículos 30 a 34 CE; Atestado, apartados 19.1 a 19.5."
+    }
+  ]
+}

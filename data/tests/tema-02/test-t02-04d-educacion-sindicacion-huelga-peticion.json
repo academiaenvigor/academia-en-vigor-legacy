@@ -1,0 +1,453 @@
+{
+  "id": "t02-b04d-educacion-sindicacion-huelga-peticion-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 4D · Educación, sindicación, huelga y petición",
+    "short_title": "Educación, sindicación, huelga y petición",
+    "description": "Cierra los derechos fundamentales de la Sección 1.ª con un recorrido completo por los artículos 27 a 29. Comprueba si distingues derecho a la educación y libertad de enseñanza, enseñanza básica y demás etapas, creación y participación en centros, inspección, ayudas y autonomía universitaria. Practica también el contenido y los límites de la libertad sindical, la titularidad y finalidad de la huelga, su prohibición en el ámbito policial y las reglas especiales del derecho de petición.",
+    "theme_number": 2,
+    "block_number": "4D",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["18", "18.1", "18.2", "18.3", "18.4"],
+    "concepts": [
+      "derecho a la educación y libertad de enseñanza",
+      "finalidad constitucional de la educación",
+      "formación religiosa y moral",
+      "enseñanza básica obligatoria y gratuita",
+      "programación y creación de centros",
+      "participación en centros sostenidos con fondos públicos",
+      "inspección, ayudas y autonomía universitaria",
+      "libertad sindical positiva y negativa",
+      "límites y peculiaridades sindicales",
+      "derecho de huelga y servicios esenciales",
+      "prohibición de huelga policial",
+      "derecho de petición y régimen de cuerpos armados"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b04d-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "educación y libertad de enseñanza",
+      "section_refs": ["18.1"],
+      "prompt": "El artículo 27.1 CE:",
+      "options": [
+        {"id": "a", "text": "Reconoce a todos el derecho a la educación y reconoce la libertad de enseñanza"},
+        {"id": "b", "text": "Limita el derecho a la educación a los españoles menores de edad"},
+        {"id": "c", "text": "Reconoce educación, pero prohíbe la libertad de enseñanza"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 27.1 reúne dos elementos complementarios: «Todos tienen el derecho a la educación» y «Se reconoce la libertad de enseñanza». No limita el sujeto a españoles o menores ni presenta ambas dimensiones como incompatibles. El derecho exige una acción pública que garantice acceso, mientras la libertad protege el pluralismo educativo dentro de los principios constitucionales y la regulación legal.",
+      "source_note": "Artículo 27.1 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "finalidad de la educación",
+      "section_refs": ["18.1"],
+      "prompt": "La educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto:",
+      "options": [
+        {"id": "a", "text": "Únicamente a las decisiones del centro docente"},
+        {"id": "b", "text": "A los principios democráticos de convivencia y a los derechos y libertades fundamentales"},
+        {"id": "c", "text": "A una orientación ideológica fijada por cada Gobierno"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 27.2 vincula el pleno desarrollo de la personalidad con el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales. No entrega el objetivo constitucional a la decisión unilateral de cada centro o Gobierno. Esta finalidad funciona como marco común para la educación pública y privada y también limita el ejercicio de la libertad de creación y enseñanza.",
+      "source_note": "Artículo 27.2 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "convicciones de los padres",
+      "section_refs": ["18.1"],
+      "prompt": "Los poderes públicos garantizan el derecho de los padres a que sus hijos reciban:",
+      "options": [
+        {"id": "a", "text": "La formación profesional elegida por la Administración"},
+        {"id": "b", "text": "Cualquier enseñanza al margen de los principios constitucionales"},
+        {"id": "c", "text": "La formación religiosa y moral acorde con sus propias convicciones"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 27.3 garantiza a los padres la formación religiosa y moral de sus hijos conforme a sus propias convicciones. Este derecho se integra en el marco constitucional y no permite excluir el respeto debido a derechos fundamentales, principios democráticos y finalidad educativa. Tampoco atribuye a la Administración la facultad de sustituir esas convicciones por una orientación religiosa o moral obligatoria.",
+      "source_note": "Artículo 27.3 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "enseñanza básica",
+      "section_refs": ["18.1"],
+      "prompt": "Conforme a la literalidad del artículo 27.4, es obligatoria y gratuita:",
+      "options": [
+        {"id": "a", "text": "La enseñanza básica"},
+        {"id": "b", "text": "Toda enseñanza, incluida cualquier formación universitaria"},
+        {"id": "c", "text": "Únicamente la enseñanza infantil"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución utiliza la expresión concreta «La enseñanza básica es obligatoria y gratuita». No extiende esa doble característica con la misma fórmula a todas las etapas educativas ni identifica la enseñanza básica exclusivamente con infantil. El legislador puede ampliar gratuidad y becas, pero en una pregunta de literalidad debe retenerse exactamente el nivel nombrado por el artículo 27.4.",
+      "source_note": "Artículo 27.4 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q005",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "garantía pública de la educación",
+      "section_refs": ["18.1"],
+      "prompt": "Los poderes públicos garantizan el derecho de todos a la educación mediante:",
+      "options": [
+        {"id": "a", "text": "La supresión de la participación de los sectores afectados"},
+        {"id": "b", "text": "La sustitución obligatoria de todos los centros privados"},
+        {"id": "c", "text": "Programación general de la enseñanza, participación efectiva y creación de centros docentes"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 27.5 menciona programación general de la enseñanza, participación efectiva de todos los sectores afectados y creación de centros docentes. No configura un monopolio público ni excluye la participación social. La programación debe servir para garantizar el derecho de todos, coordinando recursos y necesidades dentro del respeto a la libertad de enseñanza y a la legalidad educativa.",
+      "source_note": "Artículo 27.5 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q006",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "creación de centros docentes",
+      "section_refs": ["18.1"],
+      "prompt": "La libertad de creación de centros docentes se reconoce:",
+      "options": [
+        {"id": "a", "text": "Solo a las Administraciones territoriales"},
+        {"id": "b", "text": "A personas físicas y jurídicas, dentro del respeto a los principios constitucionales"},
+        {"id": "c", "text": "Sin sujeción a ningún principio o requisito legal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 27.6 reconoce la libertad de creación de centros docentes a personas físicas y jurídicas y fija como límite el respeto a los principios constitucionales. No es una competencia exclusiva de la Administración ni una libertad absoluta inmune a la ley. La regulación puede establecer requisitos educativos, de seguridad y calidad siempre que no vacíe injustificadamente la libertad reconocida.",
+      "source_note": "Artículo 27.6 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "participación en centros",
+      "section_refs": ["18.1"],
+      "prompt": "Intervienen en el control y gestión de los centros sostenidos por la Administración con fondos públicos:",
+      "options": [
+        {"id": "a", "text": "Profesores, padres y, en su caso, alumnos, en los términos legales"},
+        {"id": "b", "text": "Únicamente los representantes de la Administración"},
+        {"id": "c", "text": "Solo los alumnos mayores de edad"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 27.7 menciona profesores, padres y, en su caso, alumnos. La participación se refiere a los centros sostenidos con fondos públicos y se ejerce en los términos que establezca la ley. No se reserva a la Administración ni exclusivamente a alumnos adultos. La expresión «en su caso» afecta a la participación del alumnado y permite atender a edad y características del centro.",
+      "source_note": "Artículo 27.7 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q008",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "ámbito de participación",
+      "section_refs": ["18.1"],
+      "prompt": "La participación constitucional del artículo 27.7 se vincula expresamente a:",
+      "options": [
+        {"id": "a", "text": "Todos los centros privados, aunque no reciban fondos públicos"},
+        {"id": "b", "text": "Únicamente las universidades públicas"},
+        {"id": "c", "text": "Los centros sostenidos por la Administración con fondos públicos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La fórmula constitucional no se limita a centros de titularidad administrativa: alcanza a todos los sostenidos con fondos públicos, lo que puede incluir centros privados financiados públicamente. A la inversa, no se extiende literalmente por este apartado a cualquier centro privado sin financiación. Tampoco se refiere solo a universidades, cuya autonomía aparece específicamente en el artículo 27.10.",
+      "source_note": "Artículo 27.7 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q009",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "inspección y homologación",
+      "section_refs": ["18.1"],
+      "prompt": "Los poderes públicos inspeccionarán y homologarán el sistema educativo para:",
+      "options": [
+        {"id": "a", "text": "Sustituir toda autonomía docente"},
+        {"id": "b", "text": "Garantizar el cumplimiento de las leyes"},
+        {"id": "c", "text": "Imponer una confesión religiosa estatal"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 27.8 atribuye a los poderes públicos inspección y homologación del sistema educativo con la finalidad expresa de garantizar el cumplimiento de las leyes. Esta función es compatible con libertad de enseñanza y autonomía universitaria, que tampoco operan fuera del ordenamiento. No autoriza a imponer una confesión estatal, algo incompatible además con el artículo 16.3.",
+      "source_note": "Artículos 16.3 y 27.8 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q010",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "ayudas a centros docentes",
+      "section_refs": ["18.1"],
+      "prompt": "Respecto de las ayudas públicas a centros docentes, el artículo 27.9 dispone que:",
+      "options": [
+        {"id": "a", "text": "Los poderes públicos ayudarán a los centros que reúnan los requisitos legales"},
+        {"id": "b", "text": "Todo centro tiene derecho a financiación ilimitada sin condiciones"},
+        {"id": "c", "text": "Solo pueden recibir ayuda los centros de titularidad estatal"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La Constitución ordena ayudar a los centros docentes que reúnan los requisitos establecidos por la ley. No reconoce financiación ilimitada ni restringe literalmente la ayuda a centros estatales. El legislador puede fijar condiciones objetivas vinculadas a la finalidad educativa y los recursos disponibles, respetando igualdad y libertad de enseñanza. Ayuda pública y titularidad pública no son conceptos equivalentes.",
+      "source_note": "Artículo 27.9 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q011",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "autonomía universitaria",
+      "section_refs": ["18.1"],
+      "prompt": "La Constitución reconoce la autonomía de las universidades:",
+      "options": [
+        {"id": "a", "text": "Sin límite jurídico alguno"},
+        {"id": "b", "text": "En los términos que la ley establezca"},
+        {"id": "c", "text": "Solo cuando sean de titularidad privada"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 27.10 reconoce la autonomía universitaria «en los términos que la ley establezca». No se trata de soberanía normativa ni de inmunidad frente a las leyes, sino de un ámbito de autogobierno orientado a proteger la función universitaria. La Constitución no restringe su reconocimiento a universidades privadas ni permite que la regulación legal suprima el contenido esencial de la autonomía.",
+      "source_note": "Artículo 27.10 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q012",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "mapa del artículo 27",
+      "section_refs": ["18.1"],
+      "prompt": "¿Qué correspondencia entre apartados del artículo 27 es correcta?",
+      "options": [
+        {"id": "a", "text": "27.4 autonomía universitaria; 27.8 formación religiosa; 27.10 enseñanza básica"},
+        {"id": "b", "text": "27.4 creación de centros; 27.8 participación de padres; 27.10 inspección"},
+        {"id": "c", "text": "27.4 enseñanza básica; 27.8 inspección y homologación; 27.10 autonomía universitaria"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El apartado cuarto declara obligatoria y gratuita la enseñanza básica; el octavo ordena inspeccionar y homologar el sistema para garantizar las leyes; y el décimo reconoce autonomía universitaria. Las opciones incorrectas intercambian contenidos verdaderos, una trampa habitual cuando el aspirante recuerda las instituciones pero no su número exacto dentro de un artículo largo.",
+      "source_note": "Artículo 27.4, 27.8 y 27.10 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q013",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "límites de la libertad de enseñanza",
+      "section_refs": ["18.1"],
+      "prompt": "La libertad de enseñanza y creación de centros:",
+      "options": [
+        {"id": "a", "text": "Se ejercen dentro de los principios constitucionales y la regulación legal legítima"},
+        {"id": "b", "text": "Permiten ignorar la finalidad educativa del artículo 27.2"},
+        {"id": "c", "text": "Eliminan las facultades públicas de inspección y homologación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El pluralismo educativo no sitúa a los centros fuera de la Constitución. La creación se reconoce dentro del respeto a sus principios y el sistema está sujeto a inspección y homologación para garantizar las leyes. La finalidad de pleno desarrollo en convivencia democrática también sirve de marco. La regulación debe respetar el contenido de la libertad, pero esta no constituye una exención general del ordenamiento.",
+      "source_note": "Artículo 27.2, 27.6 y 27.8 CE; Atestado, apartado 18.1."
+    },
+    {
+      "id": "t02-b04d-q014",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titularidad de la libertad sindical",
+      "section_refs": ["18.2"],
+      "prompt": "El artículo 28.1 comienza reconociendo el derecho a sindicarse libremente:",
+      "options": [
+        {"id": "a", "text": "Solo a trabajadores del sector privado"},
+        {"id": "b", "text": "Exclusivamente a ciudadanos españoles"},
+        {"id": "c", "text": "A todos, sin perjuicio de límites, excepciones y peculiaridades legalmente previstos"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La fórmula inicial es «Todos tienen derecho a sindicarse libremente». A continuación, la Constitución permite limitar o exceptuar el ejercicio para Fuerzas o institutos armados y cuerpos sometidos a disciplina militar, y regular peculiaridades para funcionarios públicos. No restringe con carácter general la titularidad al sector privado ni utiliza «los españoles» como sujeto literal.",
+      "source_note": "Artículo 28.1 CE; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t02-b04d-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "contenido de la libertad sindical",
+      "section_refs": ["18.2"],
+      "prompt": "La libertad sindical comprende constitucionalmente:",
+      "options": [
+        {"id": "a", "text": "Solo el derecho a afiliarse a un sindicato ya existente"},
+        {"id": "b", "text": "Fundar sindicatos, afiliarse al elegido y formar o integrar organizaciones sindicales nacionales e internacionales"},
+        {"id": "c", "text": "La obligación de pertenecer al sindicato mayoritario"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El contenido incluye fundar sindicatos, afiliarse al de elección y el derecho de los sindicatos a formar confederaciones y organizaciones sindicales internacionales o afiliarse a ellas. Existe además una dimensión negativa: nadie puede ser obligado a afiliarse. Reducir la libertad a elegir entre organizaciones existentes o imponer pertenencia obligatoria desconoce partes esenciales del artículo 28.1.",
+      "source_note": "Artículo 28.1 CE; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t02-b04d-q016",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "libertad sindical negativa",
+      "section_refs": ["18.2"],
+      "prompt": "En relación con la afiliación sindical, la Constitución dispone que:",
+      "options": [
+        {"id": "a", "text": "Nadie podrá ser obligado a afiliarse a un sindicato"},
+        {"id": "b", "text": "Todo trabajador debe afiliarse al alcanzar la mayoría de edad"},
+        {"id": "c", "text": "La Administración puede imponer afiliación por necesidades del servicio"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El último inciso del artículo 28.1 reconoce expresamente la libertad sindical negativa: nadie puede ser obligado a afiliarse. La protección abarca tanto poder integrarse libremente como permanecer fuera o abandonar una organización. Ni la mayoría de edad ni las necesidades del servicio crean afiliación forzosa. Las limitaciones para determinados cuerpos tampoco se convierten en deber de pertenecer a un sindicato.",
+      "source_note": "Artículo 28.1 CE; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t02-b04d-q017",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "límites sindicales en cuerpos armados",
+      "section_refs": ["18.2"],
+      "prompt": "La ley puede limitar o exceptuar el ejercicio de la libertad sindical:",
+      "options": [
+        {"id": "a", "text": "A cualquier colectivo por simple decisión administrativa"},
+        {"id": "b", "text": "A las Fuerzas o institutos armados y a los cuerpos sometidos a disciplina militar"},
+        {"id": "c", "text": "Solo a trabajadores de empresas públicas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 28.1 contiene una habilitación específica para que la ley limite o exceptúe el ejercicio a Fuerzas o institutos armados y otros cuerpos sometidos a disciplina militar. No autoriza restricciones administrativas indiscriminadas. Para funcionarios públicos prevé una fórmula distinta: la ley regulará peculiaridades, por lo que no deben confundirse excepción, limitación y peculiaridad.",
+      "source_note": "Artículo 28.1 CE; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t02-b04d-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "funcionarios y libertad sindical",
+      "section_refs": ["18.2"],
+      "prompt": "Respecto de los funcionarios públicos, el artículo 28.1 establece que la ley:",
+      "options": [
+        {"id": "a", "text": "Les prohíbe a todos y sin excepción cualquier actividad sindical"},
+        {"id": "b", "text": "No puede regular ninguna especialidad de ejercicio"},
+        {"id": "c", "text": "Regulará las peculiaridades del ejercicio de la libertad sindical"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución utiliza para funcionarios la expresión «regulará las peculiaridades de su ejercicio». No proclama una prohibición sindical general para todo empleado público. Debe diferenciarse esta regla de la posibilidad de limitar o exceptuar a Fuerzas o institutos armados y cuerpos sometidos a disciplina militar, y de los regímenes específicos que desarrollan esas habilitaciones constitucionales.",
+      "source_note": "Artículo 28.1 CE; Atestado, apartado 18.2."
+    },
+    {
+      "id": "t02-b04d-q019",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titularidad y finalidad de la huelga",
+      "section_refs": ["18.3"],
+      "prompt": "El artículo 28.2 reconoce el derecho de huelga:",
+      "options": [
+        {"id": "a", "text": "A los trabajadores para la defensa de sus intereses"},
+        {"id": "b", "text": "A cualquier órgano administrativo para suspender servicios"},
+        {"id": "c", "text": "Exclusivamente a los empresarios"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La fórmula constitucional atribuye la huelga a los trabajadores y la conecta con la defensa de sus intereses. No es una facultad de la Administración ni un derecho reconocido a empresarios, aunque estos participen en relaciones colectivas y dispongan de otras medidas reguladas. El sujeto del artículo 28.2 es más concreto que el «todos» empleado para la libertad sindical del apartado primero.",
+      "source_note": "Artículo 28.2 CE; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t02-b04d-q020",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "servicios esenciales",
+      "section_refs": ["18.3"],
+      "prompt": "La ley que regule el derecho de huelga debe establecer garantías para asegurar:",
+      "options": [
+        {"id": "a", "text": "La eliminación de cualquier efecto de la huelga"},
+        {"id": "b", "text": "El funcionamiento normal de todas las empresas sin excepción"},
+        {"id": "c", "text": "El mantenimiento de los servicios esenciales de la comunidad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 28.2 exige garantías para mantener los servicios esenciales de la comunidad. No pretende vaciar el derecho eliminando todo efecto de presión ni asegurar el funcionamiento ordinario de cualquier empresa. Debe identificarse qué servicios son esenciales y fijar medidas proporcionadas que compatibilicen el derecho de huelga con los derechos y bienes constitucionales de la población.",
+      "source_note": "Artículo 28.2 CE; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t02-b04d-q021",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "huelga en Policía Nacional",
+      "section_refs": ["18.3"],
+      "prompt": "En el régimen de la Policía Nacional, sus miembros:",
+      "options": [
+        {"id": "a", "text": "Pueden ejercer huelga si garantizan un servicio mínimo elegido por ellos"},
+        {"id": "b", "text": "No pueden ejercer huelga ni acciones sustitutivas o concertadas para alterar el normal funcionamiento"},
+        {"id": "c", "text": "Solo tienen prohibida la huelga durante los estados de excepción y sitio"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Ley Orgánica 9/2015 dispone que los Policías Nacionales no pueden ejercer en ningún caso la huelga, ni acciones sustitutivas o actuaciones concertadas dirigidas a alterar el funcionamiento normal de los servicios. No es una prohibición temporal limitada a estados excepcionales ni puede neutralizarse mediante mínimos fijados unilateralmente. Debe distinguirse de la acción sindical permitida con límites.",
+      "source_note": "Artículo 8.1.a de la Ley Orgánica 9/2015; Atestado, apartado 18.3."
+    },
+    {
+      "id": "t02-b04d-q022",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "sindicación frente a huelga policial",
+      "section_refs": ["18.2", "18.3"],
+      "prompt": "Para un Policía Nacional, sindicación y huelga:",
+      "options": [
+        {"id": "a", "text": "Tienen regímenes distintos: existe acción sindical en los términos legales, pero la huelga está prohibida"},
+        {"id": "b", "text": "Son el mismo derecho y reciben siempre idéntico tratamiento"},
+        {"id": "c", "text": "Están ambas reconocidas sin límites por el artículo 28"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La normativa de Policía Nacional reconoce sindicación y acción sindical con su régimen específico, pero excluye de forma tajante la huelga y sus sustitutos. No debe deducirse de la existencia de sindicatos policiales que sus miembros puedan declarar huelga. Los apartados 1 y 2 del artículo 28 regulan derechos diferentes y permiten desarrollos legales también diferentes según la función y el colectivo.",
+      "source_note": "Artículo 28 CE y artículo 8.1.a de la Ley Orgánica 9/2015; Atestado, apartados 18.2 y 18.3."
+    },
+    {
+      "id": "t02-b04d-q023",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "derecho de petición",
+      "section_refs": ["18.4"],
+      "prompt": "El artículo 29.1 reconoce el derecho de petición:",
+      "options": [
+        {"id": "a", "text": "A toda persona, únicamente de forma oral"},
+        {"id": "b", "text": "Solo a asociaciones registradas y siempre colectivamente"},
+        {"id": "c", "text": "A todos los españoles, individual y colectivamente, por escrito"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La literalidad emplea «Todos los españoles» y permite petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley. No utiliza el sujeto universal «toda persona» ni exige que la petición proceda de una asociación. La forma escrita es una característica constitucional expresa que suele sustituirse en los distractores por presentación oral.",
+      "source_note": "Artículo 29.1 CE; Atestado, apartado 18.4."
+    },
+    {
+      "id": "t02-b04d-q024",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "petición en cuerpos armados",
+      "section_refs": ["18.4"],
+      "prompt": "Los miembros de Fuerzas o institutos armados o cuerpos sometidos a disciplina militar ejercen el derecho de petición:",
+      "options": [
+        {"id": "a", "text": "Colectivamente y sin sujeción a legislación específica"},
+        {"id": "b", "text": "Solo individualmente y conforme a su legislación específica"},
+        {"id": "c", "text": "Únicamente mediante un sindicato"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 29.2 contiene una regla especial: quienes integran Fuerzas o institutos armados o cuerpos sometidos a disciplina militar solo pueden ejercer petición individualmente y conforme a su legislación específica. Se excluye para ellos la modalidad colectiva prevista con carácter general. La regla no obliga a canalizar la petición mediante sindicatos y debe distinguirse del régimen de sindicación.",
+      "source_note": "Artículo 29.2 CE; Atestado, apartado 18.4."
+    },
+    {
+      "id": "t02-b04d-q025",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "efectos de la petición",
+      "section_refs": ["18.4"],
+      "prompt": "El derecho de petición garantiza:",
+      "options": [
+        {"id": "a", "text": "La presentación y tramitación conforme a la ley, pero no que toda petición sea estimada"},
+        {"id": "b", "text": "Que la autoridad acepte obligatoriamente el contenido solicitado"},
+        {"id": "c", "text": "Que cualquier petición sustituya los recursos administrativos o judiciales"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El derecho permite formular peticiones y exige su tratamiento en los términos legales, pero no concede un derecho material a obtener siempre lo solicitado. Tampoco transforma la petición en sustituto general de recursos o procedimientos específicos. Deben distinguirse el derecho a dirigirse a los poderes públicos, la obligación de encauzar y responder según la ley y la decisión de fondo, que puede ser desfavorable.",
+      "source_note": "Artículo 29 CE y Ley Orgánica 4/2001; Atestado, apartado 18.4."
+    }
+  ]
+}
