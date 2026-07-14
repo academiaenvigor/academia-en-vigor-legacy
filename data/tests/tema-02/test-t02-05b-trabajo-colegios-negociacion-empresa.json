@@ -1,0 +1,454 @@
+{
+  "id": "t02-b05b-trabajo-colegios-negociacion-empresa-v1",
+  "schema_version": "1.0",
+  "metadata": {
+    "title": "Tema 2 · Test 5B · Trabajo, colegios, negociación y empresa",
+    "short_title": "Trabajo, negociación y empresa",
+    "description": "Completa la Sección 2.ª con los artículos 35 a 38. Comprueba si dominas el deber y el derecho al trabajo, la elección de profesión, promoción, remuneración y prohibición de discriminación; el régimen constitucional de los colegios profesionales; la negociación colectiva, la fuerza vinculante de los convenios y las medidas de conflicto; y la libertad de empresa. Incluye preguntas de literalidad, relaciones entre artículos y trampas sobre titulares, servicios esenciales, economía de mercado y planificación.",
+    "theme_number": 2,
+    "block_number": "5B",
+    "version": "1.0",
+    "language": "es-ES",
+    "question_count": 25,
+    "recommended_duration_minutes": 18,
+    "updated_at": "2026-07-14",
+    "status": "draft_pending_human_review",
+    "original_content": true
+  },
+  "settings": {
+    "question_type": "single_choice",
+    "options_per_question": 3,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "allow_unanswered": true,
+    "show_feedback": "after_submission",
+    "scoring": {
+      "correct": 1,
+      "incorrect": -0.5,
+      "unanswered": 0,
+      "maximum_score": 25,
+      "recommended_pass_percentage": 70
+    }
+  },
+  "coverage": {
+    "atestado_file": "temas/atestado/tema-02-constitucion-1.md",
+    "sections": ["19.6", "19.7", "19.8", "19.9", "19.10"],
+    "concepts": [
+      "deber y derecho al trabajo",
+      "libre elección de profesión u oficio",
+      "promoción y remuneración suficiente",
+      "prohibición de discriminación por sexo",
+      "Estatuto de los Trabajadores",
+      "colegios profesionales y profesiones tituladas",
+      "funcionamiento democrático",
+      "negociación colectiva laboral",
+      "fuerza vinculante de los convenios",
+      "medidas de conflicto colectivo",
+      "servicios esenciales de la comunidad",
+      "libertad de empresa y economía de mercado",
+      "productividad, economía general y planificación"
+    ]
+  },
+  "questions": [
+    {
+      "id": "t02-b05b-q001",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "titularidad del artículo 35",
+      "section_refs": ["19.6"],
+      "prompt": "El artículo 35.1 CE atribuye el deber de trabajar y el derecho al trabajo:",
+      "options": [
+        {"id": "a", "text": "A todos los españoles"},
+        {"id": "b", "text": "Exclusivamente a los funcionarios públicos"},
+        {"id": "c", "text": "Solo a quienes hayan alcanzado los veintiún años"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La fórmula literal es «Todos los españoles tienen el deber de trabajar y el derecho al trabajo». El precepto no se limita a empleados públicos ni fija una edad de veintiún años. El régimen laboral de extranjeros se completa mediante la legislación correspondiente, pero en un test de literalidad debe respetarse el sujeto exacto utilizado por el artículo 35.",
+      "source_note": "Artículo 35.1 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q002",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "contenido del derecho al trabajo",
+      "section_refs": ["19.6"],
+      "prompt": "Además del derecho al trabajo, el artículo 35.1 reconoce:",
+      "options": [
+        {"id": "a", "text": "El derecho a obtener automáticamente cualquier puesto solicitado"},
+        {"id": "b", "text": "La libre elección de profesión u oficio y la promoción a través del trabajo"},
+        {"id": "c", "text": "La prohibición de que existan requisitos para ejercer profesiones tituladas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El contenido constitucional incluye libre elección de profesión u oficio y promoción a través del trabajo. No garantiza que cada persona obtenga un puesto concreto ni impide que la ley establezca titulaciones y requisitos legítimos para determinadas profesiones. La libertad de elección protege frente a prohibiciones arbitrarias, pero se ejerce dentro del ordenamiento y de las condiciones profesionales aplicables.",
+      "source_note": "Artículo 35.1 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q003",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "remuneración suficiente",
+      "section_refs": ["19.6"],
+      "prompt": "La remuneración reconocida en el artículo 35.1 debe ser suficiente para satisfacer:",
+      "options": [
+        {"id": "a", "text": "Únicamente las necesidades empresariales"},
+        {"id": "b", "text": "Solo las necesidades personales del trabajador, excluyendo toda referencia familiar"},
+        {"id": "c", "text": "Las necesidades del trabajador y las de su familia"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La Constitución menciona una remuneración suficiente para satisfacer las necesidades del trabajador y las de su familia. No se limita a intereses empresariales ni elimina la referencia familiar. Esto no determina directamente una cantidad idéntica para todos los empleos: la concreción depende de leyes, negociación colectiva y circunstancias económicas, dentro del marco constitucional y de la prohibición de discriminación.",
+      "source_note": "Artículo 35.1 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q004",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "discriminación laboral por sexo",
+      "section_refs": ["19.6"],
+      "prompt": "El artículo 35.1 dispone expresamente que, en relación con la remuneración suficiente:",
+      "options": [
+        {"id": "a", "text": "En ningún caso podrá hacerse discriminación por razón de sexo"},
+        {"id": "b", "text": "La diferencia salarial por sexo es libre si la acuerda la empresa"},
+        {"id": "c", "text": "La prohibición solo se aplica a la Administración"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 35.1 cierra su enumeración prohibiendo que en ningún caso se produzca discriminación por razón de sexo. La garantía no queda restringida al empleo público ni puede ser desplazada por un acuerdo empresarial o colectivo. Debe conectarse con el artículo 14 y con la legislación laboral de igualdad y remuneración, sin confundir diferencia salarial justificada con discriminación.",
+      "source_note": "Artículos 14 y 35.1 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q005",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "Estatuto de los Trabajadores",
+      "section_refs": ["19.6"],
+      "prompt": "El artículo 35.2 encomienda a la ley regular:",
+      "options": [
+        {"id": "a", "text": "Un estatuto exclusivo de empresarios"},
+        {"id": "b", "text": "Un Estatuto de los Trabajadores"},
+        {"id": "c", "text": "La estructura interna de los sindicatos"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La Constitución contiene una remisión directa: «La ley regulará un estatuto de los trabajadores». No se refiere a un estatuto empresarial ni regula en este apartado la estructura sindical, materia vinculada a la libertad sindical y su legislación orgánica. La reserva legal ordena establecer el marco básico de derechos y deberes de la relación laboral.",
+      "source_note": "Artículo 35.2 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q006",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "alcance del derecho al trabajo",
+      "section_refs": ["19.6"],
+      "prompt": "El derecho al trabajo del artículo 35:",
+      "options": [
+        {"id": "a", "text": "Garantiza a cada persona un puesto concreto elegido por ella"},
+        {"id": "b", "text": "Impide cualquier causa legal de extinción de la relación laboral"},
+        {"id": "c", "text": "Protege el acceso y continuidad conforme a la ley, pero no asegura un empleo concreto"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 35 reconoce un auténtico derecho constitucional, pero no convierte al Estado o a una empresa en obligados a proporcionar el puesto exacto solicitado. Se proyecta sobre políticas de empleo, acceso no discriminatorio y regulación de la continuidad y extinción con causas y garantías. Tampoco hace imposible todo despido: exige que las decisiones se ajusten a la legislación y a los derechos aplicables.",
+      "source_note": "Artículo 35 CE y doctrina constitucional; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q007",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "deber y derecho al trabajo",
+      "section_refs": ["19.6"],
+      "prompt": "La formulación constitucional del trabajo combina:",
+      "options": [
+        {"id": "a", "text": "Un deber y un derecho"},
+        {"id": "b", "text": "Únicamente una obligación sancionable penalmente"},
+        {"id": "c", "text": "Solo una recomendación dirigida a empresas"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 35.1 emplea expresamente ambos términos: deber de trabajar y derecho al trabajo. El deber constitucional no equivale a una obligación penal de aceptar cualquier empleo ni legitima trabajos forzados. El derecho, por su parte, no es una simple recomendación empresarial. Ambos se integran en el modelo social y en la regulación legal de las relaciones laborales.",
+      "source_note": "Artículo 35.1 CE; Atestado, apartado 19.6."
+    },
+    {
+      "id": "t02-b05b-q008",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "colegios profesionales",
+      "section_refs": ["19.7"],
+      "prompt": "El artículo 36 CE encomienda a la ley regular:",
+      "options": [
+        {"id": "a", "text": "La prohibición general de profesiones tituladas"},
+        {"id": "b", "text": "Las peculiaridades del régimen de los colegios profesionales y el ejercicio de profesiones tituladas"},
+        {"id": "c", "text": "Exclusivamente las asociaciones empresariales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 36 contiene dos objetos de regulación legal: las peculiaridades propias del régimen jurídico de los colegios profesionales y el ejercicio de las profesiones tituladas. No prohíbe esas profesiones ni se refiere específicamente a asociaciones empresariales, que aparecen en el artículo 7. La ley puede establecer requisitos profesionales respetando libertad, igualdad y proporcionalidad.",
+      "source_note": "Artículo 36 CE; Atestado, apartado 19.7."
+    },
+    {
+      "id": "t02-b05b-q009",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "profesiones tituladas",
+      "section_refs": ["19.7"],
+      "prompt": "La referencia constitucional a las profesiones tituladas significa que:",
+      "options": [
+        {"id": "a", "text": "Toda ocupación debe quedar reservada a un colegio profesional"},
+        {"id": "b", "text": "Los colegios pueden crear delitos disciplinarios sin ley"},
+        {"id": "c", "text": "La ley puede ordenar su ejercicio y requisitos dentro del marco constitucional"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 36 habilita al legislador para regular el ejercicio de profesiones tituladas, incluidos requisitos justificados por cualificación y protección de intereses generales. No impone colegiación universal para toda actividad ni permite a cada colegio crear ilícitos al margen del principio de legalidad. Las restricciones profesionales deben tener base normativa y respetar el contenido de los derechos afectados.",
+      "source_note": "Artículo 36 CE; Atestado, apartado 19.7."
+    },
+    {
+      "id": "t02-b05b-q010",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "democracia interna colegial",
+      "section_refs": ["19.7"],
+      "prompt": "La estructura interna y el funcionamiento de los colegios profesionales deberán ser:",
+      "options": [
+        {"id": "a", "text": "Democráticos"},
+        {"id": "b", "text": "Secretos"},
+        {"id": "c", "text": "Designados íntegramente por el Gobierno"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La última frase del artículo 36 exige estructura interna y funcionamiento democráticos. La regla conecta con otras organizaciones constitucionalmente relevantes, como partidos, sindicatos, asociaciones empresariales y organizaciones profesionales. No se permite una estructura secreta o impuesta completamente por el Gobierno, aunque la ley pueda regular elecciones, órganos, control y régimen jurídico.",
+      "source_note": "Artículo 36 CE; Atestado, apartado 19.7."
+    },
+    {
+      "id": "t02-b05b-q011",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "colegios y organizaciones profesionales",
+      "section_refs": ["19.7", "24.2"],
+      "prompt": "No debe confundirse el artículo 36 con el artículo 52 porque:",
+      "options": [
+        {"id": "a", "text": "Ambos regulan exclusivamente partidos políticos"},
+        {"id": "b", "text": "El 36 trata colegios y profesiones tituladas; el 52, organizaciones profesionales de intereses económicos"},
+        {"id": "c", "text": "El artículo 52 deroga el régimen de los colegios profesionales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 36 se sitúa en la Sección 2.ª y se refiere a colegios profesionales y ejercicio de profesiones tituladas. El artículo 52, dentro de los principios rectores, contempla organizaciones profesionales que defienden intereses económicos propios. Ambos exigen funcionamiento democrático, pero su objeto, ubicación y régimen de garantías no son idénticos ni uno deroga al otro.",
+      "source_note": "Artículos 36 y 52 CE; Atestado, apartados 19.7 y 24.2."
+    },
+    {
+      "id": "t02-b05b-q012",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "naturaleza de los colegios",
+      "section_refs": ["19.7"],
+      "prompt": "El reconocimiento constitucional de los colegios profesionales implica que:",
+      "options": [
+        {"id": "a", "text": "Son órganos del Poder Judicial"},
+        {"id": "b", "text": "Pueden actuar al margen de la ley por su autonomía"},
+        {"id": "c", "text": "Poseen un régimen peculiar regulado por ley y sometido a funcionamiento democrático"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "Los colegios no son tribunales ni quedan fuera del ordenamiento. La Constitución reconoce su singularidad y remite a la ley sus peculiaridades, exigiendo democracia interna. Pueden ejercer funciones públicas y representar intereses profesionales en los términos legales, pero sus decisiones están sujetas a control y deben respetar derechos de colegiados, profesionales y destinatarios de los servicios.",
+      "source_note": "Artículo 36 CE; Atestado, apartado 19.7."
+    },
+    {
+      "id": "t02-b05b-q013",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "negociación colectiva",
+      "section_refs": ["19.8"],
+      "prompt": "La negociación colectiva laboral reconocida por el artículo 37.1 se desarrolla entre:",
+      "options": [
+        {"id": "a", "text": "Representantes de los trabajadores y empresarios"},
+        {"id": "b", "text": "Jueces y partidos políticos"},
+        {"id": "c", "text": "Solo empleados individuales y la Administración tributaria"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 37.1 encomienda a la ley garantizar la negociación colectiva laboral entre representantes de trabajadores y empresarios. La dimensión colectiva exige sujetos representativos y no se identifica con una negociación individual aislada. Jueces, partidos o administración tributaria no forman el binomio constitucional, aunque el sector público tenga reglas específicas de negociación.",
+      "source_note": "Artículo 37.1 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q014",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "fuerza vinculante de convenios",
+      "section_refs": ["19.8"],
+      "prompt": "La ley garantizará respecto de los convenios colectivos:",
+      "options": [
+        {"id": "a", "text": "Su carácter meramente orientativo"},
+        {"id": "b", "text": "Su fuerza vinculante"},
+        {"id": "c", "text": "Su aprobación individual por cada trabajador"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "El artículo 37.1 menciona expresamente la fuerza vinculante de los convenios. No son simples recomendaciones ni necesitan aprobación individual posterior de cada persona incluida en su ámbito. La legislación determina eficacia, legitimación, procedimiento, vigencia y concurrencia, pero debe respetar el papel constitucional de la negociación colectiva y la vinculación de sus resultados.",
+      "source_note": "Artículo 37.1 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q015",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "conflicto colectivo",
+      "section_refs": ["19.8"],
+      "prompt": "El artículo 37.2 reconoce el derecho a adoptar medidas de conflicto colectivo:",
+      "options": [
+        {"id": "a", "text": "Solo a los trabajadores"},
+        {"id": "b", "text": "Exclusivamente al Gobierno"},
+        {"id": "c", "text": "A trabajadores y empresarios"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La titularidad literal del artículo 37.2 corresponde a trabajadores y empresarios. Esto lo diferencia del derecho de huelga del artículo 28.2, reconocido a los trabajadores para defender sus intereses. Las medidas concretas de conflicto y sus límites se regulan legalmente, pero la Constitución contempla expresamente a ambas partes de las relaciones laborales colectivas.",
+      "source_note": "Artículos 28.2 y 37.2 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q016",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "servicios esenciales y conflicto",
+      "section_refs": ["19.8"],
+      "prompt": "La ley que regule las medidas de conflicto colectivo incluirá garantías para asegurar:",
+      "options": [
+        {"id": "a", "text": "El funcionamiento de los servicios esenciales de la comunidad"},
+        {"id": "b", "text": "La desaparición de cualquier consecuencia del conflicto"},
+        {"id": "c", "text": "La paralización total obligatoria de todos los servicios"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 37.2 exige garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad, sin perjuicio de las limitaciones que pueda establecer la ley. No se pretende eliminar la eficacia de toda medida de conflicto ni ordenar una paralización total. La regulación debe compatibilizar acción colectiva con derechos y necesidades esenciales mediante medidas justificadas y proporcionadas.",
+      "source_note": "Artículo 37.2 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q017",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "huelga y conflicto colectivo",
+      "section_refs": ["18.3", "19.8"],
+      "prompt": "La huelga del artículo 28.2 y el conflicto colectivo del artículo 37.2:",
+      "options": [
+        {"id": "a", "text": "Son idénticos en titulares, ubicación y garantías"},
+        {"id": "b", "text": "Son derechos relacionados, pero con distinta formulación, titulares y ubicación constitucional"},
+        {"id": "c", "text": "Se excluyen mutuamente y nunca pueden guardar relación"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La huelga está en la Sección 1.ª y se reconoce a los trabajadores; las medidas de conflicto colectivo se ubican en la Sección 2.ª y se atribuyen a trabajadores y empresarios. Existe conexión material y ambas regulaciones protegen servicios esenciales, pero su titularidad, ubicación y régimen de garantías no son iguales. Confundirlas borra diferencias muy preguntables.",
+      "source_note": "Artículos 28.2, 37.2 y 53 CE; Atestado, apartados 18.3 y 19.8."
+    },
+    {
+      "id": "t02-b05b-q018",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "límites del conflicto colectivo",
+      "section_refs": ["19.8"],
+      "prompt": "La Constitución permite que la ley reguladora del conflicto colectivo:",
+      "options": [
+        {"id": "a", "text": "Suprima por completo el derecho sin justificación"},
+        {"id": "b", "text": "Autorice cualquier medida aunque lesione derechos fundamentales"},
+        {"id": "c", "text": "Establezca limitaciones y garantías compatibles con su contenido constitucional"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 37.2 admite expresamente limitaciones legales y exige garantías para servicios esenciales. Esa habilitación no permite vaciar el derecho ni legitimar medidas que desconozcan otros derechos. El legislador debe equilibrar intereses colectivos, continuidad de servicios esenciales y proporcionalidad. Las restricciones necesitan fundamento objetivo y no pueden transformar el reconocimiento constitucional en una facultad puramente nominal.",
+      "source_note": "Artículo 37.2 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q019",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "negociación individual y colectiva",
+      "section_refs": ["19.8"],
+      "prompt": "La negociación colectiva constitucional:",
+      "options": [
+        {"id": "a", "text": "No se confunde con el acuerdo individual aislado entre una empresa y una persona trabajadora"},
+        {"id": "b", "text": "Solo existe cuando cada trabajador firma personalmente el convenio"},
+        {"id": "c", "text": "Carece de eficacia vinculante por su naturaleza colectiva"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El artículo 37.1 protege un proceso colectivo desarrollado por representantes y garantiza fuerza vinculante a los convenios. Un contrato individual puede regular condiciones dentro de la ley y del convenio aplicable, pero no sustituye la negociación colectiva ni permite desconocer sus mínimos vinculantes. Precisamente la representación evita exigir una ratificación individual de cada persona incluida.",
+      "source_note": "Artículo 37.1 CE; Atestado, apartado 19.8."
+    },
+    {
+      "id": "t02-b05b-q020",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "libertad de empresa",
+      "section_refs": ["19.9"],
+      "prompt": "El artículo 38 reconoce la libertad de empresa en el marco de:",
+      "options": [
+        {"id": "a", "text": "Una economía completamente ajena a toda regulación"},
+        {"id": "b", "text": "La economía de mercado"},
+        {"id": "c", "text": "La propiedad estatal exclusiva de las empresas"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La expresión literal es «libertad de empresa en el marco de la economía de mercado». Reconocerla no significa ausencia de regulación ni monopolio estatal. La Constitución integra iniciativa privada, protección pública de su ejercicio y exigencias de la economía general. El legislador puede ordenar sectores y actividades siempre que respete el contenido del derecho y los principios constitucionales.",
+      "source_note": "Artículo 38 CE; Atestado, apartado 19.9."
+    },
+    {
+      "id": "t02-b05b-q021",
+      "type": "single_choice",
+      "difficulty": "basic",
+      "concept": "deberes de los poderes públicos",
+      "section_refs": ["19.9"],
+      "prompt": "Respecto de la libertad de empresa, los poderes públicos:",
+      "options": [
+        {"id": "a", "text": "Deben abstenerse de cualquier actuación económica"},
+        {"id": "b", "text": "Solo protegen empresas públicas"},
+        {"id": "c", "text": "Garantizan y protegen su ejercicio y la defensa de la productividad"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "El artículo 38 atribuye a los poderes públicos una función positiva de garantía y protección del ejercicio y de defensa de la productividad. No ordena una abstención absoluta ni restringe su protección a empresas públicas. Esta intervención debe acomodarse a la economía general y, cuando exista, a la planificación, articulando libertad económica con otros intereses constitucionales.",
+      "source_note": "Artículo 38 CE; Atestado, apartado 19.9."
+    },
+    {
+      "id": "t02-b05b-q022",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "economía general",
+      "section_refs": ["19.9"],
+      "prompt": "La garantía y protección de la libertad de empresa se ejercen de acuerdo con:",
+      "options": [
+        {"id": "a", "text": "Las exigencias de la economía general y, en su caso, de la planificación"},
+        {"id": "b", "text": "Los intereses exclusivos de cada empresa, sin límites externos"},
+        {"id": "c", "text": "La prohibición constitucional de toda planificación"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "El final del artículo 38 incorpora dos referencias: las exigencias de la economía general y, en su caso, la planificación. La libertad empresarial no se define como poder ilimitado de cada operador frente a cualquier interés colectivo. Al mismo tiempo, esas exigencias no permiten anularla arbitrariamente. Las medidas regulatorias necesitan base jurídica, finalidad legítima y proporcionalidad.",
+      "source_note": "Artículo 38 CE; Atestado, apartado 19.9."
+    },
+    {
+      "id": "t02-b05b-q023",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "empresa y planificación",
+      "section_refs": ["19.9"],
+      "prompt": "Libertad de empresa y planificación económica son, según el artículo 38:",
+      "options": [
+        {"id": "a", "text": "Siempre incompatibles, por lo que cualquier planificación es inconstitucional"},
+        {"id": "b", "text": "Compatibles en el marco constitucional, pues el propio artículo menciona la planificación"},
+        {"id": "c", "text": "Conceptos aplicables únicamente durante estados excepcionales"}
+      ],
+      "correct_option_id": "b",
+      "explanation": "La propia Constitución reconoce libertad de empresa y añade que su protección se acomodará, en su caso, a la planificación. Por ello no existe incompatibilidad automática. La planificación y regulación deben respetar el contenido de la libertad y la economía de mercado, mientras la iniciativa privada se ejerce dentro de las exigencias generales. Ninguna de estas ideas queda limitada a estados excepcionales.",
+      "source_note": "Artículo 38 CE; Atestado, apartado 19.9."
+    },
+    {
+      "id": "t02-b05b-q024",
+      "type": "single_choice",
+      "difficulty": "advanced",
+      "concept": "límites a la libertad de empresa",
+      "section_refs": ["19.9"],
+      "prompt": "Una regulación limita una actividad empresarial para proteger salud y consumidores. Desde el artículo 38:",
+      "options": [
+        {"id": "a", "text": "Toda regulación económica vulnera automáticamente la libertad de empresa"},
+        {"id": "b", "text": "La libertad de empresa desaparece cuando se invoca un interés general"},
+        {"id": "c", "text": "La limitación puede ser legítima si tiene base legal, finalidad constitucional y es proporcionada"}
+      ],
+      "correct_option_id": "c",
+      "explanation": "La libertad de empresa admite regulación destinada a proteger bienes como salud, seguridad, consumidores o medio ambiente. La invocación de interés general no basta por sí sola: la medida debe tener cobertura, ser adecuada, necesaria y equilibrada. Tampoco toda norma económica es una lesión. El análisis constitucional exige compatibilizar iniciativa empresarial con otros derechos y principios del ordenamiento.",
+      "source_note": "Artículos 38, 43 y 51 CE; Atestado, apartado 19.9."
+    },
+    {
+      "id": "t02-b05b-q025",
+      "type": "single_choice",
+      "difficulty": "intermediate",
+      "concept": "mapa de artículos 35 a 38",
+      "section_refs": ["19.6", "19.7", "19.8", "19.9", "19.10"],
+      "prompt": "¿Qué correspondencia es correcta?",
+      "options": [
+        {"id": "a", "text": "Art. 35 trabajo; 36 colegios profesionales; 37 negociación y conflicto; 38 libertad de empresa"},
+        {"id": "b", "text": "Art. 35 empresa; 36 trabajo; 37 colegios; 38 negociación"},
+        {"id": "c", "text": "Art. 35 huelga; 36 propiedad; 37 fundación; 38 tributos"}
+      ],
+      "correct_option_id": "a",
+      "explanation": "La secuencia final de la Sección 2.ª es trabajo, colegios profesionales, negociación y conflicto colectivo, y libertad de empresa. Estos derechos son constitucionales, pero no están en la zona de protección reforzada de los artículos 14 a 29. Su ubicación afecta a las vías de tutela, aunque siguen vinculando a los poderes públicos y poseen contenido jurídicamente exigible.",
+      "source_note": "Artículos 35 a 38 y 53.1 CE; Atestado, apartados 19.6 a 19.10."
+    }
+  ]
+}
