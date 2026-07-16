@@ -1,0 +1,29 @@
+{
+  "version": "0.3.0",
+  "semantic_blocks": 25,
+  "atomic_facts": 470,
+  "questions": 738,
+  "coverage_by_atomic_facts": 100.0,
+  "answer_distribution": {
+    "A": 246,
+    "B": 246,
+    "C": 246
+  },
+  "risk_distribution": {
+    "5": 268,
+    "4": 178,
+    "3": 24
+  },
+  "dynamic_configurations": 34,
+  "generated_tests": 61,
+  "generated_test_breakdown": {
+    "block_coverage": 40,
+    "parts": 18,
+    "finals": 3
+  },
+  "notebooklm_package": true,
+  "publication_status": "not_published",
+  "github_status": "prepared_locally_not_uploaded",
+  "files_in_package": 124,
+  "automated_tests_passed": 24
+}
