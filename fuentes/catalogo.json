@@ -1,0 +1,136 @@
+{
+  "catalog_version": "0.2.0",
+  "checked_at": "2026-07-16",
+  "sources": [
+    {
+      "id": "CE-CORONA",
+      "title": "Constitución Española: Título II, arts. 56-65",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 56-65",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-CORTES",
+      "title": "Constitución Española: Título III, arts. 66-96",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 66-96",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-GOBIERNO",
+      "title": "Constitución Española: Título IV, arts. 97-107",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 97-107",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-RELACIONES",
+      "title": "Constitución Española: Título V, arts. 108-116",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 108-116",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-JUDICIAL",
+      "title": "Constitución Española: Título VI, arts. 117-127",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 117-127",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-TERRITORIAL",
+      "title": "Constitución Española: Título VIII, arts. 137-158",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 137-158",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-TC",
+      "title": "Constitución Española: Título IX, arts. 159-165",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 159-165",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-REFORMA",
+      "title": "Constitución Española: Título X, arts. 166-169",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "consolidated_at": "2026-05-20",
+      "scope": "arts. 166-169",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LOTC",
+      "title": "Ley Orgánica 2/1979, del Tribunal Constitucional",
+      "boe_id": "BOE-A-1979-23709",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709",
+      "consolidated_at": "2024-08-02",
+      "scope": "arts. 1-15, 27-40",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LOAES",
+      "title": "Ley Orgánica 4/1981, estados de alarma, excepción y sitio",
+      "boe_id": "BOE-A-1981-12774",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-12774",
+      "consolidated_at": "1981-06-05",
+      "scope": "texto completo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LOPJ",
+      "title": "Ley Orgánica 6/1985, del Poder Judicial",
+      "boe_id": "BOE-A-1985-12666",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+      "consolidated_at": "2025-02-17",
+      "scope": "estructura y órganos judiciales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LGOB",
+      "title": "Ley 50/1997, del Gobierno",
+      "boe_id": "BOE-A-1997-25336",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+      "consolidated_at": "2025-01-03",
+      "scope": "arts. 1-26",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CONV-PN-2026",
+      "title": "Convocatoria Escala Básica Policía Nacional 2026",
+      "boe_id": "BOE-A-2026-15055",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "consolidated_at": "2026-07-15",
+      "scope": "anexo programa oficial",
+      "official": true,
+      "traceable": true
+    }
+  ]
+}

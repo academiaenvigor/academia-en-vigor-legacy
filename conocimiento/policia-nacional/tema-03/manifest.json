@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-03",
+  "slug": "constitucion-espanola-ii",
+  "title": "La Constitución Española (II)",
+  "content_version": "0.2.0",
+  "editorial_status": "approved",
+  "publication_status": "not_published",
+  "normative_status": "verified_2026-07-16",
+  "source_file": "conocimiento/policia-nacional/tema-03/master.md",
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-03-constitucion-espanola-ii.md",
+    "atestado": "temas/policia-nacional/atestado/tema-03-constitucion-espanola-ii.md"
+  },
+  "semantic_blocks": 25,
+  "official_references": [
+    "CE-CORONA",
+    "CE-CORTES",
+    "CE-GOBIERNO",
+    "CE-RELACIONES",
+    "CE-JUDICIAL",
+    "CE-TERRITORIAL",
+    "CE-TC",
+    "CE-REFORMA",
+    "LOTC",
+    "LOAES",
+    "LOPJ",
+    "LGOB",
+    "CONV-PN-2026"
+  ],
+  "official_exam_items": [],
+  "quarantine_exam_labels": [
+    "2024",
+    "2025-1"
+  ],
+  "review": {
+    "legal": "approved",
+    "pedagogical": "approved",
+    "editorial": "approved",
+    "review_file": "conocimiento/policia-nacional/tema-03/revision-0.2.md"
+  },
+  "legacy_files_preserved": [
+    "temas/parte/tema-03-constitucion-2.md"
+  ],
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ]
+}
