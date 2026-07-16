@@ -1,0 +1,393 @@
+{
+  "id": "PN-T03-B01-A",
+  "titulo": "Tema 3 · Bloque 1: La Corona: posición, inviolabilidad y refrendo · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      1
+    ]
+  },
+  "numero_preguntas": 17,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q001",
+      "fact_id": "PN-T03-F001",
+      "bloque": 1,
+      "concepto": "Jefatura del Estado",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jefatura del Estado» conforme a 56.1?",
+      "opciones": {
+        "A": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q002",
+      "fact_id": "PN-T03-F002",
+      "bloque": 1,
+      "concepto": "Arbitraje y moderación",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Arbitraje y moderación» conforme a 56.1?",
+      "opciones": {
+        "A": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente."
+      }
+    },
+    {
+      "id": "PN-T03-Q003",
+      "fact_id": "PN-T03-F003",
+      "bloque": 1,
+      "concepto": "Representación internacional",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación internacional» conforme a 56.1?",
+      "opciones": {
+        "A": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q004",
+      "fact_id": "PN-T03-F004",
+      "bloque": 1,
+      "concepto": "Título del Rey",
+      "articulo": "56.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Título del Rey» conforme a 56.2?",
+      "opciones": {
+        "A": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q005",
+      "fact_id": "PN-T03-F005",
+      "bloque": 1,
+      "concepto": "Inviolabilidad y responsabilidad",
+      "articulo": "56.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad y responsabilidad» conforme a 56.3?",
+      "opciones": {
+        "A": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica.",
+        "B": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "C": "De los actos del Rey responden las personas que los refrendan."
+      }
+    },
+    {
+      "id": "PN-T03-Q006",
+      "fact_id": "PN-T03-F006",
+      "bloque": 1,
+      "concepto": "Validez del acto regio",
+      "articulo": "56.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Validez del acto regio» conforme a 56.3?",
+      "opciones": {
+        "A": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.",
+        "B": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q007",
+      "fact_id": "PN-T03-F007",
+      "bloque": 1,
+      "concepto": "Refrendo ordinario",
+      "articulo": "64.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo ordinario» conforme a 64.1?",
+      "opciones": {
+        "A": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.",
+        "B": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente.",
+        "C": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona."
+      }
+    },
+    {
+      "id": "PN-T03-Q008",
+      "fact_id": "PN-T03-F008",
+      "bloque": 1,
+      "concepto": "Refrendo del Presidente del Congreso",
+      "articulo": "64.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo del Presidente del Congreso» conforme a 64.1?",
+      "opciones": {
+        "A": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "B": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "C": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q009",
+      "fact_id": "PN-T03-F009",
+      "bloque": 1,
+      "concepto": "Responsabilidad del refrendante",
+      "articulo": "64.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad del refrendante» conforme a 64.2?",
+      "opciones": {
+        "A": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "De los actos del Rey responden las personas que los refrendan."
+      }
+    },
+    {
+      "id": "PN-T03-Q010",
+      "fact_id": "PN-T03-F010",
+      "bloque": 1,
+      "concepto": "Dotación de la Casa del Rey",
+      "articulo": "65.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dotación de la Casa del Rey» conforme a 65.1?",
+      "opciones": {
+        "A": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente.",
+        "B": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "C": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q011",
+      "fact_id": "PN-T03-F011",
+      "bloque": 1,
+      "concepto": "Miembros de la Casa del Rey",
+      "articulo": "65.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Miembros de la Casa del Rey» conforme a 65.2?",
+      "opciones": {
+        "A": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q471",
+      "fact_id": "PN-T03-F001",
+      "bloque": 1,
+      "concepto": "Jefatura del Estado",
+      "articulo": "56.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.»?",
+      "opciones": {
+        "A": "56.2",
+        "B": "56.3",
+        "C": "56.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q472",
+      "fact_id": "PN-T03-F005",
+      "bloque": 1,
+      "concepto": "Inviolabilidad y responsabilidad",
+      "articulo": "56.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La persona del Rey es inviolable y no está sujeta a responsabilidad.»?",
+      "opciones": {
+        "A": "56.3",
+        "B": "56.1",
+        "C": "56.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q473",
+      "fact_id": "PN-T03-F006",
+      "bloque": 1,
+      "concepto": "Validez del acto regio",
+      "articulo": "56.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2.»?",
+      "opciones": {
+        "A": "56.1",
+        "B": "56.3",
+        "C": "56.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q474",
+      "fact_id": "PN-T03-F007",
+      "bloque": 1,
+      "concepto": "Refrendo ordinario",
+      "articulo": "64.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.»?",
+      "opciones": {
+        "A": "56.1",
+        "B": "56.2",
+        "C": "64.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q475",
+      "fact_id": "PN-T03-F008",
+      "bloque": 1,
+      "concepto": "Refrendo del Presidente del Congreso",
+      "articulo": "64.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.»?",
+      "opciones": {
+        "A": "64.1",
+        "B": "56.1",
+        "C": "56.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q476",
+      "fact_id": "PN-T03-F009",
+      "bloque": 1,
+      "concepto": "Responsabilidad del refrendante",
+      "articulo": "64.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «De los actos del Rey responden las personas que los refrendan.»?",
+      "opciones": {
+        "A": "56.1",
+        "B": "64.2",
+        "C": "56.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q001",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F001",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q002",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey arbitra y modera el funcionamiento regular de las instituciones. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F002",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q003",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F003",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q004",
+      "respuesta_correcta": "A",
+      "explicacion": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona. Referencia principal: CE-CORONA, 56.2.",
+      "fact_id": "PN-T03-F004",
+      "articulo": "56.2"
+    },
+    {
+      "id": "PN-T03-Q005",
+      "respuesta_correcta": "B",
+      "explicacion": "La persona del Rey es inviolable y no está sujeta a responsabilidad. Referencia principal: CE-CORONA, 56.3.",
+      "fact_id": "PN-T03-F005",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q006",
+      "respuesta_correcta": "C",
+      "explicacion": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2. Referencia principal: CE-CORONA, 56.3.",
+      "fact_id": "PN-T03-F006",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q007",
+      "respuesta_correcta": "A",
+      "explicacion": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes. Referencia principal: CE-CORONA, 64.1.",
+      "fact_id": "PN-T03-F007",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q008",
+      "respuesta_correcta": "B",
+      "explicacion": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso. Referencia principal: CE-CORONA, 64.1.",
+      "fact_id": "PN-T03-F008",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q009",
+      "respuesta_correcta": "C",
+      "explicacion": "De los actos del Rey responden las personas que los refrendan. Referencia principal: CE-CORONA, 64.2.",
+      "fact_id": "PN-T03-F009",
+      "articulo": "64.2"
+    },
+    {
+      "id": "PN-T03-Q010",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente. Referencia principal: CE-CORONA, 65.1.",
+      "fact_id": "PN-T03-F010",
+      "articulo": "65.1"
+    },
+    {
+      "id": "PN-T03-Q011",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa. Referencia principal: CE-CORONA, 65.2.",
+      "fact_id": "PN-T03-F011",
+      "articulo": "65.2"
+    },
+    {
+      "id": "PN-T03-Q471",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 56.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F001",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q472",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 56.3 (CE-CORONA).",
+      "fact_id": "PN-T03-F005",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q473",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 56.3 (CE-CORONA).",
+      "fact_id": "PN-T03-F006",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q474",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 64.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F007",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q475",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 64.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F008",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q476",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 64.2 (CE-CORONA).",
+      "fact_id": "PN-T03-F009",
+      "articulo": "64.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

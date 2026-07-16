@@ -1,0 +1,17 @@
+{
+  "id": "PN-T03-P3",
+  "titulo": "Tema 3 · Parte 3 · Gobierno, control y estados excepcionales",
+  "ambito": {
+    "bloques": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

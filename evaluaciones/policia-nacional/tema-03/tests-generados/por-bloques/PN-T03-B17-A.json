@@ -1,0 +1,503 @@
+{
+  "id": "PN-T03-B17-A",
+  "titulo": "Tema 3 · Bloque 17: Poder Judicial: principios y funcionamiento · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      17
+    ]
+  },
+  "numero_preguntas": 22,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q250",
+      "fact_id": "PN-T03-F250",
+      "bloque": 17,
+      "concepto": "Estatuto judicial",
+      "articulo": "117.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto judicial» conforme a 117.1?",
+      "opciones": {
+        "A": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "B": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos.",
+        "C": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos."
+      }
+    },
+    {
+      "id": "PN-T03-Q251",
+      "fact_id": "PN-T03-F251",
+      "bloque": 17,
+      "concepto": "Garantía de inamovilidad",
+      "articulo": "117.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantía de inamovilidad» conforme a 117.2?",
+      "opciones": {
+        "A": "Se prohíben los tribunales de excepción.",
+        "B": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q249",
+      "fact_id": "PN-T03-F249",
+      "bloque": 17,
+      "concepto": "Origen de la justicia",
+      "articulo": "117.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Origen de la justicia» conforme a 117.1?",
+      "opciones": {
+        "A": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "B": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.",
+        "C": "La justicia emana del pueblo y se administra en nombre del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q253",
+      "fact_id": "PN-T03-F253",
+      "bloque": 17,
+      "concepto": "Funciones no jurisdiccionales",
+      "articulo": "117.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones no jurisdiccionales» conforme a 117.4?",
+      "opciones": {
+        "A": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos.",
+        "B": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "C": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q254",
+      "fact_id": "PN-T03-F254",
+      "bloque": 17,
+      "concepto": "Unidad jurisdiccional",
+      "articulo": "117.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Unidad jurisdiccional» conforme a 117.5?",
+      "opciones": {
+        "A": "Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes.",
+        "B": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.",
+        "C": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos."
+      }
+    },
+    {
+      "id": "PN-T03-Q252",
+      "fact_id": "PN-T03-F252",
+      "bloque": 17,
+      "concepto": "Exclusividad jurisdiccional",
+      "articulo": "117.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Exclusividad jurisdiccional» conforme a 117.3?",
+      "opciones": {
+        "A": "Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento.",
+        "B": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales.",
+        "C": "Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes."
+      }
+    },
+    {
+      "id": "PN-T03-Q256",
+      "fact_id": "PN-T03-F256",
+      "bloque": 17,
+      "concepto": "Tribunales de excepción",
+      "articulo": "117.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tribunales de excepción» conforme a 117.6?",
+      "opciones": {
+        "A": "Se prohíben los tribunales de excepción.",
+        "B": "Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento.",
+        "C": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q257",
+      "fact_id": "PN-T03-F257",
+      "bloque": 17,
+      "concepto": "Colaboración con la justicia",
+      "articulo": "118",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Colaboración con la justicia» conforme a 118?",
+      "opciones": {
+        "A": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "B": "Es obligatorio cumplir sentencias y resoluciones firmes y prestar la colaboración requerida por jueces y tribunales.",
+        "C": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales."
+      }
+    },
+    {
+      "id": "PN-T03-Q255",
+      "fact_id": "PN-T03-F255",
+      "bloque": 17,
+      "concepto": "Jurisdicción militar",
+      "articulo": "117.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jurisdicción militar» conforme a 117.5?",
+      "opciones": {
+        "A": "Se prohíben los tribunales de excepción.",
+        "B": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública.",
+        "C": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q259",
+      "fact_id": "PN-T03-F259",
+      "bloque": 17,
+      "concepto": "Publicidad judicial",
+      "articulo": "120.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Publicidad judicial» conforme a 120.1?",
+      "opciones": {
+        "A": "Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento.",
+        "B": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q260",
+      "fact_id": "PN-T03-F260",
+      "bloque": 17,
+      "concepto": "Oralidad",
+      "articulo": "120.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Oralidad» conforme a 120.2?",
+      "opciones": {
+        "A": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos.",
+        "B": "El procedimiento es predominantemente oral, sobre todo en materia criminal.",
+        "C": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q258",
+      "fact_id": "PN-T03-F258",
+      "bloque": 17,
+      "concepto": "Justicia gratuita",
+      "articulo": "119",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Justicia gratuita» conforme a 119?",
+      "opciones": {
+        "A": "Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes.",
+        "B": "Es obligatorio cumplir sentencias y resoluciones firmes y prestar la colaboración requerida por jueces y tribunales.",
+        "C": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos."
+      }
+    },
+    {
+      "id": "PN-T03-Q622",
+      "fact_id": "PN-T03-F249",
+      "bloque": 17,
+      "concepto": "Origen de la justicia",
+      "articulo": "117.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La justicia emana del pueblo y se administra en nombre del Rey.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "117.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q623",
+      "fact_id": "PN-T03-F250",
+      "bloque": 17,
+      "concepto": "Estatuto judicial",
+      "articulo": "117.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.»?",
+      "opciones": {
+        "A": "117.2",
+        "B": "117.1",
+        "C": "117.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q261",
+      "fact_id": "PN-T03-F261",
+      "bloque": 17,
+      "concepto": "Motivación y publicidad de sentencias",
+      "articulo": "120.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Motivación y publicidad de sentencias» conforme a 120.3?",
+      "opciones": {
+        "A": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "B": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q625",
+      "fact_id": "PN-T03-F254",
+      "bloque": 17,
+      "concepto": "Unidad jurisdiccional",
+      "articulo": "117.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.»?",
+      "opciones": {
+        "A": "117.5",
+        "B": "117.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q626",
+      "fact_id": "PN-T03-F255",
+      "bloque": 17,
+      "concepto": "Jurisdicción militar",
+      "articulo": "117.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.5",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q624",
+      "fact_id": "PN-T03-F252",
+      "bloque": 17,
+      "concepto": "Exclusividad jurisdiccional",
+      "articulo": "117.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "117.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q628",
+      "fact_id": "PN-T03-F258",
+      "bloque": 17,
+      "concepto": "Justicia gratuita",
+      "articulo": "119",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos.»?",
+      "opciones": {
+        "A": "119",
+        "B": "117.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q629",
+      "fact_id": "PN-T03-F259",
+      "bloque": 17,
+      "concepto": "Publicidad judicial",
+      "articulo": "120.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "120.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q627",
+      "fact_id": "PN-T03-F256",
+      "bloque": 17,
+      "concepto": "Tribunales de excepción",
+      "articulo": "117.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Se prohíben los tribunales de excepción.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "117.6"
+      }
+    },
+    {
+      "id": "PN-T03-Q630",
+      "fact_id": "PN-T03-F261",
+      "bloque": 17,
+      "concepto": "Motivación y publicidad de sentencias",
+      "articulo": "120.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sentencias deben ser motivadas y pronunciarse en audiencia pública.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "120.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q250",
+      "respuesta_correcta": "A",
+      "explicacion": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. Referencia principal: CE-JUDICIAL, 117.1.",
+      "fact_id": "PN-T03-F250",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q251",
+      "respuesta_correcta": "B",
+      "explicacion": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales. Referencia principal: CE-JUDICIAL, 117.2.",
+      "fact_id": "PN-T03-F251",
+      "articulo": "117.2"
+    },
+    {
+      "id": "PN-T03-Q249",
+      "respuesta_correcta": "C",
+      "explicacion": "La justicia emana del pueblo y se administra en nombre del Rey. Referencia principal: CE-JUDICIAL, 117.1.",
+      "fact_id": "PN-T03-F249",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q253",
+      "respuesta_correcta": "A",
+      "explicacion": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos. Referencia principal: CE-JUDICIAL, 117.4.",
+      "fact_id": "PN-T03-F253",
+      "articulo": "117.4"
+    },
+    {
+      "id": "PN-T03-Q254",
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales. Referencia principal: CE-JUDICIAL, 117.5.",
+      "fact_id": "PN-T03-F254",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q252",
+      "respuesta_correcta": "C",
+      "explicacion": "Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes. Referencia principal: CE-JUDICIAL, 117.3.",
+      "fact_id": "PN-T03-F252",
+      "articulo": "117.3"
+    },
+    {
+      "id": "PN-T03-Q256",
+      "respuesta_correcta": "A",
+      "explicacion": "Se prohíben los tribunales de excepción. Referencia principal: CE-JUDICIAL, 117.6.",
+      "fact_id": "PN-T03-F256",
+      "articulo": "117.6"
+    },
+    {
+      "id": "PN-T03-Q257",
+      "respuesta_correcta": "B",
+      "explicacion": "Es obligatorio cumplir sentencias y resoluciones firmes y prestar la colaboración requerida por jueces y tribunales. Referencia principal: CE-JUDICIAL, 118.",
+      "fact_id": "PN-T03-F257",
+      "articulo": "118"
+    },
+    {
+      "id": "PN-T03-Q255",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio. Referencia principal: CE-JUDICIAL, 117.5.",
+      "fact_id": "PN-T03-F255",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q259",
+      "respuesta_correcta": "A",
+      "explicacion": "Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento. Referencia principal: CE-JUDICIAL, 120.1.",
+      "fact_id": "PN-T03-F259",
+      "articulo": "120.1"
+    },
+    {
+      "id": "PN-T03-Q260",
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento es predominantemente oral, sobre todo en materia criminal. Referencia principal: CE-JUDICIAL, 120.2.",
+      "fact_id": "PN-T03-F260",
+      "articulo": "120.2"
+    },
+    {
+      "id": "PN-T03-Q258",
+      "respuesta_correcta": "C",
+      "explicacion": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos. Referencia principal: CE-JUDICIAL, 119.",
+      "fact_id": "PN-T03-F258",
+      "articulo": "119"
+    },
+    {
+      "id": "PN-T03-Q622",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 117.1 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F249",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q623",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 117.1 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F250",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q261",
+      "respuesta_correcta": "C",
+      "explicacion": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública. Referencia principal: CE-JUDICIAL, 120.3.",
+      "fact_id": "PN-T03-F261",
+      "articulo": "120.3"
+    },
+    {
+      "id": "PN-T03-Q625",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 117.5 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F254",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q626",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 117.5 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F255",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q624",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 117.3 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F252",
+      "articulo": "117.3"
+    },
+    {
+      "id": "PN-T03-Q628",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 119 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F258",
+      "articulo": "119"
+    },
+    {
+      "id": "PN-T03-Q629",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 120.1 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F259",
+      "articulo": "120.1"
+    },
+    {
+      "id": "PN-T03-Q627",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 117.6 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F256",
+      "articulo": "117.6"
+    },
+    {
+      "id": "PN-T03-Q630",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 120.3 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F261",
+      "articulo": "120.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

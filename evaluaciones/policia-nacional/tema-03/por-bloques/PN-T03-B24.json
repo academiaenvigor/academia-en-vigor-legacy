@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-B24",
+  "titulo": "Tema 3 · Bloque 24: Tribunal Constitucional",
+  "ambito": {
+    "bloques": [
+      24
+    ]
+  },
+  "modo": "aleatorio_sin_repeticion",
+  "numero_preguntas": 20,
+  "banco_version": "0.3.0",
+  "equilibrar_riesgo": true,
+  "maximo_por_hecho": 1
+}

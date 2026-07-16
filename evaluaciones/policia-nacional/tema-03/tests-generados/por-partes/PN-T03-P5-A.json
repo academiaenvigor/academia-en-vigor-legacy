@@ -1,0 +1,573 @@
+{
+  "id": "PN-T03-P5-A",
+  "titulo": "Tema 3 · Parte 5 · Organización territorial · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q286",
+      "fact_id": "PN-T03-F286",
+      "bloque": 19,
+      "concepto": "Autonomía territorial",
+      "articulo": "137",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía territorial» conforme a 137?",
+      "opciones": {
+        "A": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "B": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes.",
+        "C": "La ley regula las condiciones en que procede el régimen de concejo abierto."
+      }
+    },
+    {
+      "id": "PN-T03-Q287",
+      "fact_id": "PN-T03-F287",
+      "bloque": 19,
+      "concepto": "Solidaridad territorial",
+      "articulo": "138.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Solidaridad territorial» conforme a 138.1?",
+      "opciones": {
+        "A": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "B": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo.",
+        "C": "El gobierno y administración autónoma de las provincias se encomiendan a diputaciones u otras corporaciones representativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q285",
+      "fact_id": "PN-T03-F285",
+      "bloque": 19,
+      "concepto": "Entidades territoriales",
+      "articulo": "137",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Entidades territoriales» conforme a 137?",
+      "opciones": {
+        "A": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.",
+        "B": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.",
+        "C": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan."
+      }
+    },
+    {
+      "id": "PN-T03-Q304",
+      "fact_id": "PN-T03-F304",
+      "bloque": 20,
+      "concepto": "Iniciativa autonómica común",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica común» conforme a 143.2?",
+      "opciones": {
+        "A": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.",
+        "B": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.",
+        "C": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial."
+      }
+    },
+    {
+      "id": "PN-T03-Q305",
+      "fact_id": "PN-T03-F305",
+      "bloque": 20,
+      "concepto": "Plazo de la iniciativa",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de la iniciativa» conforme a 143.2?",
+      "opciones": {
+        "A": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años.",
+        "B": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.",
+        "C": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios."
+      }
+    },
+    {
+      "id": "PN-T03-Q303",
+      "fact_id": "PN-T03-F303",
+      "bloque": 20,
+      "concepto": "Titulares de iniciativa autonómica",
+      "articulo": "143.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Titulares de iniciativa autonómica» conforme a 143.1?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley.",
+        "B": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.",
+        "C": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q319",
+      "fact_id": "PN-T03-F319",
+      "bloque": 21,
+      "concepto": "Régimen local transferible",
+      "articulo": "148.1.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Régimen local transferible» conforme a 148.1.2?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica."
+      }
+    },
+    {
+      "id": "PN-T03-Q320",
+      "fact_id": "PN-T03-F320",
+      "bloque": 21,
+      "concepto": "Ordenación territorial",
+      "articulo": "148.1.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ordenación territorial» conforme a 148.1.3?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre asistencia social."
+      }
+    },
+    {
+      "id": "PN-T03-Q318",
+      "fact_id": "PN-T03-F318",
+      "bloque": 21,
+      "concepto": "Organización autonómica",
+      "articulo": "148.1.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Organización autonómica» conforme a 148.1.1?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre artesanía.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q379",
+      "fact_id": "PN-T03-F379",
+      "bloque": 22,
+      "concepto": "Control de leyes marco",
+      "articulo": "150.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control de leyes marco» conforme a 150.1?",
+      "opciones": {
+        "A": "La ley marco establece la modalidad de control de las Cortes sobre las normas autonómicas, sin perjuicio de los tribunales.",
+        "B": "Los requisitos municipales de la vía especial deben cumplirse dentro de seis meses desde el primer acuerdo.",
+        "C": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q380",
+      "fact_id": "PN-T03-F380",
+      "bloque": 22,
+      "concepto": "Transferencia o delegación",
+      "articulo": "150.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Transferencia o delegación» conforme a 150.2?",
+      "opciones": {
+        "A": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.",
+        "B": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q378",
+      "fact_id": "PN-T03-F378",
+      "bloque": 22,
+      "concepto": "Leyes marco",
+      "articulo": "150.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Leyes marco» conforme a 150.1?",
+      "opciones": {
+        "A": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.",
+        "B": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto.",
+        "C": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal."
+      }
+    },
+    {
+      "id": "PN-T03-Q403",
+      "fact_id": "PN-T03-F403",
+      "bloque": 23,
+      "concepto": "Control del TC",
+      "articulo": "153.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del TC» conforme a 153.a?",
+      "opciones": {
+        "A": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.",
+        "B": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
+        "C": "Las comunidades pueden actuar como delegadas o colaboradoras del Estado en recaudación, gestión y liquidación tributaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q404",
+      "fact_id": "PN-T03-F404",
+      "bloque": 23,
+      "concepto": "Control del Gobierno",
+      "articulo": "153.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del Gobierno» conforme a 153.b?",
+      "opciones": {
+        "A": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias.",
+        "B": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2.",
+        "C": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito."
+      }
+    },
+    {
+      "id": "PN-T03-Q405",
+      "fact_id": "PN-T03-F405",
+      "bloque": 23,
+      "concepto": "Control contencioso-administrativo",
+      "articulo": "153.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control contencioso-administrativo» conforme a 153.c?",
+      "opciones": {
+        "A": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.",
+        "B": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "C": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q289",
+      "fact_id": "PN-T03-F289",
+      "bloque": 19,
+      "concepto": "Prohibición de privilegios",
+      "articulo": "138.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibición de privilegios» conforme a 138.2?",
+      "opciones": {
+        "A": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales.",
+        "B": "Pueden crearse agrupaciones de municipios diferentes de la provincia.",
+        "C": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo."
+      }
+    },
+    {
+      "id": "PN-T03-Q290",
+      "fact_id": "PN-T03-F290",
+      "bloque": 19,
+      "concepto": "Igualdad territorial de derechos",
+      "articulo": "139.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Igualdad territorial de derechos» conforme a 139.1?",
+      "opciones": {
+        "A": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan.",
+        "B": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q307",
+      "fact_id": "PN-T03-F307",
+      "bloque": 20,
+      "concepto": "Autonomía uniprovincial excepcional",
+      "articulo": "144.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía uniprovincial excepcional» conforme a 144.a?",
+      "opciones": {
+        "A": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.",
+        "B": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.",
+        "C": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q308",
+      "fact_id": "PN-T03-F308",
+      "bloque": 20,
+      "concepto": "Estatuto para territorio no provincial",
+      "articulo": "144.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto para territorio no provincial» conforme a 144.b?",
+      "opciones": {
+        "A": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento.",
+        "B": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial.",
+        "C": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo."
+      }
+    },
+    {
+      "id": "PN-T03-Q322",
+      "fact_id": "PN-T03-F322",
+      "bloque": 21,
+      "concepto": "Ferrocarriles y carreteras interiores",
+      "articulo": "148.1.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ferrocarriles y carreteras interiores» conforme a 148.1.5?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "C": "El Estado tiene competencia exclusiva sobre relaciones internacionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q323",
+      "fact_id": "PN-T03-F323",
+      "bloque": 21,
+      "concepto": "Puertos y aeropuertos no comerciales",
+      "articulo": "148.1.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Puertos y aeropuertos no comerciales» conforme a 148.1.6?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación mercantil, penal y penitenciaria y legislación procesal, con especialidades autonómicas derivadas de su Derecho sustantivo."
+      }
+    },
+    {
+      "id": "PN-T03-Q382",
+      "fact_id": "PN-T03-F382",
+      "bloque": 22,
+      "concepto": "Leyes de armonización",
+      "articulo": "150.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Leyes de armonización» conforme a 150.3?",
+      "opciones": {
+        "A": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.",
+        "B": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "C": "El Presidente y el Consejo responden políticamente ante la Asamblea."
+      }
+    },
+    {
+      "id": "PN-T03-Q383",
+      "fact_id": "PN-T03-F383",
+      "bloque": 22,
+      "concepto": "Mayoría para armonización",
+      "articulo": "150.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para armonización» conforme a 150.3?",
+      "opciones": {
+        "A": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "B": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara.",
+        "C": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica."
+      }
+    },
+    {
+      "id": "PN-T03-Q406",
+      "fact_id": "PN-T03-F406",
+      "bloque": 23,
+      "concepto": "Control del Tribunal de Cuentas",
+      "articulo": "153.d",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del Tribunal de Cuentas» conforme a 153.d?",
+      "opciones": {
+        "A": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q407",
+      "fact_id": "PN-T03-F407",
+      "bloque": 23,
+      "concepto": "Delegado del Gobierno",
+      "articulo": "154",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegado del Gobierno» conforme a 154?",
+      "opciones": {
+        "A": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión.",
+        "B": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.",
+        "C": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q286",
+      "respuesta_correcta": "A",
+      "explicacion": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses. Referencia principal: CE-TERRITORIAL, 137.",
+      "fact_id": "PN-T03-F286",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q287",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo. Referencia principal: CE-TERRITORIAL, 138.1.",
+      "fact_id": "PN-T03-F287",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q285",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan. Referencia principal: CE-TERRITORIAL, 137.",
+      "fact_id": "PN-T03-F285",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q304",
+      "respuesta_correcta": "A",
+      "explicacion": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F304",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q305",
+      "respuesta_correcta": "B",
+      "explicacion": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F305",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q303",
+      "respuesta_correcta": "C",
+      "explicacion": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica. Referencia principal: CE-TERRITORIAL, 143.1.",
+      "fact_id": "PN-T03-F303",
+      "articulo": "143.1"
+    },
+    {
+      "id": "PN-T03-Q319",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local. Referencia principal: CE-TERRITORIAL, 148.1.2.",
+      "fact_id": "PN-T03-F319",
+      "articulo": "148.1.2"
+    },
+    {
+      "id": "PN-T03-Q320",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda. Referencia principal: CE-TERRITORIAL, 148.1.3.",
+      "fact_id": "PN-T03-F320",
+      "articulo": "148.1.3"
+    },
+    {
+      "id": "PN-T03-Q318",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno. Referencia principal: CE-TERRITORIAL, 148.1.1.",
+      "fact_id": "PN-T03-F318",
+      "articulo": "148.1.1"
+    },
+    {
+      "id": "PN-T03-Q379",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley marco establece la modalidad de control de las Cortes sobre las normas autonómicas, sin perjuicio de los tribunales. Referencia principal: CE-TERRITORIAL, 150.1.",
+      "fact_id": "PN-T03-F379",
+      "articulo": "150.1"
+    },
+    {
+      "id": "PN-T03-Q380",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza. Referencia principal: CE-TERRITORIAL, 150.2.",
+      "fact_id": "PN-T03-F380",
+      "articulo": "150.2"
+    },
+    {
+      "id": "PN-T03-Q378",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal. Referencia principal: CE-TERRITORIAL, 150.1.",
+      "fact_id": "PN-T03-F378",
+      "articulo": "150.1"
+    },
+    {
+      "id": "PN-T03-Q403",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley. Referencia principal: CE-TERRITORIAL, 153.a.",
+      "fact_id": "PN-T03-F403",
+      "articulo": "153.a"
+    },
+    {
+      "id": "PN-T03-Q404",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2. Referencia principal: CE-TERRITORIAL, 153.b.",
+      "fact_id": "PN-T03-F404",
+      "articulo": "153.b"
+    },
+    {
+      "id": "PN-T03-Q405",
+      "respuesta_correcta": "C",
+      "explicacion": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias. Referencia principal: CE-TERRITORIAL, 153.c.",
+      "fact_id": "PN-T03-F405",
+      "articulo": "153.c"
+    },
+    {
+      "id": "PN-T03-Q289",
+      "respuesta_correcta": "A",
+      "explicacion": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales. Referencia principal: CE-TERRITORIAL, 138.2.",
+      "fact_id": "PN-T03-F289",
+      "articulo": "138.2"
+    },
+    {
+      "id": "PN-T03-Q290",
+      "respuesta_correcta": "B",
+      "explicacion": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio. Referencia principal: CE-TERRITORIAL, 139.1.",
+      "fact_id": "PN-T03-F290",
+      "articulo": "139.1"
+    },
+    {
+      "id": "PN-T03-Q307",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1. Referencia principal: CE-TERRITORIAL, 144.a.",
+      "fact_id": "PN-T03-F307",
+      "articulo": "144.a"
+    },
+    {
+      "id": "PN-T03-Q308",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial. Referencia principal: CE-TERRITORIAL, 144.b.",
+      "fact_id": "PN-T03-F308",
+      "articulo": "144.b"
+    },
+    {
+      "id": "PN-T03-Q322",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable. Referencia principal: CE-TERRITORIAL, 148.1.5.",
+      "fact_id": "PN-T03-F322",
+      "articulo": "148.1.5"
+    },
+    {
+      "id": "PN-T03-Q323",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales. Referencia principal: CE-TERRITORIAL, 148.1.6.",
+      "fact_id": "PN-T03-F323",
+      "articulo": "148.1.6"
+    },
+    {
+      "id": "PN-T03-Q382",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general. Referencia principal: CE-TERRITORIAL, 150.3.",
+      "fact_id": "PN-T03-F382",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q383",
+      "respuesta_correcta": "B",
+      "explicacion": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara. Referencia principal: CE-TERRITORIAL, 150.3.",
+      "fact_id": "PN-T03-F383",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q406",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades. Referencia principal: CE-TERRITORIAL, 153.d.",
+      "fact_id": "PN-T03-F406",
+      "articulo": "153.d"
+    },
+    {
+      "id": "PN-T03-Q407",
+      "respuesta_correcta": "B",
+      "explicacion": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica. Referencia principal: CE-TERRITORIAL, 154.",
+      "fact_id": "PN-T03-F407",
+      "articulo": "154"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

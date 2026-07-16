@@ -1,0 +1,570 @@
+{
+  "id": "PN-T03-P6-A",
+  "titulo": "Tema 3 · Parte 6 · Tribunal Constitucional y reforma · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      24,
+      25
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q424",
+      "fact_id": "PN-T03-F424",
+      "bloque": 24,
+      "concepto": "Composición del Tribunal Constitucional",
+      "articulo": "159.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Composición del Tribunal Constitucional» conforme a 159.1?",
+      "opciones": {
+        "A": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
+        "B": "Están legitimados el Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y órganos autonómicos en su ámbito.",
+        "C": "Las sentencias del TC se publican en el BOE con los votos particulares, si los hay."
+      }
+    },
+    {
+      "id": "PN-T03-Q425",
+      "fact_id": "PN-T03-F425",
+      "bloque": 24,
+      "concepto": "Propuesta del Congreso",
+      "articulo": "159.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta del Congreso» conforme a 159.1?",
+      "opciones": {
+        "A": "Un órgano judicial plantea cuestión cuando una norma con rango de ley aplicable y decisiva para el fallo puede ser contraria a la Constitución.",
+        "B": "Cuatro magistrados son propuestos por el Congreso por mayoría de tres quintos.",
+        "C": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente."
+      }
+    },
+    {
+      "id": "PN-T03-Q426",
+      "fact_id": "PN-T03-F426",
+      "bloque": 24,
+      "concepto": "Propuesta del Senado",
+      "articulo": "159.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta del Senado» conforme a 159.1?",
+      "opciones": {
+        "A": "Las sentencias del TC tienen valor de cosa juzgada desde el día siguiente a su publicación y no cabe recurso.",
+        "B": "El Tribunal Constitucional consta de dos Salas de seis magistrados cada una.",
+        "C": "Cuatro magistrados son propuestos por el Senado por mayoría de tres quintos."
+      }
+    },
+    {
+      "id": "PN-T03-Q460",
+      "fact_id": "PN-T03-F460",
+      "bloque": 25,
+      "concepto": "Mayoría ordinaria",
+      "articulo": "167.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría ordinaria» conforme a 167.1?",
+      "opciones": {
+        "A": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara.",
+        "B": "El nuevo texto requiere dos tercios de ambas nuevas Cámaras.",
+        "C": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q458",
+      "fact_id": "PN-T03-F458",
+      "bloque": 25,
+      "concepto": "Iniciativa de reforma",
+      "articulo": "166",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa de reforma» conforme a 166?",
+      "opciones": {
+        "A": "Si falla la Comisión y el Senado aprueba por mayoría absoluta, el Congreso puede aprobar por dos tercios.",
+        "B": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2.",
+        "C": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto."
+      }
+    },
+    {
+      "id": "PN-T03-Q459",
+      "fact_id": "PN-T03-F459",
+      "bloque": 25,
+      "concepto": "Exclusión de iniciativa popular",
+      "articulo": "166",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Exclusión de iniciativa popular» conforme a 166?",
+      "opciones": {
+        "A": "El principio de reforma agravada requiere dos tercios de cada Cámara.",
+        "B": "No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116.",
+        "C": "La iniciativa legislativa popular no puede promover una reforma constitucional."
+      }
+    },
+    {
+      "id": "PN-T03-Q427",
+      "fact_id": "PN-T03-F427",
+      "bloque": 24,
+      "concepto": "Propuesta de Gobierno y CGPJ",
+      "articulo": "159.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta de Gobierno y CGPJ» conforme a 159.1?",
+      "opciones": {
+        "A": "Dos magistrados son propuestos por el Gobierno y dos por el CGPJ.",
+        "B": "Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones.",
+        "C": "El Pleno elige al Presidente por votación secreta y propone su nombramiento al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q428",
+      "fact_id": "PN-T03-F428",
+      "bloque": 24,
+      "concepto": "Procedencia profesional",
+      "articulo": "159.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Procedencia profesional» conforme a 159.2?",
+      "opciones": {
+        "A": "El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda.",
+        "B": "Los miembros se nombran entre magistrados, fiscales, profesores universitarios, funcionarios públicos y abogados.",
+        "C": "La responsabilidad criminal de magistrados del TC se exige ante la Sala de lo Penal del Tribunal Supremo."
+      }
+    },
+    {
+      "id": "PN-T03-Q429",
+      "fact_id": "PN-T03-F429",
+      "bloque": 24,
+      "concepto": "Experiencia profesional",
+      "articulo": "159.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Experiencia profesional» conforme a 159.2?",
+      "opciones": {
+        "A": "El Presidente puede ser reelegido una sola vez tras su período de tres años.",
+        "B": "Cuatro magistrados son propuestos por el Senado por mayoría de tres quintos.",
+        "C": "Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional."
+      }
+    },
+    {
+      "id": "PN-T03-Q463",
+      "fact_id": "PN-T03-F463",
+      "bloque": 25,
+      "concepto": "Referéndum facultativo",
+      "articulo": "167.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum facultativo» conforme a 167.3?",
+      "opciones": {
+        "A": "La reforma ordinaria se somete a referéndum si lo pide una décima parte de cualquiera de las Cámaras dentro de 15 días.",
+        "B": "El principio de reforma agravada requiere dos tercios de cada Cámara.",
+        "C": "No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116."
+      }
+    },
+    {
+      "id": "PN-T03-Q461",
+      "fact_id": "PN-T03-F461",
+      "bloque": 25,
+      "concepto": "Comisión Mixta de reforma",
+      "articulo": "167.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisión Mixta de reforma» conforme a 167.1?",
+      "opciones": {
+        "A": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2.",
+        "B": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado.",
+        "C": "La vía agravada se aplica a revisión total o parcial del Título Preliminar, Sección 1.ª del Capítulo II del Título I o Título II."
+      }
+    },
+    {
+      "id": "PN-T03-Q462",
+      "fact_id": "PN-T03-F462",
+      "bloque": 25,
+      "concepto": "Fórmula subsidiaria",
+      "articulo": "167.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Fórmula subsidiaria» conforme a 167.2?",
+      "opciones": {
+        "A": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado.",
+        "B": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto.",
+        "C": "Si falla la Comisión y el Senado aprueba por mayoría absoluta, el Congreso puede aprobar por dos tercios."
+      }
+    },
+    {
+      "id": "PN-T03-Q430",
+      "fact_id": "PN-T03-F430",
+      "bloque": 24,
+      "concepto": "Mandato del Tribunal Constitucional",
+      "articulo": "159.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato del Tribunal Constitucional» conforme a 159.3?",
+      "opciones": {
+        "A": "Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres.",
+        "B": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
+        "C": "Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional."
+      }
+    },
+    {
+      "id": "PN-T03-Q431",
+      "fact_id": "PN-T03-F431",
+      "bloque": 24,
+      "concepto": "Incompatibilidades del TC",
+      "articulo": "159.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidades del TC» conforme a 159.4?",
+      "opciones": {
+        "A": "Dos magistrados son propuestos por el Gobierno y dos por el CGPJ.",
+        "B": "La condición de miembro del TC es incompatible con mandato representativo, cargos políticos o administrativos, dirección partidista o sindical, carrera judicial o fiscal y actividad profesional o mercantil.",
+        "C": "El Presidente del TC es nombrado por el Rey a propuesta del Pleno por tres años."
+      }
+    },
+    {
+      "id": "PN-T03-Q432",
+      "fact_id": "PN-T03-F432",
+      "bloque": 24,
+      "concepto": "Independencia e inamovilidad",
+      "articulo": "159.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Independencia e inamovilidad» conforme a 159.5?",
+      "opciones": {
+        "A": "Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres.",
+        "B": "El TC conoce de conflictos de competencia entre Estado y comunidades o de estas entre sí.",
+        "C": "Los miembros del TC son independientes e inamovibles durante su mandato."
+      }
+    },
+    {
+      "id": "PN-T03-Q466",
+      "fact_id": "PN-T03-F466",
+      "bloque": 25,
+      "concepto": "Disolución inmediata",
+      "articulo": "168.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Disolución inmediata» conforme a 168.1?",
+      "opciones": {
+        "A": "Aprobado el principio de reforma agravada se disuelven inmediatamente las Cortes.",
+        "B": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado.",
+        "C": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto."
+      }
+    },
+    {
+      "id": "PN-T03-Q464",
+      "fact_id": "PN-T03-F464",
+      "bloque": 25,
+      "concepto": "Supuestos de reforma agravada",
+      "articulo": "168.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Supuestos de reforma agravada» conforme a 168.1?",
+      "opciones": {
+        "A": "El nuevo texto requiere dos tercios de ambas nuevas Cámaras.",
+        "B": "La vía agravada se aplica a revisión total o parcial del Título Preliminar, Sección 1.ª del Capítulo II del Título I o Título II.",
+        "C": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q465",
+      "fact_id": "PN-T03-F465",
+      "bloque": 25,
+      "concepto": "Primera mayoría agravada",
+      "articulo": "168.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Primera mayoría agravada» conforme a 168.1?",
+      "opciones": {
+        "A": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2.",
+        "B": "La reforma ordinaria se somete a referéndum si lo pide una décima parte de cualquiera de las Cámaras dentro de 15 días.",
+        "C": "El principio de reforma agravada requiere dos tercios de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q433",
+      "fact_id": "PN-T03-F433",
+      "bloque": 24,
+      "concepto": "Presidente del TC",
+      "articulo": "160",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente del TC» conforme a 160?",
+      "opciones": {
+        "A": "El Presidente del TC es nombrado por el Rey a propuesta del Pleno por tres años.",
+        "B": "El TC conoce del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "C": "La impugnación del Gobierno produce suspensión y el TC debe ratificarla o levantarla en un plazo máximo de cinco meses."
+      }
+    },
+    {
+      "id": "PN-T03-Q434",
+      "fact_id": "PN-T03-F434",
+      "bloque": 24,
+      "concepto": "Recurso de inconstitucionalidad",
+      "articulo": "161.1.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Recurso de inconstitucionalidad» conforme a 161.1.a?",
+      "opciones": {
+        "A": "El TC conoce de las demás materias atribuidas por Constitución o leyes orgánicas.",
+        "B": "El TC conoce del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "C": "Una ley orgánica determina las personas y órganos legitimados en los demás supuestos."
+      }
+    },
+    {
+      "id": "PN-T03-Q435",
+      "fact_id": "PN-T03-F435",
+      "bloque": 24,
+      "concepto": "Recurso de amparo",
+      "articulo": "161.1.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Recurso de amparo» conforme a 161.1.b?",
+      "opciones": {
+        "A": "Están legitimados el Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y órganos autonómicos en su ámbito.",
+        "B": "Las sentencias del TC se publican en el BOE con los votos particulares, si los hay.",
+        "C": "El TC conoce del recurso de amparo por violación de derechos del artículo 53.2 en los casos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q469",
+      "fact_id": "PN-T03-F469",
+      "bloque": 25,
+      "concepto": "Referéndum obligatorio",
+      "articulo": "168.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum obligatorio» conforme a 168.3?",
+      "opciones": {
+        "A": "La reforma agravada aprobada se somete siempre a referéndum de ratificación.",
+        "B": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2.",
+        "C": "La reforma ordinaria se somete a referéndum si lo pide una décima parte de cualquiera de las Cámaras dentro de 15 días."
+      }
+    },
+    {
+      "id": "PN-T03-Q467",
+      "fact_id": "PN-T03-F467",
+      "bloque": 25,
+      "concepto": "Ratificación por nuevas Cámaras",
+      "articulo": "168.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ratificación por nuevas Cámaras» conforme a 168.2?",
+      "opciones": {
+        "A": "La vía agravada se aplica a revisión total o parcial del Título Preliminar, Sección 1.ª del Capítulo II del Título I o Título II.",
+        "B": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto.",
+        "C": "No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116."
+      }
+    },
+    {
+      "id": "PN-T03-Q468",
+      "fact_id": "PN-T03-F468",
+      "bloque": 25,
+      "concepto": "Mayoría final agravada",
+      "articulo": "168.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría final agravada» conforme a 168.2?",
+      "opciones": {
+        "A": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto.",
+        "B": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara.",
+        "C": "El nuevo texto requiere dos tercios de ambas nuevas Cámaras."
+      }
+    },
+    {
+      "id": "PN-T03-Q436",
+      "fact_id": "PN-T03-F436",
+      "bloque": 24,
+      "concepto": "Conflictos de competencia",
+      "articulo": "161.1.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Conflictos de competencia» conforme a 161.1.c?",
+      "opciones": {
+        "A": "El TC conoce de conflictos de competencia entre Estado y comunidades o de estas entre sí.",
+        "B": "Un órgano judicial plantea cuestión cuando una norma con rango de ley aplicable y decisiva para el fallo puede ser contraria a la Constitución.",
+        "C": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q424",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey. Referencia principal: CE-TC, 159.1.",
+      "fact_id": "PN-T03-F424",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q425",
+      "respuesta_correcta": "B",
+      "explicacion": "Cuatro magistrados son propuestos por el Congreso por mayoría de tres quintos. Referencia principal: CE-TC, 159.1.",
+      "fact_id": "PN-T03-F425",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q426",
+      "respuesta_correcta": "C",
+      "explicacion": "Cuatro magistrados son propuestos por el Senado por mayoría de tres quintos. Referencia principal: CE-TC, 159.1.",
+      "fact_id": "PN-T03-F426",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q460",
+      "respuesta_correcta": "A",
+      "explicacion": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara. Referencia principal: CE-REFORMA, 167.1.",
+      "fact_id": "PN-T03-F460",
+      "articulo": "167.1"
+    },
+    {
+      "id": "PN-T03-Q458",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2. Referencia principal: CE-REFORMA, 166.",
+      "fact_id": "PN-T03-F458",
+      "articulo": "166"
+    },
+    {
+      "id": "PN-T03-Q459",
+      "respuesta_correcta": "C",
+      "explicacion": "La iniciativa legislativa popular no puede promover una reforma constitucional. Referencia principal: CE-REFORMA, 166.",
+      "fact_id": "PN-T03-F459",
+      "articulo": "166"
+    },
+    {
+      "id": "PN-T03-Q427",
+      "respuesta_correcta": "A",
+      "explicacion": "Dos magistrados son propuestos por el Gobierno y dos por el CGPJ. Referencia principal: CE-TC, 159.1.",
+      "fact_id": "PN-T03-F427",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q428",
+      "respuesta_correcta": "B",
+      "explicacion": "Los miembros se nombran entre magistrados, fiscales, profesores universitarios, funcionarios públicos y abogados. Referencia principal: CE-TC, 159.2.",
+      "fact_id": "PN-T03-F428",
+      "articulo": "159.2"
+    },
+    {
+      "id": "PN-T03-Q429",
+      "respuesta_correcta": "C",
+      "explicacion": "Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional. Referencia principal: CE-TC, 159.2.",
+      "fact_id": "PN-T03-F429",
+      "articulo": "159.2"
+    },
+    {
+      "id": "PN-T03-Q463",
+      "respuesta_correcta": "A",
+      "explicacion": "La reforma ordinaria se somete a referéndum si lo pide una décima parte de cualquiera de las Cámaras dentro de 15 días. Referencia principal: CE-REFORMA, 167.3.",
+      "fact_id": "PN-T03-F463",
+      "articulo": "167.3"
+    },
+    {
+      "id": "PN-T03-Q461",
+      "respuesta_correcta": "B",
+      "explicacion": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado. Referencia principal: CE-REFORMA, 167.1.",
+      "fact_id": "PN-T03-F461",
+      "articulo": "167.1"
+    },
+    {
+      "id": "PN-T03-Q462",
+      "respuesta_correcta": "C",
+      "explicacion": "Si falla la Comisión y el Senado aprueba por mayoría absoluta, el Congreso puede aprobar por dos tercios. Referencia principal: CE-REFORMA, 167.2.",
+      "fact_id": "PN-T03-F462",
+      "articulo": "167.2"
+    },
+    {
+      "id": "PN-T03-Q430",
+      "respuesta_correcta": "A",
+      "explicacion": "Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres. Referencia principal: CE-TC, 159.3.",
+      "fact_id": "PN-T03-F430",
+      "articulo": "159.3"
+    },
+    {
+      "id": "PN-T03-Q431",
+      "respuesta_correcta": "B",
+      "explicacion": "La condición de miembro del TC es incompatible con mandato representativo, cargos políticos o administrativos, dirección partidista o sindical, carrera judicial o fiscal y actividad profesional o mercantil. Referencia principal: CE-TC, 159.4.",
+      "fact_id": "PN-T03-F431",
+      "articulo": "159.4"
+    },
+    {
+      "id": "PN-T03-Q432",
+      "respuesta_correcta": "C",
+      "explicacion": "Los miembros del TC son independientes e inamovibles durante su mandato. Referencia principal: CE-TC, 159.5.",
+      "fact_id": "PN-T03-F432",
+      "articulo": "159.5"
+    },
+    {
+      "id": "PN-T03-Q466",
+      "respuesta_correcta": "A",
+      "explicacion": "Aprobado el principio de reforma agravada se disuelven inmediatamente las Cortes. Referencia principal: CE-REFORMA, 168.1.",
+      "fact_id": "PN-T03-F466",
+      "articulo": "168.1"
+    },
+    {
+      "id": "PN-T03-Q464",
+      "respuesta_correcta": "B",
+      "explicacion": "La vía agravada se aplica a revisión total o parcial del Título Preliminar, Sección 1.ª del Capítulo II del Título I o Título II. Referencia principal: CE-REFORMA, 168.1.",
+      "fact_id": "PN-T03-F464",
+      "articulo": "168.1"
+    },
+    {
+      "id": "PN-T03-Q465",
+      "respuesta_correcta": "C",
+      "explicacion": "El principio de reforma agravada requiere dos tercios de cada Cámara. Referencia principal: CE-REFORMA, 168.1.",
+      "fact_id": "PN-T03-F465",
+      "articulo": "168.1"
+    },
+    {
+      "id": "PN-T03-Q433",
+      "respuesta_correcta": "A",
+      "explicacion": "El Presidente del TC es nombrado por el Rey a propuesta del Pleno por tres años. Referencia principal: CE-TC, 160.",
+      "fact_id": "PN-T03-F433",
+      "articulo": "160"
+    },
+    {
+      "id": "PN-T03-Q434",
+      "respuesta_correcta": "B",
+      "explicacion": "El TC conoce del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley. Referencia principal: CE-TC, 161.1.a.",
+      "fact_id": "PN-T03-F434",
+      "articulo": "161.1.a"
+    },
+    {
+      "id": "PN-T03-Q435",
+      "respuesta_correcta": "C",
+      "explicacion": "El TC conoce del recurso de amparo por violación de derechos del artículo 53.2 en los casos legales. Referencia principal: CE-TC, 161.1.b.",
+      "fact_id": "PN-T03-F435",
+      "articulo": "161.1.b"
+    },
+    {
+      "id": "PN-T03-Q469",
+      "respuesta_correcta": "A",
+      "explicacion": "La reforma agravada aprobada se somete siempre a referéndum de ratificación. Referencia principal: CE-REFORMA, 168.3.",
+      "fact_id": "PN-T03-F469",
+      "articulo": "168.3"
+    },
+    {
+      "id": "PN-T03-Q467",
+      "respuesta_correcta": "B",
+      "explicacion": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto. Referencia principal: CE-REFORMA, 168.2.",
+      "fact_id": "PN-T03-F467",
+      "articulo": "168.2"
+    },
+    {
+      "id": "PN-T03-Q468",
+      "respuesta_correcta": "C",
+      "explicacion": "El nuevo texto requiere dos tercios de ambas nuevas Cámaras. Referencia principal: CE-REFORMA, 168.2.",
+      "fact_id": "PN-T03-F468",
+      "articulo": "168.2"
+    },
+    {
+      "id": "PN-T03-Q436",
+      "respuesta_correcta": "A",
+      "explicacion": "El TC conoce de conflictos de competencia entre Estado y comunidades o de estas entre sí. Referencia principal: CE-TC, 161.1.c.",
+      "fact_id": "PN-T03-F436",
+      "articulo": "161.1.c"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

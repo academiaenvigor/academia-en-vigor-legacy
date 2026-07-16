@@ -1,0 +1,437 @@
+{
+  "id": "PN-T03-B11-A",
+  "titulo": "Tema 3 · Bloque 11: Tratados internacionales · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      11
+    ]
+  },
+  "numero_preguntas": 19,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q157",
+      "fact_id": "PN-T03-F157",
+      "bloque": 11,
+      "concepto": "Garantía de cumplimiento",
+      "articulo": "93",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantía de cumplimiento» conforme a 93?",
+      "opciones": {
+        "A": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión.",
+        "B": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "C": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q158",
+      "fact_id": "PN-T03-F158",
+      "bloque": 11,
+      "concepto": "Tratados políticos y militares",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tratados políticos y militares» conforme a 94.1?",
+      "opciones": {
+        "A": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional.",
+        "B": "Los tratados políticos y militares requieren autorización previa de las Cortes.",
+        "C": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q156",
+      "fact_id": "PN-T03-F156",
+      "bloque": 11,
+      "concepto": "Atribución de competencias internacionales",
+      "articulo": "93",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Atribución de competencias internacionales» conforme a 93?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+        "B": "Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno.",
+        "C": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q160",
+      "fact_id": "PN-T03-F160",
+      "bloque": 11,
+      "concepto": "Obligaciones financieras",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Obligaciones financieras» conforme a 94.1?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+        "B": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "C": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional."
+      }
+    },
+    {
+      "id": "PN-T03-Q161",
+      "fact_id": "PN-T03-F161",
+      "bloque": 11,
+      "concepto": "Medidas legislativas",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medidas legislativas» conforme a 94.1?",
+      "opciones": {
+        "A": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "B": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "C": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión."
+      }
+    },
+    {
+      "id": "PN-T03-Q159",
+      "fact_id": "PN-T03-F159",
+      "bloque": 11,
+      "concepto": "Integridad territorial y Título I",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Integridad territorial y Título I» conforme a 94.1?",
+      "opciones": {
+        "A": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión.",
+        "B": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "C": "Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I."
+      }
+    },
+    {
+      "id": "PN-T03-Q163",
+      "fact_id": "PN-T03-F163",
+      "bloque": 11,
+      "concepto": "Tratado contrario a la Constitución",
+      "articulo": "95.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tratado contrario a la Constitución» conforme a 95.1?",
+      "opciones": {
+        "A": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "B": "Los tratados políticos y militares requieren autorización previa de las Cortes.",
+        "C": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción."
+      }
+    },
+    {
+      "id": "PN-T03-Q164",
+      "fact_id": "PN-T03-F164",
+      "bloque": 11,
+      "concepto": "Consulta al Tribunal Constitucional",
+      "articulo": "95.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consulta al Tribunal Constitucional» conforme a 95.2?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "B": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "C": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94."
+      }
+    },
+    {
+      "id": "PN-T03-Q162",
+      "fact_id": "PN-T03-F162",
+      "bloque": 11,
+      "concepto": "Información a las Cámaras",
+      "articulo": "94.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Información a las Cámaras» conforme a 94.2?",
+      "opciones": {
+        "A": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94.",
+        "B": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+        "C": "El Congreso y el Senado deben ser informados inmediatamente de la conclusión de los restantes tratados."
+      }
+    },
+    {
+      "id": "PN-T03-Q166",
+      "fact_id": "PN-T03-F166",
+      "bloque": 11,
+      "concepto": "Modificación de tratados",
+      "articulo": "96.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Modificación de tratados» conforme a 96.1?",
+      "opciones": {
+        "A": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional.",
+        "B": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución.",
+        "C": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q167",
+      "fact_id": "PN-T03-F167",
+      "bloque": 11,
+      "concepto": "Denuncia de tratados",
+      "articulo": "96.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Denuncia de tratados» conforme a 96.2?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I.",
+        "B": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94.",
+        "C": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción."
+      }
+    },
+    {
+      "id": "PN-T03-Q165",
+      "fact_id": "PN-T03-F165",
+      "bloque": 11,
+      "concepto": "Incorporación al ordenamiento",
+      "articulo": "96.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incorporación al ordenamiento» conforme a 96.1?",
+      "opciones": {
+        "A": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "B": "Los tratados políticos y militares requieren autorización previa de las Cortes.",
+        "C": "Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno."
+      }
+    },
+    {
+      "id": "PN-T03-Q559",
+      "fact_id": "PN-T03-F159",
+      "bloque": 11,
+      "concepto": "Integridad territorial y Título I",
+      "articulo": "94.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I.»?",
+      "opciones": {
+        "A": "94.1",
+        "B": "93",
+        "C": "94.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q557",
+      "fact_id": "PN-T03-F156",
+      "bloque": 11,
+      "concepto": "Atribución de competencias internacionales",
+      "articulo": "93",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución.»?",
+      "opciones": {
+        "A": "94.1",
+        "B": "93",
+        "C": "94.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q558",
+      "fact_id": "PN-T03-F158",
+      "bloque": 11,
+      "concepto": "Tratados políticos y militares",
+      "articulo": "94.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los tratados políticos y militares requieren autorización previa de las Cortes.»?",
+      "opciones": {
+        "A": "93",
+        "B": "94.2",
+        "C": "94.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q562",
+      "fact_id": "PN-T03-F164",
+      "bloque": 11,
+      "concepto": "Consulta al Tribunal Constitucional",
+      "articulo": "95.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.»?",
+      "opciones": {
+        "A": "95.2",
+        "B": "93",
+        "C": "94.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q560",
+      "fact_id": "PN-T03-F161",
+      "bloque": 11,
+      "concepto": "Medidas legislativas",
+      "articulo": "94.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.»?",
+      "opciones": {
+        "A": "93",
+        "B": "94.1",
+        "C": "94.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q561",
+      "fact_id": "PN-T03-F163",
+      "bloque": 11,
+      "concepto": "Tratado contrario a la Constitución",
+      "articulo": "95.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.»?",
+      "opciones": {
+        "A": "93",
+        "B": "94.1",
+        "C": "95.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q563",
+      "fact_id": "PN-T03-F165",
+      "bloque": 11,
+      "concepto": "Incorporación al ordenamiento",
+      "articulo": "96.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno.»?",
+      "opciones": {
+        "A": "93",
+        "B": "96.1",
+        "C": "94.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q157",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión. Referencia principal: CE-CORTES, 93.",
+      "fact_id": "PN-T03-F157",
+      "articulo": "93"
+    },
+    {
+      "id": "PN-T03-Q158",
+      "respuesta_correcta": "B",
+      "explicacion": "Los tratados políticos y militares requieren autorización previa de las Cortes. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F158",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q156",
+      "respuesta_correcta": "C",
+      "explicacion": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución. Referencia principal: CE-CORTES, 93.",
+      "fact_id": "PN-T03-F156",
+      "articulo": "93"
+    },
+    {
+      "id": "PN-T03-Q160",
+      "respuesta_correcta": "A",
+      "explicacion": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F160",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q161",
+      "respuesta_correcta": "B",
+      "explicacion": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F161",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q159",
+      "respuesta_correcta": "C",
+      "explicacion": "Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F159",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q163",
+      "respuesta_correcta": "A",
+      "explicacion": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa. Referencia principal: CE-CORTES, 95.1.",
+      "fact_id": "PN-T03-F163",
+      "articulo": "95.1"
+    },
+    {
+      "id": "PN-T03-Q164",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción. Referencia principal: CE-CORTES, 95.2.",
+      "fact_id": "PN-T03-F164",
+      "articulo": "95.2"
+    },
+    {
+      "id": "PN-T03-Q162",
+      "respuesta_correcta": "C",
+      "explicacion": "El Congreso y el Senado deben ser informados inmediatamente de la conclusión de los restantes tratados. Referencia principal: CE-CORTES, 94.2.",
+      "fact_id": "PN-T03-F162",
+      "articulo": "94.2"
+    },
+    {
+      "id": "PN-T03-Q166",
+      "respuesta_correcta": "A",
+      "explicacion": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional. Referencia principal: CE-CORTES, 96.1.",
+      "fact_id": "PN-T03-F166",
+      "articulo": "96.1"
+    },
+    {
+      "id": "PN-T03-Q167",
+      "respuesta_correcta": "B",
+      "explicacion": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94. Referencia principal: CE-CORTES, 96.2.",
+      "fact_id": "PN-T03-F167",
+      "articulo": "96.2"
+    },
+    {
+      "id": "PN-T03-Q165",
+      "respuesta_correcta": "C",
+      "explicacion": "Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno. Referencia principal: CE-CORTES, 96.1.",
+      "fact_id": "PN-T03-F165",
+      "articulo": "96.1"
+    },
+    {
+      "id": "PN-T03-Q559",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 94.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F159",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q557",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 93 (CE-CORTES).",
+      "fact_id": "PN-T03-F156",
+      "articulo": "93"
+    },
+    {
+      "id": "PN-T03-Q558",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 94.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F158",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q562",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 95.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F164",
+      "articulo": "95.2"
+    },
+    {
+      "id": "PN-T03-Q560",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 94.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F161",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q561",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 95.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F163",
+      "articulo": "95.1"
+    },
+    {
+      "id": "PN-T03-Q563",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 96.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F165",
+      "articulo": "96.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,573 @@
+{
+  "id": "PN-T03-P3-B",
+  "titulo": "Tema 3 · Parte 3 · Gobierno, control y estados excepcionales · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q178",
+      "fact_id": "PN-T03-F178",
+      "bloque": 12,
+      "concepto": "Propuestas sucesivas",
+      "articulo": "99.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuestas sucesivas» conforme a 99.4?",
+      "opciones": {
+        "A": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista.",
+        "B": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.",
+        "C": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q176",
+      "fact_id": "PN-T03-F176",
+      "bloque": 12,
+      "concepto": "Primera votación de investidura",
+      "articulo": "99.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Primera votación de investidura» conforme a 99.3?",
+      "opciones": {
+        "A": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+        "B": "La primera votación de investidura requiere mayoría absoluta del Congreso.",
+        "C": "La ley regula el estatuto e incompatibilidades de los miembros del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q174",
+      "fact_id": "PN-T03-F174",
+      "bloque": 12,
+      "concepto": "Propuesta de candidato",
+      "articulo": "99.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta de candidato» conforme a 99.1?",
+      "opciones": {
+        "A": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista.",
+        "B": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.",
+        "C": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q193",
+      "fact_id": "PN-T03-F193",
+      "bloque": 13,
+      "concepto": "Estatuto de funcionarios",
+      "articulo": "103.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto de funcionarios» conforme a 103.3?",
+      "opciones": {
+        "A": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios.",
+        "B": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      }
+    },
+    {
+      "id": "PN-T03-Q191",
+      "fact_id": "PN-T03-F191",
+      "bloque": 13,
+      "concepto": "Creación de órganos",
+      "articulo": "103.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Creación de órganos» conforme a 103.2?",
+      "opciones": {
+        "A": "La ley regula la audiencia de los ciudadanos, directamente o mediante organizaciones, en la elaboración de disposiciones administrativas que les afecten.",
+        "B": "Los órganos administrativos son creados, regidos y coordinados de acuerdo con la ley.",
+        "C": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q192",
+      "fact_id": "PN-T03-F192",
+      "bloque": 13,
+      "concepto": "Acceso a función pública",
+      "articulo": "103.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso a función pública» conforme a 103.3?",
+      "opciones": {
+        "A": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "B": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q220",
+      "fact_id": "PN-T03-F220",
+      "bloque": 15,
+      "concepto": "Efecto de negar confianza",
+      "articulo": "114.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Efecto de negar confianza» conforme a 114.1?",
+      "opciones": {
+        "A": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99.",
+        "B": "La disolución es decretada por el Rey y el decreto fija la fecha de las elecciones.",
+        "C": "La confianza se entiende otorgada por mayoría simple del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q209",
+      "fact_id": "PN-T03-F209",
+      "bloque": 14,
+      "concepto": "Tiempo mínimo para preguntas",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tiempo mínimo para preguntas» conforme a 111.1?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición."
+      }
+    },
+    {
+      "id": "PN-T03-Q210",
+      "fact_id": "PN-T03-F210",
+      "bloque": 14,
+      "concepto": "Moción tras interpelación",
+      "articulo": "111.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Moción tras interpelación» conforme a 111.2?",
+      "opciones": {
+        "A": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos.",
+        "B": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "C": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición."
+      }
+    },
+    {
+      "id": "PN-T03-Q238",
+      "fact_id": "PN-T03-F238",
+      "bloque": 16,
+      "concepto": "Declaración de sitio",
+      "articulo": "116.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Declaración de sitio» conforme a 116.4?",
+      "opciones": {
+        "A": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno.",
+        "B": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales.",
+        "C": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q218",
+      "fact_id": "PN-T03-F218",
+      "bloque": 15,
+      "concepto": "Mociones alternativas",
+      "articulo": "113.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mociones alternativas» conforme a 113.3?",
+      "opciones": {
+        "A": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
+        "B": "Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas.",
+        "C": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras."
+      }
+    },
+    {
+      "id": "PN-T03-Q219",
+      "fact_id": "PN-T03-F219",
+      "bloque": 15,
+      "concepto": "Limitación a los firmantes",
+      "articulo": "113.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Limitación a los firmantes» conforme a 113.4?",
+      "opciones": {
+        "A": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.",
+        "B": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5.",
+        "C": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones."
+      }
+    },
+    {
+      "id": "PN-T03-Q205",
+      "fact_id": "PN-T03-F205",
+      "bloque": 14,
+      "concepto": "Comparecencia del Gobierno",
+      "articulo": "110.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comparecencia del Gobierno» conforme a 110.1?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "B": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos.",
+        "C": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas."
+      }
+    },
+    {
+      "id": "PN-T03-Q233",
+      "fact_id": "PN-T03-F233",
+      "bloque": 16,
+      "concepto": "Medidas de alarma",
+      "articulo": "LO 4/1981 art. 11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medidas de alarma» conforme a LO 4/1981 art. 11?",
+      "opciones": {
+        "A": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "B": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "C": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q234",
+      "fact_id": "PN-T03-F234",
+      "bloque": 16,
+      "concepto": "Declaración de excepción",
+      "articulo": "116.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Declaración de excepción» conforme a 116.3?",
+      "opciones": {
+        "A": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "B": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio.",
+        "C": "El Gobierno declara el estado de excepción previa autorización del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q593",
+      "fact_id": "PN-T03-F208",
+      "bloque": 14,
+      "concepto": "Preguntas e interpelaciones",
+      "articulo": "111.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.»?",
+      "opciones": {
+        "A": "108",
+        "B": "111.1",
+        "C": "109"
+      }
+    },
+    {
+      "id": "PN-T03-Q591",
+      "fact_id": "PN-T03-F203",
+      "bloque": 14,
+      "concepto": "Responsabilidad solidaria",
+      "articulo": "108",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno responde solidariamente de su gestión política ante el Congreso.»?",
+      "opciones": {
+        "A": "109",
+        "B": "110.1",
+        "C": "108"
+      }
+    },
+    {
+      "id": "PN-T03-Q179",
+      "fact_id": "PN-T03-F179",
+      "bloque": 12,
+      "concepto": "Plazo de dos meses",
+      "articulo": "99.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de dos meses» conforme a 99.5?",
+      "opciones": {
+        "A": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple.",
+        "B": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.",
+        "C": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q177",
+      "fact_id": "PN-T03-F177",
+      "bloque": 12,
+      "concepto": "Segunda votación de investidura",
+      "articulo": "99.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Segunda votación de investidura» conforme a 99.3?",
+      "opciones": {
+        "A": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.",
+        "B": "La primera votación de investidura requiere mayoría absoluta del Congreso.",
+        "C": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q194",
+      "fact_id": "PN-T03-F194",
+      "bloque": 13,
+      "concepto": "Dependencia de las FCS",
+      "articulo": "104.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dependencia de las FCS» conforme a 104.1?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q195",
+      "fact_id": "PN-T03-F195",
+      "bloque": 13,
+      "concepto": "Misión constitucional de las FCS",
+      "articulo": "104.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Misión constitucional de las FCS» conforme a 104.1?",
+      "opciones": {
+        "A": "La Administración actúa con sometimiento pleno a la ley y al Derecho.",
+        "B": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+        "C": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana."
+      }
+    },
+    {
+      "id": "PN-T03-Q221",
+      "fact_id": "PN-T03-F221",
+      "bloque": 15,
+      "concepto": "Efecto de aprobar censura",
+      "articulo": "114.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Efecto de aprobar censura» conforme a 114.2?",
+      "opciones": {
+        "A": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "B": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.",
+        "C": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q222",
+      "fact_id": "PN-T03-F222",
+      "bloque": 15,
+      "concepto": "Nombramiento tras censura",
+      "articulo": "114.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nombramiento tras censura» conforme a 114.2?",
+      "opciones": {
+        "A": "El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta.",
+        "B": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones.",
+        "C": "El Rey nombra Presidente al candidato incluido en la moción de censura aprobada."
+      }
+    },
+    {
+      "id": "PN-T03-Q236",
+      "fact_id": "PN-T03-F236",
+      "bloque": 16,
+      "concepto": "Presupuesto de excepción",
+      "articulo": "LO 4/1981 art. 13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto de excepción» conforme a LO 4/1981 art. 13?",
+      "opciones": {
+        "A": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios.",
+        "B": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias.",
+        "C": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q237",
+      "fact_id": "PN-T03-F237",
+      "bloque": 16,
+      "concepto": "Contenido de la autorización",
+      "articulo": "LO 4/1981 art. 13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Contenido de la autorización» conforme a LO 4/1981 art. 13?",
+      "opciones": {
+        "A": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio.",
+        "B": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes.",
+        "C": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q178",
+      "respuesta_correcta": "A",
+      "explicacion": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista. Referencia principal: CE-GOBIERNO, 99.4.",
+      "fact_id": "PN-T03-F178",
+      "articulo": "99.4"
+    },
+    {
+      "id": "PN-T03-Q176",
+      "respuesta_correcta": "B",
+      "explicacion": "La primera votación de investidura requiere mayoría absoluta del Congreso. Referencia principal: CE-GOBIERNO, 99.3.",
+      "fact_id": "PN-T03-F176",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q174",
+      "respuesta_correcta": "C",
+      "explicacion": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso. Referencia principal: CE-GOBIERNO, 99.1.",
+      "fact_id": "PN-T03-F174",
+      "articulo": "99.1"
+    },
+    {
+      "id": "PN-T03-Q193",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios. Referencia principal: CE-GOBIERNO, 103.3.",
+      "fact_id": "PN-T03-F193",
+      "articulo": "103.3"
+    },
+    {
+      "id": "PN-T03-Q191",
+      "respuesta_correcta": "B",
+      "explicacion": "Los órganos administrativos son creados, regidos y coordinados de acuerdo con la ley. Referencia principal: CE-GOBIERNO, 103.2.",
+      "fact_id": "PN-T03-F191",
+      "articulo": "103.2"
+    },
+    {
+      "id": "PN-T03-Q192",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley regula el acceso a la función pública conforme a mérito y capacidad. Referencia principal: CE-GOBIERNO, 103.3.",
+      "fact_id": "PN-T03-F192",
+      "articulo": "103.3"
+    },
+    {
+      "id": "PN-T03-Q220",
+      "respuesta_correcta": "A",
+      "explicacion": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99. Referencia principal: CE-RELACIONES, 114.1.",
+      "fact_id": "PN-T03-F220",
+      "articulo": "114.1"
+    },
+    {
+      "id": "PN-T03-Q209",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F209",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q210",
+      "respuesta_correcta": "C",
+      "explicacion": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición. Referencia principal: CE-RELACIONES, 111.2.",
+      "fact_id": "PN-T03-F210",
+      "articulo": "111.2"
+    },
+    {
+      "id": "PN-T03-Q238",
+      "respuesta_correcta": "A",
+      "explicacion": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno. Referencia principal: CE-RELACIONES, 116.4.",
+      "fact_id": "PN-T03-F238",
+      "articulo": "116.4"
+    },
+    {
+      "id": "PN-T03-Q218",
+      "respuesta_correcta": "B",
+      "explicacion": "Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas. Referencia principal: CE-RELACIONES, 113.3.",
+      "fact_id": "PN-T03-F218",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q219",
+      "respuesta_correcta": "C",
+      "explicacion": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones. Referencia principal: CE-RELACIONES, 113.4.",
+      "fact_id": "PN-T03-F219",
+      "articulo": "113.4"
+    },
+    {
+      "id": "PN-T03-Q205",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno. Referencia principal: CE-RELACIONES, 110.1.",
+      "fact_id": "PN-T03-F205",
+      "articulo": "110.1"
+    },
+    {
+      "id": "PN-T03-Q233",
+      "respuesta_correcta": "B",
+      "explicacion": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos. Referencia principal: LOAES, LO 4/1981 art. 11.",
+      "fact_id": "PN-T03-F233",
+      "articulo": "LO 4/1981 art. 11"
+    },
+    {
+      "id": "PN-T03-Q234",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno declara el estado de excepción previa autorización del Congreso. Referencia principal: CE-RELACIONES, 116.3.",
+      "fact_id": "PN-T03-F234",
+      "articulo": "116.3"
+    },
+    {
+      "id": "PN-T03-Q593",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 111.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F208",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q591",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 108 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F203",
+      "articulo": "108"
+    },
+    {
+      "id": "PN-T03-Q179",
+      "respuesta_correcta": "B",
+      "explicacion": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones. Referencia principal: CE-GOBIERNO, 99.5.",
+      "fact_id": "PN-T03-F179",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q177",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple. Referencia principal: CE-GOBIERNO, 99.3.",
+      "fact_id": "PN-T03-F177",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q194",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno. Referencia principal: CE-GOBIERNO, 104.1.",
+      "fact_id": "PN-T03-F194",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q195",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana. Referencia principal: CE-GOBIERNO, 104.1.",
+      "fact_id": "PN-T03-F195",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q221",
+      "respuesta_correcta": "B",
+      "explicacion": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido. Referencia principal: CE-RELACIONES, 114.2.",
+      "fact_id": "PN-T03-F221",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q222",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey nombra Presidente al candidato incluido en la moción de censura aprobada. Referencia principal: CE-RELACIONES, 114.2.",
+      "fact_id": "PN-T03-F222",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q236",
+      "respuesta_correcta": "B",
+      "explicacion": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias. Referencia principal: LOAES, LO 4/1981 art. 13.",
+      "fact_id": "PN-T03-F236",
+      "articulo": "LO 4/1981 art. 13"
+    },
+    {
+      "id": "PN-T03-Q237",
+      "respuesta_correcta": "C",
+      "explicacion": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias. Referencia principal: LOAES, LO 4/1981 art. 13.",
+      "fact_id": "PN-T03-F237",
+      "articulo": "LO 4/1981 art. 13"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

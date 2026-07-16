@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B10-A",
+  "titulo": "Tema 3 · Bloque 10: Iniciativa, procedimiento legislativo y referéndum · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      10
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q133",
+      "fact_id": "PN-T03-F133",
+      "bloque": 10,
+      "concepto": "Límites del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.",
+        "B": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación.",
+        "C": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q131",
+      "fact_id": "PN-T03-F131",
+      "bloque": 10,
+      "concepto": "Presupuesto del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley.",
+        "B": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "C": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87."
+      }
+    },
+    {
+      "id": "PN-T03-Q132",
+      "fact_id": "PN-T03-F132",
+      "bloque": 10,
+      "concepto": "Naturaleza del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Naturaleza del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia.",
+        "B": "El Senado dispone de dos meses para vetar o enmendar el texto recibido.",
+        "C": "El decreto-ley es una disposición legislativa provisional."
+      }
+    },
+    {
+      "id": "PN-T03-Q136",
+      "fact_id": "PN-T03-F136",
+      "bloque": 10,
+      "concepto": "Tramitación como proyecto",
+      "articulo": "86.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tramitación como proyecto» conforme a 86.3?",
+      "opciones": {
+        "A": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia.",
+        "B": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos.",
+        "C": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general."
+      }
+    },
+    {
+      "id": "PN-T03-Q134",
+      "fact_id": "PN-T03-F134",
+      "bloque": 10,
+      "concepto": "Convalidación del decreto-ley",
+      "articulo": "86.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convalidación del decreto-ley» conforme a 86.2?",
+      "opciones": {
+        "A": "El veto del Senado requiere mayoría absoluta.",
+        "B": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "C": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación."
+      }
+    },
+    {
+      "id": "PN-T03-Q135",
+      "fact_id": "PN-T03-F135",
+      "bloque": 10,
+      "concepto": "Congreso no reunido",
+      "articulo": "86.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Congreso no reunido» conforme a 86.2?",
+      "opciones": {
+        "A": "El Congreso decide sobre las enmiendas del Senado por mayoría simple.",
+        "B": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente.",
+        "C": "Si el Congreso no está reunido, debe ser convocado al efecto para controlar el decreto-ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q139",
+      "fact_id": "PN-T03-F139",
+      "bloque": 10,
+      "concepto": "Delegación autonómica",
+      "articulo": "87.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación autonómica» conforme a 87.2?",
+      "opciones": {
+        "A": "Una asamblea autonómica puede delegar hasta tres miembros para defender su proposición ante el Congreso.",
+        "B": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "C": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87."
+      }
+    },
+    {
+      "id": "PN-T03-Q137",
+      "fact_id": "PN-T03-F137",
+      "bloque": 10,
+      "concepto": "Titulares de iniciativa",
+      "articulo": "87.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Titulares de iniciativa» conforme a 87.1?",
+      "opciones": {
+        "A": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "B": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "C": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q138",
+      "fact_id": "PN-T03-F138",
+      "bloque": 10,
+      "concepto": "Iniciativa autonómica",
+      "articulo": "87.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica» conforme a 87.2?",
+      "opciones": {
+        "A": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "B": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.",
+        "C": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q142",
+      "fact_id": "PN-T03-F142",
+      "bloque": 10,
+      "concepto": "Proyectos de ley",
+      "articulo": "88",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proyectos de ley» conforme a 88?",
+      "opciones": {
+        "A": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes.",
+        "B": "El veto del Senado requiere mayoría absoluta.",
+        "C": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación."
+      }
+    },
+    {
+      "id": "PN-T03-Q140",
+      "fact_id": "PN-T03-F140",
+      "bloque": 10,
+      "concepto": "Firmas de iniciativa popular",
+      "articulo": "87.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Firmas de iniciativa popular» conforme a 87.3?",
+      "opciones": {
+        "A": "La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia.",
+        "B": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.",
+        "C": "El Senado dispone de dos meses para vetar o enmendar el texto recibido."
+      }
+    },
+    {
+      "id": "PN-T03-Q141",
+      "fact_id": "PN-T03-F141",
+      "bloque": 10,
+      "concepto": "Materias excluidas de iniciativa popular",
+      "articulo": "87.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Materias excluidas de iniciativa popular» conforme a 87.3?",
+      "opciones": {
+        "A": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación.",
+        "B": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple.",
+        "C": "La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia."
+      }
+    },
+    {
+      "id": "PN-T03-Q145",
+      "fact_id": "PN-T03-F145",
+      "bloque": 10,
+      "concepto": "Remisión al Senado",
+      "articulo": "90.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Remisión al Senado» conforme a 90.1?",
+      "opciones": {
+        "A": "Aprobado un proyecto de ley por el Congreso, su Presidente lo comunica al Presidente del Senado.",
+        "B": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "C": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q143",
+      "fact_id": "PN-T03-F143",
+      "bloque": 10,
+      "concepto": "Proposiciones de ley",
+      "articulo": "89.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proposiciones de ley» conforme a 89.1?",
+      "opciones": {
+        "A": "El Congreso decide sobre las enmiendas del Senado por mayoría simple.",
+        "B": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87.",
+        "C": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente."
+      }
+    },
+    {
+      "id": "PN-T03-Q144",
+      "fact_id": "PN-T03-F144",
+      "bloque": 10,
+      "concepto": "Proposición del Senado",
+      "articulo": "89.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proposición del Senado» conforme a 89.2?",
+      "opciones": {
+        "A": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos.",
+        "B": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.",
+        "C": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación."
+      }
+    },
+    {
+      "id": "PN-T03-Q148",
+      "fact_id": "PN-T03-F148",
+      "bloque": 10,
+      "concepto": "Levantamiento inmediato del veto",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Levantamiento inmediato del veto» conforme a 90.2?",
+      "opciones": {
+        "A": "El Congreso puede levantar el veto inmediatamente por mayoría absoluta.",
+        "B": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.",
+        "C": "Aprobado un proyecto de ley por el Congreso, su Presidente lo comunica al Presidente del Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q146",
+      "fact_id": "PN-T03-F146",
+      "bloque": 10,
+      "concepto": "Plazo ordinario del Senado",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo ordinario del Senado» conforme a 90.2?",
+      "opciones": {
+        "A": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "B": "El Senado dispone de dos meses para vetar o enmendar el texto recibido.",
+        "C": "Una asamblea autonómica puede delegar hasta tres miembros para defender su proposición ante el Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q147",
+      "fact_id": "PN-T03-F147",
+      "bloque": 10,
+      "concepto": "Mayoría para veto",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para veto» conforme a 90.2?",
+      "opciones": {
+        "A": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "B": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes.",
+        "C": "El veto del Senado requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q151",
+      "fact_id": "PN-T03-F151",
+      "bloque": 10,
+      "concepto": "Urgencia en el Senado",
+      "articulo": "90.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Urgencia en el Senado» conforme a 90.3?",
+      "opciones": {
+        "A": "En proyectos declarados urgentes, el plazo del Senado se reduce a 20 días naturales.",
+        "B": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple.",
+        "C": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente."
+      }
+    },
+    {
+      "id": "PN-T03-Q149",
+      "fact_id": "PN-T03-F149",
+      "bloque": 10,
+      "concepto": "Levantamiento diferido del veto",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Levantamiento diferido del veto» conforme a 90.2?",
+      "opciones": {
+        "A": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87.",
+        "B": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple.",
+        "C": "El Congreso puede levantar el veto inmediatamente por mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q150",
+      "fact_id": "PN-T03-F150",
+      "bloque": 10,
+      "concepto": "Enmiendas del Senado",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Enmiendas del Senado» conforme a 90.2?",
+      "opciones": {
+        "A": "El Senado dispone de dos meses para vetar o enmendar el texto recibido.",
+        "B": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación.",
+        "C": "El Congreso decide sobre las enmiendas del Senado por mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q154",
+      "fact_id": "PN-T03-F154",
+      "bloque": 10,
+      "concepto": "Convocatoria del referéndum",
+      "articulo": "92.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convocatoria del referéndum» conforme a 92.2?",
+      "opciones": {
+        "A": "El referéndum consultivo es convocado por el Rey a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso.",
+        "B": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "C": "Una asamblea autonómica puede delegar hasta tres miembros para defender su proposición ante el Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q152",
+      "fact_id": "PN-T03-F152",
+      "bloque": 10,
+      "concepto": "Sanción real",
+      "articulo": "91",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanción real» conforme a 91?",
+      "opciones": {
+        "A": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos.",
+        "B": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación.",
+        "C": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general."
+      }
+    },
+    {
+      "id": "PN-T03-Q153",
+      "fact_id": "PN-T03-F153",
+      "bloque": 10,
+      "concepto": "Referéndum consultivo",
+      "articulo": "92.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum consultivo» conforme a 92.1?",
+      "opciones": {
+        "A": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "B": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia.",
+        "C": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos."
+      }
+    },
+    {
+      "id": "PN-T03-Q544",
+      "fact_id": "PN-T03-F134",
+      "bloque": 10,
+      "concepto": "Convalidación del decreto-ley",
+      "articulo": "86.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.»?",
+      "opciones": {
+        "A": "86.2",
+        "B": "86.1",
+        "C": "86.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q133",
+      "respuesta_correcta": "A",
+      "explicacion": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F133",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q131",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F131",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q132",
+      "respuesta_correcta": "C",
+      "explicacion": "El decreto-ley es una disposición legislativa provisional. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F132",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q136",
+      "respuesta_correcta": "A",
+      "explicacion": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia. Referencia principal: CE-CORTES, 86.3.",
+      "fact_id": "PN-T03-F136",
+      "articulo": "86.3"
+    },
+    {
+      "id": "PN-T03-Q134",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación. Referencia principal: CE-CORTES, 86.2.",
+      "fact_id": "PN-T03-F134",
+      "articulo": "86.2"
+    },
+    {
+      "id": "PN-T03-Q135",
+      "respuesta_correcta": "C",
+      "explicacion": "Si el Congreso no está reunido, debe ser convocado al efecto para controlar el decreto-ley. Referencia principal: CE-CORTES, 86.2.",
+      "fact_id": "PN-T03-F135",
+      "articulo": "86.2"
+    },
+    {
+      "id": "PN-T03-Q139",
+      "respuesta_correcta": "A",
+      "explicacion": "Una asamblea autonómica puede delegar hasta tres miembros para defender su proposición ante el Congreso. Referencia principal: CE-CORTES, 87.2.",
+      "fact_id": "PN-T03-F139",
+      "articulo": "87.2"
+    },
+    {
+      "id": "PN-T03-Q137",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos. Referencia principal: CE-CORTES, 87.1.",
+      "fact_id": "PN-T03-F137",
+      "articulo": "87.1"
+    },
+    {
+      "id": "PN-T03-Q138",
+      "respuesta_correcta": "C",
+      "explicacion": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley. Referencia principal: CE-CORTES, 87.2.",
+      "fact_id": "PN-T03-F138",
+      "articulo": "87.2"
+    },
+    {
+      "id": "PN-T03-Q142",
+      "respuesta_correcta": "A",
+      "explicacion": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes. Referencia principal: CE-CORTES, 88.",
+      "fact_id": "PN-T03-F142",
+      "articulo": "88"
+    },
+    {
+      "id": "PN-T03-Q140",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas. Referencia principal: CE-CORTES, 87.3.",
+      "fact_id": "PN-T03-F140",
+      "articulo": "87.3"
+    },
+    {
+      "id": "PN-T03-Q141",
+      "respuesta_correcta": "C",
+      "explicacion": "La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia. Referencia principal: CE-CORTES, 87.3.",
+      "fact_id": "PN-T03-F141",
+      "articulo": "87.3"
+    },
+    {
+      "id": "PN-T03-Q145",
+      "respuesta_correcta": "A",
+      "explicacion": "Aprobado un proyecto de ley por el Congreso, su Presidente lo comunica al Presidente del Senado. Referencia principal: CE-CORTES, 90.1.",
+      "fact_id": "PN-T03-F145",
+      "articulo": "90.1"
+    },
+    {
+      "id": "PN-T03-Q143",
+      "respuesta_correcta": "B",
+      "explicacion": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87. Referencia principal: CE-CORTES, 89.1.",
+      "fact_id": "PN-T03-F143",
+      "articulo": "89.1"
+    },
+    {
+      "id": "PN-T03-Q144",
+      "respuesta_correcta": "C",
+      "explicacion": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación. Referencia principal: CE-CORTES, 89.2.",
+      "fact_id": "PN-T03-F144",
+      "articulo": "89.2"
+    },
+    {
+      "id": "PN-T03-Q148",
+      "respuesta_correcta": "A",
+      "explicacion": "El Congreso puede levantar el veto inmediatamente por mayoría absoluta. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F148",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q146",
+      "respuesta_correcta": "B",
+      "explicacion": "El Senado dispone de dos meses para vetar o enmendar el texto recibido. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F146",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q147",
+      "respuesta_correcta": "C",
+      "explicacion": "El veto del Senado requiere mayoría absoluta. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F147",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q151",
+      "respuesta_correcta": "A",
+      "explicacion": "En proyectos declarados urgentes, el plazo del Senado se reduce a 20 días naturales. Referencia principal: CE-CORTES, 90.3.",
+      "fact_id": "PN-T03-F151",
+      "articulo": "90.3"
+    },
+    {
+      "id": "PN-T03-Q149",
+      "respuesta_correcta": "B",
+      "explicacion": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F149",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q150",
+      "respuesta_correcta": "C",
+      "explicacion": "El Congreso decide sobre las enmiendas del Senado por mayoría simple. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F150",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q154",
+      "respuesta_correcta": "A",
+      "explicacion": "El referéndum consultivo es convocado por el Rey a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso. Referencia principal: CE-CORTES, 92.2.",
+      "fact_id": "PN-T03-F154",
+      "articulo": "92.2"
+    },
+    {
+      "id": "PN-T03-Q152",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación. Referencia principal: CE-CORTES, 91.",
+      "fact_id": "PN-T03-F152",
+      "articulo": "91"
+    },
+    {
+      "id": "PN-T03-Q153",
+      "respuesta_correcta": "C",
+      "explicacion": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos. Referencia principal: CE-CORTES, 92.1.",
+      "fact_id": "PN-T03-F153",
+      "articulo": "92.1"
+    },
+    {
+      "id": "PN-T03-Q544",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 86.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F134",
+      "articulo": "86.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,283 @@
+{
+  "id": "PN-T03-B08-B",
+  "titulo": "Tema 3 · Bloque 8: Funcionamiento de las Cámaras · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      8
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q524",
+      "fact_id": "PN-T03-F091",
+      "bloque": 8,
+      "concepto": "Sesiones extraordinarias",
+      "articulo": "73.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "74.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q114",
+      "fact_id": "PN-T03-F114",
+      "bloque": 8,
+      "concepto": "Voto personal",
+      "articulo": "79.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Voto personal» conforme a 79.3?",
+      "opciones": {
+        "A": "Es obligatorio comparecer a requerimiento de las Cámaras; la ley regula sanciones por incumplimiento.",
+        "B": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.",
+        "C": "El voto de senadores y diputados es personal e indelegable."
+      }
+    },
+    {
+      "id": "PN-T03-Q523",
+      "fact_id": "PN-T03-F090",
+      "bloque": 8,
+      "concepto": "Períodos ordinarios",
+      "articulo": "73.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "74.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q527",
+      "fact_id": "PN-T03-F099",
+      "bloque": 8,
+      "concepto": "Materias indelegables",
+      "articulo": "75.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «No puede delegarse en comisiones la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases ni los Presupuestos Generales.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "75.2",
+        "C": "73.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q525",
+      "fact_id": "PN-T03-F094",
+      "bloque": 8,
+      "concepto": "Decisiones bicamerales especiales",
+      "articulo": "74.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "74.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q526",
+      "fact_id": "PN-T03-F095",
+      "bloque": 8,
+      "concepto": "Inicio del procedimiento bicameral",
+      "articulo": "74.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.»?",
+      "opciones": {
+        "A": "74.2",
+        "B": "73.1",
+        "C": "73.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q530",
+      "fact_id": "PN-T03-F109",
+      "bloque": 8,
+      "concepto": "Funciones de Diputación Permanente",
+      "articulo": "78.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "78.2",
+        "C": "73.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q528",
+      "fact_id": "PN-T03-F102",
+      "bloque": 8,
+      "concepto": "Conclusiones de investigación",
+      "articulo": "76.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "76.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q529",
+      "fact_id": "PN-T03-F108",
+      "bloque": 8,
+      "concepto": "Composición de Diputación Permanente",
+      "articulo": "78.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios.»?",
+      "opciones": {
+        "A": "78.1",
+        "B": "73.1",
+        "C": "73.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q533",
+      "fact_id": "PN-T03-F115",
+      "bloque": 8,
+      "concepto": "Publicidad de sesiones",
+      "articulo": "80",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "80",
+        "C": "73.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q531",
+      "fact_id": "PN-T03-F112",
+      "bloque": 8,
+      "concepto": "Quórum",
+      "articulo": "79.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "79.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q532",
+      "fact_id": "PN-T03-F113",
+      "bloque": 8,
+      "concepto": "Mayoría ordinaria",
+      "articulo": "79.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.»?",
+      "opciones": {
+        "A": "79.2",
+        "B": "73.1",
+        "C": "73.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q524",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 73.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F091",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q114",
+      "respuesta_correcta": "C",
+      "explicacion": "El voto de senadores y diputados es personal e indelegable. Referencia principal: CE-CORTES, 79.3.",
+      "fact_id": "PN-T03-F114",
+      "articulo": "79.3"
+    },
+    {
+      "id": "PN-T03-Q523",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 73.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F090",
+      "articulo": "73.1"
+    },
+    {
+      "id": "PN-T03-Q527",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 75.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F099",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q525",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 74.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F094",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q526",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 74.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F095",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q530",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 78.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F109",
+      "articulo": "78.2"
+    },
+    {
+      "id": "PN-T03-Q528",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 76.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F102",
+      "articulo": "76.1"
+    },
+    {
+      "id": "PN-T03-Q529",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 78.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F108",
+      "articulo": "78.1"
+    },
+    {
+      "id": "PN-T03-Q533",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 80 (CE-CORTES).",
+      "fact_id": "PN-T03-F115",
+      "articulo": "80"
+    },
+    {
+      "id": "PN-T03-Q531",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 79.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F112",
+      "articulo": "79.1"
+    },
+    {
+      "id": "PN-T03-Q532",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 79.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F113",
+      "articulo": "79.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

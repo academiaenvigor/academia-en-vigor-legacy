@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B16-A",
+  "titulo": "Tema 3 · Bloque 16: Confianza, censura, disolución y estados excepcionales · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      16
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q229",
+      "fact_id": "PN-T03-F229",
+      "bloque": 16,
+      "concepto": "Declaración de alarma",
+      "articulo": "116.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Declaración de alarma» conforme a 116.2?",
+      "opciones": {
+        "A": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros.",
+        "B": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios.",
+        "C": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q227",
+      "fact_id": "PN-T03-F227",
+      "bloque": 16,
+      "concepto": "Principio de necesidad",
+      "articulo": "LO 4/1981 art. 1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Principio de necesidad» conforme a LO 4/1981 art. 1?",
+      "opciones": {
+        "A": "El Gobierno declara el estado de excepción previa autorización del Congreso.",
+        "B": "Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios.",
+        "C": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q228",
+      "fact_id": "PN-T03-F228",
+      "bloque": 16,
+      "concepto": "Proporcionalidad",
+      "articulo": "LO 4/1981 art. 1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proporcionalidad» conforme a LO 4/1981 art. 1?",
+      "opciones": {
+        "A": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias.",
+        "B": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección.",
+        "C": "Las medidas y su duración deben ser estrictamente indispensables y proporcionadas a las circunstancias."
+      }
+    },
+    {
+      "id": "PN-T03-Q232",
+      "fact_id": "PN-T03-F232",
+      "bloque": 16,
+      "concepto": "Supuestos de alarma",
+      "articulo": "LO 4/1981 art. 4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Supuestos de alarma» conforme a LO 4/1981 art. 4?",
+      "opciones": {
+        "A": "La alarma puede declararse por catástrofes, crisis sanitarias, paralización de servicios esenciales en condiciones legales o desabastecimiento de productos básicos.",
+        "B": "Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios.",
+        "C": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos."
+      }
+    },
+    {
+      "id": "PN-T03-Q230",
+      "fact_id": "PN-T03-F230",
+      "bloque": 16,
+      "concepto": "Duración inicial de alarma",
+      "articulo": "116.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Duración inicial de alarma» conforme a 116.2?",
+      "opciones": {
+        "A": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio.",
+        "B": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "C": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q231",
+      "fact_id": "PN-T03-F231",
+      "bloque": 16,
+      "concepto": "Prórroga de alarma",
+      "articulo": "116.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prórroga de alarma» conforme a 116.2?",
+      "opciones": {
+        "A": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales.",
+        "B": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros.",
+        "C": "La prórroga del estado de alarma requiere autorización del Congreso, que establece alcance y condiciones."
+      }
+    },
+    {
+      "id": "PN-T03-Q235",
+      "fact_id": "PN-T03-F235",
+      "bloque": 16,
+      "concepto": "Duración de excepción",
+      "articulo": "116.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Duración de excepción» conforme a 116.3?",
+      "opciones": {
+        "A": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos.",
+        "B": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias.",
+        "C": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección."
+      }
+    },
+    {
+      "id": "PN-T03-Q233",
+      "fact_id": "PN-T03-F233",
+      "bloque": 16,
+      "concepto": "Medidas de alarma",
+      "articulo": "LO 4/1981 art. 11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medidas de alarma» conforme a LO 4/1981 art. 11?",
+      "opciones": {
+        "A": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "B": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "C": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q234",
+      "fact_id": "PN-T03-F234",
+      "bloque": 16,
+      "concepto": "Declaración de excepción",
+      "articulo": "116.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Declaración de excepción» conforme a 116.3?",
+      "opciones": {
+        "A": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "B": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio.",
+        "C": "El Gobierno declara el estado de excepción previa autorización del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q238",
+      "fact_id": "PN-T03-F238",
+      "bloque": 16,
+      "concepto": "Declaración de sitio",
+      "articulo": "116.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Declaración de sitio» conforme a 116.4?",
+      "opciones": {
+        "A": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno.",
+        "B": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales.",
+        "C": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q236",
+      "fact_id": "PN-T03-F236",
+      "bloque": 16,
+      "concepto": "Presupuesto de excepción",
+      "articulo": "LO 4/1981 art. 13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto de excepción» conforme a LO 4/1981 art. 13?",
+      "opciones": {
+        "A": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios.",
+        "B": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias.",
+        "C": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q237",
+      "fact_id": "PN-T03-F237",
+      "bloque": 16,
+      "concepto": "Contenido de la autorización",
+      "articulo": "LO 4/1981 art. 13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Contenido de la autorización» conforme a LO 4/1981 art. 13?",
+      "opciones": {
+        "A": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio.",
+        "B": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes.",
+        "C": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q241",
+      "fact_id": "PN-T03-F241",
+      "bloque": 16,
+      "concepto": "Garantías del detenido en sitio",
+      "articulo": "LO 4/1981 art. 32",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantías del detenido en sitio» conforme a LO 4/1981 art. 32?",
+      "opciones": {
+        "A": "La declaración de sitio puede autorizar la suspensión temporal de las garantías del artículo 17.3.",
+        "B": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "C": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q239",
+      "fact_id": "PN-T03-F239",
+      "bloque": 16,
+      "concepto": "Condiciones del sitio",
+      "articulo": "116.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Condiciones del sitio» conforme a 116.4?",
+      "opciones": {
+        "A": "Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios.",
+        "B": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio.",
+        "C": "La alarma puede declararse por catástrofes, crisis sanitarias, paralización de servicios esenciales en condiciones legales o desabastecimiento de productos básicos."
+      }
+    },
+    {
+      "id": "PN-T03-Q240",
+      "fact_id": "PN-T03-F240",
+      "bloque": 16,
+      "concepto": "Presupuesto de sitio",
+      "articulo": "LO 4/1981 art. 32",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto de sitio» conforme a LO 4/1981 art. 32?",
+      "opciones": {
+        "A": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "B": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos.",
+        "C": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios."
+      }
+    },
+    {
+      "id": "PN-T03-Q244",
+      "fact_id": "PN-T03-F244",
+      "bloque": 16,
+      "concepto": "Prohibición de disolver Congreso",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibición de disolver Congreso» conforme a 116.5?",
+      "opciones": {
+        "A": "No puede disolverse el Congreso mientras esté declarado alguno de los estados excepcionales.",
+        "B": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección.",
+        "C": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q242",
+      "fact_id": "PN-T03-F242",
+      "bloque": 16,
+      "concepto": "Autoridad militar",
+      "articulo": "LO 4/1981 art. 33",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autoridad militar» conforme a LO 4/1981 art. 33?",
+      "opciones": {
+        "A": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias.",
+        "B": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección.",
+        "C": "La declaración de sitio puede autorizar la suspensión temporal de las garantías del artículo 17.3."
+      }
+    },
+    {
+      "id": "PN-T03-Q243",
+      "fact_id": "PN-T03-F243",
+      "bloque": 16,
+      "concepto": "Jurisdicción militar en sitio",
+      "articulo": "LO 4/1981 art. 35",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jurisdicción militar en sitio» conforme a LO 4/1981 art. 35?",
+      "opciones": {
+        "A": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio.",
+        "B": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales.",
+        "C": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q247",
+      "fact_id": "PN-T03-F247",
+      "bloque": 16,
+      "concepto": "Diputación Permanente en disolución",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Diputación Permanente en disolución» conforme a 116.5?",
+      "opciones": {
+        "A": "Disuelto o expirado el Congreso, su Diputación Permanente asume las competencias relativas a los estados excepcionales.",
+        "B": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "C": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos."
+      }
+    },
+    {
+      "id": "PN-T03-Q245",
+      "fact_id": "PN-T03-F245",
+      "bloque": 16,
+      "concepto": "Convocatoria automática",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convocatoria automática» conforme a 116.5?",
+      "opciones": {
+        "A": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales.",
+        "B": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales.",
+        "C": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q246",
+      "fact_id": "PN-T03-F246",
+      "bloque": 16,
+      "concepto": "Continuidad institucional",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Continuidad institucional» conforme a 116.5?",
+      "opciones": {
+        "A": "Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios.",
+        "B": "La alarma puede declararse por catástrofes, crisis sanitarias, paralización de servicios esenciales en condiciones legales o desabastecimiento de productos básicos.",
+        "C": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q607",
+      "fact_id": "PN-T03-F227",
+      "bloque": 16,
+      "concepto": "Principio de necesidad",
+      "articulo": "LO 4/1981 art. 1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios.»?",
+      "opciones": {
+        "A": "LO 4/1981 art. 1",
+        "B": "116.2",
+        "C": "LO 4/1981 art. 4"
+      }
+    },
+    {
+      "id": "PN-T03-Q248",
+      "fact_id": "PN-T03-F248",
+      "bloque": 16,
+      "concepto": "Responsabilidad durante los estados",
+      "articulo": "116.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad durante los estados» conforme a 116.6?",
+      "opciones": {
+        "A": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos.",
+        "B": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes.",
+        "C": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q609",
+      "fact_id": "PN-T03-F229",
+      "bloque": 16,
+      "concepto": "Declaración de alarma",
+      "articulo": "116.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros.»?",
+      "opciones": {
+        "A": "LO 4/1981 art. 1",
+        "B": "LO 4/1981 art. 4",
+        "C": "116.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q610",
+      "fact_id": "PN-T03-F230",
+      "bloque": 16,
+      "concepto": "Duración inicial de alarma",
+      "articulo": "116.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La duración inicial del estado de alarma no puede exceder de 15 días.»?",
+      "opciones": {
+        "A": "116.2",
+        "B": "LO 4/1981 art. 1",
+        "C": "LO 4/1981 art. 4"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q229",
+      "respuesta_correcta": "A",
+      "explicacion": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros. Referencia principal: CE-RELACIONES, 116.2.",
+      "fact_id": "PN-T03-F229",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q227",
+      "respuesta_correcta": "B",
+      "explicacion": "Los estados excepcionales solo proceden cuando circunstancias extraordinarias impiden mantener la normalidad mediante poderes ordinarios. Referencia principal: LOAES, LO 4/1981 art. 1.",
+      "fact_id": "PN-T03-F227",
+      "articulo": "LO 4/1981 art. 1"
+    },
+    {
+      "id": "PN-T03-Q228",
+      "respuesta_correcta": "C",
+      "explicacion": "Las medidas y su duración deben ser estrictamente indispensables y proporcionadas a las circunstancias. Referencia principal: LOAES, LO 4/1981 art. 1.",
+      "fact_id": "PN-T03-F228",
+      "articulo": "LO 4/1981 art. 1"
+    },
+    {
+      "id": "PN-T03-Q232",
+      "respuesta_correcta": "A",
+      "explicacion": "La alarma puede declararse por catástrofes, crisis sanitarias, paralización de servicios esenciales en condiciones legales o desabastecimiento de productos básicos. Referencia principal: LOAES, LO 4/1981 art. 4.",
+      "fact_id": "PN-T03-F232",
+      "articulo": "LO 4/1981 art. 4"
+    },
+    {
+      "id": "PN-T03-Q230",
+      "respuesta_correcta": "B",
+      "explicacion": "La duración inicial del estado de alarma no puede exceder de 15 días. Referencia principal: CE-RELACIONES, 116.2.",
+      "fact_id": "PN-T03-F230",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q231",
+      "respuesta_correcta": "C",
+      "explicacion": "La prórroga del estado de alarma requiere autorización del Congreso, que establece alcance y condiciones. Referencia principal: CE-RELACIONES, 116.2.",
+      "fact_id": "PN-T03-F231",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q235",
+      "respuesta_correcta": "A",
+      "explicacion": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos. Referencia principal: CE-RELACIONES, 116.3.",
+      "fact_id": "PN-T03-F235",
+      "articulo": "116.3"
+    },
+    {
+      "id": "PN-T03-Q233",
+      "respuesta_correcta": "B",
+      "explicacion": "La alarma puede limitar circulación, imponer requisas y prestaciones, intervenir locales no domiciliarios, racionar consumos y asegurar abastecimientos. Referencia principal: LOAES, LO 4/1981 art. 11.",
+      "fact_id": "PN-T03-F233",
+      "articulo": "LO 4/1981 art. 11"
+    },
+    {
+      "id": "PN-T03-Q234",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno declara el estado de excepción previa autorización del Congreso. Referencia principal: CE-RELACIONES, 116.3.",
+      "fact_id": "PN-T03-F234",
+      "articulo": "116.3"
+    },
+    {
+      "id": "PN-T03-Q238",
+      "respuesta_correcta": "A",
+      "explicacion": "El estado de sitio lo declara el Congreso por mayoría absoluta a propuesta exclusiva del Gobierno. Referencia principal: CE-RELACIONES, 116.4.",
+      "fact_id": "PN-T03-F238",
+      "articulo": "116.4"
+    },
+    {
+      "id": "PN-T03-Q236",
+      "respuesta_correcta": "B",
+      "explicacion": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias. Referencia principal: LOAES, LO 4/1981 art. 13.",
+      "fact_id": "PN-T03-F236",
+      "articulo": "LO 4/1981 art. 13"
+    },
+    {
+      "id": "PN-T03-Q237",
+      "respuesta_correcta": "C",
+      "explicacion": "La solicitud de excepción debe precisar derechos a suspender, medidas, ámbito territorial, duración y cuantía máxima de sanciones pecuniarias. Referencia principal: LOAES, LO 4/1981 art. 13.",
+      "fact_id": "PN-T03-F237",
+      "articulo": "LO 4/1981 art. 13"
+    },
+    {
+      "id": "PN-T03-Q241",
+      "respuesta_correcta": "A",
+      "explicacion": "La declaración de sitio puede autorizar la suspensión temporal de las garantías del artículo 17.3. Referencia principal: LOAES, LO 4/1981 art. 32.",
+      "fact_id": "PN-T03-F241",
+      "articulo": "LO 4/1981 art. 32"
+    },
+    {
+      "id": "PN-T03-Q239",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio. Referencia principal: CE-RELACIONES, 116.4.",
+      "fact_id": "PN-T03-F239",
+      "articulo": "116.4"
+    },
+    {
+      "id": "PN-T03-Q240",
+      "respuesta_correcta": "C",
+      "explicacion": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios. Referencia principal: LOAES, LO 4/1981 art. 32.",
+      "fact_id": "PN-T03-F240",
+      "articulo": "LO 4/1981 art. 32"
+    },
+    {
+      "id": "PN-T03-Q244",
+      "respuesta_correcta": "A",
+      "explicacion": "No puede disolverse el Congreso mientras esté declarado alguno de los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F244",
+      "articulo": "116.5"
+    },
+    {
+      "id": "PN-T03-Q242",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección. Referencia principal: LOAES, LO 4/1981 art. 33.",
+      "fact_id": "PN-T03-F242",
+      "articulo": "LO 4/1981 art. 33"
+    },
+    {
+      "id": "PN-T03-Q243",
+      "respuesta_correcta": "C",
+      "explicacion": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio. Referencia principal: LOAES, LO 4/1981 art. 35.",
+      "fact_id": "PN-T03-F243",
+      "articulo": "LO 4/1981 art. 35"
+    },
+    {
+      "id": "PN-T03-Q247",
+      "respuesta_correcta": "A",
+      "explicacion": "Disuelto o expirado el Congreso, su Diputación Permanente asume las competencias relativas a los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F247",
+      "articulo": "116.5"
+    },
+    {
+      "id": "PN-T03-Q245",
+      "respuesta_correcta": "B",
+      "explicacion": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F245",
+      "articulo": "116.5"
+    },
+    {
+      "id": "PN-T03-Q246",
+      "respuesta_correcta": "C",
+      "explicacion": "El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F246",
+      "articulo": "116.5"
+    },
+    {
+      "id": "PN-T03-Q607",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es LO 4/1981 art. 1 (LOAES).",
+      "fact_id": "PN-T03-F227",
+      "articulo": "LO 4/1981 art. 1"
+    },
+    {
+      "id": "PN-T03-Q248",
+      "respuesta_correcta": "B",
+      "explicacion": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes. Referencia principal: CE-RELACIONES, 116.6.",
+      "fact_id": "PN-T03-F248",
+      "articulo": "116.6"
+    },
+    {
+      "id": "PN-T03-Q609",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 116.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F229",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q610",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 116.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F230",
+      "articulo": "116.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

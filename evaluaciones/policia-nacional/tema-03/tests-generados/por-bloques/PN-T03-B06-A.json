@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B06-A",
+  "titulo": "Tema 3 · Bloque 6: Congreso, Senado e inelegibilidades · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      6
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q061",
+      "fact_id": "PN-T03-F061",
+      "bloque": 6,
+      "concepto": "Circunscripción electoral",
+      "articulo": "68.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Circunscripción electoral» conforme a 68.2?",
+      "opciones": {
+        "A": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos."
+      }
+    },
+    {
+      "id": "PN-T03-Q059",
+      "fact_id": "PN-T03-F059",
+      "bloque": 6,
+      "concepto": "Número constitucional de diputados",
+      "articulo": "68.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Número constitucional de diputados» conforme a 68.1?",
+      "opciones": {
+        "A": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral."
+      }
+    },
+    {
+      "id": "PN-T03-Q060",
+      "fact_id": "PN-T03-F060",
+      "bloque": 6,
+      "concepto": "Elección de diputados",
+      "articulo": "68.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de diputados» conforme a 68.1?",
+      "opciones": {
+        "A": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores.",
+        "B": "La ley distribuye el total de diputados asignando una representación mínima inicial a cada circunscripción y el resto en proporción a la población.",
+        "C": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q064",
+      "fact_id": "PN-T03-F064",
+      "bloque": 6,
+      "concepto": "Mandato del Congreso",
+      "articulo": "68.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato del Congreso» conforme a 68.4?",
+      "opciones": {
+        "A": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "B": "El Senado es la Cámara de representación territorial.",
+        "C": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio."
+      }
+    },
+    {
+      "id": "PN-T03-Q062",
+      "fact_id": "PN-T03-F062",
+      "bloque": 6,
+      "concepto": "Distribución de escaños",
+      "articulo": "68.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Distribución de escaños» conforme a 68.2?",
+      "opciones": {
+        "A": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional.",
+        "B": "La ley distribuye el total de diputados asignando una representación mínima inicial a cada circunscripción y el resto en proporción a la población.",
+        "C": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones."
+      }
+    },
+    {
+      "id": "PN-T03-Q063",
+      "fact_id": "PN-T03-F063",
+      "bloque": 6,
+      "concepto": "Representación proporcional",
+      "articulo": "68.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación proporcional» conforme a 68.3?",
+      "opciones": {
+        "A": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España.",
+        "B": "Cada isla mayor —Gran Canaria, Mallorca y Tenerife— elige tres senadores.",
+        "C": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q067",
+      "fact_id": "PN-T03-F067",
+      "bloque": 6,
+      "concepto": "Plazo electoral",
+      "articulo": "68.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo electoral» conforme a 68.6?",
+      "opciones": {
+        "A": "Las elecciones al Congreso tienen lugar entre los 30 y 60 días desde la terminación del mandato.",
+        "B": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales.",
+        "C": "La ley distribuye el total de diputados asignando una representación mínima inicial a cada circunscripción y el resto en proporción a la población."
+      }
+    },
+    {
+      "id": "PN-T03-Q065",
+      "fact_id": "PN-T03-F065",
+      "bloque": 6,
+      "concepto": "Electores y elegibles",
+      "articulo": "68.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Electores y elegibles» conforme a 68.5?",
+      "opciones": {
+        "A": "Cada isla o agrupación menor prevista constitucionalmente elige un senador.",
+        "B": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos.",
+        "C": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores."
+      }
+    },
+    {
+      "id": "PN-T03-Q066",
+      "fact_id": "PN-T03-F066",
+      "bloque": 6,
+      "concepto": "Voto exterior",
+      "articulo": "68.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Voto exterior» conforme a 68.5?",
+      "opciones": {
+        "A": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España."
+      }
+    },
+    {
+      "id": "PN-T03-Q070",
+      "fact_id": "PN-T03-F070",
+      "bloque": 6,
+      "concepto": "Senadores provinciales",
+      "articulo": "69.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Senadores provinciales» conforme a 69.2?",
+      "opciones": {
+        "A": "En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto.",
+        "B": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España.",
+        "C": "Cada isla o agrupación menor prevista constitucionalmente elige un senador."
+      }
+    },
+    {
+      "id": "PN-T03-Q068",
+      "fact_id": "PN-T03-F068",
+      "bloque": 6,
+      "concepto": "Constitución del Congreso",
+      "articulo": "68.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Constitución del Congreso» conforme a 68.6?",
+      "opciones": {
+        "A": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales.",
+        "B": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.",
+        "C": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos."
+      }
+    },
+    {
+      "id": "PN-T03-Q069",
+      "fact_id": "PN-T03-F069",
+      "bloque": 6,
+      "concepto": "Naturaleza del Senado",
+      "articulo": "69.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Naturaleza del Senado» conforme a 69.1?",
+      "opciones": {
+        "A": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional.",
+        "B": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.",
+        "C": "El Senado es la Cámara de representación territorial."
+      }
+    },
+    {
+      "id": "PN-T03-Q073",
+      "fact_id": "PN-T03-F073",
+      "bloque": 6,
+      "concepto": "Ceuta y Melilla",
+      "articulo": "69.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ceuta y Melilla» conforme a 69.4?",
+      "opciones": {
+        "A": "Ceuta y Melilla eligen cada una dos senadores.",
+        "B": "El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "C": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q071",
+      "fact_id": "PN-T03-F071",
+      "bloque": 6,
+      "concepto": "Islas mayores",
+      "articulo": "69.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Islas mayores» conforme a 69.3?",
+      "opciones": {
+        "A": "El Senado es la Cámara de representación territorial.",
+        "B": "Cada isla mayor —Gran Canaria, Mallorca y Tenerife— elige tres senadores.",
+        "C": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q072",
+      "fact_id": "PN-T03-F072",
+      "bloque": 6,
+      "concepto": "Islas menores",
+      "articulo": "69.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Islas menores» conforme a 69.3?",
+      "opciones": {
+        "A": "Ceuta y Melilla eligen cada una dos senadores.",
+        "B": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales.",
+        "C": "Cada isla o agrupación menor prevista constitucionalmente elige un senador."
+      }
+    },
+    {
+      "id": "PN-T03-Q076",
+      "fact_id": "PN-T03-F076",
+      "bloque": 6,
+      "concepto": "Mandato del Senado",
+      "articulo": "69.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato del Senado» conforme a 69.6?",
+      "opciones": {
+        "A": "El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "B": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "C": "El Senado es la Cámara de representación territorial."
+      }
+    },
+    {
+      "id": "PN-T03-Q074",
+      "fact_id": "PN-T03-F074",
+      "bloque": 6,
+      "concepto": "Senadores autonómicos",
+      "articulo": "69.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Senadores autonómicos» conforme a 69.5?",
+      "opciones": {
+        "A": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral.",
+        "B": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio.",
+        "C": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q075",
+      "fact_id": "PN-T03-F075",
+      "bloque": 6,
+      "concepto": "Designación autonómica",
+      "articulo": "69.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Designación autonómica» conforme a 69.5?",
+      "opciones": {
+        "A": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.",
+        "B": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España.",
+        "C": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q079",
+      "fact_id": "PN-T03-F079",
+      "bloque": 6,
+      "concepto": "Validez de actas",
+      "articulo": "70.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Validez de actas» conforme a 70.2?",
+      "opciones": {
+        "A": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral.",
+        "B": "Ceuta y Melilla eligen cada una dos senadores.",
+        "C": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales."
+      }
+    },
+    {
+      "id": "PN-T03-Q077",
+      "fact_id": "PN-T03-F077",
+      "bloque": 6,
+      "concepto": "Causas de inelegibilidad",
+      "articulo": "70.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Causas de inelegibilidad» conforme a 70.1?",
+      "opciones": {
+        "A": "Las elecciones al Congreso tienen lugar entre los 30 y 60 días desde la terminación del mandato.",
+        "B": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores.",
+        "C": "Cada isla o agrupación menor prevista constitucionalmente elige un senador."
+      }
+    },
+    {
+      "id": "PN-T03-Q078",
+      "fact_id": "PN-T03-F078",
+      "bloque": 6,
+      "concepto": "Altos cargos inelegibles",
+      "articulo": "70.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Altos cargos inelegibles» conforme a 70.1?",
+      "opciones": {
+        "A": "En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto.",
+        "B": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional.",
+        "C": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales."
+      }
+    },
+    {
+      "id": "PN-T03-Q508",
+      "fact_id": "PN-T03-F063",
+      "bloque": 6,
+      "concepto": "Representación proporcional",
+      "articulo": "68.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional.»?",
+      "opciones": {
+        "A": "68.3",
+        "B": "68.1",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q506",
+      "fact_id": "PN-T03-F059",
+      "bloque": 6,
+      "concepto": "Número constitucional de diputados",
+      "articulo": "68.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.»?",
+      "opciones": {
+        "A": "68.2",
+        "B": "68.1",
+        "C": "68.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q507",
+      "fact_id": "PN-T03-F061",
+      "bloque": 6,
+      "concepto": "Circunscripción electoral",
+      "articulo": "68.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.3",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q511",
+      "fact_id": "PN-T03-F068",
+      "bloque": 6,
+      "concepto": "Constitución del Congreso",
+      "articulo": "68.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.»?",
+      "opciones": {
+        "A": "68.6",
+        "B": "68.1",
+        "C": "68.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q061",
+      "respuesta_correcta": "A",
+      "explicacion": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado. Referencia principal: CE-CORTES, 68.2.",
+      "fact_id": "PN-T03-F061",
+      "articulo": "68.2"
+    },
+    {
+      "id": "PN-T03-Q059",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados. Referencia principal: CE-CORTES, 68.1.",
+      "fact_id": "PN-T03-F059",
+      "articulo": "68.1"
+    },
+    {
+      "id": "PN-T03-Q060",
+      "respuesta_correcta": "C",
+      "explicacion": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales. Referencia principal: CE-CORTES, 68.1.",
+      "fact_id": "PN-T03-F060",
+      "articulo": "68.1"
+    },
+    {
+      "id": "PN-T03-Q064",
+      "respuesta_correcta": "A",
+      "explicacion": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución. Referencia principal: CE-CORTES, 68.4.",
+      "fact_id": "PN-T03-F064",
+      "articulo": "68.4"
+    },
+    {
+      "id": "PN-T03-Q062",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley distribuye el total de diputados asignando una representación mínima inicial a cada circunscripción y el resto en proporción a la población. Referencia principal: CE-CORTES, 68.2.",
+      "fact_id": "PN-T03-F062",
+      "articulo": "68.2"
+    },
+    {
+      "id": "PN-T03-Q063",
+      "respuesta_correcta": "C",
+      "explicacion": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional. Referencia principal: CE-CORTES, 68.3.",
+      "fact_id": "PN-T03-F063",
+      "articulo": "68.3"
+    },
+    {
+      "id": "PN-T03-Q067",
+      "respuesta_correcta": "A",
+      "explicacion": "Las elecciones al Congreso tienen lugar entre los 30 y 60 días desde la terminación del mandato. Referencia principal: CE-CORTES, 68.6.",
+      "fact_id": "PN-T03-F067",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q065",
+      "respuesta_correcta": "B",
+      "explicacion": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos. Referencia principal: CE-CORTES, 68.5.",
+      "fact_id": "PN-T03-F065",
+      "articulo": "68.5"
+    },
+    {
+      "id": "PN-T03-Q066",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España. Referencia principal: CE-CORTES, 68.5.",
+      "fact_id": "PN-T03-F066",
+      "articulo": "68.5"
+    },
+    {
+      "id": "PN-T03-Q070",
+      "respuesta_correcta": "A",
+      "explicacion": "En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto. Referencia principal: CE-CORTES, 69.2.",
+      "fact_id": "PN-T03-F070",
+      "articulo": "69.2"
+    },
+    {
+      "id": "PN-T03-Q068",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones. Referencia principal: CE-CORTES, 68.6.",
+      "fact_id": "PN-T03-F068",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q069",
+      "respuesta_correcta": "C",
+      "explicacion": "El Senado es la Cámara de representación territorial. Referencia principal: CE-CORTES, 69.1.",
+      "fact_id": "PN-T03-F069",
+      "articulo": "69.1"
+    },
+    {
+      "id": "PN-T03-Q073",
+      "respuesta_correcta": "A",
+      "explicacion": "Ceuta y Melilla eligen cada una dos senadores. Referencia principal: CE-CORTES, 69.4.",
+      "fact_id": "PN-T03-F073",
+      "articulo": "69.4"
+    },
+    {
+      "id": "PN-T03-Q071",
+      "respuesta_correcta": "B",
+      "explicacion": "Cada isla mayor —Gran Canaria, Mallorca y Tenerife— elige tres senadores. Referencia principal: CE-CORTES, 69.3.",
+      "fact_id": "PN-T03-F071",
+      "articulo": "69.3"
+    },
+    {
+      "id": "PN-T03-Q072",
+      "respuesta_correcta": "C",
+      "explicacion": "Cada isla o agrupación menor prevista constitucionalmente elige un senador. Referencia principal: CE-CORTES, 69.3.",
+      "fact_id": "PN-T03-F072",
+      "articulo": "69.3"
+    },
+    {
+      "id": "PN-T03-Q076",
+      "respuesta_correcta": "A",
+      "explicacion": "El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución. Referencia principal: CE-CORTES, 69.6.",
+      "fact_id": "PN-T03-F076",
+      "articulo": "69.6"
+    },
+    {
+      "id": "PN-T03-Q074",
+      "respuesta_correcta": "B",
+      "explicacion": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio. Referencia principal: CE-CORTES, 69.5.",
+      "fact_id": "PN-T03-F074",
+      "articulo": "69.5"
+    },
+    {
+      "id": "PN-T03-Q075",
+      "respuesta_correcta": "C",
+      "explicacion": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional. Referencia principal: CE-CORTES, 69.5.",
+      "fact_id": "PN-T03-F075",
+      "articulo": "69.5"
+    },
+    {
+      "id": "PN-T03-Q079",
+      "respuesta_correcta": "A",
+      "explicacion": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral. Referencia principal: CE-CORTES, 70.2.",
+      "fact_id": "PN-T03-F079",
+      "articulo": "70.2"
+    },
+    {
+      "id": "PN-T03-Q077",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores. Referencia principal: CE-CORTES, 70.1.",
+      "fact_id": "PN-T03-F077",
+      "articulo": "70.1"
+    },
+    {
+      "id": "PN-T03-Q078",
+      "respuesta_correcta": "C",
+      "explicacion": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales. Referencia principal: CE-CORTES, 70.1.",
+      "fact_id": "PN-T03-F078",
+      "articulo": "70.1"
+    },
+    {
+      "id": "PN-T03-Q508",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 68.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F063",
+      "articulo": "68.3"
+    },
+    {
+      "id": "PN-T03-Q506",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 68.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F059",
+      "articulo": "68.1"
+    },
+    {
+      "id": "PN-T03-Q507",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 68.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F061",
+      "articulo": "68.2"
+    },
+    {
+      "id": "PN-T03-Q511",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 68.6 (CE-CORTES).",
+      "fact_id": "PN-T03-F068",
+      "articulo": "68.6"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,19 +1,21 @@
-import json, pathlib, unittest, collections
-ROOT=pathlib.Path(__file__).resolve().parents[1]
-P=ROOT/'banco-preguntas/policia-nacional/tema-03/preguntas.jsonl'
+import json,unittest,collections
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1]
 class BancoTema03(unittest.TestCase):
  @classmethod
- def setUpClass(cls): cls.q=[json.loads(x) for x in P.read_text(encoding='utf8').splitlines()]
- def test_total(self): self.assertEqual(len(self.q),50)
- def test_cobertura(self): self.assertEqual({q['punto'] for q in self.q},set(range(1,26)))
- def test_dos_por_punto(self): self.assertTrue(all(v==2 for v in collections.Counter(q['punto'] for q in self.q).values()))
- def test_ids_unicos(self): self.assertEqual(len({q['id'] for q in self.q}),50)
- def test_tres_opciones(self): self.assertTrue(all(set(q['opciones'])=={'A','B','C'} for q in self.q))
- def test_equilibrio(self):
+ def setUpClass(cls):
+  cls.c=json.loads((ROOT/'conocimiento/policia-nacional/tema-03/cobertura.json').read_text(encoding='utf-8'))
+  cls.q=[json.loads(x) for x in (ROOT/'banco-preguntas/policia-nacional/tema-03/preguntas.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+ def test_ids(self): self.assertEqual(len(self.q),len({q['id'] for q in self.q}))
+ def test_unique_wording(self): self.assertEqual(len(self.q),len({q['enunciado'] for q in self.q}))
+ def test_all_facts_covered(self): self.assertEqual({f['id'] for f in self.c['facts']},{q['fact_id'] for q in self.q})
+ def test_options(self):
+  for q in self.q:
+   self.assertEqual(set(q['opciones']),{'A','B','C'}); self.assertEqual(len(set(q['opciones'].values())),3)
+ def test_balance(self):
   c=collections.Counter(q['respuesta_correcta'] for q in self.q); self.assertLessEqual(max(c.values())-min(c.values()),1)
- def test_version(self): self.assertTrue(all(q['content_version']=='0.2.0' for q in self.q))
- def test_sin_oficiales_falsas(self): self.assertTrue(all(q['caracter']=='propio' and q['referencia_oficial'] is None for q in self.q))
- def test_conceptos_clave(self):
-  txt=' '.join(q['concepto']+' '+q['enunciado'] for q in self.q).lower()
-  for term in ['decreto-ley','tratado','artículo 150','cuestión de inconstitucionalidad']: self.assertIn(term,txt)
+ def test_versions(self): self.assertTrue(all(q['content_version']=='0.3.0' for q in self.q))
+ def test_no_fake_officials(self): self.assertTrue(all(q['caracter']=='propio' and q['referencia_oficial'] is None for q in self.q))
+ def test_risk5_double(self):
+  c=collections.Counter(q['fact_id'] for q in self.q); self.assertTrue(all(c[f['id']]>=2 for f in self.c['facts'] if f['risk']==5))
 if __name__=='__main__': unittest.main()

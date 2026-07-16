@@ -1,0 +1,575 @@
+{
+  "id": "PN-T03-P2-A",
+  "titulo": "Tema 3 · Parte 2 · Cortes y producción normativa · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q052",
+      "fact_id": "PN-T03-F052",
+      "bloque": 5,
+      "concepto": "Representación popular",
+      "articulo": "66.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación popular» conforme a 66.1?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "C": "Nadie puede ser miembro simultáneamente del Congreso y del Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q053",
+      "fact_id": "PN-T03-F053",
+      "bloque": 5,
+      "concepto": "Funciones de las Cortes",
+      "articulo": "66.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones de las Cortes» conforme a 66.2?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q054",
+      "fact_id": "PN-T03-F054",
+      "bloque": 5,
+      "concepto": "Inviolabilidad de las Cortes",
+      "articulo": "66.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad de las Cortes» conforme a 66.3?",
+      "opciones": {
+        "A": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "B": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q061",
+      "fact_id": "PN-T03-F061",
+      "bloque": 6,
+      "concepto": "Circunscripción electoral",
+      "articulo": "68.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Circunscripción electoral» conforme a 68.2?",
+      "opciones": {
+        "A": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos."
+      }
+    },
+    {
+      "id": "PN-T03-Q059",
+      "fact_id": "PN-T03-F059",
+      "bloque": 6,
+      "concepto": "Número constitucional de diputados",
+      "articulo": "68.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Número constitucional de diputados» conforme a 68.1?",
+      "opciones": {
+        "A": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral."
+      }
+    },
+    {
+      "id": "PN-T03-Q060",
+      "fact_id": "PN-T03-F060",
+      "bloque": 6,
+      "concepto": "Elección de diputados",
+      "articulo": "68.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de diputados» conforme a 68.1?",
+      "opciones": {
+        "A": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores.",
+        "B": "La ley distribuye el total de diputados asignando una representación mínima inicial a cada circunscripción y el resto en proporción a la población.",
+        "C": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q082",
+      "fact_id": "PN-T03-F082",
+      "bloque": 7,
+      "concepto": "Suplicatorio",
+      "articulo": "71.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Suplicatorio» conforme a 71.2?",
+      "opciones": {
+        "A": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q080",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad parlamentaria» conforme a 71.1?",
+      "opciones": {
+        "A": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q081",
+      "fact_id": "PN-T03-F081",
+      "bloque": 7,
+      "concepto": "Inmunidad parlamentaria",
+      "articulo": "71.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inmunidad parlamentaria» conforme a 71.2?",
+      "opciones": {
+        "A": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas.",
+        "B": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "C": "Durante su mandato, diputados y senadores gozan de inmunidad y solo pueden ser detenidos en caso de flagrante delito."
+      }
+    },
+    {
+      "id": "PN-T03-Q091",
+      "fact_id": "PN-T03-F091",
+      "bloque": 8,
+      "concepto": "Sesiones extraordinarias",
+      "articulo": "73.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sesiones extraordinarias» conforme a 73.2?",
+      "opciones": {
+        "A": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.",
+        "B": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas.",
+        "C": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio."
+      }
+    },
+    {
+      "id": "PN-T03-Q092",
+      "fact_id": "PN-T03-F092",
+      "bloque": 8,
+      "concepto": "Orden del día extraordinario",
+      "articulo": "73.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Orden del día extraordinario» conforme a 73.2?",
+      "opciones": {
+        "A": "El voto de senadores y diputados es personal e indelegable.",
+        "B": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo.",
+        "C": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q090",
+      "fact_id": "PN-T03-F090",
+      "bloque": 8,
+      "concepto": "Períodos ordinarios",
+      "articulo": "73.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Períodos ordinarios» conforme a 73.1?",
+      "opciones": {
+        "A": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios.",
+        "B": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "C": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio."
+      }
+    },
+    {
+      "id": "PN-T03-Q118",
+      "fact_id": "PN-T03-F118",
+      "bloque": 9,
+      "concepto": "Delegación legislativa",
+      "articulo": "82.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación legislativa» conforme a 82.1?",
+      "opciones": {
+        "A": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "B": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto.",
+        "C": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q116",
+      "fact_id": "PN-T03-F116",
+      "bloque": 9,
+      "concepto": "Materias de ley orgánica",
+      "articulo": "81.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Materias de ley orgánica» conforme a 81.1?",
+      "opciones": {
+        "A": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales.",
+        "B": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q117",
+      "fact_id": "PN-T03-F117",
+      "bloque": 9,
+      "concepto": "Mayoría de ley orgánica",
+      "articulo": "81.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría de ley orgánica» conforme a 81.2?",
+      "opciones": {
+        "A": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.",
+        "B": "La delegación para refundir textos legales se otorga mediante ley ordinaria.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q133",
+      "fact_id": "PN-T03-F133",
+      "bloque": 10,
+      "concepto": "Límites del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.",
+        "B": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación.",
+        "C": "Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q131",
+      "fact_id": "PN-T03-F131",
+      "bloque": 10,
+      "concepto": "Presupuesto del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley.",
+        "B": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "C": "La tramitación de proposiciones de ley se regula por los reglamentos de las Cámaras, sin impedir la iniciativa del artículo 87."
+      }
+    },
+    {
+      "id": "PN-T03-Q132",
+      "fact_id": "PN-T03-F132",
+      "bloque": 10,
+      "concepto": "Naturaleza del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Naturaleza del decreto-ley» conforme a 86.1?",
+      "opciones": {
+        "A": "La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia.",
+        "B": "El Senado dispone de dos meses para vetar o enmendar el texto recibido.",
+        "C": "El decreto-ley es una disposición legislativa provisional."
+      }
+    },
+    {
+      "id": "PN-T03-Q157",
+      "fact_id": "PN-T03-F157",
+      "bloque": 11,
+      "concepto": "Garantía de cumplimiento",
+      "articulo": "93",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantía de cumplimiento» conforme a 93?",
+      "opciones": {
+        "A": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión.",
+        "B": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "C": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q158",
+      "fact_id": "PN-T03-F158",
+      "bloque": 11,
+      "concepto": "Tratados políticos y militares",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tratados políticos y militares» conforme a 94.1?",
+      "opciones": {
+        "A": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional.",
+        "B": "Los tratados políticos y militares requieren autorización previa de las Cortes.",
+        "C": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q156",
+      "fact_id": "PN-T03-F156",
+      "bloque": 11,
+      "concepto": "Atribución de competencias internacionales",
+      "articulo": "93",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Atribución de competencias internacionales» conforme a 93?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+        "B": "Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno.",
+        "C": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q055",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidad entre Cámaras» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q064",
+      "fact_id": "PN-T03-F064",
+      "bloque": 6,
+      "concepto": "Mandato del Congreso",
+      "articulo": "68.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato del Congreso» conforme a 68.4?",
+      "opciones": {
+        "A": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "B": "El Senado es la Cámara de representación territorial.",
+        "C": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio."
+      }
+    },
+    {
+      "id": "PN-T03-Q085",
+      "fact_id": "PN-T03-F085",
+      "bloque": 7,
+      "concepto": "Reglamentos de las Cámaras",
+      "articulo": "72.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reglamentos de las Cámaras» conforme a 72.1?",
+      "opciones": {
+        "A": "Las Cámaras establecen sus propios reglamentos, aprueban autónomamente sus presupuestos y regulan de común acuerdo el estatuto del personal de las Cortes.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q094",
+      "fact_id": "PN-T03-F094",
+      "bloque": 8,
+      "concepto": "Decisiones bicamerales especiales",
+      "articulo": "74.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Decisiones bicamerales especiales» conforme a 74.2?",
+      "opciones": {
+        "A": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara.",
+        "B": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.",
+        "C": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q052",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado. Referencia principal: CE-CORTES, 66.1.",
+      "fact_id": "PN-T03-F052",
+      "articulo": "66.1"
+    },
+    {
+      "id": "PN-T03-Q053",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales. Referencia principal: CE-CORTES, 66.2.",
+      "fact_id": "PN-T03-F053",
+      "articulo": "66.2"
+    },
+    {
+      "id": "PN-T03-Q054",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes Generales son inviolables. Referencia principal: CE-CORTES, 66.3.",
+      "fact_id": "PN-T03-F054",
+      "articulo": "66.3"
+    },
+    {
+      "id": "PN-T03-Q061",
+      "respuesta_correcta": "A",
+      "explicacion": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado. Referencia principal: CE-CORTES, 68.2.",
+      "fact_id": "PN-T03-F061",
+      "articulo": "68.2"
+    },
+    {
+      "id": "PN-T03-Q059",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados. Referencia principal: CE-CORTES, 68.1.",
+      "fact_id": "PN-T03-F059",
+      "articulo": "68.1"
+    },
+    {
+      "id": "PN-T03-Q060",
+      "respuesta_correcta": "C",
+      "explicacion": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales. Referencia principal: CE-CORTES, 68.1.",
+      "fact_id": "PN-T03-F060",
+      "articulo": "68.1"
+    },
+    {
+      "id": "PN-T03-Q082",
+      "respuesta_correcta": "A",
+      "explicacion": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva. Referencia principal: CE-CORTES, 71.2.",
+      "fact_id": "PN-T03-F082",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q080",
+      "respuesta_correcta": "B",
+      "explicacion": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Referencia principal: CE-CORTES, 71.1.",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q081",
+      "respuesta_correcta": "C",
+      "explicacion": "Durante su mandato, diputados y senadores gozan de inmunidad y solo pueden ser detenidos en caso de flagrante delito. Referencia principal: CE-CORTES, 71.2.",
+      "fact_id": "PN-T03-F081",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q091",
+      "respuesta_correcta": "A",
+      "explicacion": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara. Referencia principal: CE-CORTES, 73.2.",
+      "fact_id": "PN-T03-F091",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q092",
+      "respuesta_correcta": "B",
+      "explicacion": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo. Referencia principal: CE-CORTES, 73.2.",
+      "fact_id": "PN-T03-F092",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q090",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio. Referencia principal: CE-CORTES, 73.1.",
+      "fact_id": "PN-T03-F090",
+      "articulo": "73.1"
+    },
+    {
+      "id": "PN-T03-Q118",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica. Referencia principal: CE-CORTES, 82.1.",
+      "fact_id": "PN-T03-F118",
+      "articulo": "82.1"
+    },
+    {
+      "id": "PN-T03-Q116",
+      "respuesta_correcta": "B",
+      "explicacion": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente. Referencia principal: CE-CORTES, 81.1.",
+      "fact_id": "PN-T03-F116",
+      "articulo": "81.1"
+    },
+    {
+      "id": "PN-T03-Q117",
+      "respuesta_correcta": "C",
+      "explicacion": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto. Referencia principal: CE-CORTES, 81.2.",
+      "fact_id": "PN-T03-F117",
+      "articulo": "81.2"
+    },
+    {
+      "id": "PN-T03-Q133",
+      "respuesta_correcta": "A",
+      "explicacion": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F133",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q131",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F131",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q132",
+      "respuesta_correcta": "C",
+      "explicacion": "El decreto-ley es una disposición legislativa provisional. Referencia principal: CE-CORTES, 86.1.",
+      "fact_id": "PN-T03-F132",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q157",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión. Referencia principal: CE-CORTES, 93.",
+      "fact_id": "PN-T03-F157",
+      "articulo": "93"
+    },
+    {
+      "id": "PN-T03-Q158",
+      "respuesta_correcta": "B",
+      "explicacion": "Los tratados políticos y militares requieren autorización previa de las Cortes. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F158",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q156",
+      "respuesta_correcta": "C",
+      "explicacion": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución. Referencia principal: CE-CORTES, 93.",
+      "fact_id": "PN-T03-F156",
+      "articulo": "93"
+    },
+    {
+      "id": "PN-T03-Q055",
+      "respuesta_correcta": "A",
+      "explicacion": "Nadie puede ser miembro simultáneamente del Congreso y del Senado. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q064",
+      "respuesta_correcta": "A",
+      "explicacion": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución. Referencia principal: CE-CORTES, 68.4.",
+      "fact_id": "PN-T03-F064",
+      "articulo": "68.4"
+    },
+    {
+      "id": "PN-T03-Q085",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cámaras establecen sus propios reglamentos, aprueban autónomamente sus presupuestos y regulan de común acuerdo el estatuto del personal de las Cortes. Referencia principal: CE-CORTES, 72.1.",
+      "fact_id": "PN-T03-F085",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q094",
+      "respuesta_correcta": "A",
+      "explicacion": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara. Referencia principal: CE-CORTES, 74.2.",
+      "fact_id": "PN-T03-F094",
+      "articulo": "74.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

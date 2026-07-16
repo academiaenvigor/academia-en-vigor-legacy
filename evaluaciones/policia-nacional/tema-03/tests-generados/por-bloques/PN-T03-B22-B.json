@@ -1,0 +1,283 @@
+{
+  "id": "PN-T03-B22-B",
+  "titulo": "Tema 3 · Bloque 22: Artículo 150 y organización institucional autonómica · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      22
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q680",
+      "fact_id": "PN-T03-F382",
+      "bloque": 22,
+      "concepto": "Leyes de armonización",
+      "articulo": "150.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "150.3",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q402",
+      "fact_id": "PN-T03-F402",
+      "bloque": 22,
+      "concepto": "Circunscripciones territoriales propias",
+      "articulo": "152.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Circunscripciones territoriales propias» conforme a 152.3?",
+      "opciones": {
+        "A": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "B": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum.",
+        "C": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica."
+      }
+    },
+    {
+      "id": "PN-T03-Q682",
+      "fact_id": "PN-T03-F384",
+      "bloque": 22,
+      "concepto": "Iniciativa autonómica especial",
+      "articulo": "151.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia.»?",
+      "opciones": {
+        "A": "151.1",
+        "B": "150.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q683",
+      "fact_id": "PN-T03-F386",
+      "bloque": 22,
+      "concepto": "Referéndum de iniciativa",
+      "articulo": "151.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "151.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q678",
+      "fact_id": "PN-T03-F378",
+      "bloque": 22,
+      "concepto": "Leyes marco",
+      "articulo": "150.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal.»?",
+      "opciones": {
+        "A": "150.2",
+        "B": "150.3",
+        "C": "150.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q685",
+      "fact_id": "PN-T03-F391",
+      "bloque": 22,
+      "concepto": "Aprobación provincial",
+      "articulo": "151.2.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia.»?",
+      "opciones": {
+        "A": "151.2.4",
+        "B": "150.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q686",
+      "fact_id": "PN-T03-F395",
+      "bloque": 22,
+      "concepto": "Asamblea legislativa autonómica",
+      "articulo": "152.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "152.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q681",
+      "fact_id": "PN-T03-F383",
+      "bloque": 22,
+      "concepto": "Mayoría para armonización",
+      "articulo": "150.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "150.2",
+        "C": "150.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q688",
+      "fact_id": "PN-T03-F398",
+      "bloque": 22,
+      "concepto": "Funciones del Presidente autonómico",
+      "articulo": "152.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella.»?",
+      "opciones": {
+        "A": "152.1",
+        "B": "150.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q689",
+      "fact_id": "PN-T03-F400",
+      "bloque": 22,
+      "concepto": "Tribunal Superior de Justicia",
+      "articulo": "152.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "152.1",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q684",
+      "fact_id": "PN-T03-F388",
+      "bloque": 22,
+      "concepto": "Mayoría del proyecto especial",
+      "articulo": "151.2.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "150.2",
+        "C": "151.2.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q687",
+      "fact_id": "PN-T03-F397",
+      "bloque": 22,
+      "concepto": "Presidente autonómico",
+      "articulo": "152.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "150.2",
+        "C": "152.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q680",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 150.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F382",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q402",
+      "respuesta_correcta": "C",
+      "explicacion": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica. Referencia principal: CE-TERRITORIAL, 152.3.",
+      "fact_id": "PN-T03-F402",
+      "articulo": "152.3"
+    },
+    {
+      "id": "PN-T03-Q682",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 151.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F384",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q683",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 151.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F386",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q678",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 150.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F378",
+      "articulo": "150.1"
+    },
+    {
+      "id": "PN-T03-Q685",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 151.2.4 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F391",
+      "articulo": "151.2.4"
+    },
+    {
+      "id": "PN-T03-Q686",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 152.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F395",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q681",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 150.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F383",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q688",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 152.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F398",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q689",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 152.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F400",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q684",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 151.2.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F388",
+      "articulo": "151.2.1"
+    },
+    {
+      "id": "PN-T03-Q687",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 152.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F397",
+      "articulo": "152.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

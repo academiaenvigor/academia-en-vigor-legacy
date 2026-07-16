@@ -1,0 +1,261 @@
+{
+  "id": "PN-T03-B05-A",
+  "titulo": "Tema 3 · Bloque 5: Cortes Generales: naturaleza y estatuto · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      5
+    ]
+  },
+  "numero_preguntas": 11,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q052",
+      "fact_id": "PN-T03-F052",
+      "bloque": 5,
+      "concepto": "Representación popular",
+      "articulo": "66.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación popular» conforme a 66.1?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "C": "Nadie puede ser miembro simultáneamente del Congreso y del Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q053",
+      "fact_id": "PN-T03-F053",
+      "bloque": 5,
+      "concepto": "Funciones de las Cortes",
+      "articulo": "66.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones de las Cortes» conforme a 66.2?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q054",
+      "fact_id": "PN-T03-F054",
+      "bloque": 5,
+      "concepto": "Inviolabilidad de las Cortes",
+      "articulo": "66.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad de las Cortes» conforme a 66.3?",
+      "opciones": {
+        "A": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "B": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q055",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidad entre Cámaras» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q056",
+      "fact_id": "PN-T03-F056",
+      "bloque": 5,
+      "concepto": "Acta estatal y autonómica",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acta estatal y autonómica» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q057",
+      "fact_id": "PN-T03-F057",
+      "bloque": 5,
+      "concepto": "Mandato imperativo",
+      "articulo": "67.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato imperativo» conforme a 67.2?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios.",
+        "C": "Los miembros de las Cortes Generales no están ligados por mandato imperativo."
+      }
+    },
+    {
+      "id": "PN-T03-Q058",
+      "fact_id": "PN-T03-F058",
+      "bloque": 5,
+      "concepto": "Reuniones no reglamentarias",
+      "articulo": "67.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reuniones no reglamentarias» conforme a 67.3?",
+      "opciones": {
+        "A": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios.",
+        "B": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q503",
+      "fact_id": "PN-T03-F053",
+      "bloque": 5,
+      "concepto": "Funciones de las Cortes",
+      "articulo": "66.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "66.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q504",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Nadie puede ser miembro simultáneamente del Congreso y del Senado.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "67.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q502",
+      "fact_id": "PN-T03-F052",
+      "bloque": 5,
+      "concepto": "Representación popular",
+      "articulo": "66.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "66.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q505",
+      "fact_id": "PN-T03-F057",
+      "bloque": 5,
+      "concepto": "Mandato imperativo",
+      "articulo": "67.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los miembros de las Cortes Generales no están ligados por mandato imperativo.»?",
+      "opciones": {
+        "A": "67.2",
+        "B": "66.1",
+        "C": "66.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q052",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado. Referencia principal: CE-CORTES, 66.1.",
+      "fact_id": "PN-T03-F052",
+      "articulo": "66.1"
+    },
+    {
+      "id": "PN-T03-Q053",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales. Referencia principal: CE-CORTES, 66.2.",
+      "fact_id": "PN-T03-F053",
+      "articulo": "66.2"
+    },
+    {
+      "id": "PN-T03-Q054",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes Generales son inviolables. Referencia principal: CE-CORTES, 66.3.",
+      "fact_id": "PN-T03-F054",
+      "articulo": "66.3"
+    },
+    {
+      "id": "PN-T03-Q055",
+      "respuesta_correcta": "A",
+      "explicacion": "Nadie puede ser miembro simultáneamente del Congreso y del Senado. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q056",
+      "respuesta_correcta": "B",
+      "explicacion": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F056",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q057",
+      "respuesta_correcta": "C",
+      "explicacion": "Los miembros de las Cortes Generales no están ligados por mandato imperativo. Referencia principal: CE-CORTES, 67.2.",
+      "fact_id": "PN-T03-F057",
+      "articulo": "67.2"
+    },
+    {
+      "id": "PN-T03-Q058",
+      "respuesta_correcta": "A",
+      "explicacion": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios. Referencia principal: CE-CORTES, 67.3.",
+      "fact_id": "PN-T03-F058",
+      "articulo": "67.3"
+    },
+    {
+      "id": "PN-T03-Q503",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 66.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F053",
+      "articulo": "66.2"
+    },
+    {
+      "id": "PN-T03-Q504",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 67.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q502",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 66.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F052",
+      "articulo": "66.1"
+    },
+    {
+      "id": "PN-T03-Q505",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 67.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F057",
+      "articulo": "67.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

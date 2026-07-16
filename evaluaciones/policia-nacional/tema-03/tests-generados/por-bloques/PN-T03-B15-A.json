@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B15-A",
+  "titulo": "Tema 3 · Bloque 15: Relaciones Gobierno-Cortes y control parlamentario · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      15
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q211",
+      "fact_id": "PN-T03-F211",
+      "bloque": 15,
+      "concepto": "Titular de la cuestión de confianza",
+      "articulo": "112",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Titular de la cuestión de confianza» conforme a 112?",
+      "opciones": {
+        "A": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "B": "La cuestión de confianza puede versar sobre el programa o una declaración de política general.",
+        "C": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación."
+      }
+    },
+    {
+      "id": "PN-T03-Q212",
+      "fact_id": "PN-T03-F212",
+      "bloque": 15,
+      "concepto": "Objeto de la confianza",
+      "articulo": "112",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Objeto de la confianza» conforme a 112?",
+      "opciones": {
+        "A": "La moción debe ser propuesta al menos por una décima parte de los diputados.",
+        "B": "La cuestión de confianza puede versar sobre el programa o una declaración de política general.",
+        "C": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99."
+      }
+    },
+    {
+      "id": "PN-T03-Q213",
+      "fact_id": "PN-T03-F213",
+      "bloque": 15,
+      "concepto": "Mayoría de confianza",
+      "articulo": "112",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría de confianza» conforme a 112?",
+      "opciones": {
+        "A": "Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas.",
+        "B": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.",
+        "C": "La confianza se entiende otorgada por mayoría simple del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q214",
+      "fact_id": "PN-T03-F214",
+      "bloque": 15,
+      "concepto": "Mayoría de censura",
+      "articulo": "113.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría de censura» conforme a 113.1?",
+      "opciones": {
+        "A": "El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta.",
+        "B": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.",
+        "C": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5."
+      }
+    },
+    {
+      "id": "PN-T03-Q215",
+      "fact_id": "PN-T03-F215",
+      "bloque": 15,
+      "concepto": "Proponentes de censura",
+      "articulo": "113.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proponentes de censura» conforme a 113.2?",
+      "opciones": {
+        "A": "La disolución es decretada por el Rey y el decreto fija la fecha de las elecciones.",
+        "B": "La moción debe ser propuesta al menos por una décima parte de los diputados.",
+        "C": "La confianza se entiende otorgada por mayoría simple del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q216",
+      "fact_id": "PN-T03-F216",
+      "bloque": 15,
+      "concepto": "Candidato alternativo",
+      "articulo": "113.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Candidato alternativo» conforme a 113.2?",
+      "opciones": {
+        "A": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "B": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
+        "C": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q217",
+      "fact_id": "PN-T03-F217",
+      "bloque": 15,
+      "concepto": "Plazo de votación",
+      "articulo": "113.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de votación» conforme a 113.3?",
+      "opciones": {
+        "A": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
+        "B": "El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta.",
+        "C": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99."
+      }
+    },
+    {
+      "id": "PN-T03-Q218",
+      "fact_id": "PN-T03-F218",
+      "bloque": 15,
+      "concepto": "Mociones alternativas",
+      "articulo": "113.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mociones alternativas» conforme a 113.3?",
+      "opciones": {
+        "A": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
+        "B": "Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas.",
+        "C": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras."
+      }
+    },
+    {
+      "id": "PN-T03-Q219",
+      "fact_id": "PN-T03-F219",
+      "bloque": 15,
+      "concepto": "Limitación a los firmantes",
+      "articulo": "113.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Limitación a los firmantes» conforme a 113.4?",
+      "opciones": {
+        "A": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.",
+        "B": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5.",
+        "C": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones."
+      }
+    },
+    {
+      "id": "PN-T03-Q220",
+      "fact_id": "PN-T03-F220",
+      "bloque": 15,
+      "concepto": "Efecto de negar confianza",
+      "articulo": "114.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Efecto de negar confianza» conforme a 114.1?",
+      "opciones": {
+        "A": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99.",
+        "B": "La disolución es decretada por el Rey y el decreto fija la fecha de las elecciones.",
+        "C": "La confianza se entiende otorgada por mayoría simple del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q221",
+      "fact_id": "PN-T03-F221",
+      "bloque": 15,
+      "concepto": "Efecto de aprobar censura",
+      "articulo": "114.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Efecto de aprobar censura» conforme a 114.2?",
+      "opciones": {
+        "A": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "B": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.",
+        "C": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q222",
+      "fact_id": "PN-T03-F222",
+      "bloque": 15,
+      "concepto": "Nombramiento tras censura",
+      "articulo": "114.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nombramiento tras censura» conforme a 114.2?",
+      "opciones": {
+        "A": "El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta.",
+        "B": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones.",
+        "C": "El Rey nombra Presidente al candidato incluido en la moción de censura aprobada."
+      }
+    },
+    {
+      "id": "PN-T03-Q223",
+      "fact_id": "PN-T03-F223",
+      "bloque": 15,
+      "concepto": "Propuesta de disolución",
+      "articulo": "115.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta de disolución» conforme a 115.1?",
+      "opciones": {
+        "A": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.",
+        "B": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
+        "C": "El Rey nombra Presidente al candidato incluido en la moción de censura aprobada."
+      }
+    },
+    {
+      "id": "PN-T03-Q224",
+      "fact_id": "PN-T03-F224",
+      "bloque": 15,
+      "concepto": "Decreto de disolución",
+      "articulo": "115.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Decreto de disolución» conforme a 115.1?",
+      "opciones": {
+        "A": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99.",
+        "B": "La disolución es decretada por el Rey y el decreto fija la fecha de las elecciones.",
+        "C": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5."
+      }
+    },
+    {
+      "id": "PN-T03-Q225",
+      "fact_id": "PN-T03-F225",
+      "bloque": 15,
+      "concepto": "Límite por censura",
+      "articulo": "115.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límite por censura» conforme a 115.2?",
+      "opciones": {
+        "A": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.",
+        "B": "La confianza se entiende otorgada por mayoría simple del Congreso.",
+        "C": "No puede proponerse la disolución mientras esté en trámite una moción de censura."
+      }
+    },
+    {
+      "id": "PN-T03-Q226",
+      "fact_id": "PN-T03-F226",
+      "bloque": 15,
+      "concepto": "Plazo entre disoluciones",
+      "articulo": "115.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo entre disoluciones» conforme a 115.3?",
+      "opciones": {
+        "A": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5.",
+        "B": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "C": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q596",
+      "fact_id": "PN-T03-F213",
+      "bloque": 15,
+      "concepto": "Mayoría de confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La confianza se entiende otorgada por mayoría simple del Congreso.»?",
+      "opciones": {
+        "A": "113.1",
+        "B": "112",
+        "C": "113.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q594",
+      "fact_id": "PN-T03-F211",
+      "bloque": 15,
+      "concepto": "Titular de la cuestión de confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.»?",
+      "opciones": {
+        "A": "113.1",
+        "B": "113.2",
+        "C": "112"
+      }
+    },
+    {
+      "id": "PN-T03-Q595",
+      "fact_id": "PN-T03-F212",
+      "bloque": 15,
+      "concepto": "Objeto de la confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La cuestión de confianza puede versar sobre el programa o una declaración de política general.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "113.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q599",
+      "fact_id": "PN-T03-F216",
+      "bloque": 15,
+      "concepto": "Candidato alternativo",
+      "articulo": "113.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La moción de censura debe incluir un candidato a la Presidencia del Gobierno.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.2",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q597",
+      "fact_id": "PN-T03-F214",
+      "bloque": 15,
+      "concepto": "Mayoría de censura",
+      "articulo": "113.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.2",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q598",
+      "fact_id": "PN-T03-F215",
+      "bloque": 15,
+      "concepto": "Proponentes de censura",
+      "articulo": "113.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La moción debe ser propuesta al menos por una décima parte de los diputados.»?",
+      "opciones": {
+        "A": "113.2",
+        "B": "112",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q602",
+      "fact_id": "PN-T03-F220",
+      "bloque": 15,
+      "concepto": "Efecto de negar confianza",
+      "articulo": "114.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99.»?",
+      "opciones": {
+        "A": "112",
+        "B": "114.1",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q600",
+      "fact_id": "PN-T03-F217",
+      "bloque": 15,
+      "concepto": "Plazo de votación",
+      "articulo": "113.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "113.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q601",
+      "fact_id": "PN-T03-F218",
+      "bloque": 15,
+      "concepto": "Mociones alternativas",
+      "articulo": "113.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas.»?",
+      "opciones": {
+        "A": "113.3",
+        "B": "112",
+        "C": "113.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q211",
+      "respuesta_correcta": "A",
+      "explicacion": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros. Referencia principal: CE-RELACIONES, 112.",
+      "fact_id": "PN-T03-F211",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q212",
+      "respuesta_correcta": "B",
+      "explicacion": "La cuestión de confianza puede versar sobre el programa o una declaración de política general. Referencia principal: CE-RELACIONES, 112.",
+      "fact_id": "PN-T03-F212",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q213",
+      "respuesta_correcta": "C",
+      "explicacion": "La confianza se entiende otorgada por mayoría simple del Congreso. Referencia principal: CE-RELACIONES, 112.",
+      "fact_id": "PN-T03-F213",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q214",
+      "respuesta_correcta": "A",
+      "explicacion": "El Congreso exige responsabilidad política mediante moción de censura aprobada por mayoría absoluta. Referencia principal: CE-RELACIONES, 113.1.",
+      "fact_id": "PN-T03-F214",
+      "articulo": "113.1"
+    },
+    {
+      "id": "PN-T03-Q215",
+      "respuesta_correcta": "B",
+      "explicacion": "La moción debe ser propuesta al menos por una décima parte de los diputados. Referencia principal: CE-RELACIONES, 113.2.",
+      "fact_id": "PN-T03-F215",
+      "articulo": "113.2"
+    },
+    {
+      "id": "PN-T03-Q216",
+      "respuesta_correcta": "C",
+      "explicacion": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno. Referencia principal: CE-RELACIONES, 113.2.",
+      "fact_id": "PN-T03-F216",
+      "articulo": "113.2"
+    },
+    {
+      "id": "PN-T03-Q217",
+      "respuesta_correcta": "A",
+      "explicacion": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación. Referencia principal: CE-RELACIONES, 113.3.",
+      "fact_id": "PN-T03-F217",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q218",
+      "respuesta_correcta": "B",
+      "explicacion": "Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas. Referencia principal: CE-RELACIONES, 113.3.",
+      "fact_id": "PN-T03-F218",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q219",
+      "respuesta_correcta": "C",
+      "explicacion": "Si la moción no es aprobada, sus firmantes no pueden presentar otra en el mismo período de sesiones. Referencia principal: CE-RELACIONES, 113.4.",
+      "fact_id": "PN-T03-F219",
+      "articulo": "113.4"
+    },
+    {
+      "id": "PN-T03-Q220",
+      "respuesta_correcta": "A",
+      "explicacion": "Si el Congreso niega la confianza, el Gobierno presenta su dimisión y se inicia el procedimiento del artículo 99. Referencia principal: CE-RELACIONES, 114.1.",
+      "fact_id": "PN-T03-F220",
+      "articulo": "114.1"
+    },
+    {
+      "id": "PN-T03-Q221",
+      "respuesta_correcta": "B",
+      "explicacion": "Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido. Referencia principal: CE-RELACIONES, 114.2.",
+      "fact_id": "PN-T03-F221",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q222",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey nombra Presidente al candidato incluido en la moción de censura aprobada. Referencia principal: CE-RELACIONES, 114.2.",
+      "fact_id": "PN-T03-F222",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q223",
+      "respuesta_correcta": "A",
+      "explicacion": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras. Referencia principal: CE-RELACIONES, 115.1.",
+      "fact_id": "PN-T03-F223",
+      "articulo": "115.1"
+    },
+    {
+      "id": "PN-T03-Q224",
+      "respuesta_correcta": "B",
+      "explicacion": "La disolución es decretada por el Rey y el decreto fija la fecha de las elecciones. Referencia principal: CE-RELACIONES, 115.1.",
+      "fact_id": "PN-T03-F224",
+      "articulo": "115.1"
+    },
+    {
+      "id": "PN-T03-Q225",
+      "respuesta_correcta": "C",
+      "explicacion": "No puede proponerse la disolución mientras esté en trámite una moción de censura. Referencia principal: CE-RELACIONES, 115.2.",
+      "fact_id": "PN-T03-F225",
+      "articulo": "115.2"
+    },
+    {
+      "id": "PN-T03-Q226",
+      "respuesta_correcta": "A",
+      "explicacion": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5. Referencia principal: CE-RELACIONES, 115.3.",
+      "fact_id": "PN-T03-F226",
+      "articulo": "115.3"
+    },
+    {
+      "id": "PN-T03-Q596",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F213",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q594",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F211",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q595",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F212",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q599",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 113.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F216",
+      "articulo": "113.2"
+    },
+    {
+      "id": "PN-T03-Q597",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 113.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F214",
+      "articulo": "113.1"
+    },
+    {
+      "id": "PN-T03-Q598",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 113.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F215",
+      "articulo": "113.2"
+    },
+    {
+      "id": "PN-T03-Q602",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 114.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F220",
+      "articulo": "114.1"
+    },
+    {
+      "id": "PN-T03-Q600",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 113.3 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F217",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q601",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 113.3 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F218",
+      "articulo": "113.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

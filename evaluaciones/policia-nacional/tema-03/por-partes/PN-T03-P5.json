@@ -1,0 +1,17 @@
+{
+  "id": "PN-T03-P5",
+  "titulo": "Tema 3 · Parte 5 · Organización territorial",
+  "ambito": {
+    "bloques": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

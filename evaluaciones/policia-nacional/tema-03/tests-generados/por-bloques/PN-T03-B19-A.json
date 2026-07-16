@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B19-A",
+  "titulo": "Tema 3 · Bloque 19: Principios de la organización territorial · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      19
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q286",
+      "fact_id": "PN-T03-F286",
+      "bloque": 19,
+      "concepto": "Autonomía territorial",
+      "articulo": "137",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía territorial» conforme a 137?",
+      "opciones": {
+        "A": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "B": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes.",
+        "C": "La ley regula las condiciones en que procede el régimen de concejo abierto."
+      }
+    },
+    {
+      "id": "PN-T03-Q287",
+      "fact_id": "PN-T03-F287",
+      "bloque": 19,
+      "concepto": "Solidaridad territorial",
+      "articulo": "138.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Solidaridad territorial» conforme a 138.1?",
+      "opciones": {
+        "A": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "B": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo.",
+        "C": "El gobierno y administración autónoma de las provincias se encomiendan a diputaciones u otras corporaciones representativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q285",
+      "fact_id": "PN-T03-F285",
+      "bloque": 19,
+      "concepto": "Entidades territoriales",
+      "articulo": "137",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Entidades territoriales» conforme a 137?",
+      "opciones": {
+        "A": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.",
+        "B": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.",
+        "C": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan."
+      }
+    },
+    {
+      "id": "PN-T03-Q289",
+      "fact_id": "PN-T03-F289",
+      "bloque": 19,
+      "concepto": "Prohibición de privilegios",
+      "articulo": "138.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibición de privilegios» conforme a 138.2?",
+      "opciones": {
+        "A": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales.",
+        "B": "Pueden crearse agrupaciones de municipios diferentes de la provincia.",
+        "C": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo."
+      }
+    },
+    {
+      "id": "PN-T03-Q290",
+      "fact_id": "PN-T03-F290",
+      "bloque": 19,
+      "concepto": "Igualdad territorial de derechos",
+      "articulo": "139.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Igualdad territorial de derechos» conforme a 139.1?",
+      "opciones": {
+        "A": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan.",
+        "B": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q288",
+      "fact_id": "PN-T03-F288",
+      "bloque": 19,
+      "concepto": "Hecho insular",
+      "articulo": "138.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Hecho insular» conforme a 138.1?",
+      "opciones": {
+        "A": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado.",
+        "B": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.",
+        "C": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular."
+      }
+    },
+    {
+      "id": "PN-T03-Q292",
+      "fact_id": "PN-T03-F292",
+      "bloque": 19,
+      "concepto": "Autonomía municipal",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía municipal» conforme a 140?",
+      "opciones": {
+        "A": "La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena.",
+        "B": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes.",
+        "C": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q293",
+      "fact_id": "PN-T03-F293",
+      "bloque": 19,
+      "concepto": "Gobierno municipal",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno municipal» conforme a 140?",
+      "opciones": {
+        "A": "Los alcaldes son elegidos por los concejales o por los vecinos.",
+        "B": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.",
+        "C": "Pueden crearse agrupaciones de municipios diferentes de la provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q291",
+      "fact_id": "PN-T03-F291",
+      "bloque": 19,
+      "concepto": "Libre circulación",
+      "articulo": "139.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Libre circulación» conforme a 139.2?",
+      "opciones": {
+        "A": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.",
+        "B": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q295",
+      "fact_id": "PN-T03-F295",
+      "bloque": 19,
+      "concepto": "Elección de alcaldes",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de alcaldes» conforme a 140?",
+      "opciones": {
+        "A": "Los alcaldes son elegidos por los concejales o por los vecinos.",
+        "B": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos.",
+        "C": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular."
+      }
+    },
+    {
+      "id": "PN-T03-Q296",
+      "fact_id": "PN-T03-F296",
+      "bloque": 19,
+      "concepto": "Concejo abierto",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Concejo abierto» conforme a 140?",
+      "opciones": {
+        "A": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "B": "La ley regula las condiciones en que procede el régimen de concejo abierto.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q294",
+      "fact_id": "PN-T03-F294",
+      "bloque": 19,
+      "concepto": "Elección de concejales",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de concejales» conforme a 140?",
+      "opciones": {
+        "A": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.",
+        "B": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan.",
+        "C": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto."
+      }
+    },
+    {
+      "id": "PN-T03-Q298",
+      "fact_id": "PN-T03-F298",
+      "bloque": 19,
+      "concepto": "Límites provinciales",
+      "articulo": "141.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites provinciales» conforme a 141.1?",
+      "opciones": {
+        "A": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.",
+        "B": "La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena.",
+        "C": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q299",
+      "fact_id": "PN-T03-F299",
+      "bloque": 19,
+      "concepto": "Gobierno provincial",
+      "articulo": "141.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno provincial» conforme a 141.2?",
+      "opciones": {
+        "A": "Los alcaldes son elegidos por los concejales o por los vecinos.",
+        "B": "El gobierno y administración autónoma de las provincias se encomiendan a diputaciones u otras corporaciones representativas.",
+        "C": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos."
+      }
+    },
+    {
+      "id": "PN-T03-Q297",
+      "fact_id": "PN-T03-F297",
+      "bloque": 19,
+      "concepto": "Provincia",
+      "articulo": "141.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Provincia» conforme a 141.1?",
+      "opciones": {
+        "A": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales.",
+        "B": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "C": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q301",
+      "fact_id": "PN-T03-F301",
+      "bloque": 19,
+      "concepto": "Gobierno insular",
+      "articulo": "141.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno insular» conforme a 141.4?",
+      "opciones": {
+        "A": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos.",
+        "B": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.",
+        "C": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales."
+      }
+    },
+    {
+      "id": "PN-T03-Q302",
+      "fact_id": "PN-T03-F302",
+      "bloque": 19,
+      "concepto": "Haciendas locales",
+      "articulo": "142",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Haciendas locales» conforme a 142?",
+      "opciones": {
+        "A": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo.",
+        "B": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.",
+        "C": "La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena."
+      }
+    },
+    {
+      "id": "PN-T03-Q300",
+      "fact_id": "PN-T03-F300",
+      "bloque": 19,
+      "concepto": "Agrupaciones de municipios",
+      "articulo": "141.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agrupaciones de municipios» conforme a 141.3?",
+      "opciones": {
+        "A": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.",
+        "B": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "C": "Pueden crearse agrupaciones de municipios diferentes de la provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q646",
+      "fact_id": "PN-T03-F286",
+      "bloque": 19,
+      "concepto": "Autonomía territorial",
+      "articulo": "137",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "138.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q647",
+      "fact_id": "PN-T03-F287",
+      "bloque": 19,
+      "concepto": "Solidaridad territorial",
+      "articulo": "138.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "138.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q645",
+      "fact_id": "PN-T03-F285",
+      "bloque": 19,
+      "concepto": "Entidades territoriales",
+      "articulo": "137",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan.»?",
+      "opciones": {
+        "A": "138.1",
+        "B": "138.2",
+        "C": "137"
+      }
+    },
+    {
+      "id": "PN-T03-Q649",
+      "fact_id": "PN-T03-F289",
+      "bloque": 19,
+      "concepto": "Prohibición de privilegios",
+      "articulo": "138.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales.»?",
+      "opciones": {
+        "A": "138.2",
+        "B": "137",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q650",
+      "fact_id": "PN-T03-F290",
+      "bloque": 19,
+      "concepto": "Igualdad territorial de derechos",
+      "articulo": "139.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio.»?",
+      "opciones": {
+        "A": "137",
+        "B": "139.1",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q648",
+      "fact_id": "PN-T03-F288",
+      "bloque": 19,
+      "concepto": "Hecho insular",
+      "articulo": "138.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.2",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q652",
+      "fact_id": "PN-T03-F292",
+      "bloque": 19,
+      "concepto": "Autonomía municipal",
+      "articulo": "140",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena.»?",
+      "opciones": {
+        "A": "140",
+        "B": "137",
+        "C": "138.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q286",
+      "respuesta_correcta": "A",
+      "explicacion": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses. Referencia principal: CE-TERRITORIAL, 137.",
+      "fact_id": "PN-T03-F286",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q287",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo. Referencia principal: CE-TERRITORIAL, 138.1.",
+      "fact_id": "PN-T03-F287",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q285",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan. Referencia principal: CE-TERRITORIAL, 137.",
+      "fact_id": "PN-T03-F285",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q289",
+      "respuesta_correcta": "A",
+      "explicacion": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales. Referencia principal: CE-TERRITORIAL, 138.2.",
+      "fact_id": "PN-T03-F289",
+      "articulo": "138.2"
+    },
+    {
+      "id": "PN-T03-Q290",
+      "respuesta_correcta": "B",
+      "explicacion": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio. Referencia principal: CE-TERRITORIAL, 139.1.",
+      "fact_id": "PN-T03-F290",
+      "articulo": "139.1"
+    },
+    {
+      "id": "PN-T03-Q288",
+      "respuesta_correcta": "C",
+      "explicacion": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular. Referencia principal: CE-TERRITORIAL, 138.1.",
+      "fact_id": "PN-T03-F288",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q292",
+      "respuesta_correcta": "A",
+      "explicacion": "La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F292",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q293",
+      "respuesta_correcta": "B",
+      "explicacion": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F293",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q291",
+      "respuesta_correcta": "C",
+      "explicacion": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes. Referencia principal: CE-TERRITORIAL, 139.2.",
+      "fact_id": "PN-T03-F291",
+      "articulo": "139.2"
+    },
+    {
+      "id": "PN-T03-Q295",
+      "respuesta_correcta": "A",
+      "explicacion": "Los alcaldes son elegidos por los concejales o por los vecinos. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F295",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q296",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley regula las condiciones en que procede el régimen de concejo abierto. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F296",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q294",
+      "respuesta_correcta": "C",
+      "explicacion": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F294",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q298",
+      "respuesta_correcta": "A",
+      "explicacion": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica. Referencia principal: CE-TERRITORIAL, 141.1.",
+      "fact_id": "PN-T03-F298",
+      "articulo": "141.1"
+    },
+    {
+      "id": "PN-T03-Q299",
+      "respuesta_correcta": "B",
+      "explicacion": "El gobierno y administración autónoma de las provincias se encomiendan a diputaciones u otras corporaciones representativas. Referencia principal: CE-TERRITORIAL, 141.2.",
+      "fact_id": "PN-T03-F299",
+      "articulo": "141.2"
+    },
+    {
+      "id": "PN-T03-Q297",
+      "respuesta_correcta": "C",
+      "explicacion": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado. Referencia principal: CE-TERRITORIAL, 141.1.",
+      "fact_id": "PN-T03-F297",
+      "articulo": "141.1"
+    },
+    {
+      "id": "PN-T03-Q301",
+      "respuesta_correcta": "A",
+      "explicacion": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos. Referencia principal: CE-TERRITORIAL, 141.4.",
+      "fact_id": "PN-T03-F301",
+      "articulo": "141.4"
+    },
+    {
+      "id": "PN-T03-Q302",
+      "respuesta_correcta": "B",
+      "explicacion": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos. Referencia principal: CE-TERRITORIAL, 142.",
+      "fact_id": "PN-T03-F302",
+      "articulo": "142"
+    },
+    {
+      "id": "PN-T03-Q300",
+      "respuesta_correcta": "C",
+      "explicacion": "Pueden crearse agrupaciones de municipios diferentes de la provincia. Referencia principal: CE-TERRITORIAL, 141.3.",
+      "fact_id": "PN-T03-F300",
+      "articulo": "141.3"
+    },
+    {
+      "id": "PN-T03-Q646",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 137 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F286",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q647",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 138.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F287",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q645",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 137 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F285",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q649",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 138.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F289",
+      "articulo": "138.2"
+    },
+    {
+      "id": "PN-T03-Q650",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 139.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F290",
+      "articulo": "139.1"
+    },
+    {
+      "id": "PN-T03-Q648",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 138.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F288",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q652",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 140 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F292",
+      "articulo": "140"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B21-A",
+  "titulo": "Tema 3 · Bloque 21: Estatutos y competencias de los artículos 148 y 149 · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      21
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q319",
+      "fact_id": "PN-T03-F319",
+      "bloque": 21,
+      "concepto": "Régimen local transferible",
+      "articulo": "148.1.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Régimen local transferible» conforme a 148.1.2?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica."
+      }
+    },
+    {
+      "id": "PN-T03-Q320",
+      "fact_id": "PN-T03-F320",
+      "bloque": 21,
+      "concepto": "Ordenación territorial",
+      "articulo": "148.1.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ordenación territorial» conforme a 148.1.3?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre asistencia social."
+      }
+    },
+    {
+      "id": "PN-T03-Q318",
+      "fact_id": "PN-T03-F318",
+      "bloque": 21,
+      "concepto": "Organización autonómica",
+      "articulo": "148.1.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Organización autonómica» conforme a 148.1.1?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre artesanía.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q322",
+      "fact_id": "PN-T03-F322",
+      "bloque": 21,
+      "concepto": "Ferrocarriles y carreteras interiores",
+      "articulo": "148.1.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ferrocarriles y carreteras interiores» conforme a 148.1.5?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "C": "El Estado tiene competencia exclusiva sobre relaciones internacionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q323",
+      "fact_id": "PN-T03-F323",
+      "bloque": 21,
+      "concepto": "Puertos y aeropuertos no comerciales",
+      "articulo": "148.1.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Puertos y aeropuertos no comerciales» conforme a 148.1.6?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación mercantil, penal y penitenciaria y legislación procesal, con especialidades autonómicas derivadas de su Derecho sustantivo."
+      }
+    },
+    {
+      "id": "PN-T03-Q321",
+      "fact_id": "PN-T03-F321",
+      "bloque": 21,
+      "concepto": "Obras públicas autonómicas",
+      "articulo": "148.1.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Obras públicas autonómicas» conforme a 148.1.4?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial.",
+        "B": "Transcurridos cinco años, las comunidades pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149 mediante reforma estatutaria.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre obras públicas de interés de la comunidad dentro de su territorio."
+      }
+    },
+    {
+      "id": "PN-T03-Q325",
+      "fact_id": "PN-T03-F325",
+      "bloque": 21,
+      "concepto": "Montes",
+      "articulo": "148.1.8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Montes» conforme a 148.1.8?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre montes y aprovechamientos forestales.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación sobre pesas y medidas y determinación de la hora oficial."
+      }
+    },
+    {
+      "id": "PN-T03-Q326",
+      "fact_id": "PN-T03-F326",
+      "bloque": 21,
+      "concepto": "Gestión ambiental",
+      "articulo": "148.1.9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gestión ambiental» conforme a 148.1.9?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente.",
+        "C": "El Estado tiene competencia exclusiva sobre fomento y coordinación general de la investigación científica y técnica."
+      }
+    },
+    {
+      "id": "PN-T03-Q324",
+      "fact_id": "PN-T03-F324",
+      "bloque": 21,
+      "concepto": "Agricultura y ganadería",
+      "articulo": "148.1.7",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agricultura y ganadería» conforme a 148.1.7?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación sobre propiedad intelectual e industrial.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía."
+      }
+    },
+    {
+      "id": "PN-T03-Q328",
+      "fact_id": "PN-T03-F328",
+      "bloque": 21,
+      "concepto": "Pesca interior y caza",
+      "articulo": "148.1.11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Pesca interior y caza» conforme a 148.1.11?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial.",
+        "B": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos.",
+        "C": "El Estado tiene competencia exclusiva sobre ferrocarriles y transportes interautonómicos, régimen general de comunicaciones, tráfico, correos, telecomunicaciones y radiocomunicación."
+      }
+    },
+    {
+      "id": "PN-T03-Q329",
+      "fact_id": "PN-T03-F329",
+      "bloque": 21,
+      "concepto": "Ferias interiores",
+      "articulo": "148.1.12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ferias interiores» conforme a 148.1.12?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "C": "El Estado tiene competencia exclusiva sobre obras públicas de interés general o cuya realización afecte a más de una comunidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q327",
+      "fact_id": "PN-T03-F327",
+      "bloque": 21,
+      "concepto": "Aguas de interés autonómico",
+      "articulo": "148.1.10",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aguas de interés autonómico» conforme a 148.1.10?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.",
+        "B": "El Estado tiene competencia exclusiva sobre bases del régimen jurídico administrativo y funcionarial, procedimiento común, expropiación, contratos, concesiones y responsabilidad.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales."
+      }
+    },
+    {
+      "id": "PN-T03-Q331",
+      "fact_id": "PN-T03-F331",
+      "bloque": 21,
+      "concepto": "Artesanía",
+      "articulo": "148.1.14",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Artesanía» conforme a 148.1.14?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre artesanía.",
+        "B": "El Estado tiene competencia exclusiva sobre bases del régimen minero y energético.",
+        "C": "El Estado tiene competencia exclusiva sobre condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas del artículo 27."
+      }
+    },
+    {
+      "id": "PN-T03-Q332",
+      "fact_id": "PN-T03-F332",
+      "bloque": 21,
+      "concepto": "Centros culturales",
+      "articulo": "148.1.15",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Centros culturales» conforme a 148.1.15?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre defensa del patrimonio cultural contra exportación y expoliación y museos, bibliotecas y archivos estatales, sin perjuicio de gestión autonómica.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad.",
+        "C": "Sin perjuicio de competencias autonómicas, el Estado considera el servicio de la cultura un deber y atribución esencial y facilita la comunicación cultural."
+      }
+    },
+    {
+      "id": "PN-T03-Q330",
+      "fact_id": "PN-T03-F330",
+      "bloque": 21,
+      "concepto": "Desarrollo económico autonómico",
+      "articulo": "148.1.13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Desarrollo económico autonómico» conforme a 148.1.13?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas.",
+        "B": "El Estado tiene competencia exclusiva sobre normas básicas de prensa, radio, televisión y medios de comunicación social, sin perjuicio de desarrollo autonómico.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional."
+      }
+    },
+    {
+      "id": "PN-T03-Q334",
+      "fact_id": "PN-T03-F334",
+      "bloque": 21,
+      "concepto": "Cultura e investigación",
+      "articulo": "148.1.17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Cultura e investigación» conforme a 148.1.17?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica.",
+        "B": "Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local."
+      }
+    },
+    {
+      "id": "PN-T03-Q335",
+      "fact_id": "PN-T03-F335",
+      "bloque": 21,
+      "concepto": "Turismo",
+      "articulo": "148.1.18",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Turismo» conforme a 148.1.18?",
+      "opciones": {
+        "A": "El Derecho estatal es supletorio del Derecho autonómico.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable."
+      }
+    },
+    {
+      "id": "PN-T03-Q333",
+      "fact_id": "PN-T03-F333",
+      "bloque": 21,
+      "concepto": "Patrimonio monumental",
+      "articulo": "148.1.16",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Patrimonio monumental» conforme a 148.1.16?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre estadística para fines estatales.",
+        "B": "En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre patrimonio monumental de interés de la comunidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q337",
+      "fact_id": "PN-T03-F337",
+      "bloque": 21,
+      "concepto": "Asistencia social",
+      "articulo": "148.1.20",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asistencia social» conforme a 148.1.20?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre asistencia social.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial."
+      }
+    },
+    {
+      "id": "PN-T03-Q338",
+      "fact_id": "PN-T03-F338",
+      "bloque": 21,
+      "concepto": "Sanidad e higiene",
+      "articulo": "148.1.21",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanidad e higiene» conforme a 148.1.21?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre artesanía."
+      }
+    },
+    {
+      "id": "PN-T03-Q336",
+      "fact_id": "PN-T03-F336",
+      "bloque": 21,
+      "concepto": "Deporte y ocio",
+      "articulo": "148.1.19",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Deporte y ocio» conforme a 148.1.19?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre montes y aprovechamientos forestales.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre promoción del deporte y adecuada utilización del ocio."
+      }
+    },
+    {
+      "id": "PN-T03-Q340",
+      "fact_id": "PN-T03-F340",
+      "bloque": 21,
+      "concepto": "Ampliación competencial",
+      "articulo": "148.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ampliación competencial» conforme a 148.2?",
+      "opciones": {
+        "A": "Transcurridos cinco años, las comunidades pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149 mediante reforma estatutaria.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre asistencia social."
+      }
+    },
+    {
+      "id": "PN-T03-Q341",
+      "fact_id": "PN-T03-F341",
+      "bloque": 21,
+      "concepto": "Igualdad básica",
+      "articulo": "149.1.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Igualdad básica» conforme a 149.1.1?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial.",
+        "B": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales.",
+        "C": "Transcurridos cinco años, las comunidades pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149 mediante reforma estatutaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q339",
+      "fact_id": "PN-T03-F339",
+      "bloque": 21,
+      "concepto": "Vigilancia y policía local",
+      "articulo": "148.1.22",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Vigilancia y policía local» conforme a 148.1.22?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q343",
+      "fact_id": "PN-T03-F343",
+      "bloque": 21,
+      "concepto": "Relaciones internacionales",
+      "articulo": "149.1.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Relaciones internacionales» conforme a 149.1.3?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre relaciones internacionales.",
+        "B": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q319",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local. Referencia principal: CE-TERRITORIAL, 148.1.2.",
+      "fact_id": "PN-T03-F319",
+      "articulo": "148.1.2"
+    },
+    {
+      "id": "PN-T03-Q320",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda. Referencia principal: CE-TERRITORIAL, 148.1.3.",
+      "fact_id": "PN-T03-F320",
+      "articulo": "148.1.3"
+    },
+    {
+      "id": "PN-T03-Q318",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno. Referencia principal: CE-TERRITORIAL, 148.1.1.",
+      "fact_id": "PN-T03-F318",
+      "articulo": "148.1.1"
+    },
+    {
+      "id": "PN-T03-Q322",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable. Referencia principal: CE-TERRITORIAL, 148.1.5.",
+      "fact_id": "PN-T03-F322",
+      "articulo": "148.1.5"
+    },
+    {
+      "id": "PN-T03-Q323",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales. Referencia principal: CE-TERRITORIAL, 148.1.6.",
+      "fact_id": "PN-T03-F323",
+      "articulo": "148.1.6"
+    },
+    {
+      "id": "PN-T03-Q321",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre obras públicas de interés de la comunidad dentro de su territorio. Referencia principal: CE-TERRITORIAL, 148.1.4.",
+      "fact_id": "PN-T03-F321",
+      "articulo": "148.1.4"
+    },
+    {
+      "id": "PN-T03-Q325",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre montes y aprovechamientos forestales. Referencia principal: CE-TERRITORIAL, 148.1.8.",
+      "fact_id": "PN-T03-F325",
+      "articulo": "148.1.8"
+    },
+    {
+      "id": "PN-T03-Q326",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente. Referencia principal: CE-TERRITORIAL, 148.1.9.",
+      "fact_id": "PN-T03-F326",
+      "articulo": "148.1.9"
+    },
+    {
+      "id": "PN-T03-Q324",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía. Referencia principal: CE-TERRITORIAL, 148.1.7.",
+      "fact_id": "PN-T03-F324",
+      "articulo": "148.1.7"
+    },
+    {
+      "id": "PN-T03-Q328",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial. Referencia principal: CE-TERRITORIAL, 148.1.11.",
+      "fact_id": "PN-T03-F328",
+      "articulo": "148.1.11"
+    },
+    {
+      "id": "PN-T03-Q329",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores. Referencia principal: CE-TERRITORIAL, 148.1.12.",
+      "fact_id": "PN-T03-F329",
+      "articulo": "148.1.12"
+    },
+    {
+      "id": "PN-T03-Q327",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales. Referencia principal: CE-TERRITORIAL, 148.1.10.",
+      "fact_id": "PN-T03-F327",
+      "articulo": "148.1.10"
+    },
+    {
+      "id": "PN-T03-Q331",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre artesanía. Referencia principal: CE-TERRITORIAL, 148.1.14.",
+      "fact_id": "PN-T03-F331",
+      "articulo": "148.1.14"
+    },
+    {
+      "id": "PN-T03-Q332",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad. Referencia principal: CE-TERRITORIAL, 148.1.15.",
+      "fact_id": "PN-T03-F332",
+      "articulo": "148.1.15"
+    },
+    {
+      "id": "PN-T03-Q330",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional. Referencia principal: CE-TERRITORIAL, 148.1.13.",
+      "fact_id": "PN-T03-F330",
+      "articulo": "148.1.13"
+    },
+    {
+      "id": "PN-T03-Q334",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica. Referencia principal: CE-TERRITORIAL, 148.1.17.",
+      "fact_id": "PN-T03-F334",
+      "articulo": "148.1.17"
+    },
+    {
+      "id": "PN-T03-Q335",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial. Referencia principal: CE-TERRITORIAL, 148.1.18.",
+      "fact_id": "PN-T03-F335",
+      "articulo": "148.1.18"
+    },
+    {
+      "id": "PN-T03-Q333",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre patrimonio monumental de interés de la comunidad. Referencia principal: CE-TERRITORIAL, 148.1.16.",
+      "fact_id": "PN-T03-F333",
+      "articulo": "148.1.16"
+    },
+    {
+      "id": "PN-T03-Q337",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre asistencia social. Referencia principal: CE-TERRITORIAL, 148.1.20.",
+      "fact_id": "PN-T03-F337",
+      "articulo": "148.1.20"
+    },
+    {
+      "id": "PN-T03-Q338",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene. Referencia principal: CE-TERRITORIAL, 148.1.21.",
+      "fact_id": "PN-T03-F338",
+      "articulo": "148.1.21"
+    },
+    {
+      "id": "PN-T03-Q336",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre promoción del deporte y adecuada utilización del ocio. Referencia principal: CE-TERRITORIAL, 148.1.19.",
+      "fact_id": "PN-T03-F336",
+      "articulo": "148.1.19"
+    },
+    {
+      "id": "PN-T03-Q340",
+      "respuesta_correcta": "A",
+      "explicacion": "Transcurridos cinco años, las comunidades pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149 mediante reforma estatutaria. Referencia principal: CE-TERRITORIAL, 148.2.",
+      "fact_id": "PN-T03-F340",
+      "articulo": "148.2"
+    },
+    {
+      "id": "PN-T03-Q341",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales. Referencia principal: CE-TERRITORIAL, 149.1.1.",
+      "fact_id": "PN-T03-F341",
+      "articulo": "149.1.1"
+    },
+    {
+      "id": "PN-T03-Q339",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica. Referencia principal: CE-TERRITORIAL, 148.1.22.",
+      "fact_id": "PN-T03-F339",
+      "articulo": "148.1.22"
+    },
+    {
+      "id": "PN-T03-Q343",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre relaciones internacionales. Referencia principal: CE-TERRITORIAL, 149.1.3.",
+      "fact_id": "PN-T03-F343",
+      "articulo": "149.1.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

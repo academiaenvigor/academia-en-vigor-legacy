@@ -1,0 +1,572 @@
+{
+  "id": "PN-T03-P1-A",
+  "titulo": "Tema 3 · Parte 1 · La Corona · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q001",
+      "fact_id": "PN-T03-F001",
+      "bloque": 1,
+      "concepto": "Jefatura del Estado",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jefatura del Estado» conforme a 56.1?",
+      "opciones": {
+        "A": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q002",
+      "fact_id": "PN-T03-F002",
+      "bloque": 1,
+      "concepto": "Arbitraje y moderación",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Arbitraje y moderación» conforme a 56.1?",
+      "opciones": {
+        "A": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente."
+      }
+    },
+    {
+      "id": "PN-T03-Q003",
+      "fact_id": "PN-T03-F003",
+      "bloque": 1,
+      "concepto": "Representación internacional",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación internacional» conforme a 56.1?",
+      "opciones": {
+        "A": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q013",
+      "fact_id": "PN-T03-F013",
+      "bloque": 2,
+      "concepto": "Primogenitura y representación",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Primogenitura y representación» conforme a 57.1?",
+      "opciones": {
+        "A": "La sucesión sigue el orden regular de primogenitura y representación.",
+        "B": "Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveen la sucesión en la forma más conveniente para los intereses de España.",
+        "C": "En la sucesión se prefiere siempre la línea anterior a las posteriores."
+      }
+    },
+    {
+      "id": "PN-T03-Q014",
+      "fact_id": "PN-T03-F014",
+      "bloque": 2,
+      "concepto": "Preferencia de líneas",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia de líneas» conforme a 57.1?",
+      "opciones": {
+        "A": "La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+        "B": "En la sucesión se prefiere siempre la línea anterior a las posteriores.",
+        "C": "En el mismo sexo se prefiere la persona de más edad a la de menos."
+      }
+    },
+    {
+      "id": "PN-T03-Q012",
+      "fact_id": "PN-T03-F012",
+      "bloque": 2,
+      "concepto": "Carácter hereditario",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Carácter hereditario» conforme a 57.1?",
+      "opciones": {
+        "A": "En el mismo grado se prefiere el varón a la mujer.",
+        "B": "Las abdicaciones, renuncias y dudas sucesorias se resuelven mediante ley orgánica.",
+        "C": "La Corona es hereditaria en los sucesores de Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q025",
+      "fact_id": "PN-T03-F025",
+      "bloque": 3,
+      "concepto": "Inhabilitación del Rey",
+      "articulo": "59.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inhabilitación del Rey» conforme a 59.2?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos.",
+        "C": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q023",
+      "fact_id": "PN-T03-F023",
+      "bloque": 3,
+      "concepto": "Regencia por minoría de edad",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia por minoría de edad» conforme a 59.1?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.",
+        "C": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q024",
+      "fact_id": "PN-T03-F024",
+      "bloque": 3,
+      "concepto": "Duración de la Regencia por minoría",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Duración de la Regencia por minoría» conforme a 59.1?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor.",
+        "C": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q037",
+      "fact_id": "PN-T03-F037",
+      "bloque": 4,
+      "concepto": "Sanción y promulgación",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanción y promulgación» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey sancionar y promulgar las leyes.",
+        "B": "Corresponde al Rey el Alto Patronazgo de las Reales Academias.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q038",
+      "fact_id": "PN-T03-F038",
+      "bloque": 4,
+      "concepto": "Convocatoria y disolución",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convocatoria y disolución» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales.",
+        "B": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q039",
+      "fact_id": "PN-T03-F039",
+      "bloque": 4,
+      "concepto": "Referéndum",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q004",
+      "fact_id": "PN-T03-F004",
+      "bloque": 1,
+      "concepto": "Título del Rey",
+      "articulo": "56.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Título del Rey» conforme a 56.2?",
+      "opciones": {
+        "A": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q005",
+      "fact_id": "PN-T03-F005",
+      "bloque": 1,
+      "concepto": "Inviolabilidad y responsabilidad",
+      "articulo": "56.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad y responsabilidad» conforme a 56.3?",
+      "opciones": {
+        "A": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica.",
+        "B": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "C": "De los actos del Rey responden las personas que los refrendan."
+      }
+    },
+    {
+      "id": "PN-T03-Q006",
+      "fact_id": "PN-T03-F006",
+      "bloque": 1,
+      "concepto": "Validez del acto regio",
+      "articulo": "56.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Validez del acto regio» conforme a 56.3?",
+      "opciones": {
+        "A": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.",
+        "B": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q016",
+      "fact_id": "PN-T03-F016",
+      "bloque": 2,
+      "concepto": "Preferencia por sexo",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia por sexo» conforme a 57.1?",
+      "opciones": {
+        "A": "En el mismo grado se prefiere el varón a la mujer.",
+        "B": "El heredero, desde su nacimiento o desde que se produzca el llamamiento, tiene la dignidad de Príncipe de Asturias y los demás títulos tradicionales.",
+        "C": "La Corona es hereditaria en los sucesores de Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q017",
+      "fact_id": "PN-T03-F017",
+      "bloque": 2,
+      "concepto": "Preferencia por edad",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia por edad» conforme a 57.1?",
+      "opciones": {
+        "A": "Las abdicaciones, renuncias y dudas sucesorias se resuelven mediante ley orgánica.",
+        "B": "En el mismo sexo se prefiere la persona de más edad a la de menos.",
+        "C": "Dentro de la misma línea se prefiere el grado más próximo al más remoto."
+      }
+    },
+    {
+      "id": "PN-T03-Q015",
+      "fact_id": "PN-T03-F015",
+      "bloque": 2,
+      "concepto": "Preferencia de grado",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia de grado» conforme a 57.1?",
+      "opciones": {
+        "A": "En la sucesión se prefiere siempre la línea anterior a las posteriores.",
+        "B": "Quien tenga derecho a la sucesión y contraiga matrimonio contra la prohibición expresa del Rey y de las Cortes queda excluido, junto con sus descendientes.",
+        "C": "Dentro de la misma línea se prefiere el grado más próximo al más remoto."
+      }
+    },
+    {
+      "id": "PN-T03-Q028",
+      "fact_id": "PN-T03-F028",
+      "bloque": 3,
+      "concepto": "Requisitos del Regente",
+      "articulo": "59.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requisitos del Regente» conforme a 59.4?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad.",
+        "C": "En defecto de tutor testamentario y de progenitor viudo, las Cortes nombran al tutor."
+      }
+    },
+    {
+      "id": "PN-T03-Q026",
+      "fact_id": "PN-T03-F026",
+      "bloque": 3,
+      "concepto": "Regencia por inhabilitación con heredero menor",
+      "articulo": "59.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia por inhabilitación con heredero menor» conforme a 59.2?",
+      "opciones": {
+        "A": "La tutela del Rey es incompatible con todo cargo o representación política.",
+        "B": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad.",
+        "C": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad."
+      }
+    },
+    {
+      "id": "PN-T03-Q027",
+      "fact_id": "PN-T03-F027",
+      "bloque": 3,
+      "concepto": "Regencia nombrada por las Cortes",
+      "articulo": "59.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia nombrada por las Cortes» conforme a 59.3?",
+      "opciones": {
+        "A": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.",
+        "B": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
+        "C": "Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas."
+      }
+    },
+    {
+      "id": "PN-T03-Q040",
+      "fact_id": "PN-T03-F040",
+      "bloque": 4,
+      "concepto": "Presidente del Gobierno",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente del Gobierno» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "C": "Corresponde al Rey el Alto Patronazgo de las Reales Academias."
+      }
+    },
+    {
+      "id": "PN-T03-Q041",
+      "fact_id": "PN-T03-F041",
+      "bloque": 4,
+      "concepto": "Miembros del Gobierno",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Miembros del Gobierno» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey el mando supremo de las Fuerzas Armadas.",
+        "B": "Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.",
+        "C": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales."
+      }
+    },
+    {
+      "id": "PN-T03-Q042",
+      "fact_id": "PN-T03-F042",
+      "bloque": 4,
+      "concepto": "Decretos",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Decretos» conforme a 62?",
+      "opciones": {
+        "A": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él.",
+        "B": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q007",
+      "fact_id": "PN-T03-F007",
+      "bloque": 1,
+      "concepto": "Refrendo ordinario",
+      "articulo": "64.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo ordinario» conforme a 64.1?",
+      "opciones": {
+        "A": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.",
+        "B": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente.",
+        "C": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q001",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F001",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q002",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey arbitra y modera el funcionamiento regular de las instituciones. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F002",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q003",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F003",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q013",
+      "respuesta_correcta": "A",
+      "explicacion": "La sucesión sigue el orden regular de primogenitura y representación. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F013",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q014",
+      "respuesta_correcta": "B",
+      "explicacion": "En la sucesión se prefiere siempre la línea anterior a las posteriores. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F014",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q012",
+      "respuesta_correcta": "C",
+      "explicacion": "La Corona es hereditaria en los sucesores de Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F012",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q025",
+      "respuesta_correcta": "A",
+      "explicacion": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad. Referencia principal: CE-CORONA, 59.2.",
+      "fact_id": "PN-T03-F025",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q023",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F023",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q024",
+      "respuesta_correcta": "C",
+      "explicacion": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F024",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q037",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey sancionar y promulgar las leyes. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F037",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q038",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F038",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q039",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F039",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q004",
+      "respuesta_correcta": "A",
+      "explicacion": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona. Referencia principal: CE-CORONA, 56.2.",
+      "fact_id": "PN-T03-F004",
+      "articulo": "56.2"
+    },
+    {
+      "id": "PN-T03-Q005",
+      "respuesta_correcta": "B",
+      "explicacion": "La persona del Rey es inviolable y no está sujeta a responsabilidad. Referencia principal: CE-CORONA, 56.3.",
+      "fact_id": "PN-T03-F005",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q006",
+      "respuesta_correcta": "C",
+      "explicacion": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2. Referencia principal: CE-CORONA, 56.3.",
+      "fact_id": "PN-T03-F006",
+      "articulo": "56.3"
+    },
+    {
+      "id": "PN-T03-Q016",
+      "respuesta_correcta": "A",
+      "explicacion": "En el mismo grado se prefiere el varón a la mujer. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F016",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q017",
+      "respuesta_correcta": "B",
+      "explicacion": "En el mismo sexo se prefiere la persona de más edad a la de menos. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F017",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q015",
+      "respuesta_correcta": "C",
+      "explicacion": "Dentro de la misma línea se prefiere el grado más próximo al más remoto. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F015",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q028",
+      "respuesta_correcta": "A",
+      "explicacion": "Para ejercer la Regencia se exige ser español y mayor de edad. Referencia principal: CE-CORONA, 59.4.",
+      "fact_id": "PN-T03-F028",
+      "articulo": "59.4"
+    },
+    {
+      "id": "PN-T03-Q026",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad. Referencia principal: CE-CORONA, 59.2.",
+      "fact_id": "PN-T03-F026",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q027",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas. Referencia principal: CE-CORONA, 59.3.",
+      "fact_id": "PN-T03-F027",
+      "articulo": "59.3"
+    },
+    {
+      "id": "PN-T03-Q040",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F040",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q041",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F041",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q042",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F042",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q007",
+      "respuesta_correcta": "A",
+      "explicacion": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes. Referencia principal: CE-CORONA, 64.1.",
+      "fact_id": "PN-T03-F007",
+      "articulo": "64.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

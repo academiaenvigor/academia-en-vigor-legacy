@@ -1,0 +1,573 @@
+{
+  "id": "PN-T03-P3-C",
+  "titulo": "Tema 3 · Parte 3 · Gobierno, control y estados excepcionales · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q208",
+      "fact_id": "PN-T03-F208",
+      "bloque": 14,
+      "concepto": "Preguntas e interpelaciones",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preguntas e interpelaciones» conforme a 111.1?",
+      "opciones": {
+        "A": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír."
+      }
+    },
+    {
+      "id": "PN-T03-Q206",
+      "fact_id": "PN-T03-F206",
+      "bloque": 14,
+      "concepto": "Acceso del Gobierno a las Cámaras",
+      "articulo": "110.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso del Gobierno a las Cámaras» conforme a 110.2?",
+      "opciones": {
+        "A": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición.",
+        "B": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír.",
+        "C": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q180",
+      "fact_id": "PN-T03-F180",
+      "bloque": 12,
+      "concepto": "Refrendo de la disolución automática",
+      "articulo": "99.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo de la disolución automática» conforme a 99.5?",
+      "opciones": {
+        "A": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.",
+        "B": "El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley.",
+        "C": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q565",
+      "fact_id": "PN-T03-F169",
+      "bloque": 12,
+      "concepto": "Funciones normativa y ejecutiva",
+      "articulo": "97",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q566",
+      "fact_id": "PN-T03-F170",
+      "bloque": 12,
+      "concepto": "Composición del Gobierno",
+      "articulo": "98.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q198",
+      "fact_id": "PN-T03-F198",
+      "bloque": 13,
+      "concepto": "Acceso a archivos",
+      "articulo": "105.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso a archivos» conforme a 105.b?",
+      "opciones": {
+        "A": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "B": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso.",
+        "C": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q199",
+      "fact_id": "PN-T03-F199",
+      "bloque": 13,
+      "concepto": "Procedimiento administrativo",
+      "articulo": "105.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Procedimiento administrativo» conforme a 105.c?",
+      "opciones": {
+        "A": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado.",
+        "B": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      }
+    },
+    {
+      "id": "PN-T03-Q200",
+      "fact_id": "PN-T03-F200",
+      "bloque": 13,
+      "concepto": "Control judicial de la Administración",
+      "articulo": "106.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control judicial de la Administración» conforme a 106.1?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q225",
+      "fact_id": "PN-T03-F225",
+      "bloque": 15,
+      "concepto": "Límite por censura",
+      "articulo": "115.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límite por censura» conforme a 115.2?",
+      "opciones": {
+        "A": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.",
+        "B": "La confianza se entiende otorgada por mayoría simple del Congreso.",
+        "C": "No puede proponerse la disolución mientras esté en trámite una moción de censura."
+      }
+    },
+    {
+      "id": "PN-T03-Q226",
+      "fact_id": "PN-T03-F226",
+      "bloque": 15,
+      "concepto": "Plazo entre disoluciones",
+      "articulo": "115.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo entre disoluciones» conforme a 115.3?",
+      "opciones": {
+        "A": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5.",
+        "B": "El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.",
+        "C": "La moción de censura debe incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q596",
+      "fact_id": "PN-T03-F213",
+      "bloque": 15,
+      "concepto": "Mayoría de confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La confianza se entiende otorgada por mayoría simple del Congreso.»?",
+      "opciones": {
+        "A": "113.1",
+        "B": "112",
+        "C": "113.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q240",
+      "fact_id": "PN-T03-F240",
+      "bloque": 16,
+      "concepto": "Presupuesto de sitio",
+      "articulo": "LO 4/1981 art. 32",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto de sitio» conforme a LO 4/1981 art. 32?",
+      "opciones": {
+        "A": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "B": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos.",
+        "C": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios."
+      }
+    },
+    {
+      "id": "PN-T03-Q244",
+      "fact_id": "PN-T03-F244",
+      "bloque": 16,
+      "concepto": "Prohibición de disolver Congreso",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibición de disolver Congreso» conforme a 116.5?",
+      "opciones": {
+        "A": "No puede disolverse el Congreso mientras esté declarado alguno de los estados excepcionales.",
+        "B": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección.",
+        "C": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q242",
+      "fact_id": "PN-T03-F242",
+      "bloque": 16,
+      "concepto": "Autoridad militar",
+      "articulo": "LO 4/1981 art. 33",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autoridad militar» conforme a LO 4/1981 art. 33?",
+      "opciones": {
+        "A": "La excepción procede ante alteraciones graves de derechos, instituciones, servicios esenciales u orden público que no puedan resolverse con potestades ordinarias.",
+        "B": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección.",
+        "C": "La declaración de sitio puede autorizar la suspensión temporal de las garantías del artículo 17.3."
+      }
+    },
+    {
+      "id": "PN-T03-Q207",
+      "fact_id": "PN-T03-F207",
+      "bloque": 14,
+      "concepto": "Asistencia de funcionarios",
+      "articulo": "110.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asistencia de funcionarios» conforme a 110.2?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "B": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "C": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos."
+      }
+    },
+    {
+      "id": "PN-T03-Q592",
+      "fact_id": "PN-T03-F205",
+      "bloque": 14,
+      "concepto": "Comparecencia del Gobierno",
+      "articulo": "110.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.»?",
+      "opciones": {
+        "A": "110.1",
+        "B": "108",
+        "C": "109"
+      }
+    },
+    {
+      "id": "PN-T03-Q209",
+      "fact_id": "PN-T03-F209",
+      "bloque": 14,
+      "concepto": "Tiempo mínimo para preguntas",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tiempo mínimo para preguntas» conforme a 111.1?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición."
+      }
+    },
+    {
+      "id": "PN-T03-Q183",
+      "fact_id": "PN-T03-F183",
+      "bloque": 12,
+      "concepto": "Gobierno en funciones",
+      "articulo": "101.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno en funciones» conforme a 101.2?",
+      "opciones": {
+        "A": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.",
+        "B": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.",
+        "C": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q568",
+      "fact_id": "PN-T03-F174",
+      "bloque": 12,
+      "concepto": "Propuesta de candidato",
+      "articulo": "99.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.»?",
+      "opciones": {
+        "A": "99.1",
+        "B": "97",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q201",
+      "fact_id": "PN-T03-F201",
+      "bloque": 13,
+      "concepto": "Responsabilidad patrimonial",
+      "articulo": "106.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad patrimonial» conforme a 106.2?",
+      "opciones": {
+        "A": "La Administración actúa con sometimiento pleno a la ley y al Derecho.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana.",
+        "C": "Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q202",
+      "fact_id": "PN-T03-F202",
+      "bloque": 13,
+      "concepto": "Consejo de Estado",
+      "articulo": "107",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consejo de Estado» conforme a 107?",
+      "opciones": {
+        "A": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia.",
+        "B": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios.",
+        "C": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q594",
+      "fact_id": "PN-T03-F211",
+      "bloque": 15,
+      "concepto": "Titular de la cuestión de confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente del Gobierno puede plantear la cuestión de confianza previa deliberación del Consejo de Ministros.»?",
+      "opciones": {
+        "A": "113.1",
+        "B": "113.2",
+        "C": "112"
+      }
+    },
+    {
+      "id": "PN-T03-Q595",
+      "fact_id": "PN-T03-F212",
+      "bloque": 15,
+      "concepto": "Objeto de la confianza",
+      "articulo": "112",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La cuestión de confianza puede versar sobre el programa o una declaración de política general.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "113.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q243",
+      "fact_id": "PN-T03-F243",
+      "bloque": 16,
+      "concepto": "Jurisdicción militar en sitio",
+      "articulo": "LO 4/1981 art. 35",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jurisdicción militar en sitio» conforme a LO 4/1981 art. 35?",
+      "opciones": {
+        "A": "El Congreso determina ámbito territorial, duración y condiciones del estado de sitio.",
+        "B": "Si las Cámaras no están en período de sesiones, quedan automáticamente convocadas durante los estados excepcionales.",
+        "C": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q247",
+      "fact_id": "PN-T03-F247",
+      "bloque": 16,
+      "concepto": "Diputación Permanente en disolución",
+      "articulo": "116.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Diputación Permanente en disolución» conforme a 116.5?",
+      "opciones": {
+        "A": "Disuelto o expirado el Congreso, su Diputación Permanente asume las competencias relativas a los estados excepcionales.",
+        "B": "La duración inicial del estado de alarma no puede exceder de 15 días.",
+        "C": "El estado de excepción dura como máximo 30 días, prorrogables por otros 30 con los mismos requisitos."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q208",
+      "respuesta_correcta": "A",
+      "explicacion": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F208",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q206",
+      "respuesta_correcta": "B",
+      "explicacion": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír. Referencia principal: CE-RELACIONES, 110.2.",
+      "fact_id": "PN-T03-F206",
+      "articulo": "110.2"
+    },
+    {
+      "id": "PN-T03-Q180",
+      "respuesta_correcta": "C",
+      "explicacion": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso. Referencia principal: CE-GOBIERNO, 99.5.",
+      "fact_id": "PN-T03-F180",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q565",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 97 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F169",
+      "articulo": "97"
+    },
+    {
+      "id": "PN-T03-Q566",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 98.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F170",
+      "articulo": "98.1"
+    },
+    {
+      "id": "PN-T03-Q198",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad. Referencia principal: CE-GOBIERNO, 105.b.",
+      "fact_id": "PN-T03-F198",
+      "articulo": "105.b"
+    },
+    {
+      "id": "PN-T03-Q199",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado. Referencia principal: CE-GOBIERNO, 105.c.",
+      "fact_id": "PN-T03-F199",
+      "articulo": "105.c"
+    },
+    {
+      "id": "PN-T03-Q200",
+      "respuesta_correcta": "B",
+      "explicacion": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines. Referencia principal: CE-GOBIERNO, 106.1.",
+      "fact_id": "PN-T03-F200",
+      "articulo": "106.1"
+    },
+    {
+      "id": "PN-T03-Q225",
+      "respuesta_correcta": "C",
+      "explicacion": "No puede proponerse la disolución mientras esté en trámite una moción de censura. Referencia principal: CE-RELACIONES, 115.2.",
+      "fact_id": "PN-T03-F225",
+      "articulo": "115.2"
+    },
+    {
+      "id": "PN-T03-Q226",
+      "respuesta_correcta": "A",
+      "explicacion": "No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5. Referencia principal: CE-RELACIONES, 115.3.",
+      "fact_id": "PN-T03-F226",
+      "articulo": "115.3"
+    },
+    {
+      "id": "PN-T03-Q596",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F213",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q240",
+      "respuesta_correcta": "C",
+      "explicacion": "El sitio procede ante insurrección o acto de fuerza contra soberanía, independencia, integridad territorial u orden constitucional no resoluble por otros medios. Referencia principal: LOAES, LO 4/1981 art. 32.",
+      "fact_id": "PN-T03-F240",
+      "articulo": "LO 4/1981 art. 32"
+    },
+    {
+      "id": "PN-T03-Q244",
+      "respuesta_correcta": "A",
+      "explicacion": "No puede disolverse el Congreso mientras esté declarado alguno de los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F244",
+      "articulo": "116.5"
+    },
+    {
+      "id": "PN-T03-Q242",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno designa la autoridad militar que ejecuta las medidas del estado de sitio bajo su dirección. Referencia principal: LOAES, LO 4/1981 art. 33.",
+      "fact_id": "PN-T03-F242",
+      "articulo": "LO 4/1981 art. 33"
+    },
+    {
+      "id": "PN-T03-Q207",
+      "respuesta_correcta": "C",
+      "explicacion": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos. Referencia principal: CE-RELACIONES, 110.2.",
+      "fact_id": "PN-T03-F207",
+      "articulo": "110.2"
+    },
+    {
+      "id": "PN-T03-Q592",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 110.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F205",
+      "articulo": "110.1"
+    },
+    {
+      "id": "PN-T03-Q209",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F209",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q183",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno. Referencia principal: CE-GOBIERNO, 101.2.",
+      "fact_id": "PN-T03-F183",
+      "articulo": "101.2"
+    },
+    {
+      "id": "PN-T03-Q568",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 99.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F174",
+      "articulo": "99.1"
+    },
+    {
+      "id": "PN-T03-Q201",
+      "respuesta_correcta": "C",
+      "explicacion": "Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales. Referencia principal: CE-GOBIERNO, 106.2.",
+      "fact_id": "PN-T03-F201",
+      "articulo": "106.2"
+    },
+    {
+      "id": "PN-T03-Q202",
+      "respuesta_correcta": "A",
+      "explicacion": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia. Referencia principal: CE-GOBIERNO, 107.",
+      "fact_id": "PN-T03-F202",
+      "articulo": "107"
+    },
+    {
+      "id": "PN-T03-Q594",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F211",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q595",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 112 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F212",
+      "articulo": "112"
+    },
+    {
+      "id": "PN-T03-Q243",
+      "respuesta_correcta": "C",
+      "explicacion": "El Congreso puede determinar los delitos sometidos a jurisdicción militar durante el estado de sitio. Referencia principal: LOAES, LO 4/1981 art. 35.",
+      "fact_id": "PN-T03-F243",
+      "articulo": "LO 4/1981 art. 35"
+    },
+    {
+      "id": "PN-T03-Q247",
+      "respuesta_correcta": "A",
+      "explicacion": "Disuelto o expirado el Congreso, su Diputación Permanente asume las competencias relativas a los estados excepcionales. Referencia principal: CE-RELACIONES, 116.5.",
+      "fact_id": "PN-T03-F247",
+      "articulo": "116.5"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

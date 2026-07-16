@@ -1,0 +1,525 @@
+{
+  "id": "PN-T03-B04-A",
+  "titulo": "Tema 3 · Bloque 4: La Casa del Rey y el consorte · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      4
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q037",
+      "fact_id": "PN-T03-F037",
+      "bloque": 4,
+      "concepto": "Sanción y promulgación",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanción y promulgación» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey sancionar y promulgar las leyes.",
+        "B": "Corresponde al Rey el Alto Patronazgo de las Reales Academias.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q038",
+      "fact_id": "PN-T03-F038",
+      "bloque": 4,
+      "concepto": "Convocatoria y disolución",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convocatoria y disolución» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales.",
+        "B": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q039",
+      "fact_id": "PN-T03-F039",
+      "bloque": 4,
+      "concepto": "Referéndum",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q040",
+      "fact_id": "PN-T03-F040",
+      "bloque": 4,
+      "concepto": "Presidente del Gobierno",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente del Gobierno» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "C": "Corresponde al Rey el Alto Patronazgo de las Reales Academias."
+      }
+    },
+    {
+      "id": "PN-T03-Q041",
+      "fact_id": "PN-T03-F041",
+      "bloque": 4,
+      "concepto": "Miembros del Gobierno",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Miembros del Gobierno» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey el mando supremo de las Fuerzas Armadas.",
+        "B": "Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.",
+        "C": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales."
+      }
+    },
+    {
+      "id": "PN-T03-Q042",
+      "fact_id": "PN-T03-F042",
+      "bloque": 4,
+      "concepto": "Decretos",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Decretos» conforme a 62?",
+      "opciones": {
+        "A": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él.",
+        "B": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q043",
+      "fact_id": "PN-T03-F043",
+      "bloque": 4,
+      "concepto": "Empleos civiles y militares",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Empleos civiles y militares» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "B": "Corresponde al Rey sancionar y promulgar las leyes.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q044",
+      "fact_id": "PN-T03-F044",
+      "bloque": 4,
+      "concepto": "Información de asuntos de Estado",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Información de asuntos de Estado» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "El Rey tiene derecho a ser informado de los asuntos de Estado.",
+        "C": "Corresponde al Rey el mando supremo de las Fuerzas Armadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q045",
+      "fact_id": "PN-T03-F045",
+      "bloque": 4,
+      "concepto": "Presidencia del Consejo de Ministros",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidencia del Consejo de Ministros» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "B": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él.",
+        "C": "El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q046",
+      "fact_id": "PN-T03-F046",
+      "bloque": 4,
+      "concepto": "Mando supremo",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mando supremo» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey el mando supremo de las Fuerzas Armadas.",
+        "B": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.",
+        "C": "Corresponde al Rey sancionar y promulgar las leyes."
+      }
+    },
+    {
+      "id": "PN-T03-Q047",
+      "fact_id": "PN-T03-F047",
+      "bloque": 4,
+      "concepto": "Derecho de gracia",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Derecho de gracia» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
+        "B": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.",
+        "C": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q048",
+      "fact_id": "PN-T03-F048",
+      "bloque": 4,
+      "concepto": "Reales Academias",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reales Academias» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "B": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "C": "Corresponde al Rey el Alto Patronazgo de las Reales Academias."
+      }
+    },
+    {
+      "id": "PN-T03-Q049",
+      "fact_id": "PN-T03-F049",
+      "bloque": 4,
+      "concepto": "Representantes diplomáticos",
+      "articulo": "63.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representantes diplomáticos» conforme a 63.1?",
+      "opciones": {
+        "A": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él.",
+        "B": "Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.",
+        "C": "Corresponde al Rey el mando supremo de las Fuerzas Armadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q050",
+      "fact_id": "PN-T03-F050",
+      "bloque": 4,
+      "concepto": "Consentimiento en tratados",
+      "articulo": "63.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consentimiento en tratados» conforme a 63.2?",
+      "opciones": {
+        "A": "El Rey tiene derecho a ser informado de los asuntos de Estado.",
+        "B": "Corresponde al Rey manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados.",
+        "C": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él."
+      }
+    },
+    {
+      "id": "PN-T03-Q051",
+      "fact_id": "PN-T03-F051",
+      "bloque": 4,
+      "concepto": "Guerra y paz",
+      "articulo": "63.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Guerra y paz» conforme a 63.3?",
+      "opciones": {
+        "A": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.",
+        "B": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "C": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales."
+      }
+    },
+    {
+      "id": "PN-T03-Q496",
+      "fact_id": "PN-T03-F040",
+      "bloque": 4,
+      "concepto": "Presidente del Gobierno",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.»?",
+      "opciones": {
+        "A": "62",
+        "B": "63.1",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q494",
+      "fact_id": "PN-T03-F037",
+      "bloque": 4,
+      "concepto": "Sanción y promulgación",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey sancionar y promulgar las leyes.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "62",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q495",
+      "fact_id": "PN-T03-F038",
+      "bloque": 4,
+      "concepto": "Convocatoria y disolución",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "63.2",
+        "C": "62"
+      }
+    },
+    {
+      "id": "PN-T03-Q499",
+      "fact_id": "PN-T03-F046",
+      "bloque": 4,
+      "concepto": "Mando supremo",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey el mando supremo de las Fuerzas Armadas.»?",
+      "opciones": {
+        "A": "62",
+        "B": "63.1",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q497",
+      "fact_id": "PN-T03-F041",
+      "bloque": 4,
+      "concepto": "Miembros del Gobierno",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "62",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q498",
+      "fact_id": "PN-T03-F045",
+      "bloque": 4,
+      "concepto": "Presidencia del Consejo de Ministros",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "63.2",
+        "C": "62"
+      }
+    },
+    {
+      "id": "PN-T03-Q500",
+      "fact_id": "PN-T03-F047",
+      "bloque": 4,
+      "concepto": "Derecho de gracia",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "62",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q501",
+      "fact_id": "PN-T03-F051",
+      "bloque": 4,
+      "concepto": "Guerra y paz",
+      "articulo": "63.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales.»?",
+      "opciones": {
+        "A": "62",
+        "B": "63.1",
+        "C": "63.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q037",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey sancionar y promulgar las leyes. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F037",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q038",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F038",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q039",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F039",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q040",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F040",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q041",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F041",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q042",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F042",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q043",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F043",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q044",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey tiene derecho a ser informado de los asuntos de Estado. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F044",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q045",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F045",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q046",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey el mando supremo de las Fuerzas Armadas. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F046",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q047",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F047",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q048",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey el Alto Patronazgo de las Reales Academias. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F048",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q049",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey acredita a los embajadores y otros representantes diplomáticos; los representantes extranjeros están acreditados ante él. Referencia principal: CE-CORONA, 63.1.",
+      "fact_id": "PN-T03-F049",
+      "articulo": "63.1"
+    },
+    {
+      "id": "PN-T03-Q050",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados. Referencia principal: CE-CORONA, 63.2.",
+      "fact_id": "PN-T03-F050",
+      "articulo": "63.2"
+    },
+    {
+      "id": "PN-T03-Q051",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales. Referencia principal: CE-CORONA, 63.3.",
+      "fact_id": "PN-T03-F051",
+      "articulo": "63.3"
+    },
+    {
+      "id": "PN-T03-Q496",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F040",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q494",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F037",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q495",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F038",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q499",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F046",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q497",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F041",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q498",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F045",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q500",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F047",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q501",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 63.3 (CE-CORONA).",
+      "fact_id": "PN-T03-F051",
+      "articulo": "63.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "PN-T03-B19-B",
+  "titulo": "Tema 3 · Bloque 19: Principios de la organización territorial · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      19
+    ]
+  },
+  "numero_preguntas": 5,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q653",
+      "fact_id": "PN-T03-F293",
+      "bloque": 19,
+      "concepto": "Gobierno municipal",
+      "articulo": "140",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.»?",
+      "opciones": {
+        "A": "137",
+        "B": "140",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q651",
+      "fact_id": "PN-T03-F291",
+      "bloque": 19,
+      "concepto": "Libre circulación",
+      "articulo": "139.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "139.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q655",
+      "fact_id": "PN-T03-F298",
+      "bloque": 19,
+      "concepto": "Límites provinciales",
+      "articulo": "141.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.»?",
+      "opciones": {
+        "A": "141.1",
+        "B": "137",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q656",
+      "fact_id": "PN-T03-F302",
+      "bloque": 19,
+      "concepto": "Haciendas locales",
+      "articulo": "142",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.»?",
+      "opciones": {
+        "A": "137",
+        "B": "142",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q654",
+      "fact_id": "PN-T03-F297",
+      "bloque": 19,
+      "concepto": "Provincia",
+      "articulo": "141.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "141.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q653",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 140 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F293",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q651",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 139.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F291",
+      "articulo": "139.2"
+    },
+    {
+      "id": "PN-T03-Q655",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 141.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F298",
+      "articulo": "141.1"
+    },
+    {
+      "id": "PN-T03-Q656",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 142 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F302",
+      "articulo": "142"
+    },
+    {
+      "id": "PN-T03-Q654",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 141.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F297",
+      "articulo": "141.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,573 @@
+{
+  "id": "PN-T03-P5-C",
+  "titulo": "Tema 3 · Parte 5 · Organización territorial · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q301",
+      "fact_id": "PN-T03-F301",
+      "bloque": 19,
+      "concepto": "Gobierno insular",
+      "articulo": "141.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno insular» conforme a 141.4?",
+      "opciones": {
+        "A": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos.",
+        "B": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.",
+        "C": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales."
+      }
+    },
+    {
+      "id": "PN-T03-Q302",
+      "fact_id": "PN-T03-F302",
+      "bloque": 19,
+      "concepto": "Haciendas locales",
+      "articulo": "142",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Haciendas locales» conforme a 142?",
+      "opciones": {
+        "A": "El Estado garantiza la realización efectiva del principio de solidaridad y un equilibrio económico adecuado y justo.",
+        "B": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos.",
+        "C": "La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena."
+      }
+    },
+    {
+      "id": "PN-T03-Q297",
+      "fact_id": "PN-T03-F297",
+      "bloque": 19,
+      "concepto": "Provincia",
+      "articulo": "141.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Provincia» conforme a 141.1?",
+      "opciones": {
+        "A": "Las diferencias entre Estatutos no pueden implicar privilegios económicos o sociales.",
+        "B": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "C": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q658",
+      "fact_id": "PN-T03-F304",
+      "bloque": 20,
+      "concepto": "Iniciativa autonómica común",
+      "articulo": "143.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.»?",
+      "opciones": {
+        "A": "143.2",
+        "B": "143.1",
+        "C": "143.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q659",
+      "fact_id": "PN-T03-F305",
+      "bloque": 20,
+      "concepto": "Plazo de la iniciativa",
+      "articulo": "143.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "143.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q315",
+      "fact_id": "PN-T03-F315",
+      "bloque": 20,
+      "concepto": "Norma institucional básica",
+      "articulo": "147.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Norma institucional básica» conforme a 147.1?",
+      "opciones": {
+        "A": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.",
+        "B": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.",
+        "C": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q334",
+      "fact_id": "PN-T03-F334",
+      "bloque": 21,
+      "concepto": "Cultura e investigación",
+      "articulo": "148.1.17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Cultura e investigación» conforme a 148.1.17?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica.",
+        "B": "Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local."
+      }
+    },
+    {
+      "id": "PN-T03-Q335",
+      "fact_id": "PN-T03-F335",
+      "bloque": 21,
+      "concepto": "Turismo",
+      "articulo": "148.1.18",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Turismo» conforme a 148.1.18?",
+      "opciones": {
+        "A": "El Derecho estatal es supletorio del Derecho autonómico.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable."
+      }
+    },
+    {
+      "id": "PN-T03-Q330",
+      "fact_id": "PN-T03-F330",
+      "bloque": 21,
+      "concepto": "Desarrollo económico autonómico",
+      "articulo": "148.1.13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Desarrollo económico autonómico» conforme a 148.1.13?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas.",
+        "B": "El Estado tiene competencia exclusiva sobre normas básicas de prensa, radio, televisión y medios de comunicación social, sin perjuicio de desarrollo autonómico.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional."
+      }
+    },
+    {
+      "id": "PN-T03-Q394",
+      "fact_id": "PN-T03-F394",
+      "bloque": 22,
+      "concepto": "Fracaso provincial parcial",
+      "articulo": "151.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Fracaso provincial parcial» conforme a 151.3?",
+      "opciones": {
+        "A": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "B": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "C": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q395",
+      "fact_id": "PN-T03-F395",
+      "bloque": 22,
+      "concepto": "Asamblea legislativa autonómica",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asamblea legislativa autonómica» conforme a 152.1?",
+      "opciones": {
+        "A": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia.",
+        "B": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios.",
+        "C": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente."
+      }
+    },
+    {
+      "id": "PN-T03-Q390",
+      "fact_id": "PN-T03-F390",
+      "bloque": 22,
+      "concepto": "Referéndum del texto acordado",
+      "articulo": "151.2.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum del texto acordado» conforme a 151.2.3?",
+      "opciones": {
+        "A": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "B": "El Presidente y el Consejo responden políticamente ante la Asamblea.",
+        "C": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q418",
+      "fact_id": "PN-T03-F418",
+      "bloque": 23,
+      "concepto": "Patrimonio y crédito",
+      "articulo": "157.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Patrimonio y crédito» conforme a 157.1?",
+      "opciones": {
+        "A": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito.",
+        "B": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.",
+        "C": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q419",
+      "fact_id": "PN-T03-F419",
+      "bloque": 23,
+      "concepto": "Límites tributarios territoriales",
+      "articulo": "157.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites tributarios territoriales» conforme a 157.2?",
+      "opciones": {
+        "A": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso."
+      }
+    },
+    {
+      "id": "PN-T03-Q417",
+      "fact_id": "PN-T03-F417",
+      "bloque": 23,
+      "concepto": "Transferencias y fondos",
+      "articulo": "157.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Transferencias y fondos» conforme a 157.1?",
+      "opciones": {
+        "A": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general.",
+        "B": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.",
+        "C": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q646",
+      "fact_id": "PN-T03-F286",
+      "bloque": 19,
+      "concepto": "Autonomía territorial",
+      "articulo": "137",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "138.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q300",
+      "fact_id": "PN-T03-F300",
+      "bloque": 19,
+      "concepto": "Agrupaciones de municipios",
+      "articulo": "141.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agrupaciones de municipios» conforme a 141.3?",
+      "opciones": {
+        "A": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.",
+        "B": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "C": "Pueden crearse agrupaciones de municipios diferentes de la provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q661",
+      "fact_id": "PN-T03-F307",
+      "bloque": 20,
+      "concepto": "Autonomía uniprovincial excepcional",
+      "articulo": "144.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.»?",
+      "opciones": {
+        "A": "144.a",
+        "B": "143.1",
+        "C": "143.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q657",
+      "fact_id": "PN-T03-F303",
+      "bloque": 20,
+      "concepto": "Titulares de iniciativa autonómica",
+      "articulo": "143.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.»?",
+      "opciones": {
+        "A": "143.2",
+        "B": "143.3",
+        "C": "143.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q337",
+      "fact_id": "PN-T03-F337",
+      "bloque": 21,
+      "concepto": "Asistencia social",
+      "articulo": "148.1.20",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asistencia social» conforme a 148.1.20?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre asistencia social.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial."
+      }
+    },
+    {
+      "id": "PN-T03-Q333",
+      "fact_id": "PN-T03-F333",
+      "bloque": 21,
+      "concepto": "Patrimonio monumental",
+      "articulo": "148.1.16",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Patrimonio monumental» conforme a 148.1.16?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre estadística para fines estatales.",
+        "B": "En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre patrimonio monumental de interés de la comunidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q397",
+      "fact_id": "PN-T03-F397",
+      "bloque": 22,
+      "concepto": "Presidente autonómico",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente autonómico» conforme a 152.1?",
+      "opciones": {
+        "A": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "B": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas.",
+        "C": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios."
+      }
+    },
+    {
+      "id": "PN-T03-Q393",
+      "fact_id": "PN-T03-F393",
+      "bloque": 22,
+      "concepto": "Falta de acuerdo",
+      "articulo": "151.2.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Falta de acuerdo» conforme a 151.2.5?",
+      "opciones": {
+        "A": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal.",
+        "B": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q421",
+      "fact_id": "PN-T03-F421",
+      "bloque": 23,
+      "concepto": "Asignaciones de nivelación",
+      "articulo": "158.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asignaciones de nivelación» conforme a 158.1?",
+      "opciones": {
+        "A": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "B": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.",
+        "C": "El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q420",
+      "fact_id": "PN-T03-F420",
+      "bloque": 23,
+      "concepto": "Ley orgánica financiera",
+      "articulo": "157.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ley orgánica financiera» conforme a 157.3?",
+      "opciones": {
+        "A": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "B": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias.",
+        "C": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q301",
+      "respuesta_correcta": "A",
+      "explicacion": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos. Referencia principal: CE-TERRITORIAL, 141.4.",
+      "fact_id": "PN-T03-F301",
+      "articulo": "141.4"
+    },
+    {
+      "id": "PN-T03-Q302",
+      "respuesta_correcta": "B",
+      "explicacion": "Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos. Referencia principal: CE-TERRITORIAL, 142.",
+      "fact_id": "PN-T03-F302",
+      "articulo": "142"
+    },
+    {
+      "id": "PN-T03-Q297",
+      "respuesta_correcta": "C",
+      "explicacion": "La provincia es entidad local con personalidad jurídica propia, agrupación de municipios y división territorial para actividades del Estado. Referencia principal: CE-TERRITORIAL, 141.1.",
+      "fact_id": "PN-T03-F297",
+      "articulo": "141.1"
+    },
+    {
+      "id": "PN-T03-Q658",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 143.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F304",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q659",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 143.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F305",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q315",
+      "respuesta_correcta": "C",
+      "explicacion": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento. Referencia principal: CE-TERRITORIAL, 147.1.",
+      "fact_id": "PN-T03-F315",
+      "articulo": "147.1"
+    },
+    {
+      "id": "PN-T03-Q334",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica. Referencia principal: CE-TERRITORIAL, 148.1.17.",
+      "fact_id": "PN-T03-F334",
+      "articulo": "148.1.17"
+    },
+    {
+      "id": "PN-T03-Q335",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial. Referencia principal: CE-TERRITORIAL, 148.1.18.",
+      "fact_id": "PN-T03-F335",
+      "articulo": "148.1.18"
+    },
+    {
+      "id": "PN-T03-Q330",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional. Referencia principal: CE-TERRITORIAL, 148.1.13.",
+      "fact_id": "PN-T03-F330",
+      "articulo": "148.1.13"
+    },
+    {
+      "id": "PN-T03-Q394",
+      "respuesta_correcta": "A",
+      "explicacion": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica. Referencia principal: CE-TERRITORIAL, 151.3.",
+      "fact_id": "PN-T03-F394",
+      "articulo": "151.3"
+    },
+    {
+      "id": "PN-T03-Q395",
+      "respuesta_correcta": "B",
+      "explicacion": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F395",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q390",
+      "respuesta_correcta": "C",
+      "explicacion": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas. Referencia principal: CE-TERRITORIAL, 151.2.3.",
+      "fact_id": "PN-T03-F390",
+      "articulo": "151.2.3"
+    },
+    {
+      "id": "PN-T03-Q418",
+      "respuesta_correcta": "A",
+      "explicacion": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito. Referencia principal: CE-TERRITORIAL, 157.1.",
+      "fact_id": "PN-T03-F418",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q419",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios. Referencia principal: CE-TERRITORIAL, 157.2.",
+      "fact_id": "PN-T03-F419",
+      "articulo": "157.2"
+    },
+    {
+      "id": "PN-T03-Q417",
+      "respuesta_correcta": "C",
+      "explicacion": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias. Referencia principal: CE-TERRITORIAL, 157.1.",
+      "fact_id": "PN-T03-F417",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q646",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 137 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F286",
+      "articulo": "137"
+    },
+    {
+      "id": "PN-T03-Q300",
+      "respuesta_correcta": "C",
+      "explicacion": "Pueden crearse agrupaciones de municipios diferentes de la provincia. Referencia principal: CE-TERRITORIAL, 141.3.",
+      "fact_id": "PN-T03-F300",
+      "articulo": "141.3"
+    },
+    {
+      "id": "PN-T03-Q661",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 144.a (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F307",
+      "articulo": "144.a"
+    },
+    {
+      "id": "PN-T03-Q657",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 143.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F303",
+      "articulo": "143.1"
+    },
+    {
+      "id": "PN-T03-Q337",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre asistencia social. Referencia principal: CE-TERRITORIAL, 148.1.20.",
+      "fact_id": "PN-T03-F337",
+      "articulo": "148.1.20"
+    },
+    {
+      "id": "PN-T03-Q333",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre patrimonio monumental de interés de la comunidad. Referencia principal: CE-TERRITORIAL, 148.1.16.",
+      "fact_id": "PN-T03-F333",
+      "articulo": "148.1.16"
+    },
+    {
+      "id": "PN-T03-Q397",
+      "respuesta_correcta": "A",
+      "explicacion": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F397",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q393",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum. Referencia principal: CE-TERRITORIAL, 151.2.5.",
+      "fact_id": "PN-T03-F393",
+      "articulo": "151.2.5"
+    },
+    {
+      "id": "PN-T03-Q421",
+      "respuesta_correcta": "A",
+      "explicacion": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales. Referencia principal: CE-TERRITORIAL, 158.1.",
+      "fact_id": "PN-T03-F421",
+      "articulo": "158.1"
+    },
+    {
+      "id": "PN-T03-Q420",
+      "respuesta_correcta": "C",
+      "explicacion": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado. Referencia principal: CE-TERRITORIAL, 157.3.",
+      "fact_id": "PN-T03-F420",
+      "articulo": "157.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

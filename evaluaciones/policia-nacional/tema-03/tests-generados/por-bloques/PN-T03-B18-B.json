@@ -1,0 +1,283 @@
+{
+  "id": "PN-T03-B18-B",
+  "titulo": "Tema 3 · Bloque 18: CGPJ, Tribunal Supremo, Ministerio Fiscal y Policía Judicial · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      18
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q632",
+      "fact_id": "PN-T03-F264",
+      "bloque": 18,
+      "concepto": "Gobierno del Poder Judicial",
+      "articulo": "122.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Consejo General del Poder Judicial es el órgano de gobierno del Poder Judicial.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.2",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q636",
+      "fact_id": "PN-T03-F268",
+      "bloque": 18,
+      "concepto": "Propuesta de vocales juristas",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Congreso y Senado proponen cuatro vocales juristas cada uno por mayoría de tres quintos.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q634",
+      "fact_id": "PN-T03-F266",
+      "bloque": 18,
+      "concepto": "Vocales judiciales",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Doce vocales del CGPJ se eligen entre jueces y magistrados de todas las categorías judiciales.»?",
+      "opciones": {
+        "A": "122.3",
+        "B": "121",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q635",
+      "fact_id": "PN-T03-F267",
+      "bloque": 18,
+      "concepto": "Vocales juristas",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Ocho vocales son abogados u otros juristas de reconocida competencia con más de 15 años de ejercicio.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.3",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q639",
+      "fact_id": "PN-T03-F274",
+      "bloque": 18,
+      "concepto": "Principios del Ministerio Fiscal",
+      "articulo": "124.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Ministerio Fiscal actúa con unidad de actuación y dependencia jerárquica, sujeto a legalidad e imparcialidad.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "124.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q637",
+      "fact_id": "PN-T03-F269",
+      "bloque": 18,
+      "concepto": "Tribunal Supremo",
+      "articulo": "123.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo garantías constitucionales.»?",
+      "opciones": {
+        "A": "123.1",
+        "B": "121",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q638",
+      "fact_id": "PN-T03-F272",
+      "bloque": 18,
+      "concepto": "Misión del Ministerio Fiscal",
+      "articulo": "124.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Ministerio Fiscal promueve la acción de la justicia en defensa de legalidad, derechos de ciudadanos e interés público.»?",
+      "opciones": {
+        "A": "121",
+        "B": "124.1",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q642",
+      "fact_id": "PN-T03-F280",
+      "bloque": 18,
+      "concepto": "Dependencia funcional de Policía Judicial",
+      "articulo": "126",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "126"
+      }
+    },
+    {
+      "id": "PN-T03-Q640",
+      "fact_id": "PN-T03-F276",
+      "bloque": 18,
+      "concepto": "Fiscal General del Estado",
+      "articulo": "124.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ.»?",
+      "opciones": {
+        "A": "124.4",
+        "B": "121",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q641",
+      "fact_id": "PN-T03-F278",
+      "bloque": 18,
+      "concepto": "Jurado",
+      "articulo": "125",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los ciudadanos pueden participar en la Administración de Justicia mediante la institución del Jurado en procesos penales determinados por la ley.»?",
+      "opciones": {
+        "A": "121",
+        "B": "125",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q643",
+      "fact_id": "PN-T03-F281",
+      "bloque": 18,
+      "concepto": "Funciones de Policía Judicial",
+      "articulo": "126",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales.»?",
+      "opciones": {
+        "A": "126",
+        "B": "121",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q644",
+      "fact_id": "PN-T03-F282",
+      "bloque": 18,
+      "concepto": "Incompatibilidades judiciales",
+      "articulo": "127.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos.»?",
+      "opciones": {
+        "A": "121",
+        "B": "127.1",
+        "C": "122.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q632",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 122.2 (LOPJ).",
+      "fact_id": "PN-T03-F264",
+      "articulo": "122.2"
+    },
+    {
+      "id": "PN-T03-Q636",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F268",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q634",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F266",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q635",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F267",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q639",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 124.2 (LOPJ).",
+      "fact_id": "PN-T03-F274",
+      "articulo": "124.2"
+    },
+    {
+      "id": "PN-T03-Q637",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 123.1 (LOPJ).",
+      "fact_id": "PN-T03-F269",
+      "articulo": "123.1"
+    },
+    {
+      "id": "PN-T03-Q638",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 124.1 (LOPJ).",
+      "fact_id": "PN-T03-F272",
+      "articulo": "124.1"
+    },
+    {
+      "id": "PN-T03-Q642",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 126 (LOPJ).",
+      "fact_id": "PN-T03-F280",
+      "articulo": "126"
+    },
+    {
+      "id": "PN-T03-Q640",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 124.4 (LOPJ).",
+      "fact_id": "PN-T03-F276",
+      "articulo": "124.4"
+    },
+    {
+      "id": "PN-T03-Q641",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 125 (LOPJ).",
+      "fact_id": "PN-T03-F278",
+      "articulo": "125"
+    },
+    {
+      "id": "PN-T03-Q643",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 126 (LOPJ).",
+      "fact_id": "PN-T03-F281",
+      "articulo": "126"
+    },
+    {
+      "id": "PN-T03-Q644",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 127.1 (LOPJ).",
+      "fact_id": "PN-T03-F282",
+      "articulo": "127.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

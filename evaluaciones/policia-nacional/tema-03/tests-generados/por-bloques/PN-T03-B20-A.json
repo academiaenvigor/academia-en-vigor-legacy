@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B20-A",
+  "titulo": "Tema 3 · Bloque 20: Municipios, provincias y acceso a la autonomía · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      20
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q304",
+      "fact_id": "PN-T03-F304",
+      "bloque": 20,
+      "concepto": "Iniciativa autonómica común",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica común» conforme a 143.2?",
+      "opciones": {
+        "A": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.",
+        "B": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.",
+        "C": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial."
+      }
+    },
+    {
+      "id": "PN-T03-Q305",
+      "fact_id": "PN-T03-F305",
+      "bloque": 20,
+      "concepto": "Plazo de la iniciativa",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de la iniciativa» conforme a 143.2?",
+      "opciones": {
+        "A": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años.",
+        "B": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.",
+        "C": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios."
+      }
+    },
+    {
+      "id": "PN-T03-Q303",
+      "fact_id": "PN-T03-F303",
+      "bloque": 20,
+      "concepto": "Titulares de iniciativa autonómica",
+      "articulo": "143.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Titulares de iniciativa autonómica» conforme a 143.1?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley.",
+        "B": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.",
+        "C": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q307",
+      "fact_id": "PN-T03-F307",
+      "bloque": 20,
+      "concepto": "Autonomía uniprovincial excepcional",
+      "articulo": "144.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía uniprovincial excepcional» conforme a 144.a?",
+      "opciones": {
+        "A": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.",
+        "B": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.",
+        "C": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q308",
+      "fact_id": "PN-T03-F308",
+      "bloque": 20,
+      "concepto": "Estatuto para territorio no provincial",
+      "articulo": "144.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto para territorio no provincial» conforme a 144.b?",
+      "opciones": {
+        "A": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento.",
+        "B": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial.",
+        "C": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo."
+      }
+    },
+    {
+      "id": "PN-T03-Q306",
+      "fact_id": "PN-T03-F306",
+      "bloque": 20,
+      "concepto": "Reiteración de iniciativa",
+      "articulo": "143.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reiteración de iniciativa» conforme a 143.3?",
+      "opciones": {
+        "A": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica.",
+        "B": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley.",
+        "C": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años."
+      }
+    },
+    {
+      "id": "PN-T03-Q310",
+      "fact_id": "PN-T03-F310",
+      "bloque": 20,
+      "concepto": "Prohibición de federación",
+      "articulo": "145.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibición de federación» conforme a 145.1?",
+      "opciones": {
+        "A": "No se admite en ningún caso la federación de comunidades autónomas.",
+        "B": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años.",
+        "C": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes."
+      }
+    },
+    {
+      "id": "PN-T03-Q311",
+      "fact_id": "PN-T03-F311",
+      "bloque": 20,
+      "concepto": "Convenios entre comunidades",
+      "articulo": "145.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convenios entre comunidades» conforme a 145.2?",
+      "opciones": {
+        "A": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica.",
+        "B": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios.",
+        "C": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q309",
+      "fact_id": "PN-T03-F309",
+      "bloque": 20,
+      "concepto": "Sustitución de iniciativa local",
+      "articulo": "144.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sustitución de iniciativa local» conforme a 144.c?",
+      "opciones": {
+        "A": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.",
+        "B": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial.",
+        "C": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q313",
+      "fact_id": "PN-T03-F313",
+      "bloque": 20,
+      "concepto": "Proyecto de Estatuto",
+      "articulo": "146",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proyecto de Estatuto» conforme a 146?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio.",
+        "B": "El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso.",
+        "C": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años."
+      }
+    },
+    {
+      "id": "PN-T03-Q314",
+      "fact_id": "PN-T03-F314",
+      "bloque": 20,
+      "concepto": "Remisión del proyecto",
+      "articulo": "146",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Remisión del proyecto» conforme a 146?",
+      "opciones": {
+        "A": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.",
+        "B": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley.",
+        "C": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q312",
+      "fact_id": "PN-T03-F312",
+      "bloque": 20,
+      "concepto": "Acuerdos de cooperación",
+      "articulo": "145.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acuerdos de cooperación» conforme a 145.2?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio.",
+        "B": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.",
+        "C": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes."
+      }
+    },
+    {
+      "id": "PN-T03-Q316",
+      "fact_id": "PN-T03-F316",
+      "bloque": 20,
+      "concepto": "Contenido mínimo del Estatuto",
+      "articulo": "147.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Contenido mínimo del Estatuto» conforme a 147.2?",
+      "opciones": {
+        "A": "El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso.",
+        "B": "No se admite en ningún caso la federación de comunidades autónomas.",
+        "C": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q317",
+      "fact_id": "PN-T03-F317",
+      "bloque": 20,
+      "concepto": "Reforma estatutaria",
+      "articulo": "147.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reforma estatutaria» conforme a 147.3?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio.",
+        "B": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.",
+        "C": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo."
+      }
+    },
+    {
+      "id": "PN-T03-Q315",
+      "fact_id": "PN-T03-F315",
+      "bloque": 20,
+      "concepto": "Norma institucional básica",
+      "articulo": "147.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Norma institucional básica» conforme a 147.1?",
+      "opciones": {
+        "A": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.",
+        "B": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.",
+        "C": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q658",
+      "fact_id": "PN-T03-F304",
+      "bloque": 20,
+      "concepto": "Iniciativa autonómica común",
+      "articulo": "143.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.»?",
+      "opciones": {
+        "A": "143.2",
+        "B": "143.1",
+        "C": "143.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q659",
+      "fact_id": "PN-T03-F305",
+      "bloque": 20,
+      "concepto": "Plazo de la iniciativa",
+      "articulo": "143.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "143.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q657",
+      "fact_id": "PN-T03-F303",
+      "bloque": 20,
+      "concepto": "Titulares de iniciativa autonómica",
+      "articulo": "143.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.»?",
+      "opciones": {
+        "A": "143.2",
+        "B": "143.3",
+        "C": "143.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q661",
+      "fact_id": "PN-T03-F307",
+      "bloque": 20,
+      "concepto": "Autonomía uniprovincial excepcional",
+      "articulo": "144.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1.»?",
+      "opciones": {
+        "A": "144.a",
+        "B": "143.1",
+        "C": "143.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q662",
+      "fact_id": "PN-T03-F310",
+      "bloque": 20,
+      "concepto": "Prohibición de federación",
+      "articulo": "145.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «No se admite en ningún caso la federación de comunidades autónomas.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "145.1",
+        "C": "143.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q660",
+      "fact_id": "PN-T03-F306",
+      "bloque": 20,
+      "concepto": "Reiteración de iniciativa",
+      "articulo": "143.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si la iniciativa no prospera, solo puede reiterarse pasados cinco años.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "143.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q664",
+      "fact_id": "PN-T03-F315",
+      "bloque": 20,
+      "concepto": "Norma institucional básica",
+      "articulo": "147.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento.»?",
+      "opciones": {
+        "A": "147.1",
+        "B": "143.1",
+        "C": "143.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q665",
+      "fact_id": "PN-T03-F316",
+      "bloque": 20,
+      "concepto": "Contenido mínimo del Estatuto",
+      "articulo": "147.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "147.2",
+        "C": "143.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q663",
+      "fact_id": "PN-T03-F312",
+      "bloque": 20,
+      "concepto": "Acuerdos de cooperación",
+      "articulo": "145.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "145.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q666",
+      "fact_id": "PN-T03-F317",
+      "bloque": 20,
+      "concepto": "Reforma estatutaria",
+      "articulo": "147.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "147.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q304",
+      "respuesta_correcta": "A",
+      "explicacion": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F304",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q305",
+      "respuesta_correcta": "B",
+      "explicacion": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F305",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q303",
+      "respuesta_correcta": "C",
+      "explicacion": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica. Referencia principal: CE-TERRITORIAL, 143.1.",
+      "fact_id": "PN-T03-F303",
+      "articulo": "143.1"
+    },
+    {
+      "id": "PN-T03-Q307",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes pueden autorizar por ley orgánica una comunidad cuyo ámbito no supere una provincia y no reúna las condiciones del artículo 143.1. Referencia principal: CE-TERRITORIAL, 144.a.",
+      "fact_id": "PN-T03-F307",
+      "articulo": "144.a"
+    },
+    {
+      "id": "PN-T03-Q308",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial. Referencia principal: CE-TERRITORIAL, 144.b.",
+      "fact_id": "PN-T03-F308",
+      "articulo": "144.b"
+    },
+    {
+      "id": "PN-T03-Q306",
+      "respuesta_correcta": "C",
+      "explicacion": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años. Referencia principal: CE-TERRITORIAL, 143.3.",
+      "fact_id": "PN-T03-F306",
+      "articulo": "143.3"
+    },
+    {
+      "id": "PN-T03-Q310",
+      "respuesta_correcta": "A",
+      "explicacion": "No se admite en ningún caso la federación de comunidades autónomas. Referencia principal: CE-TERRITORIAL, 145.1.",
+      "fact_id": "PN-T03-F310",
+      "articulo": "145.1"
+    },
+    {
+      "id": "PN-T03-Q311",
+      "respuesta_correcta": "B",
+      "explicacion": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios. Referencia principal: CE-TERRITORIAL, 145.2.",
+      "fact_id": "PN-T03-F311",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q309",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica. Referencia principal: CE-TERRITORIAL, 144.c.",
+      "fact_id": "PN-T03-F309",
+      "articulo": "144.c"
+    },
+    {
+      "id": "PN-T03-Q313",
+      "respuesta_correcta": "A",
+      "explicacion": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio. Referencia principal: CE-TERRITORIAL, 146.",
+      "fact_id": "PN-T03-F313",
+      "articulo": "146"
+    },
+    {
+      "id": "PN-T03-Q314",
+      "respuesta_correcta": "B",
+      "explicacion": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley. Referencia principal: CE-TERRITORIAL, 146.",
+      "fact_id": "PN-T03-F314",
+      "articulo": "146"
+    },
+    {
+      "id": "PN-T03-Q312",
+      "respuesta_correcta": "C",
+      "explicacion": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes. Referencia principal: CE-TERRITORIAL, 145.2.",
+      "fact_id": "PN-T03-F312",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q316",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso. Referencia principal: CE-TERRITORIAL, 147.2.",
+      "fact_id": "PN-T03-F316",
+      "articulo": "147.2"
+    },
+    {
+      "id": "PN-T03-Q317",
+      "respuesta_correcta": "B",
+      "explicacion": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica. Referencia principal: CE-TERRITORIAL, 147.3.",
+      "fact_id": "PN-T03-F317",
+      "articulo": "147.3"
+    },
+    {
+      "id": "PN-T03-Q315",
+      "respuesta_correcta": "C",
+      "explicacion": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento. Referencia principal: CE-TERRITORIAL, 147.1.",
+      "fact_id": "PN-T03-F315",
+      "articulo": "147.1"
+    },
+    {
+      "id": "PN-T03-Q658",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 143.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F304",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q659",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 143.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F305",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q657",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 143.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F303",
+      "articulo": "143.1"
+    },
+    {
+      "id": "PN-T03-Q661",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 144.a (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F307",
+      "articulo": "144.a"
+    },
+    {
+      "id": "PN-T03-Q662",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 145.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F310",
+      "articulo": "145.1"
+    },
+    {
+      "id": "PN-T03-Q660",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 143.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F306",
+      "articulo": "143.3"
+    },
+    {
+      "id": "PN-T03-Q664",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 147.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F315",
+      "articulo": "147.1"
+    },
+    {
+      "id": "PN-T03-Q665",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 147.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F316",
+      "articulo": "147.2"
+    },
+    {
+      "id": "PN-T03-Q663",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 145.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F312",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q666",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 147.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F317",
+      "articulo": "147.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

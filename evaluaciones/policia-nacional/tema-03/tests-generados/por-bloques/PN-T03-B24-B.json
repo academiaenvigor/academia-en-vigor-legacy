@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B24-B",
+  "titulo": "Tema 3 · Bloque 24: Tribunal Constitucional · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      24
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q449",
+      "fact_id": "PN-T03-F449",
+      "bloque": 24,
+      "concepto": "Reserva de ley orgánica",
+      "articulo": "165",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reserva de ley orgánica» conforme a 165?",
+      "opciones": {
+        "A": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente.",
+        "B": "Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones.",
+        "C": "El Pleno elige al Presidente por votación secreta y propone su nombramiento al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q450",
+      "fact_id": "PN-T03-F450",
+      "bloque": 24,
+      "concepto": "Formas de actuación",
+      "articulo": "LOTC art. 6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Formas de actuación» conforme a LOTC art. 6?",
+      "opciones": {
+        "A": "El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda.",
+        "B": "La responsabilidad criminal de magistrados del TC se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "El Tribunal Constitucional actúa en Pleno, Sala o Sección."
+      }
+    },
+    {
+      "id": "PN-T03-Q451",
+      "fact_id": "PN-T03-F451",
+      "bloque": 24,
+      "concepto": "Salas",
+      "articulo": "LOTC art. 7",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Salas» conforme a LOTC art. 7?",
+      "opciones": {
+        "A": "El Tribunal Constitucional consta de dos Salas de seis magistrados cada una.",
+        "B": "El Presidente puede ser reelegido una sola vez tras su período de tres años.",
+        "C": "Cuatro magistrados son propuestos por el Senado por mayoría de tres quintos."
+      }
+    },
+    {
+      "id": "PN-T03-Q452",
+      "fact_id": "PN-T03-F452",
+      "bloque": 24,
+      "concepto": "Presidencia de las Salas",
+      "articulo": "LOTC art. 7",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidencia de las Salas» conforme a LOTC art. 7?",
+      "opciones": {
+        "A": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
+        "B": "El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda.",
+        "C": "Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional."
+      }
+    },
+    {
+      "id": "PN-T03-Q453",
+      "fact_id": "PN-T03-F453",
+      "bloque": 24,
+      "concepto": "Secciones",
+      "articulo": "LOTC art. 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Secciones» conforme a LOTC art. 8?",
+      "opciones": {
+        "A": "Dos magistrados son propuestos por el Gobierno y dos por el CGPJ.",
+        "B": "Los miembros del TC son independientes e inamovibles durante su mandato.",
+        "C": "Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados."
+      }
+    },
+    {
+      "id": "PN-T03-Q454",
+      "fact_id": "PN-T03-F454",
+      "bloque": 24,
+      "concepto": "Elección del Presidente",
+      "articulo": "LOTC art. 9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección del Presidente» conforme a LOTC art. 9?",
+      "opciones": {
+        "A": "El Pleno elige al Presidente por votación secreta y propone su nombramiento al Rey.",
+        "B": "Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres.",
+        "C": "El TC conoce del recurso de amparo por violación de derechos del artículo 53.2 en los casos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q455",
+      "fact_id": "PN-T03-F455",
+      "bloque": 24,
+      "concepto": "Reelección del Presidente",
+      "articulo": "LOTC art. 9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reelección del Presidente» conforme a LOTC art. 9?",
+      "opciones": {
+        "A": "El Presidente del TC es nombrado por el Rey a propuesta del Pleno por tres años.",
+        "B": "El Presidente puede ser reelegido una sola vez tras su período de tres años.",
+        "C": "El Gobierno puede impugnar ante el TC disposiciones y resoluciones autonómicas."
+      }
+    },
+    {
+      "id": "PN-T03-Q456",
+      "fact_id": "PN-T03-F456",
+      "bloque": 24,
+      "concepto": "Quórum del Pleno y Salas",
+      "articulo": "LOTC art. 14",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Quórum del Pleno y Salas» conforme a LOTC art. 14?",
+      "opciones": {
+        "A": "El TC conoce de conflictos de competencia entre Estado y comunidades o de estas entre sí.",
+        "B": "Puede interponer amparo toda persona con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal.",
+        "C": "Pleno y Salas requieren presencia de al menos dos tercios de sus miembros para adoptar acuerdos."
+      }
+    },
+    {
+      "id": "PN-T03-Q457",
+      "fact_id": "PN-T03-F457",
+      "bloque": 24,
+      "concepto": "Responsabilidad penal de magistrados",
+      "articulo": "LOTC art. 26",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad penal de magistrados» conforme a LOTC art. 26?",
+      "opciones": {
+        "A": "La responsabilidad criminal de magistrados del TC se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "B": "La impugnación del Gobierno produce suspensión y el TC debe ratificarla o levantarla en un plazo máximo de cinco meses.",
+        "C": "El planteamiento de la cuestión no produce efectos suspensivos generales sobre la norma."
+      }
+    },
+    {
+      "id": "PN-T03-Q707",
+      "fact_id": "PN-T03-F426",
+      "bloque": 24,
+      "concepto": "Propuesta del Senado",
+      "articulo": "159.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Cuatro magistrados son propuestos por el Senado por mayoría de tres quintos.»?",
+      "opciones": {
+        "A": "159.2",
+        "B": "159.1",
+        "C": "159.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q705",
+      "fact_id": "PN-T03-F424",
+      "bloque": 24,
+      "concepto": "Composición del Tribunal Constitucional",
+      "articulo": "159.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.»?",
+      "opciones": {
+        "A": "159.2",
+        "B": "159.3",
+        "C": "159.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q706",
+      "fact_id": "PN-T03-F425",
+      "bloque": 24,
+      "concepto": "Propuesta del Congreso",
+      "articulo": "159.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Cuatro magistrados son propuestos por el Congreso por mayoría de tres quintos.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "159.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q710",
+      "fact_id": "PN-T03-F430",
+      "bloque": 24,
+      "concepto": "Mandato del Tribunal Constitucional",
+      "articulo": "159.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.3",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q708",
+      "fact_id": "PN-T03-F427",
+      "bloque": 24,
+      "concepto": "Propuesta de Gobierno y CGPJ",
+      "articulo": "159.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Dos magistrados son propuestos por el Gobierno y dos por el CGPJ.»?",
+      "opciones": {
+        "A": "159.2",
+        "B": "159.3",
+        "C": "159.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q709",
+      "fact_id": "PN-T03-F429",
+      "bloque": 24,
+      "concepto": "Experiencia profesional",
+      "articulo": "159.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional.»?",
+      "opciones": {
+        "A": "159.2",
+        "B": "159.1",
+        "C": "159.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q713",
+      "fact_id": "PN-T03-F434",
+      "bloque": 24,
+      "concepto": "Recurso de inconstitucionalidad",
+      "articulo": "161.1.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El TC conoce del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "161.1.a",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q711",
+      "fact_id": "PN-T03-F431",
+      "bloque": 24,
+      "concepto": "Incompatibilidades del TC",
+      "articulo": "159.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La condición de miembro del TC es incompatible con mandato representativo, cargos políticos o administrativos, dirección partidista o sindical, carrera judicial o fiscal y actividad profesional o mercantil.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "159.4"
+      }
+    },
+    {
+      "id": "PN-T03-Q712",
+      "fact_id": "PN-T03-F433",
+      "bloque": 24,
+      "concepto": "Presidente del TC",
+      "articulo": "160",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente del TC es nombrado por el Rey a propuesta del Pleno por tres años.»?",
+      "opciones": {
+        "A": "160",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q716",
+      "fact_id": "PN-T03-F438",
+      "bloque": 24,
+      "concepto": "Impugnación de disposiciones autonómicas",
+      "articulo": "161.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno puede impugnar ante el TC disposiciones y resoluciones autonómicas.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "161.2",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q714",
+      "fact_id": "PN-T03-F435",
+      "bloque": 24,
+      "concepto": "Recurso de amparo",
+      "articulo": "161.1.b",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El TC conoce del recurso de amparo por violación de derechos del artículo 53.2 en los casos legales.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "161.1.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q715",
+      "fact_id": "PN-T03-F436",
+      "bloque": 24,
+      "concepto": "Conflictos de competencia",
+      "articulo": "161.1.c",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El TC conoce de conflictos de competencia entre Estado y comunidades o de estas entre sí.»?",
+      "opciones": {
+        "A": "161.1.c",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q719",
+      "fact_id": "PN-T03-F441",
+      "bloque": 24,
+      "concepto": "Legitimación en amparo",
+      "articulo": "162.1.b",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Puede interponer amparo toda persona con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "162.1.b",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q717",
+      "fact_id": "PN-T03-F439",
+      "bloque": 24,
+      "concepto": "Suspensión por impugnación",
+      "articulo": "161.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La impugnación del Gobierno produce suspensión y el TC debe ratificarla o levantarla en un plazo máximo de cinco meses.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "161.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q718",
+      "fact_id": "PN-T03-F440",
+      "bloque": 24,
+      "concepto": "Legitimación en inconstitucionalidad",
+      "articulo": "162.1.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Están legitimados el Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y órganos autonómicos en su ámbito.»?",
+      "opciones": {
+        "A": "162.1.a",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q722",
+      "fact_id": "PN-T03-F447",
+      "bloque": 24,
+      "concepto": "Efectos generales",
+      "articulo": "164.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sentencias que declaran inconstitucionalidad y las no limitadas a estimación subjetiva tienen plenos efectos frente a todos.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "164.1",
+        "C": "159.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q449",
+      "respuesta_correcta": "B",
+      "explicacion": "Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones. Referencia principal: CE-TC, 165.",
+      "fact_id": "PN-T03-F449",
+      "articulo": "165"
+    },
+    {
+      "id": "PN-T03-Q450",
+      "respuesta_correcta": "C",
+      "explicacion": "El Tribunal Constitucional actúa en Pleno, Sala o Sección. Referencia principal: LOTC, LOTC art. 6.",
+      "fact_id": "PN-T03-F450",
+      "articulo": "LOTC art. 6"
+    },
+    {
+      "id": "PN-T03-Q451",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal Constitucional consta de dos Salas de seis magistrados cada una. Referencia principal: LOTC, LOTC art. 7.",
+      "fact_id": "PN-T03-F451",
+      "articulo": "LOTC art. 7"
+    },
+    {
+      "id": "PN-T03-Q452",
+      "respuesta_correcta": "B",
+      "explicacion": "El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda. Referencia principal: LOTC, LOTC art. 7.",
+      "fact_id": "PN-T03-F452",
+      "articulo": "LOTC art. 7"
+    },
+    {
+      "id": "PN-T03-Q453",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados. Referencia principal: LOTC, LOTC art. 8.",
+      "fact_id": "PN-T03-F453",
+      "articulo": "LOTC art. 8"
+    },
+    {
+      "id": "PN-T03-Q454",
+      "respuesta_correcta": "A",
+      "explicacion": "El Pleno elige al Presidente por votación secreta y propone su nombramiento al Rey. Referencia principal: LOTC, LOTC art. 9.",
+      "fact_id": "PN-T03-F454",
+      "articulo": "LOTC art. 9"
+    },
+    {
+      "id": "PN-T03-Q455",
+      "respuesta_correcta": "B",
+      "explicacion": "El Presidente puede ser reelegido una sola vez tras su período de tres años. Referencia principal: LOTC, LOTC art. 9.",
+      "fact_id": "PN-T03-F455",
+      "articulo": "LOTC art. 9"
+    },
+    {
+      "id": "PN-T03-Q456",
+      "respuesta_correcta": "C",
+      "explicacion": "Pleno y Salas requieren presencia de al menos dos tercios de sus miembros para adoptar acuerdos. Referencia principal: LOTC, LOTC art. 14.",
+      "fact_id": "PN-T03-F456",
+      "articulo": "LOTC art. 14"
+    },
+    {
+      "id": "PN-T03-Q457",
+      "respuesta_correcta": "A",
+      "explicacion": "La responsabilidad criminal de magistrados del TC se exige ante la Sala de lo Penal del Tribunal Supremo. Referencia principal: LOTC, LOTC art. 26.",
+      "fact_id": "PN-T03-F457",
+      "articulo": "LOTC art. 26"
+    },
+    {
+      "id": "PN-T03-Q707",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 159.1 (CE-TC).",
+      "fact_id": "PN-T03-F426",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q705",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 159.1 (CE-TC).",
+      "fact_id": "PN-T03-F424",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q706",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 159.1 (CE-TC).",
+      "fact_id": "PN-T03-F425",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q710",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 159.3 (CE-TC).",
+      "fact_id": "PN-T03-F430",
+      "articulo": "159.3"
+    },
+    {
+      "id": "PN-T03-Q708",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 159.1 (CE-TC).",
+      "fact_id": "PN-T03-F427",
+      "articulo": "159.1"
+    },
+    {
+      "id": "PN-T03-Q709",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 159.2 (CE-TC).",
+      "fact_id": "PN-T03-F429",
+      "articulo": "159.2"
+    },
+    {
+      "id": "PN-T03-Q713",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 161.1.a (CE-TC).",
+      "fact_id": "PN-T03-F434",
+      "articulo": "161.1.a"
+    },
+    {
+      "id": "PN-T03-Q711",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 159.4 (CE-TC).",
+      "fact_id": "PN-T03-F431",
+      "articulo": "159.4"
+    },
+    {
+      "id": "PN-T03-Q712",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 160 (CE-TC).",
+      "fact_id": "PN-T03-F433",
+      "articulo": "160"
+    },
+    {
+      "id": "PN-T03-Q716",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 161.2 (CE-TC).",
+      "fact_id": "PN-T03-F438",
+      "articulo": "161.2"
+    },
+    {
+      "id": "PN-T03-Q714",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 161.1.b (CE-TC).",
+      "fact_id": "PN-T03-F435",
+      "articulo": "161.1.b"
+    },
+    {
+      "id": "PN-T03-Q715",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 161.1.c (CE-TC).",
+      "fact_id": "PN-T03-F436",
+      "articulo": "161.1.c"
+    },
+    {
+      "id": "PN-T03-Q719",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 162.1.b (CE-TC).",
+      "fact_id": "PN-T03-F441",
+      "articulo": "162.1.b"
+    },
+    {
+      "id": "PN-T03-Q717",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 161.2 (CE-TC).",
+      "fact_id": "PN-T03-F439",
+      "articulo": "161.2"
+    },
+    {
+      "id": "PN-T03-Q718",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 162.1.a (CE-TC).",
+      "fact_id": "PN-T03-F440",
+      "articulo": "162.1.a"
+    },
+    {
+      "id": "PN-T03-Q722",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 164.1 (CE-TC).",
+      "fact_id": "PN-T03-F447",
+      "articulo": "164.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

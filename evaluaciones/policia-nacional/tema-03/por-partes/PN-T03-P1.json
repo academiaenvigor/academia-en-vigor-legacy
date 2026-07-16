@@ -1,0 +1,16 @@
+{
+  "id": "PN-T03-P1",
+  "titulo": "Tema 3 · Parte 1 · La Corona",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

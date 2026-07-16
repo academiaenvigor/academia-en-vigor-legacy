@@ -1,0 +1,481 @@
+{
+  "id": "PN-T03-B21-C",
+  "titulo": "Tema 3 · Bloque 21: Estatutos y competencias de los artículos 148 y 149 · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      21
+    ]
+  },
+  "numero_preguntas": 21,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q366",
+      "fact_id": "PN-T03-F366",
+      "bloque": 21,
+      "concepto": "Armas y explosivos",
+      "articulo": "149.1.26",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Armas y explosivos» conforme a 149.1.26?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre sistema monetario, divisas, cambio y convertibilidad y bases de crédito, banca y seguros.",
+        "B": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos.",
+        "C": "El Estado tiene competencia exclusiva sobre régimen de producción, comercio, tenencia y uso de armas y explosivos."
+      }
+    },
+    {
+      "id": "PN-T03-Q370",
+      "fact_id": "PN-T03-F370",
+      "bloque": 21,
+      "concepto": "Títulos académicos",
+      "articulo": "149.1.30",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Títulos académicos» conforme a 149.1.30?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas del artículo 27.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación básica ambiental y de montes, aprovechamientos forestales y vías pecuarias, con normas adicionales autonómicas de protección.",
+        "C": "El Estado tiene competencia exclusiva sobre defensa del patrimonio cultural contra exportación y expoliación y museos, bibliotecas y archivos estatales, sin perjuicio de gestión autonómica."
+      }
+    },
+    {
+      "id": "PN-T03-Q371",
+      "fact_id": "PN-T03-F371",
+      "bloque": 21,
+      "concepto": "Estadística estatal",
+      "articulo": "149.1.31",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estadística estatal» conforme a 149.1.31?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre régimen de producción, comercio, tenencia y uso de armas y explosivos.",
+        "B": "El Estado tiene competencia exclusiva sobre estadística para fines estatales.",
+        "C": "El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q369",
+      "fact_id": "PN-T03-F369",
+      "bloque": 21,
+      "concepto": "Seguridad pública",
+      "articulo": "149.1.29",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Seguridad pública» conforme a 149.1.29?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre marina mercante, abanderamiento, puertos y aeropuertos de interés general, espacio aéreo, tránsito, meteorología y matriculación de aeronaves.",
+        "B": "El Estado tiene competencia exclusiva sobre bases del régimen minero y energético.",
+        "C": "El Estado tiene competencia exclusiva sobre seguridad pública, sin perjuicio de la creación de policías autonómicas en el marco de ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q373",
+      "fact_id": "PN-T03-F373",
+      "bloque": 21,
+      "concepto": "Cultura",
+      "articulo": "149.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Cultura» conforme a 149.2?",
+      "opciones": {
+        "A": "Sin perjuicio de competencias autonómicas, el Estado considera el servicio de la cultura un deber y atribución esencial y facilita la comunicación cultural.",
+        "B": "El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q374",
+      "fact_id": "PN-T03-F374",
+      "bloque": 21,
+      "concepto": "Cláusula de asunción",
+      "articulo": "149.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Cláusula de asunción» conforme a 149.3?",
+      "opciones": {
+        "A": "En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica.",
+        "B": "Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre obras públicas de interés de la comunidad dentro de su territorio."
+      }
+    },
+    {
+      "id": "PN-T03-Q372",
+      "fact_id": "PN-T03-F372",
+      "bloque": 21,
+      "concepto": "Referéndum",
+      "articulo": "149.1.32",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum» conforme a 149.1.32?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre seguridad pública, sin perjuicio de la creación de policías autonómicas en el marco de ley orgánica.",
+        "B": "Las competencias no asumidas por los Estatutos corresponden al Estado.",
+        "C": "El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q376",
+      "fact_id": "PN-T03-F376",
+      "bloque": 21,
+      "concepto": "Prevalencia del Derecho estatal",
+      "articulo": "149.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prevalencia del Derecho estatal» conforme a 149.3?",
+      "opciones": {
+        "A": "En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferrocarriles y carreteras cuyo itinerario discurra íntegramente en el territorio y transporte desarrollado por ellos o por cable.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales."
+      }
+    },
+    {
+      "id": "PN-T03-Q377",
+      "fact_id": "PN-T03-F377",
+      "bloque": 21,
+      "concepto": "Supletoriedad",
+      "articulo": "149.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Supletoriedad» conforme a 149.3?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre montes y aprovechamientos forestales.",
+        "B": "El Derecho estatal es supletorio del Derecho autonómico.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional."
+      }
+    },
+    {
+      "id": "PN-T03-Q375",
+      "fact_id": "PN-T03-F375",
+      "bloque": 21,
+      "concepto": "Cláusula residual estatal",
+      "articulo": "149.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Cláusula residual estatal» conforme a 149.3?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre alteraciones de términos municipales y funciones estatales sobre corporaciones locales cuya transferencia autorice la legislación local.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía.",
+        "C": "Las competencias no asumidas por los Estatutos corresponden al Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q667",
+      "fact_id": "PN-T03-F338",
+      "bloque": 21,
+      "concepto": "Sanidad e higiene",
+      "articulo": "148.1.21",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.»?",
+      "opciones": {
+        "A": "148.1.21",
+        "B": "148.1.1",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q668",
+      "fact_id": "PN-T03-F339",
+      "bloque": 21,
+      "concepto": "Vigilancia y policía local",
+      "articulo": "148.1.22",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "148.1.22",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q669",
+      "fact_id": "PN-T03-F340",
+      "bloque": 21,
+      "concepto": "Ampliación competencial",
+      "articulo": "148.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Transcurridos cinco años, las comunidades pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149 mediante reforma estatutaria.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "148.1.2",
+        "C": "148.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q670",
+      "fact_id": "PN-T03-F342",
+      "bloque": 21,
+      "concepto": "Nacionalidad y extranjería",
+      "articulo": "149.1.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo.»?",
+      "opciones": {
+        "A": "149.1.2",
+        "B": "148.1.1",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q671",
+      "fact_id": "PN-T03-F366",
+      "bloque": 21,
+      "concepto": "Armas y explosivos",
+      "articulo": "149.1.26",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado tiene competencia exclusiva sobre régimen de producción, comercio, tenencia y uso de armas y explosivos.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "149.1.26",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q672",
+      "fact_id": "PN-T03-F369",
+      "bloque": 21,
+      "concepto": "Seguridad pública",
+      "articulo": "149.1.29",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado tiene competencia exclusiva sobre seguridad pública, sin perjuicio de la creación de policías autonómicas en el marco de ley orgánica.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "148.1.2",
+        "C": "149.1.29"
+      }
+    },
+    {
+      "id": "PN-T03-Q673",
+      "fact_id": "PN-T03-F372",
+      "bloque": 21,
+      "concepto": "Referéndum",
+      "articulo": "149.1.32",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum.»?",
+      "opciones": {
+        "A": "149.1.32",
+        "B": "148.1.1",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q674",
+      "fact_id": "PN-T03-F374",
+      "bloque": 21,
+      "concepto": "Cláusula de asunción",
+      "articulo": "149.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "149.3",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q675",
+      "fact_id": "PN-T03-F375",
+      "bloque": 21,
+      "concepto": "Cláusula residual estatal",
+      "articulo": "149.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las competencias no asumidas por los Estatutos corresponden al Estado.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "148.1.2",
+        "C": "149.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q676",
+      "fact_id": "PN-T03-F376",
+      "bloque": 21,
+      "concepto": "Prevalencia del Derecho estatal",
+      "articulo": "149.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica.»?",
+      "opciones": {
+        "A": "149.3",
+        "B": "148.1.1",
+        "C": "148.1.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q677",
+      "fact_id": "PN-T03-F377",
+      "bloque": 21,
+      "concepto": "Supletoriedad",
+      "articulo": "149.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Derecho estatal es supletorio del Derecho autonómico.»?",
+      "opciones": {
+        "A": "148.1.1",
+        "B": "149.3",
+        "C": "148.1.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q366",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre régimen de producción, comercio, tenencia y uso de armas y explosivos. Referencia principal: CE-TERRITORIAL, 149.1.26.",
+      "fact_id": "PN-T03-F366",
+      "articulo": "149.1.26"
+    },
+    {
+      "id": "PN-T03-Q370",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas del artículo 27. Referencia principal: CE-TERRITORIAL, 149.1.30.",
+      "fact_id": "PN-T03-F370",
+      "articulo": "149.1.30"
+    },
+    {
+      "id": "PN-T03-Q371",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre estadística para fines estatales. Referencia principal: CE-TERRITORIAL, 149.1.31.",
+      "fact_id": "PN-T03-F371",
+      "articulo": "149.1.31"
+    },
+    {
+      "id": "PN-T03-Q369",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre seguridad pública, sin perjuicio de la creación de policías autonómicas en el marco de ley orgánica. Referencia principal: CE-TERRITORIAL, 149.1.29.",
+      "fact_id": "PN-T03-F369",
+      "articulo": "149.1.29"
+    },
+    {
+      "id": "PN-T03-Q373",
+      "respuesta_correcta": "A",
+      "explicacion": "Sin perjuicio de competencias autonómicas, el Estado considera el servicio de la cultura un deber y atribución esencial y facilita la comunicación cultural. Referencia principal: CE-TERRITORIAL, 149.2.",
+      "fact_id": "PN-T03-F373",
+      "articulo": "149.2"
+    },
+    {
+      "id": "PN-T03-Q374",
+      "respuesta_correcta": "B",
+      "explicacion": "Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos. Referencia principal: CE-TERRITORIAL, 149.3.",
+      "fact_id": "PN-T03-F374",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q372",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum. Referencia principal: CE-TERRITORIAL, 149.1.32.",
+      "fact_id": "PN-T03-F372",
+      "articulo": "149.1.32"
+    },
+    {
+      "id": "PN-T03-Q376",
+      "respuesta_correcta": "A",
+      "explicacion": "En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica. Referencia principal: CE-TERRITORIAL, 149.3.",
+      "fact_id": "PN-T03-F376",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q377",
+      "respuesta_correcta": "B",
+      "explicacion": "El Derecho estatal es supletorio del Derecho autonómico. Referencia principal: CE-TERRITORIAL, 149.3.",
+      "fact_id": "PN-T03-F377",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q375",
+      "respuesta_correcta": "C",
+      "explicacion": "Las competencias no asumidas por los Estatutos corresponden al Estado. Referencia principal: CE-TERRITORIAL, 149.3.",
+      "fact_id": "PN-T03-F375",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q667",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 148.1.21 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F338",
+      "articulo": "148.1.21"
+    },
+    {
+      "id": "PN-T03-Q668",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 148.1.22 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F339",
+      "articulo": "148.1.22"
+    },
+    {
+      "id": "PN-T03-Q669",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 148.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F340",
+      "articulo": "148.2"
+    },
+    {
+      "id": "PN-T03-Q670",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 149.1.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F342",
+      "articulo": "149.1.2"
+    },
+    {
+      "id": "PN-T03-Q671",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 149.1.26 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F366",
+      "articulo": "149.1.26"
+    },
+    {
+      "id": "PN-T03-Q672",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 149.1.29 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F369",
+      "articulo": "149.1.29"
+    },
+    {
+      "id": "PN-T03-Q673",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 149.1.32 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F372",
+      "articulo": "149.1.32"
+    },
+    {
+      "id": "PN-T03-Q674",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 149.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F374",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q675",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 149.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F375",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q676",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 149.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F376",
+      "articulo": "149.3"
+    },
+    {
+      "id": "PN-T03-Q677",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 149.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F377",
+      "articulo": "149.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

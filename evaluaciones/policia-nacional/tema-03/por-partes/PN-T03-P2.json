@@ -1,0 +1,19 @@
+{
+  "id": "PN-T03-P2",
+  "titulo": "Tema 3 · Parte 2 · Cortes y producción normativa",
+  "ambito": {
+    "bloques": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

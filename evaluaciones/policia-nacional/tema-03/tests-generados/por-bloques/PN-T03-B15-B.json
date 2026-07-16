@@ -1,0 +1,107 @@
+{
+  "id": "PN-T03-B15-B",
+  "titulo": "Tema 3 · Bloque 15: Relaciones Gobierno-Cortes y control parlamentario · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      15
+    ]
+  },
+  "numero_preguntas": 4,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q605",
+      "fact_id": "PN-T03-F225",
+      "bloque": 15,
+      "concepto": "Límite por censura",
+      "articulo": "115.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «No puede proponerse la disolución mientras esté en trámite una moción de censura.»?",
+      "opciones": {
+        "A": "112",
+        "B": "115.2",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q603",
+      "fact_id": "PN-T03-F221",
+      "bloque": 15,
+      "concepto": "Efecto de aprobar censura",
+      "articulo": "114.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "114.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q604",
+      "fact_id": "PN-T03-F223",
+      "bloque": 15,
+      "concepto": "Propuesta de disolución",
+      "articulo": "115.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.»?",
+      "opciones": {
+        "A": "115.1",
+        "B": "112",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q606",
+      "fact_id": "PN-T03-F226",
+      "bloque": 15,
+      "concepto": "Plazo entre disoluciones",
+      "articulo": "115.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "115.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q605",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 115.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F225",
+      "articulo": "115.2"
+    },
+    {
+      "id": "PN-T03-Q603",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 114.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F221",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q604",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 115.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F223",
+      "articulo": "115.1"
+    },
+    {
+      "id": "PN-T03-Q606",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 115.3 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F226",
+      "articulo": "115.3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

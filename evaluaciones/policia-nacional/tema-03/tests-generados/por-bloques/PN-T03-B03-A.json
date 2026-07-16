@@ -1,0 +1,525 @@
+{
+  "id": "PN-T03-B03-A",
+  "titulo": "Tema 3 · Bloque 3: Sucesión, regencia, tutela y juramento · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      3
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q025",
+      "fact_id": "PN-T03-F025",
+      "bloque": 3,
+      "concepto": "Inhabilitación del Rey",
+      "articulo": "59.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inhabilitación del Rey» conforme a 59.2?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos.",
+        "C": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q023",
+      "fact_id": "PN-T03-F023",
+      "bloque": 3,
+      "concepto": "Regencia por minoría de edad",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia por minoría de edad» conforme a 59.1?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.",
+        "C": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q024",
+      "fact_id": "PN-T03-F024",
+      "bloque": 3,
+      "concepto": "Duración de la Regencia por minoría",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Duración de la Regencia por minoría» conforme a 59.1?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor.",
+        "C": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q028",
+      "fact_id": "PN-T03-F028",
+      "bloque": 3,
+      "concepto": "Requisitos del Regente",
+      "articulo": "59.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requisitos del Regente» conforme a 59.4?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad.",
+        "C": "En defecto de tutor testamentario y de progenitor viudo, las Cortes nombran al tutor."
+      }
+    },
+    {
+      "id": "PN-T03-Q026",
+      "fact_id": "PN-T03-F026",
+      "bloque": 3,
+      "concepto": "Regencia por inhabilitación con heredero menor",
+      "articulo": "59.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia por inhabilitación con heredero menor» conforme a 59.2?",
+      "opciones": {
+        "A": "La tutela del Rey es incompatible con todo cargo o representación política.",
+        "B": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad.",
+        "C": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad."
+      }
+    },
+    {
+      "id": "PN-T03-Q027",
+      "fact_id": "PN-T03-F027",
+      "bloque": 3,
+      "concepto": "Regencia nombrada por las Cortes",
+      "articulo": "59.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia nombrada por las Cortes» conforme a 59.3?",
+      "opciones": {
+        "A": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.",
+        "B": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
+        "C": "Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas."
+      }
+    },
+    {
+      "id": "PN-T03-Q031",
+      "fact_id": "PN-T03-F031",
+      "bloque": 3,
+      "concepto": "Tutor legal subsidiario",
+      "articulo": "60.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tutor legal subsidiario» conforme a 60.1?",
+      "opciones": {
+        "A": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos.",
+        "B": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey.",
+        "C": "Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas."
+      }
+    },
+    {
+      "id": "PN-T03-Q029",
+      "fact_id": "PN-T03-F029",
+      "bloque": 3,
+      "concepto": "Naturaleza de la Regencia",
+      "articulo": "59.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Naturaleza de la Regencia» conforme a 59.5?",
+      "opciones": {
+        "A": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento.",
+        "B": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
+        "C": "El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías."
+      }
+    },
+    {
+      "id": "PN-T03-Q030",
+      "fact_id": "PN-T03-F030",
+      "bloque": 3,
+      "concepto": "Tutor testamentario",
+      "articulo": "60.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tutor testamentario» conforme a 60.1?",
+      "opciones": {
+        "A": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor.",
+        "B": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey.",
+        "C": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q034",
+      "fact_id": "PN-T03-F034",
+      "bloque": 3,
+      "concepto": "Incompatibilidad de la tutela",
+      "articulo": "60.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidad de la tutela» conforme a 60.2?",
+      "opciones": {
+        "A": "La tutela del Rey es incompatible con todo cargo o representación política.",
+        "B": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos.",
+        "C": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio."
+      }
+    },
+    {
+      "id": "PN-T03-Q032",
+      "fact_id": "PN-T03-F032",
+      "bloque": 3,
+      "concepto": "Tutor nombrado por las Cortes",
+      "articulo": "60.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tutor nombrado por las Cortes» conforme a 60.1?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "En defecto de tutor testamentario y de progenitor viudo, las Cortes nombran al tutor.",
+        "C": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q033",
+      "fact_id": "PN-T03-F033",
+      "bloque": 3,
+      "concepto": "Acumulación de Regencia y tutela",
+      "articulo": "60.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acumulación de Regencia y tutela» conforme a 60.1?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "La tutela del Rey es incompatible con todo cargo o representación política.",
+        "C": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor."
+      }
+    },
+    {
+      "id": "PN-T03-Q487",
+      "fact_id": "PN-T03-F027",
+      "bloque": 3,
+      "concepto": "Regencia nombrada por las Cortes",
+      "articulo": "59.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas.»?",
+      "opciones": {
+        "A": "59.3",
+        "B": "59.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q035",
+      "fact_id": "PN-T03-F035",
+      "bloque": 3,
+      "concepto": "Juramento del Rey",
+      "articulo": "61.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Juramento del Rey» conforme a 61.1?",
+      "opciones": {
+        "A": "La tutela del Rey es incompatible con todo cargo o representación política.",
+        "B": "El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías.",
+        "C": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad."
+      }
+    },
+    {
+      "id": "PN-T03-Q036",
+      "fact_id": "PN-T03-F036",
+      "bloque": 3,
+      "concepto": "Juramento del heredero y regentes",
+      "articulo": "61.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Juramento del heredero y regentes» conforme a 61.2?",
+      "opciones": {
+        "A": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey.",
+        "B": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
+        "C": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q490",
+      "fact_id": "PN-T03-F030",
+      "bloque": 3,
+      "concepto": "Tutor testamentario",
+      "articulo": "60.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento.»?",
+      "opciones": {
+        "A": "60.1",
+        "B": "59.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q485",
+      "fact_id": "PN-T03-F023",
+      "bloque": 3,
+      "concepto": "Regencia por minoría de edad",
+      "articulo": "59.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.»?",
+      "opciones": {
+        "A": "59.2",
+        "B": "59.1",
+        "C": "59.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q486",
+      "fact_id": "PN-T03-F025",
+      "bloque": 3,
+      "concepto": "Inhabilitación del Rey",
+      "articulo": "59.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.3",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q493",
+      "fact_id": "PN-T03-F035",
+      "bloque": 3,
+      "concepto": "Juramento del Rey",
+      "articulo": "61.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías.»?",
+      "opciones": {
+        "A": "61.1",
+        "B": "59.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q488",
+      "fact_id": "PN-T03-F028",
+      "bloque": 3,
+      "concepto": "Requisitos del Regente",
+      "articulo": "59.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Para ejercer la Regencia se exige ser español y mayor de edad.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.4",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q489",
+      "fact_id": "PN-T03-F029",
+      "bloque": 3,
+      "concepto": "Naturaleza de la Regencia",
+      "articulo": "59.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.2",
+        "C": "59.5"
+      }
+    },
+    {
+      "id": "PN-T03-Q491",
+      "fact_id": "PN-T03-F033",
+      "bloque": 3,
+      "concepto": "Acumulación de Regencia y tutela",
+      "articulo": "60.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "60.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q492",
+      "fact_id": "PN-T03-F034",
+      "bloque": 3,
+      "concepto": "Incompatibilidad de la tutela",
+      "articulo": "60.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La tutela del Rey es incompatible con todo cargo o representación política.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.2",
+        "C": "60.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q025",
+      "respuesta_correcta": "A",
+      "explicacion": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad. Referencia principal: CE-CORONA, 59.2.",
+      "fact_id": "PN-T03-F025",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q023",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F023",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q024",
+      "respuesta_correcta": "C",
+      "explicacion": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F024",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q028",
+      "respuesta_correcta": "A",
+      "explicacion": "Para ejercer la Regencia se exige ser español y mayor de edad. Referencia principal: CE-CORONA, 59.4.",
+      "fact_id": "PN-T03-F028",
+      "articulo": "59.4"
+    },
+    {
+      "id": "PN-T03-Q026",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad. Referencia principal: CE-CORONA, 59.2.",
+      "fact_id": "PN-T03-F026",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q027",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no existe persona llamada a ejercer la Regencia, las Cortes la nombran y puede estar compuesta por una, tres o cinco personas. Referencia principal: CE-CORONA, 59.3.",
+      "fact_id": "PN-T03-F027",
+      "articulo": "59.3"
+    },
+    {
+      "id": "PN-T03-Q031",
+      "respuesta_correcta": "A",
+      "explicacion": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos. Referencia principal: CE-CORONA, 60.1.",
+      "fact_id": "PN-T03-F031",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q029",
+      "respuesta_correcta": "B",
+      "explicacion": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey. Referencia principal: CE-CORONA, 59.5.",
+      "fact_id": "PN-T03-F029",
+      "articulo": "59.5"
+    },
+    {
+      "id": "PN-T03-Q030",
+      "respuesta_correcta": "C",
+      "explicacion": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento. Referencia principal: CE-CORONA, 60.1.",
+      "fact_id": "PN-T03-F030",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q034",
+      "respuesta_correcta": "A",
+      "explicacion": "La tutela del Rey es incompatible con todo cargo o representación política. Referencia principal: CE-CORONA, 60.2.",
+      "fact_id": "PN-T03-F034",
+      "articulo": "60.2"
+    },
+    {
+      "id": "PN-T03-Q032",
+      "respuesta_correcta": "B",
+      "explicacion": "En defecto de tutor testamentario y de progenitor viudo, las Cortes nombran al tutor. Referencia principal: CE-CORONA, 60.1.",
+      "fact_id": "PN-T03-F032",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q033",
+      "respuesta_correcta": "C",
+      "explicacion": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor. Referencia principal: CE-CORONA, 60.1.",
+      "fact_id": "PN-T03-F033",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q487",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 59.3 (CE-CORONA).",
+      "fact_id": "PN-T03-F027",
+      "articulo": "59.3"
+    },
+    {
+      "id": "PN-T03-Q035",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías. Referencia principal: CE-CORONA, 61.1.",
+      "fact_id": "PN-T03-F035",
+      "articulo": "61.1"
+    },
+    {
+      "id": "PN-T03-Q036",
+      "respuesta_correcta": "C",
+      "explicacion": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey. Referencia principal: CE-CORONA, 61.2.",
+      "fact_id": "PN-T03-F036",
+      "articulo": "61.2"
+    },
+    {
+      "id": "PN-T03-Q490",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 60.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F030",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q485",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 59.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F023",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q486",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 59.2 (CE-CORONA).",
+      "fact_id": "PN-T03-F025",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q493",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 61.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F035",
+      "articulo": "61.1"
+    },
+    {
+      "id": "PN-T03-Q488",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 59.4 (CE-CORONA).",
+      "fact_id": "PN-T03-F028",
+      "articulo": "59.4"
+    },
+    {
+      "id": "PN-T03-Q489",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 59.5 (CE-CORONA).",
+      "fact_id": "PN-T03-F029",
+      "articulo": "59.5"
+    },
+    {
+      "id": "PN-T03-Q491",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 60.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F033",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q492",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 60.2 (CE-CORONA).",
+      "fact_id": "PN-T03-F034",
+      "articulo": "60.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

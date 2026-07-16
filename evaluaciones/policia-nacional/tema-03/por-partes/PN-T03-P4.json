@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-P4",
+  "titulo": "Tema 3 · Parte 4 · Poder Judicial",
+  "ambito": {
+    "bloques": [
+      17,
+      18
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

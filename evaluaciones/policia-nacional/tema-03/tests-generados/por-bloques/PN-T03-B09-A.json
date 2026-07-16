@@ -1,0 +1,525 @@
+{
+  "id": "PN-T03-B09-A",
+  "titulo": "Tema 3 · Bloque 9: Producción normativa y delegación legislativa · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      9
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q118",
+      "fact_id": "PN-T03-F118",
+      "bloque": 9,
+      "concepto": "Delegación legislativa",
+      "articulo": "82.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación legislativa» conforme a 82.1?",
+      "opciones": {
+        "A": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "B": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto.",
+        "C": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q116",
+      "fact_id": "PN-T03-F116",
+      "bloque": 9,
+      "concepto": "Materias de ley orgánica",
+      "articulo": "81.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Materias de ley orgánica» conforme a 81.1?",
+      "opciones": {
+        "A": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales.",
+        "B": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q117",
+      "fact_id": "PN-T03-F117",
+      "bloque": 9,
+      "concepto": "Mayoría de ley orgánica",
+      "articulo": "81.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría de ley orgánica» conforme a 81.2?",
+      "opciones": {
+        "A": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.",
+        "B": "La delegación para refundir textos legales se otorga mediante ley ordinaria.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q121",
+      "fact_id": "PN-T03-F121",
+      "bloque": 9,
+      "concepto": "Requisitos de delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requisitos de delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo.",
+        "B": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q119",
+      "fact_id": "PN-T03-F119",
+      "bloque": 9,
+      "concepto": "Ley de bases",
+      "articulo": "82.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ley de bases» conforme a 82.2?",
+      "opciones": {
+        "A": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo.",
+        "B": "La delegación para formar textos articulados se otorga mediante una ley de bases.",
+        "C": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales."
+      }
+    },
+    {
+      "id": "PN-T03-Q120",
+      "fact_id": "PN-T03-F120",
+      "bloque": 9,
+      "concepto": "Ley ordinaria de refundición",
+      "articulo": "82.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ley ordinaria de refundición» conforme a 82.2?",
+      "opciones": {
+        "A": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación.",
+        "B": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.",
+        "C": "La delegación para refundir textos legales se otorga mediante ley ordinaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q124",
+      "fact_id": "PN-T03-F124",
+      "bloque": 9,
+      "concepto": "Contenido de la ley de bases",
+      "articulo": "82.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Contenido de la ley de bases» conforme a 82.4?",
+      "opciones": {
+        "A": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación.",
+        "B": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo.",
+        "C": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas."
+      }
+    },
+    {
+      "id": "PN-T03-Q122",
+      "fact_id": "PN-T03-F122",
+      "bloque": 9,
+      "concepto": "Agotamiento de la delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agotamiento de la delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos.",
+        "B": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente.",
+        "C": "La delegación para refundir textos legales se otorga mediante ley ordinaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q123",
+      "fact_id": "PN-T03-F123",
+      "bloque": 9,
+      "concepto": "Prohibiciones de delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibiciones de delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "B": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación.",
+        "C": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q127",
+      "fact_id": "PN-T03-F127",
+      "bloque": 9,
+      "concepto": "Límites de las leyes de bases",
+      "articulo": "83",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites de las leyes de bases» conforme a 83?",
+      "opciones": {
+        "A": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "B": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.",
+        "C": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo."
+      }
+    },
+    {
+      "id": "PN-T03-Q125",
+      "fact_id": "PN-T03-F125",
+      "bloque": 9,
+      "concepto": "Contenido de la refundición",
+      "articulo": "82.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Contenido de la refundición» conforme a 82.5?",
+      "opciones": {
+        "A": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación.",
+        "B": "La autorización para refundir determina el ámbito normativo y si se limita a un texto único o incluye regularizar, aclarar y armonizar.",
+        "C": "Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos."
+      }
+    },
+    {
+      "id": "PN-T03-Q126",
+      "fact_id": "PN-T03-F126",
+      "bloque": 9,
+      "concepto": "Control de la delegación",
+      "articulo": "82.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control de la delegación» conforme a 82.6?",
+      "opciones": {
+        "A": "Si una proposición o enmienda contradice una delegación vigente, el Gobierno puede oponerse a su tramitación.",
+        "B": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "C": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales."
+      }
+    },
+    {
+      "id": "PN-T03-Q130",
+      "fact_id": "PN-T03-F130",
+      "bloque": 9,
+      "concepto": "Nombre de los decretos legislativos",
+      "articulo": "85",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nombre de los decretos legislativos» conforme a 85?",
+      "opciones": {
+        "A": "Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos.",
+        "B": "La autorización para refundir determina el ámbito normativo y si se limita a un texto único o incluye regularizar, aclarar y armonizar.",
+        "C": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente."
+      }
+    },
+    {
+      "id": "PN-T03-Q128",
+      "fact_id": "PN-T03-F128",
+      "bloque": 9,
+      "concepto": "Proposición contraria a delegación",
+      "articulo": "84",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proposición contraria a delegación» conforme a 84?",
+      "opciones": {
+        "A": "La delegación para formar textos articulados se otorga mediante una ley de bases.",
+        "B": "Si una proposición o enmienda contradice una delegación vigente, el Gobierno puede oponerse a su tramitación.",
+        "C": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q129",
+      "fact_id": "PN-T03-F129",
+      "bloque": 9,
+      "concepto": "Derogación de delegación",
+      "articulo": "84",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Derogación de delegación» conforme a 84?",
+      "opciones": {
+        "A": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente.",
+        "B": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "C": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q535",
+      "fact_id": "PN-T03-F117",
+      "bloque": 9,
+      "concepto": "Mayoría de ley orgánica",
+      "articulo": "81.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto.»?",
+      "opciones": {
+        "A": "81.2",
+        "B": "81.1",
+        "C": "82.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q536",
+      "fact_id": "PN-T03-F119",
+      "bloque": 9,
+      "concepto": "Ley de bases",
+      "articulo": "82.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La delegación para formar textos articulados se otorga mediante una ley de bases.»?",
+      "opciones": {
+        "A": "81.1",
+        "B": "82.2",
+        "C": "81.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q534",
+      "fact_id": "PN-T03-F116",
+      "bloque": 9,
+      "concepto": "Materias de ley orgánica",
+      "articulo": "81.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.»?",
+      "opciones": {
+        "A": "81.2",
+        "B": "82.1",
+        "C": "81.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q538",
+      "fact_id": "PN-T03-F121",
+      "bloque": 9,
+      "concepto": "Requisitos de delegación",
+      "articulo": "82.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo.»?",
+      "opciones": {
+        "A": "82.3",
+        "B": "81.1",
+        "C": "81.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q539",
+      "fact_id": "PN-T03-F123",
+      "bloque": 9,
+      "concepto": "Prohibiciones de delegación",
+      "articulo": "82.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación.»?",
+      "opciones": {
+        "A": "81.1",
+        "B": "82.3",
+        "C": "81.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q537",
+      "fact_id": "PN-T03-F120",
+      "bloque": 9,
+      "concepto": "Ley ordinaria de refundición",
+      "articulo": "82.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La delegación para refundir textos legales se otorga mediante ley ordinaria.»?",
+      "opciones": {
+        "A": "81.1",
+        "B": "81.2",
+        "C": "82.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q541",
+      "fact_id": "PN-T03-F130",
+      "bloque": 9,
+      "concepto": "Nombre de los decretos legislativos",
+      "articulo": "85",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos.»?",
+      "opciones": {
+        "A": "85",
+        "B": "81.1",
+        "C": "81.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q540",
+      "fact_id": "PN-T03-F127",
+      "bloque": 9,
+      "concepto": "Límites de las leyes de bases",
+      "articulo": "83",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.»?",
+      "opciones": {
+        "A": "81.1",
+        "B": "81.2",
+        "C": "83"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q118",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica. Referencia principal: CE-CORTES, 82.1.",
+      "fact_id": "PN-T03-F118",
+      "articulo": "82.1"
+    },
+    {
+      "id": "PN-T03-Q116",
+      "respuesta_correcta": "B",
+      "explicacion": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente. Referencia principal: CE-CORTES, 81.1.",
+      "fact_id": "PN-T03-F116",
+      "articulo": "81.1"
+    },
+    {
+      "id": "PN-T03-Q117",
+      "respuesta_correcta": "C",
+      "explicacion": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto. Referencia principal: CE-CORTES, 81.2.",
+      "fact_id": "PN-T03-F117",
+      "articulo": "81.2"
+    },
+    {
+      "id": "PN-T03-Q121",
+      "respuesta_correcta": "A",
+      "explicacion": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F121",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q119",
+      "respuesta_correcta": "B",
+      "explicacion": "La delegación para formar textos articulados se otorga mediante una ley de bases. Referencia principal: CE-CORTES, 82.2.",
+      "fact_id": "PN-T03-F119",
+      "articulo": "82.2"
+    },
+    {
+      "id": "PN-T03-Q120",
+      "respuesta_correcta": "C",
+      "explicacion": "La delegación para refundir textos legales se otorga mediante ley ordinaria. Referencia principal: CE-CORTES, 82.2.",
+      "fact_id": "PN-T03-F120",
+      "articulo": "82.2"
+    },
+    {
+      "id": "PN-T03-Q124",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación. Referencia principal: CE-CORTES, 82.4.",
+      "fact_id": "PN-T03-F124",
+      "articulo": "82.4"
+    },
+    {
+      "id": "PN-T03-Q122",
+      "respuesta_correcta": "B",
+      "explicacion": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F122",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q123",
+      "respuesta_correcta": "C",
+      "explicacion": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F123",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q127",
+      "respuesta_correcta": "A",
+      "explicacion": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas. Referencia principal: CE-CORTES, 83.",
+      "fact_id": "PN-T03-F127",
+      "articulo": "83"
+    },
+    {
+      "id": "PN-T03-Q125",
+      "respuesta_correcta": "B",
+      "explicacion": "La autorización para refundir determina el ámbito normativo y si se limita a un texto único o incluye regularizar, aclarar y armonizar. Referencia principal: CE-CORTES, 82.5.",
+      "fact_id": "PN-T03-F125",
+      "articulo": "82.5"
+    },
+    {
+      "id": "PN-T03-Q126",
+      "respuesta_correcta": "C",
+      "explicacion": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales. Referencia principal: CE-CORTES, 82.6.",
+      "fact_id": "PN-T03-F126",
+      "articulo": "82.6"
+    },
+    {
+      "id": "PN-T03-Q130",
+      "respuesta_correcta": "A",
+      "explicacion": "Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos. Referencia principal: CE-CORTES, 85.",
+      "fact_id": "PN-T03-F130",
+      "articulo": "85"
+    },
+    {
+      "id": "PN-T03-Q128",
+      "respuesta_correcta": "B",
+      "explicacion": "Si una proposición o enmienda contradice una delegación vigente, el Gobierno puede oponerse a su tramitación. Referencia principal: CE-CORTES, 84.",
+      "fact_id": "PN-T03-F128",
+      "articulo": "84"
+    },
+    {
+      "id": "PN-T03-Q129",
+      "respuesta_correcta": "C",
+      "explicacion": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación. Referencia principal: CE-CORTES, 84.",
+      "fact_id": "PN-T03-F129",
+      "articulo": "84"
+    },
+    {
+      "id": "PN-T03-Q535",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 81.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F117",
+      "articulo": "81.2"
+    },
+    {
+      "id": "PN-T03-Q536",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 82.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F119",
+      "articulo": "82.2"
+    },
+    {
+      "id": "PN-T03-Q534",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 81.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F116",
+      "articulo": "81.1"
+    },
+    {
+      "id": "PN-T03-Q538",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 82.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F121",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q539",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 82.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F123",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q537",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 82.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F120",
+      "articulo": "82.2"
+    },
+    {
+      "id": "PN-T03-Q541",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 85 (CE-CORTES).",
+      "fact_id": "PN-T03-F130",
+      "articulo": "85"
+    },
+    {
+      "id": "PN-T03-Q540",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 83 (CE-CORTES).",
+      "fact_id": "PN-T03-F127",
+      "articulo": "83"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

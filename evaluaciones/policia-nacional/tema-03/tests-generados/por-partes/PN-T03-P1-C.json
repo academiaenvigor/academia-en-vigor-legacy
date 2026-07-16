@@ -1,0 +1,572 @@
+{
+  "id": "PN-T03-P1-C",
+  "titulo": "Tema 3 · Parte 1 · La Corona · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q475",
+      "fact_id": "PN-T03-F008",
+      "bloque": 1,
+      "concepto": "Refrendo del Presidente del Congreso",
+      "articulo": "64.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.»?",
+      "opciones": {
+        "A": "64.1",
+        "B": "56.1",
+        "C": "56.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q476",
+      "fact_id": "PN-T03-F009",
+      "bloque": 1,
+      "concepto": "Responsabilidad del refrendante",
+      "articulo": "64.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «De los actos del Rey responden las personas que los refrendan.»?",
+      "opciones": {
+        "A": "56.1",
+        "B": "64.2",
+        "C": "56.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q474",
+      "fact_id": "PN-T03-F007",
+      "bloque": 1,
+      "concepto": "Refrendo ordinario",
+      "articulo": "64.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.»?",
+      "opciones": {
+        "A": "56.1",
+        "B": "56.2",
+        "C": "64.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q481",
+      "fact_id": "PN-T03-F017",
+      "bloque": 2,
+      "concepto": "Preferencia por edad",
+      "articulo": "57.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En el mismo sexo se prefiere la persona de más edad a la de menos.»?",
+      "opciones": {
+        "A": "57.1",
+        "B": "57.2",
+        "C": "57.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q485",
+      "fact_id": "PN-T03-F023",
+      "bloque": 3,
+      "concepto": "Regencia por minoría de edad",
+      "articulo": "59.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.»?",
+      "opciones": {
+        "A": "59.2",
+        "B": "59.1",
+        "C": "59.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q477",
+      "fact_id": "PN-T03-F013",
+      "bloque": 2,
+      "concepto": "Primogenitura y representación",
+      "articulo": "57.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La sucesión sigue el orden regular de primogenitura y representación.»?",
+      "opciones": {
+        "A": "57.2",
+        "B": "57.3",
+        "C": "57.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q490",
+      "fact_id": "PN-T03-F030",
+      "bloque": 3,
+      "concepto": "Tutor testamentario",
+      "articulo": "60.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento.»?",
+      "opciones": {
+        "A": "60.1",
+        "B": "59.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q494",
+      "fact_id": "PN-T03-F037",
+      "bloque": 4,
+      "concepto": "Sanción y promulgación",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey sancionar y promulgar las leyes.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "62",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q036",
+      "fact_id": "PN-T03-F036",
+      "bloque": 3,
+      "concepto": "Juramento del heredero y regentes",
+      "articulo": "61.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Juramento del heredero y regentes» conforme a 61.2?",
+      "opciones": {
+        "A": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey.",
+        "B": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
+        "C": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q496",
+      "fact_id": "PN-T03-F040",
+      "bloque": 4,
+      "concepto": "Presidente del Gobierno",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.»?",
+      "opciones": {
+        "A": "62",
+        "B": "63.1",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q002",
+      "fact_id": "PN-T03-F002",
+      "bloque": 1,
+      "concepto": "Arbitraje y moderación",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Arbitraje y moderación» conforme a 56.1?",
+      "opciones": {
+        "A": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente."
+      }
+    },
+    {
+      "id": "PN-T03-Q051",
+      "fact_id": "PN-T03-F051",
+      "bloque": 4,
+      "concepto": "Guerra y paz",
+      "articulo": "63.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Guerra y paz» conforme a 63.3?",
+      "opciones": {
+        "A": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.",
+        "B": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "C": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales."
+      }
+    },
+    {
+      "id": "PN-T03-Q001",
+      "fact_id": "PN-T03-F001",
+      "bloque": 1,
+      "concepto": "Jefatura del Estado",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jefatura del Estado» conforme a 56.1?",
+      "opciones": {
+        "A": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q014",
+      "fact_id": "PN-T03-F014",
+      "bloque": 2,
+      "concepto": "Preferencia de líneas",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia de líneas» conforme a 57.1?",
+      "opciones": {
+        "A": "La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
+        "B": "En la sucesión se prefiere siempre la línea anterior a las posteriores.",
+        "C": "En el mismo sexo se prefiere la persona de más edad a la de menos."
+      }
+    },
+    {
+      "id": "PN-T03-Q480",
+      "fact_id": "PN-T03-F016",
+      "bloque": 2,
+      "concepto": "Preferencia por sexo",
+      "articulo": "57.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En el mismo grado se prefiere el varón a la mujer.»?",
+      "opciones": {
+        "A": "57.2",
+        "B": "57.3",
+        "C": "57.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q484",
+      "fact_id": "PN-T03-F022",
+      "bloque": 2,
+      "concepto": "Consorte",
+      "articulo": "58",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia.»?",
+      "opciones": {
+        "A": "58",
+        "B": "57.1",
+        "C": "57.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q488",
+      "fact_id": "PN-T03-F028",
+      "bloque": 3,
+      "concepto": "Requisitos del Regente",
+      "articulo": "59.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Para ejercer la Regencia se exige ser español y mayor de edad.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.4",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q486",
+      "fact_id": "PN-T03-F025",
+      "bloque": 3,
+      "concepto": "Inhabilitación del Rey",
+      "articulo": "59.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.»?",
+      "opciones": {
+        "A": "59.1",
+        "B": "59.3",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q493",
+      "fact_id": "PN-T03-F035",
+      "bloque": 3,
+      "concepto": "Juramento del Rey",
+      "articulo": "61.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías.»?",
+      "opciones": {
+        "A": "61.1",
+        "B": "59.1",
+        "C": "59.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q497",
+      "fact_id": "PN-T03-F041",
+      "bloque": 4,
+      "concepto": "Miembros del Gobierno",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "62",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q495",
+      "fact_id": "PN-T03-F038",
+      "bloque": 4,
+      "concepto": "Convocatoria y disolución",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.»?",
+      "opciones": {
+        "A": "63.1",
+        "B": "63.2",
+        "C": "62"
+      }
+    },
+    {
+      "id": "PN-T03-Q499",
+      "fact_id": "PN-T03-F046",
+      "bloque": 4,
+      "concepto": "Mando supremo",
+      "articulo": "62",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Corresponde al Rey el mando supremo de las Fuerzas Armadas.»?",
+      "opciones": {
+        "A": "62",
+        "B": "63.1",
+        "C": "63.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q483",
+      "fact_id": "PN-T03-F021",
+      "bloque": 2,
+      "concepto": "Abdicaciones y renuncias",
+      "articulo": "57.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las abdicaciones, renuncias y dudas sucesorias se resuelven mediante ley orgánica.»?",
+      "opciones": {
+        "A": "57.1",
+        "B": "57.2",
+        "C": "57.5"
+      }
+    },
+    {
+      "id": "PN-T03-Q004",
+      "fact_id": "PN-T03-F004",
+      "bloque": 1,
+      "concepto": "Título del Rey",
+      "articulo": "56.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Título del Rey» conforme a 56.2?",
+      "opciones": {
+        "A": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "Los actos del Rey carecen de validez sin refrendo, salvo la excepción del artículo 65.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q003",
+      "fact_id": "PN-T03-F003",
+      "bloque": 1,
+      "concepto": "Representación internacional",
+      "articulo": "56.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Representación internacional» conforme a 56.1?",
+      "opciones": {
+        "A": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "B": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "C": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q475",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 64.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F008",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q476",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 64.2 (CE-CORONA).",
+      "fact_id": "PN-T03-F009",
+      "articulo": "64.2"
+    },
+    {
+      "id": "PN-T03-Q474",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 64.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F007",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q481",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 57.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F017",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q485",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 59.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F023",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q477",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 57.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F013",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q490",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 60.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F030",
+      "articulo": "60.1"
+    },
+    {
+      "id": "PN-T03-Q494",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F037",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q036",
+      "respuesta_correcta": "C",
+      "explicacion": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey. Referencia principal: CE-CORONA, 61.2.",
+      "fact_id": "PN-T03-F036",
+      "articulo": "61.2"
+    },
+    {
+      "id": "PN-T03-Q496",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F040",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q002",
+      "respuesta_correcta": "B",
+      "explicacion": "El Rey arbitra y modera el funcionamiento regular de las instituciones. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F002",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q051",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales. Referencia principal: CE-CORONA, 63.3.",
+      "fact_id": "PN-T03-F051",
+      "articulo": "63.3"
+    },
+    {
+      "id": "PN-T03-Q001",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey es el Jefe del Estado y símbolo de la unidad y permanencia de España. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F001",
+      "articulo": "56.1"
+    },
+    {
+      "id": "PN-T03-Q014",
+      "respuesta_correcta": "B",
+      "explicacion": "En la sucesión se prefiere siempre la línea anterior a las posteriores. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F014",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q480",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 57.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F016",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q484",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 58 (CE-CORONA).",
+      "fact_id": "PN-T03-F022",
+      "articulo": "58"
+    },
+    {
+      "id": "PN-T03-Q488",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 59.4 (CE-CORONA).",
+      "fact_id": "PN-T03-F028",
+      "articulo": "59.4"
+    },
+    {
+      "id": "PN-T03-Q486",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 59.2 (CE-CORONA).",
+      "fact_id": "PN-T03-F025",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q493",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 61.1 (CE-CORONA).",
+      "fact_id": "PN-T03-F035",
+      "articulo": "61.1"
+    },
+    {
+      "id": "PN-T03-Q497",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F041",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q495",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F038",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q499",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 62 (CE-CORONA).",
+      "fact_id": "PN-T03-F046",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q483",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 57.5 (CE-CORONA).",
+      "fact_id": "PN-T03-F021",
+      "articulo": "57.5"
+    },
+    {
+      "id": "PN-T03-Q004",
+      "respuesta_correcta": "A",
+      "explicacion": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona. Referencia principal: CE-CORONA, 56.2.",
+      "fact_id": "PN-T03-F004",
+      "articulo": "56.2"
+    },
+    {
+      "id": "PN-T03-Q003",
+      "respuesta_correcta": "C",
+      "explicacion": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica. Referencia principal: CE-CORONA, 56.1.",
+      "fact_id": "PN-T03-F003",
+      "articulo": "56.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

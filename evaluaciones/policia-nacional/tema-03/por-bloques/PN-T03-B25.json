@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-B25",
+  "titulo": "Tema 3 · Bloque 25: Reforma constitucional",
+  "ambito": {
+    "bloques": [
+      25
+    ]
+  },
+  "modo": "aleatorio_sin_repeticion",
+  "numero_preguntas": 20,
+  "banco_version": "0.3.0",
+  "equilibrar_riesgo": true,
+  "maximo_por_hecho": 1
+}

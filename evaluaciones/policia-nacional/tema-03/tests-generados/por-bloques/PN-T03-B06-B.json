@@ -1,0 +1,173 @@
+{
+  "id": "PN-T03-B06-B",
+  "titulo": "Tema 3 · Bloque 6: Congreso, Senado e inelegibilidades · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      6
+    ]
+  },
+  "numero_preguntas": 7,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q509",
+      "fact_id": "PN-T03-F064",
+      "bloque": 6,
+      "concepto": "Mandato del Congreso",
+      "articulo": "68.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.4",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q510",
+      "fact_id": "PN-T03-F067",
+      "bloque": 6,
+      "concepto": "Plazo electoral",
+      "articulo": "68.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las elecciones al Congreso tienen lugar entre los 30 y 60 días desde la terminación del mandato.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.2",
+        "C": "68.6"
+      }
+    },
+    {
+      "id": "PN-T03-Q514",
+      "fact_id": "PN-T03-F071",
+      "bloque": 6,
+      "concepto": "Islas mayores",
+      "articulo": "69.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Cada isla mayor —Gran Canaria, Mallorca y Tenerife— elige tres senadores.»?",
+      "opciones": {
+        "A": "69.3",
+        "B": "68.1",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q512",
+      "fact_id": "PN-T03-F069",
+      "bloque": 6,
+      "concepto": "Naturaleza del Senado",
+      "articulo": "69.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Senado es la Cámara de representación territorial.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "69.1",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q513",
+      "fact_id": "PN-T03-F070",
+      "bloque": 6,
+      "concepto": "Senadores provinciales",
+      "articulo": "69.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.2",
+        "C": "69.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q515",
+      "fact_id": "PN-T03-F073",
+      "bloque": 6,
+      "concepto": "Ceuta y Melilla",
+      "articulo": "69.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Ceuta y Melilla eligen cada una dos senadores.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "69.4",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q516",
+      "fact_id": "PN-T03-F074",
+      "bloque": 6,
+      "concepto": "Senadores autonómicos",
+      "articulo": "69.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.2",
+        "C": "69.5"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q509",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 68.4 (CE-CORTES).",
+      "fact_id": "PN-T03-F064",
+      "articulo": "68.4"
+    },
+    {
+      "id": "PN-T03-Q510",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 68.6 (CE-CORTES).",
+      "fact_id": "PN-T03-F067",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q514",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 69.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F071",
+      "articulo": "69.3"
+    },
+    {
+      "id": "PN-T03-Q512",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 69.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F069",
+      "articulo": "69.1"
+    },
+    {
+      "id": "PN-T03-Q513",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 69.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F070",
+      "articulo": "69.2"
+    },
+    {
+      "id": "PN-T03-Q515",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 69.4 (CE-CORTES).",
+      "fact_id": "PN-T03-F073",
+      "articulo": "69.4"
+    },
+    {
+      "id": "PN-T03-Q516",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 69.5 (CE-CORTES).",
+      "fact_id": "PN-T03-F074",
+      "articulo": "69.5"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

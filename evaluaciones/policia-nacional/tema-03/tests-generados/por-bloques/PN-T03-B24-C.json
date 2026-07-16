@@ -1,0 +1,173 @@
+{
+  "id": "PN-T03-B24-C",
+  "titulo": "Tema 3 · Bloque 24: Tribunal Constitucional · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      24
+    ]
+  },
+  "numero_preguntas": 7,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q720",
+      "fact_id": "PN-T03-F443",
+      "bloque": 24,
+      "concepto": "Cuestión de inconstitucionalidad",
+      "articulo": "163",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Un órgano judicial plantea cuestión cuando una norma con rango de ley aplicable y decisiva para el fallo puede ser contraria a la Constitución.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "163"
+      }
+    },
+    {
+      "id": "PN-T03-Q721",
+      "fact_id": "PN-T03-F446",
+      "bloque": 24,
+      "concepto": "Firmeza de sentencias",
+      "articulo": "164.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sentencias del TC tienen valor de cosa juzgada desde el día siguiente a su publicación y no cabe recurso.»?",
+      "opciones": {
+        "A": "164.1",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q725",
+      "fact_id": "PN-T03-F451",
+      "bloque": 24,
+      "concepto": "Salas",
+      "articulo": "LOTC art. 7",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Constitucional consta de dos Salas de seis magistrados cada una.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "LOTC art. 7",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q723",
+      "fact_id": "PN-T03-F449",
+      "bloque": 24,
+      "concepto": "Reserva de ley orgánica",
+      "articulo": "165",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "165"
+      }
+    },
+    {
+      "id": "PN-T03-Q724",
+      "fact_id": "PN-T03-F450",
+      "bloque": 24,
+      "concepto": "Formas de actuación",
+      "articulo": "LOTC art. 6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Constitucional actúa en Pleno, Sala o Sección.»?",
+      "opciones": {
+        "A": "LOTC art. 6",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q726",
+      "fact_id": "PN-T03-F452",
+      "bloque": 24,
+      "concepto": "Presidencia de las Salas",
+      "articulo": "LOTC art. 7",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda.»?",
+      "opciones": {
+        "A": "159.1",
+        "B": "159.2",
+        "C": "LOTC art. 7"
+      }
+    },
+    {
+      "id": "PN-T03-Q727",
+      "fact_id": "PN-T03-F453",
+      "bloque": 24,
+      "concepto": "Secciones",
+      "articulo": "LOTC art. 8",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados.»?",
+      "opciones": {
+        "A": "LOTC art. 8",
+        "B": "159.1",
+        "C": "159.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q720",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 163 (CE-TC).",
+      "fact_id": "PN-T03-F443",
+      "articulo": "163"
+    },
+    {
+      "id": "PN-T03-Q721",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 164.1 (CE-TC).",
+      "fact_id": "PN-T03-F446",
+      "articulo": "164.1"
+    },
+    {
+      "id": "PN-T03-Q725",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es LOTC art. 7 (LOTC).",
+      "fact_id": "PN-T03-F451",
+      "articulo": "LOTC art. 7"
+    },
+    {
+      "id": "PN-T03-Q723",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 165 (CE-TC).",
+      "fact_id": "PN-T03-F449",
+      "articulo": "165"
+    },
+    {
+      "id": "PN-T03-Q724",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es LOTC art. 6 (LOTC).",
+      "fact_id": "PN-T03-F450",
+      "articulo": "LOTC art. 6"
+    },
+    {
+      "id": "PN-T03-Q726",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es LOTC art. 7 (LOTC).",
+      "fact_id": "PN-T03-F452",
+      "articulo": "LOTC art. 7"
+    },
+    {
+      "id": "PN-T03-Q727",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es LOTC art. 8 (LOTC).",
+      "fact_id": "PN-T03-F453",
+      "articulo": "LOTC art. 8"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B08-A",
+  "titulo": "Tema 3 · Bloque 8: Funcionamiento de las Cámaras · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      8
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q091",
+      "fact_id": "PN-T03-F091",
+      "bloque": 8,
+      "concepto": "Sesiones extraordinarias",
+      "articulo": "73.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sesiones extraordinarias» conforme a 73.2?",
+      "opciones": {
+        "A": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.",
+        "B": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas.",
+        "C": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio."
+      }
+    },
+    {
+      "id": "PN-T03-Q092",
+      "fact_id": "PN-T03-F092",
+      "bloque": 8,
+      "concepto": "Orden del día extraordinario",
+      "articulo": "73.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Orden del día extraordinario» conforme a 73.2?",
+      "opciones": {
+        "A": "El voto de senadores y diputados es personal e indelegable.",
+        "B": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo.",
+        "C": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q090",
+      "fact_id": "PN-T03-F090",
+      "bloque": 8,
+      "concepto": "Períodos ordinarios",
+      "articulo": "73.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Períodos ordinarios» conforme a 73.1?",
+      "opciones": {
+        "A": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios.",
+        "B": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "C": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio."
+      }
+    },
+    {
+      "id": "PN-T03-Q094",
+      "fact_id": "PN-T03-F094",
+      "bloque": 8,
+      "concepto": "Decisiones bicamerales especiales",
+      "articulo": "74.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Decisiones bicamerales especiales» conforme a 74.2?",
+      "opciones": {
+        "A": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara.",
+        "B": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.",
+        "C": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado."
+      }
+    },
+    {
+      "id": "PN-T03-Q095",
+      "fact_id": "PN-T03-F095",
+      "bloque": 8,
+      "concepto": "Inicio del procedimiento bicameral",
+      "articulo": "74.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inicio del procedimiento bicameral» conforme a 74.2?",
+      "opciones": {
+        "A": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "B": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.",
+        "C": "El resultado de una investigación parlamentaria puede comunicarse al Ministerio Fiscal para el ejercicio de acciones oportunas."
+      }
+    },
+    {
+      "id": "PN-T03-Q093",
+      "fact_id": "PN-T03-F093",
+      "bloque": 8,
+      "concepto": "Sesión conjunta",
+      "articulo": "74.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sesión conjunta» conforme a 74.1?",
+      "opciones": {
+        "A": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.",
+        "B": "Las Cámaras funcionan en Pleno y por Comisiones.",
+        "C": "Las Cámaras se reúnen conjuntamente para ejercer las competencias no legislativas que el Título II atribuye a las Cortes."
+      }
+    },
+    {
+      "id": "PN-T03-Q097",
+      "fact_id": "PN-T03-F097",
+      "bloque": 8,
+      "concepto": "Pleno y Comisiones",
+      "articulo": "75.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Pleno y Comisiones» conforme a 75.1?",
+      "opciones": {
+        "A": "Las Cámaras funcionan en Pleno y por Comisiones.",
+        "B": "Es obligatorio comparecer a requerimiento de las Cámaras; la ley regula sanciones por incumplimiento.",
+        "C": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas."
+      }
+    },
+    {
+      "id": "PN-T03-Q098",
+      "fact_id": "PN-T03-F098",
+      "bloque": 8,
+      "concepto": "Delegación en comisiones",
+      "articulo": "75.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación en comisiones» conforme a 75.2?",
+      "opciones": {
+        "A": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "B": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "C": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+      }
+    },
+    {
+      "id": "PN-T03-Q096",
+      "fact_id": "PN-T03-F096",
+      "bloque": 8,
+      "concepto": "Comisión Mixta",
+      "articulo": "74.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisión Mixta» conforme a 74.2?",
+      "opciones": {
+        "A": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
+        "B": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas.",
+        "C": "Si no hay acuerdo entre Cámaras en esos supuestos, interviene una Comisión Mixta de igual número de diputados y senadores."
+      }
+    },
+    {
+      "id": "PN-T03-Q100",
+      "fact_id": "PN-T03-F100",
+      "bloque": 8,
+      "concepto": "Avocación por el Pleno",
+      "articulo": "75.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Avocación por el Pleno» conforme a 75.2?",
+      "opciones": {
+        "A": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado.",
+        "B": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "C": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo."
+      }
+    },
+    {
+      "id": "PN-T03-Q101",
+      "fact_id": "PN-T03-F101",
+      "bloque": 8,
+      "concepto": "Comisiones de investigación",
+      "articulo": "76.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisiones de investigación» conforme a 76.1?",
+      "opciones": {
+        "A": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio.",
+        "B": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
+        "C": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q099",
+      "fact_id": "PN-T03-F099",
+      "bloque": 8,
+      "concepto": "Materias indelegables",
+      "articulo": "75.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Materias indelegables» conforme a 75.2?",
+      "opciones": {
+        "A": "Expirado el mandato o disuelta la Cámara, la Diputación Permanente continúa hasta la constitución de la nueva Cámara.",
+        "B": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento.",
+        "C": "No puede delegarse en comisiones la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases ni los Presupuestos Generales."
+      }
+    },
+    {
+      "id": "PN-T03-Q103",
+      "fact_id": "PN-T03-F103",
+      "bloque": 8,
+      "concepto": "Comunicación al Ministerio Fiscal",
+      "articulo": "76.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comunicación al Ministerio Fiscal» conforme a 76.1?",
+      "opciones": {
+        "A": "El resultado de una investigación parlamentaria puede comunicarse al Ministerio Fiscal para el ejercicio de acciones oportunas.",
+        "B": "Si no hay acuerdo entre Cámaras en esos supuestos, interviene una Comisión Mixta de igual número de diputados y senadores.",
+        "C": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público."
+      }
+    },
+    {
+      "id": "PN-T03-Q104",
+      "fact_id": "PN-T03-F104",
+      "bloque": 8,
+      "concepto": "Comparecencia obligatoria",
+      "articulo": "76.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comparecencia obligatoria» conforme a 76.2?",
+      "opciones": {
+        "A": "No puede delegarse en comisiones la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases ni los Presupuestos Generales.",
+        "B": "Es obligatorio comparecer a requerimiento de las Cámaras; la ley regula sanciones por incumplimiento.",
+        "C": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito."
+      }
+    },
+    {
+      "id": "PN-T03-Q102",
+      "fact_id": "PN-T03-F102",
+      "bloque": 8,
+      "concepto": "Conclusiones de investigación",
+      "articulo": "76.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Conclusiones de investigación» conforme a 76.1?",
+      "opciones": {
+        "A": "Las Cámaras se reúnen conjuntamente para ejercer las competencias no legislativas que el Título II atribuye a las Cortes.",
+        "B": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "C": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales."
+      }
+    },
+    {
+      "id": "PN-T03-Q106",
+      "fact_id": "PN-T03-F106",
+      "bloque": 8,
+      "concepto": "Peticiones mediante manifestación",
+      "articulo": "77.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Peticiones mediante manifestación» conforme a 77.1?",
+      "opciones": {
+        "A": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas.",
+        "B": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito.",
+        "C": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q107",
+      "fact_id": "PN-T03-F107",
+      "bloque": 8,
+      "concepto": "Remisión de peticiones",
+      "articulo": "77.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Remisión de peticiones» conforme a 77.2?",
+      "opciones": {
+        "A": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.",
+        "B": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "C": "El voto de senadores y diputados es personal e indelegable."
+      }
+    },
+    {
+      "id": "PN-T03-Q105",
+      "fact_id": "PN-T03-F105",
+      "bloque": 8,
+      "concepto": "Peticiones a las Cámaras",
+      "articulo": "77.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Peticiones a las Cámaras» conforme a 77.1?",
+      "opciones": {
+        "A": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales.",
+        "B": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios.",
+        "C": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito."
+      }
+    },
+    {
+      "id": "PN-T03-Q109",
+      "fact_id": "PN-T03-F109",
+      "bloque": 8,
+      "concepto": "Funciones de Diputación Permanente",
+      "articulo": "78.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones de Diputación Permanente» conforme a 78.2?",
+      "opciones": {
+        "A": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.",
+        "B": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento.",
+        "C": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q110",
+      "fact_id": "PN-T03-F110",
+      "bloque": 8,
+      "concepto": "Permanencia tras disolución",
+      "articulo": "78.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Permanencia tras disolución» conforme a 78.3?",
+      "opciones": {
+        "A": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo.",
+        "B": "Expirado el mandato o disuelta la Cámara, la Diputación Permanente continúa hasta la constitución de la nueva Cámara.",
+        "C": "Las Cámaras funcionan en Pleno y por Comisiones."
+      }
+    },
+    {
+      "id": "PN-T03-Q108",
+      "fact_id": "PN-T03-F108",
+      "bloque": 8,
+      "concepto": "Composición de Diputación Permanente",
+      "articulo": "78.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Composición de Diputación Permanente» conforme a 78.1?",
+      "opciones": {
+        "A": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.",
+        "B": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.",
+        "C": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios."
+      }
+    },
+    {
+      "id": "PN-T03-Q112",
+      "fact_id": "PN-T03-F112",
+      "bloque": 8,
+      "concepto": "Quórum",
+      "articulo": "79.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Quórum» conforme a 79.1?",
+      "opciones": {
+        "A": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.",
+        "B": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "C": "El resultado de una investigación parlamentaria puede comunicarse al Ministerio Fiscal para el ejercicio de acciones oportunas."
+      }
+    },
+    {
+      "id": "PN-T03-Q113",
+      "fact_id": "PN-T03-F113",
+      "bloque": 8,
+      "concepto": "Mayoría ordinaria",
+      "articulo": "79.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría ordinaria» conforme a 79.2?",
+      "opciones": {
+        "A": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
+        "B": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "C": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas."
+      }
+    },
+    {
+      "id": "PN-T03-Q111",
+      "fact_id": "PN-T03-F111",
+      "bloque": 8,
+      "concepto": "Rendición de cuentas",
+      "articulo": "78.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Rendición de cuentas» conforme a 78.4?",
+      "opciones": {
+        "A": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.",
+        "B": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado.",
+        "C": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q115",
+      "fact_id": "PN-T03-F115",
+      "bloque": 8,
+      "concepto": "Publicidad de sesiones",
+      "articulo": "80",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Publicidad de sesiones» conforme a 80?",
+      "opciones": {
+        "A": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento.",
+        "B": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "C": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q091",
+      "respuesta_correcta": "A",
+      "explicacion": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara. Referencia principal: CE-CORTES, 73.2.",
+      "fact_id": "PN-T03-F091",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q092",
+      "respuesta_correcta": "B",
+      "explicacion": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo. Referencia principal: CE-CORTES, 73.2.",
+      "fact_id": "PN-T03-F092",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q090",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio. Referencia principal: CE-CORTES, 73.1.",
+      "fact_id": "PN-T03-F090",
+      "articulo": "73.1"
+    },
+    {
+      "id": "PN-T03-Q094",
+      "respuesta_correcta": "A",
+      "explicacion": "Las decisiones de los artículos 94.1, 145.2 y 158.2 requieren mayoría de cada Cámara. Referencia principal: CE-CORTES, 74.2.",
+      "fact_id": "PN-T03-F094",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q095",
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado. Referencia principal: CE-CORTES, 74.2.",
+      "fact_id": "PN-T03-F095",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q093",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras se reúnen conjuntamente para ejercer las competencias no legislativas que el Título II atribuye a las Cortes. Referencia principal: CE-CORTES, 74.1.",
+      "fact_id": "PN-T03-F093",
+      "articulo": "74.1"
+    },
+    {
+      "id": "PN-T03-Q097",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cámaras funcionan en Pleno y por Comisiones. Referencia principal: CE-CORTES, 75.1.",
+      "fact_id": "PN-T03-F097",
+      "articulo": "75.1"
+    },
+    {
+      "id": "PN-T03-Q098",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley. Referencia principal: CE-CORTES, 75.2.",
+      "fact_id": "PN-T03-F098",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q096",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay acuerdo entre Cámaras en esos supuestos, interviene una Comisión Mixta de igual número de diputados y senadores. Referencia principal: CE-CORTES, 74.2.",
+      "fact_id": "PN-T03-F096",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q100",
+      "respuesta_correcta": "A",
+      "explicacion": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado. Referencia principal: CE-CORTES, 75.2.",
+      "fact_id": "PN-T03-F100",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q101",
+      "respuesta_correcta": "B",
+      "explicacion": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público. Referencia principal: CE-CORTES, 76.1.",
+      "fact_id": "PN-T03-F101",
+      "articulo": "76.1"
+    },
+    {
+      "id": "PN-T03-Q099",
+      "respuesta_correcta": "C",
+      "explicacion": "No puede delegarse en comisiones la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases ni los Presupuestos Generales. Referencia principal: CE-CORTES, 75.2.",
+      "fact_id": "PN-T03-F099",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q103",
+      "respuesta_correcta": "A",
+      "explicacion": "El resultado de una investigación parlamentaria puede comunicarse al Ministerio Fiscal para el ejercicio de acciones oportunas. Referencia principal: CE-CORTES, 76.1.",
+      "fact_id": "PN-T03-F103",
+      "articulo": "76.1"
+    },
+    {
+      "id": "PN-T03-Q104",
+      "respuesta_correcta": "B",
+      "explicacion": "Es obligatorio comparecer a requerimiento de las Cámaras; la ley regula sanciones por incumplimiento. Referencia principal: CE-CORTES, 76.2.",
+      "fact_id": "PN-T03-F104",
+      "articulo": "76.2"
+    },
+    {
+      "id": "PN-T03-Q102",
+      "respuesta_correcta": "C",
+      "explicacion": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales. Referencia principal: CE-CORTES, 76.1.",
+      "fact_id": "PN-T03-F102",
+      "articulo": "76.1"
+    },
+    {
+      "id": "PN-T03-Q106",
+      "respuesta_correcta": "A",
+      "explicacion": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas. Referencia principal: CE-CORTES, 77.1.",
+      "fact_id": "PN-T03-F106",
+      "articulo": "77.1"
+    },
+    {
+      "id": "PN-T03-Q107",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen. Referencia principal: CE-CORTES, 77.2.",
+      "fact_id": "PN-T03-F107",
+      "articulo": "77.2"
+    },
+    {
+      "id": "PN-T03-Q105",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito. Referencia principal: CE-CORTES, 77.1.",
+      "fact_id": "PN-T03-F105",
+      "articulo": "77.1"
+    },
+    {
+      "id": "PN-T03-Q109",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas. Referencia principal: CE-CORTES, 78.2.",
+      "fact_id": "PN-T03-F109",
+      "articulo": "78.2"
+    },
+    {
+      "id": "PN-T03-Q110",
+      "respuesta_correcta": "B",
+      "explicacion": "Expirado el mandato o disuelta la Cámara, la Diputación Permanente continúa hasta la constitución de la nueva Cámara. Referencia principal: CE-CORTES, 78.3.",
+      "fact_id": "PN-T03-F110",
+      "articulo": "78.3"
+    },
+    {
+      "id": "PN-T03-Q108",
+      "respuesta_correcta": "C",
+      "explicacion": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios. Referencia principal: CE-CORTES, 78.1.",
+      "fact_id": "PN-T03-F108",
+      "articulo": "78.1"
+    },
+    {
+      "id": "PN-T03-Q112",
+      "respuesta_correcta": "A",
+      "explicacion": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros. Referencia principal: CE-CORTES, 79.1.",
+      "fact_id": "PN-T03-F112",
+      "articulo": "79.1"
+    },
+    {
+      "id": "PN-T03-Q113",
+      "respuesta_correcta": "B",
+      "explicacion": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales. Referencia principal: CE-CORTES, 79.2.",
+      "fact_id": "PN-T03-F113",
+      "articulo": "79.2"
+    },
+    {
+      "id": "PN-T03-Q111",
+      "respuesta_correcta": "C",
+      "explicacion": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas. Referencia principal: CE-CORTES, 78.4.",
+      "fact_id": "PN-T03-F111",
+      "articulo": "78.4"
+    },
+    {
+      "id": "PN-T03-Q115",
+      "respuesta_correcta": "A",
+      "explicacion": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento. Referencia principal: CE-CORTES, 80.",
+      "fact_id": "PN-T03-F115",
+      "articulo": "80"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

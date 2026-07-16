@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-B05",
+  "titulo": "Tema 3 · Bloque 5: Cortes Generales: naturaleza, funciones y mandato representativo",
+  "ambito": {
+    "bloques": [
+      5
+    ]
+  },
+  "modo": "aleatorio_sin_repeticion",
+  "numero_preguntas": 11,
+  "banco_version": "0.3.0",
+  "equilibrar_riesgo": true,
+  "maximo_por_hecho": 1
+}

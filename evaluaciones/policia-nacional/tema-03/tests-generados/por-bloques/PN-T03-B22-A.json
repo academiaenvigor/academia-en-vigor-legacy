@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B22-A",
+  "titulo": "Tema 3 · Bloque 22: Artículo 150 y organización institucional autonómica · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      22
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q379",
+      "fact_id": "PN-T03-F379",
+      "bloque": 22,
+      "concepto": "Control de leyes marco",
+      "articulo": "150.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control de leyes marco» conforme a 150.1?",
+      "opciones": {
+        "A": "La ley marco establece la modalidad de control de las Cortes sobre las normas autonómicas, sin perjuicio de los tribunales.",
+        "B": "Los requisitos municipales de la vía especial deben cumplirse dentro de seis meses desde el primer acuerdo.",
+        "C": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q380",
+      "fact_id": "PN-T03-F380",
+      "bloque": 22,
+      "concepto": "Transferencia o delegación",
+      "articulo": "150.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Transferencia o delegación» conforme a 150.2?",
+      "opciones": {
+        "A": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.",
+        "B": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q378",
+      "fact_id": "PN-T03-F378",
+      "bloque": 22,
+      "concepto": "Leyes marco",
+      "articulo": "150.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Leyes marco» conforme a 150.1?",
+      "opciones": {
+        "A": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.",
+        "B": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto.",
+        "C": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal."
+      }
+    },
+    {
+      "id": "PN-T03-Q382",
+      "fact_id": "PN-T03-F382",
+      "bloque": 22,
+      "concepto": "Leyes de armonización",
+      "articulo": "150.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Leyes de armonización» conforme a 150.3?",
+      "opciones": {
+        "A": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.",
+        "B": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "C": "El Presidente y el Consejo responden políticamente ante la Asamblea."
+      }
+    },
+    {
+      "id": "PN-T03-Q383",
+      "fact_id": "PN-T03-F383",
+      "bloque": 22,
+      "concepto": "Mayoría para armonización",
+      "articulo": "150.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para armonización» conforme a 150.3?",
+      "opciones": {
+        "A": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "B": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara.",
+        "C": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica."
+      }
+    },
+    {
+      "id": "PN-T03-Q381",
+      "fact_id": "PN-T03-F381",
+      "bloque": 22,
+      "concepto": "Medios y controles de transferencia",
+      "articulo": "150.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medios y controles de transferencia» conforme a 150.2?",
+      "opciones": {
+        "A": "El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia.",
+        "B": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas.",
+        "C": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal."
+      }
+    },
+    {
+      "id": "PN-T03-Q385",
+      "fact_id": "PN-T03-F385",
+      "bloque": 22,
+      "concepto": "Plazo de vía especial",
+      "articulo": "151.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de vía especial» conforme a 151.1?",
+      "opciones": {
+        "A": "Los requisitos municipales de la vía especial deben cumplirse dentro de seis meses desde el primer acuerdo.",
+        "B": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal.",
+        "C": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q386",
+      "fact_id": "PN-T03-F386",
+      "bloque": 22,
+      "concepto": "Referéndum de iniciativa",
+      "articulo": "151.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum de iniciativa» conforme a 151.1?",
+      "opciones": {
+        "A": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "B": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum.",
+        "C": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto."
+      }
+    },
+    {
+      "id": "PN-T03-Q384",
+      "fact_id": "PN-T03-F384",
+      "bloque": 22,
+      "concepto": "Iniciativa autonómica especial",
+      "articulo": "151.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica especial» conforme a 151.1?",
+      "opciones": {
+        "A": "Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo.",
+        "B": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.",
+        "C": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q388",
+      "fact_id": "PN-T03-F388",
+      "bloque": 22,
+      "concepto": "Mayoría del proyecto especial",
+      "articulo": "151.2.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría del proyecto especial» conforme a 151.2.1?",
+      "opciones": {
+        "A": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.",
+        "B": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q389",
+      "fact_id": "PN-T03-F389",
+      "bloque": 22,
+      "concepto": "Comisión Constitucional",
+      "articulo": "151.2.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisión Constitucional» conforme a 151.2.2?",
+      "opciones": {
+        "A": "El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia.",
+        "B": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente.",
+        "C": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q387",
+      "fact_id": "PN-T03-F387",
+      "bloque": 22,
+      "concepto": "Asamblea de parlamentarios",
+      "articulo": "151.2.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asamblea de parlamentarios» conforme a 151.2.1?",
+      "opciones": {
+        "A": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia.",
+        "B": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas.",
+        "C": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto."
+      }
+    },
+    {
+      "id": "PN-T03-Q391",
+      "fact_id": "PN-T03-F391",
+      "bloque": 22,
+      "concepto": "Aprobación provincial",
+      "articulo": "151.2.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aprobación provincial» conforme a 151.2.4?",
+      "opciones": {
+        "A": "El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia.",
+        "B": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "C": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica."
+      }
+    },
+    {
+      "id": "PN-T03-Q392",
+      "fact_id": "PN-T03-F392",
+      "bloque": 22,
+      "concepto": "Ratificación de las Cortes",
+      "articulo": "151.2.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ratificación de las Cortes» conforme a 151.2.4?",
+      "opciones": {
+        "A": "Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo.",
+        "B": "Los Plenos de ambas Cámaras deciden mediante voto de ratificación y el Rey sanciona y promulga el Estatuto.",
+        "C": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza."
+      }
+    },
+    {
+      "id": "PN-T03-Q390",
+      "fact_id": "PN-T03-F390",
+      "bloque": 22,
+      "concepto": "Referéndum del texto acordado",
+      "articulo": "151.2.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum del texto acordado» conforme a 151.2.3?",
+      "opciones": {
+        "A": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "B": "El Presidente y el Consejo responden políticamente ante la Asamblea.",
+        "C": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q394",
+      "fact_id": "PN-T03-F394",
+      "bloque": 22,
+      "concepto": "Fracaso provincial parcial",
+      "articulo": "151.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Fracaso provincial parcial» conforme a 151.3?",
+      "opciones": {
+        "A": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica.",
+        "B": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "C": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q395",
+      "fact_id": "PN-T03-F395",
+      "bloque": 22,
+      "concepto": "Asamblea legislativa autonómica",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asamblea legislativa autonómica» conforme a 152.1?",
+      "opciones": {
+        "A": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia.",
+        "B": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios.",
+        "C": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente."
+      }
+    },
+    {
+      "id": "PN-T03-Q393",
+      "fact_id": "PN-T03-F393",
+      "bloque": 22,
+      "concepto": "Falta de acuerdo",
+      "articulo": "151.2.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Falta de acuerdo» conforme a 151.2.5?",
+      "opciones": {
+        "A": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal.",
+        "B": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q397",
+      "fact_id": "PN-T03-F397",
+      "bloque": 22,
+      "concepto": "Presidente autonómico",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente autonómico» conforme a 152.1?",
+      "opciones": {
+        "A": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "B": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas.",
+        "C": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios."
+      }
+    },
+    {
+      "id": "PN-T03-Q398",
+      "fact_id": "PN-T03-F398",
+      "bloque": 22,
+      "concepto": "Funciones del Presidente autonómico",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones del Presidente autonómico» conforme a 152.1?",
+      "opciones": {
+        "A": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum.",
+        "B": "El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella.",
+        "C": "El Presidente y el Consejo responden políticamente ante la Asamblea."
+      }
+    },
+    {
+      "id": "PN-T03-Q396",
+      "fact_id": "PN-T03-F396",
+      "bloque": 22,
+      "concepto": "Consejo de Gobierno autonómico",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consejo de Gobierno autonómico» conforme a 152.1?",
+      "opciones": {
+        "A": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto.",
+        "B": "Los Plenos de ambas Cámaras deciden mediante voto de ratificación y el Rey sanciona y promulga el Estatuto.",
+        "C": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q400",
+      "fact_id": "PN-T03-F400",
+      "bloque": 22,
+      "concepto": "Tribunal Superior de Justicia",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tribunal Superior de Justicia» conforme a 152.1?",
+      "opciones": {
+        "A": "Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo.",
+        "B": "El Presidente y el Consejo responden políticamente ante la Asamblea.",
+        "C": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza."
+      }
+    },
+    {
+      "id": "PN-T03-Q401",
+      "fact_id": "PN-T03-F401",
+      "bloque": 22,
+      "concepto": "Reforma estatutaria especial",
+      "articulo": "152.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reforma estatutaria especial» conforme a 152.2?",
+      "opciones": {
+        "A": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal.",
+        "B": "La reforma de estos Estatutos requiere los procedimientos previstos y referéndum entre electores inscritos.",
+        "C": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q399",
+      "fact_id": "PN-T03-F399",
+      "bloque": 22,
+      "concepto": "Responsabilidad política autonómica",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad política autonómica» conforme a 152.1?",
+      "opciones": {
+        "A": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas.",
+        "B": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica.",
+        "C": "El Presidente y el Consejo responden políticamente ante la Asamblea."
+      }
+    },
+    {
+      "id": "PN-T03-Q679",
+      "fact_id": "PN-T03-F380",
+      "bloque": 22,
+      "concepto": "Transferencia o delegación",
+      "articulo": "150.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.»?",
+      "opciones": {
+        "A": "150.2",
+        "B": "150.1",
+        "C": "150.3"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q379",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley marco establece la modalidad de control de las Cortes sobre las normas autonómicas, sin perjuicio de los tribunales. Referencia principal: CE-TERRITORIAL, 150.1.",
+      "fact_id": "PN-T03-F379",
+      "articulo": "150.1"
+    },
+    {
+      "id": "PN-T03-Q380",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza. Referencia principal: CE-TERRITORIAL, 150.2.",
+      "fact_id": "PN-T03-F380",
+      "articulo": "150.2"
+    },
+    {
+      "id": "PN-T03-Q378",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes pueden atribuir a comunidades la facultad de dictar normas legislativas dentro de principios, bases y directrices de una ley estatal. Referencia principal: CE-TERRITORIAL, 150.1.",
+      "fact_id": "PN-T03-F378",
+      "articulo": "150.1"
+    },
+    {
+      "id": "PN-T03-Q382",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general. Referencia principal: CE-TERRITORIAL, 150.3.",
+      "fact_id": "PN-T03-F382",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q383",
+      "respuesta_correcta": "B",
+      "explicacion": "La necesidad de armonización debe ser apreciada por mayoría absoluta de cada Cámara. Referencia principal: CE-TERRITORIAL, 150.3.",
+      "fact_id": "PN-T03-F383",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q381",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal. Referencia principal: CE-TERRITORIAL, 150.2.",
+      "fact_id": "PN-T03-F381",
+      "articulo": "150.2"
+    },
+    {
+      "id": "PN-T03-Q385",
+      "respuesta_correcta": "A",
+      "explicacion": "Los requisitos municipales de la vía especial deben cumplirse dentro de seis meses desde el primer acuerdo. Referencia principal: CE-TERRITORIAL, 151.1.",
+      "fact_id": "PN-T03-F385",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q386",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum. Referencia principal: CE-TERRITORIAL, 151.1.",
+      "fact_id": "PN-T03-F386",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q384",
+      "respuesta_correcta": "C",
+      "explicacion": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia. Referencia principal: CE-TERRITORIAL, 151.1.",
+      "fact_id": "PN-T03-F384",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q388",
+      "respuesta_correcta": "A",
+      "explicacion": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros. Referencia principal: CE-TERRITORIAL, 151.2.1.",
+      "fact_id": "PN-T03-F388",
+      "articulo": "151.2.1"
+    },
+    {
+      "id": "PN-T03-Q389",
+      "respuesta_correcta": "B",
+      "explicacion": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente. Referencia principal: CE-TERRITORIAL, 151.2.2.",
+      "fact_id": "PN-T03-F389",
+      "articulo": "151.2.2"
+    },
+    {
+      "id": "PN-T03-Q387",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto. Referencia principal: CE-TERRITORIAL, 151.2.1.",
+      "fact_id": "PN-T03-F387",
+      "articulo": "151.2.1"
+    },
+    {
+      "id": "PN-T03-Q391",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia. Referencia principal: CE-TERRITORIAL, 151.2.4.",
+      "fact_id": "PN-T03-F391",
+      "articulo": "151.2.4"
+    },
+    {
+      "id": "PN-T03-Q392",
+      "respuesta_correcta": "B",
+      "explicacion": "Los Plenos de ambas Cámaras deciden mediante voto de ratificación y el Rey sanciona y promulga el Estatuto. Referencia principal: CE-TERRITORIAL, 151.2.4.",
+      "fact_id": "PN-T03-F392",
+      "articulo": "151.2.4"
+    },
+    {
+      "id": "PN-T03-Q390",
+      "respuesta_correcta": "C",
+      "explicacion": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas. Referencia principal: CE-TERRITORIAL, 151.2.3.",
+      "fact_id": "PN-T03-F390",
+      "articulo": "151.2.3"
+    },
+    {
+      "id": "PN-T03-Q394",
+      "respuesta_correcta": "A",
+      "explicacion": "La falta de aprobación en una o varias provincias no impide la constitución de la comunidad por las restantes en los términos de ley orgánica. Referencia principal: CE-TERRITORIAL, 151.3.",
+      "fact_id": "PN-T03-F394",
+      "articulo": "151.3"
+    },
+    {
+      "id": "PN-T03-Q395",
+      "respuesta_correcta": "B",
+      "explicacion": "La organización autonómica especial se basa en una asamblea elegida por sufragio universal y representación proporcional que asegure territorios. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F395",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q393",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum. Referencia principal: CE-TERRITORIAL, 151.2.5.",
+      "fact_id": "PN-T03-F393",
+      "articulo": "151.2.5"
+    },
+    {
+      "id": "PN-T03-Q397",
+      "respuesta_correcta": "A",
+      "explicacion": "El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F397",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q398",
+      "respuesta_correcta": "B",
+      "explicacion": "El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F398",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q396",
+      "respuesta_correcta": "C",
+      "explicacion": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F396",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q400",
+      "respuesta_correcta": "A",
+      "explicacion": "Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F400",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q401",
+      "respuesta_correcta": "B",
+      "explicacion": "La reforma de estos Estatutos requiere los procedimientos previstos y referéndum entre electores inscritos. Referencia principal: CE-TERRITORIAL, 152.2.",
+      "fact_id": "PN-T03-F401",
+      "articulo": "152.2"
+    },
+    {
+      "id": "PN-T03-Q399",
+      "respuesta_correcta": "C",
+      "explicacion": "El Presidente y el Consejo responden políticamente ante la Asamblea. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F399",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q679",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 150.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F380",
+      "articulo": "150.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

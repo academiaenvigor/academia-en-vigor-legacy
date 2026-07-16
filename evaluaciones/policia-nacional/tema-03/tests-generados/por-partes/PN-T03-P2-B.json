@@ -1,0 +1,575 @@
+{
+  "id": "PN-T03-P2-B",
+  "titulo": "Tema 3 · Parte 2 · Cortes y producción normativa · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q502",
+      "fact_id": "PN-T03-F052",
+      "bloque": 5,
+      "concepto": "Representación popular",
+      "articulo": "66.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "66.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q503",
+      "fact_id": "PN-T03-F053",
+      "bloque": 5,
+      "concepto": "Funciones de las Cortes",
+      "articulo": "66.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "66.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q504",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Nadie puede ser miembro simultáneamente del Congreso y del Senado.»?",
+      "opciones": {
+        "A": "66.1",
+        "B": "66.2",
+        "C": "67.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q070",
+      "fact_id": "PN-T03-F070",
+      "bloque": 6,
+      "concepto": "Senadores provinciales",
+      "articulo": "69.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Senadores provinciales» conforme a 69.2?",
+      "opciones": {
+        "A": "En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto.",
+        "B": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España.",
+        "C": "Cada isla o agrupación menor prevista constitucionalmente elige un senador."
+      }
+    },
+    {
+      "id": "PN-T03-Q065",
+      "fact_id": "PN-T03-F065",
+      "bloque": 6,
+      "concepto": "Electores y elegibles",
+      "articulo": "68.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Electores y elegibles» conforme a 68.5?",
+      "opciones": {
+        "A": "Cada isla o agrupación menor prevista constitucionalmente elige un senador.",
+        "B": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos.",
+        "C": "La ley electoral determina causas de inelegibilidad e incompatibilidad de diputados y senadores."
+      }
+    },
+    {
+      "id": "PN-T03-Q066",
+      "fact_id": "PN-T03-F066",
+      "bloque": 6,
+      "concepto": "Voto exterior",
+      "articulo": "68.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Voto exterior» conforme a 68.5?",
+      "opciones": {
+        "A": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional.",
+        "B": "El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados.",
+        "C": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España."
+      }
+    },
+    {
+      "id": "PN-T03-Q517",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "71.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q086",
+      "fact_id": "PN-T03-F086",
+      "bloque": 7,
+      "concepto": "Mayoría para reglamentos",
+      "articulo": "72.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para reglamentos» conforme a 72.1?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q087",
+      "fact_id": "PN-T03-F087",
+      "bloque": 7,
+      "concepto": "Presidentes y Mesas",
+      "articulo": "72.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidentes y Mesas» conforme a 72.2?",
+      "opciones": {
+        "A": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "B": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "C": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas."
+      }
+    },
+    {
+      "id": "PN-T03-Q100",
+      "fact_id": "PN-T03-F100",
+      "bloque": 8,
+      "concepto": "Avocación por el Pleno",
+      "articulo": "75.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Avocación por el Pleno» conforme a 75.2?",
+      "opciones": {
+        "A": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado.",
+        "B": "Los acuerdos son válidos cuando los aprueba la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "C": "Las sesiones extraordinarias se convocan sobre un orden del día determinado y se clausuran al agotarlo."
+      }
+    },
+    {
+      "id": "PN-T03-Q098",
+      "fact_id": "PN-T03-F098",
+      "bloque": 8,
+      "concepto": "Delegación en comisiones",
+      "articulo": "75.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación en comisiones» conforme a 75.2?",
+      "opciones": {
+        "A": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "B": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "C": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+      }
+    },
+    {
+      "id": "PN-T03-Q096",
+      "fact_id": "PN-T03-F096",
+      "bloque": 8,
+      "concepto": "Comisión Mixta",
+      "articulo": "74.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisión Mixta» conforme a 74.2?",
+      "opciones": {
+        "A": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
+        "B": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas.",
+        "C": "Si no hay acuerdo entre Cámaras en esos supuestos, interviene una Comisión Mixta de igual número de diputados y senadores."
+      }
+    },
+    {
+      "id": "PN-T03-Q127",
+      "fact_id": "PN-T03-F127",
+      "bloque": 9,
+      "concepto": "Límites de las leyes de bases",
+      "articulo": "83",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites de las leyes de bases» conforme a 83?",
+      "opciones": {
+        "A": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "B": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.",
+        "C": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo."
+      }
+    },
+    {
+      "id": "PN-T03-Q122",
+      "fact_id": "PN-T03-F122",
+      "bloque": 9,
+      "concepto": "Agotamiento de la delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agotamiento de la delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos.",
+        "B": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente.",
+        "C": "La delegación para refundir textos legales se otorga mediante ley ordinaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q123",
+      "fact_id": "PN-T03-F123",
+      "bloque": 9,
+      "concepto": "Prohibiciones de delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Prohibiciones de delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "B": "La ley de bases delimita con precisión objeto, alcance, principios y criterios de la delegación.",
+        "C": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q142",
+      "fact_id": "PN-T03-F142",
+      "bloque": 10,
+      "concepto": "Proyectos de ley",
+      "articulo": "88",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proyectos de ley» conforme a 88?",
+      "opciones": {
+        "A": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes.",
+        "B": "El veto del Senado requiere mayoría absoluta.",
+        "C": "El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación."
+      }
+    },
+    {
+      "id": "PN-T03-Q137",
+      "fact_id": "PN-T03-F137",
+      "bloque": 10,
+      "concepto": "Titulares de iniciativa",
+      "articulo": "87.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Titulares de iniciativa» conforme a 87.1?",
+      "opciones": {
+        "A": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "B": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "C": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q138",
+      "fact_id": "PN-T03-F138",
+      "bloque": 10,
+      "concepto": "Iniciativa autonómica",
+      "articulo": "87.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica» conforme a 87.2?",
+      "opciones": {
+        "A": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "B": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.",
+        "C": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q166",
+      "fact_id": "PN-T03-F166",
+      "bloque": 11,
+      "concepto": "Modificación de tratados",
+      "articulo": "96.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Modificación de tratados» conforme a 96.1?",
+      "opciones": {
+        "A": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional.",
+        "B": "Mediante ley orgánica puede autorizarse un tratado que atribuya a una organización internacional competencias derivadas de la Constitución.",
+        "C": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q164",
+      "fact_id": "PN-T03-F164",
+      "bloque": 11,
+      "concepto": "Consulta al Tribunal Constitucional",
+      "articulo": "95.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consulta al Tribunal Constitucional» conforme a 95.2?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "B": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "C": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94."
+      }
+    },
+    {
+      "id": "PN-T03-Q162",
+      "fact_id": "PN-T03-F162",
+      "bloque": 11,
+      "concepto": "Información a las Cámaras",
+      "articulo": "94.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Información a las Cámaras» conforme a 94.2?",
+      "opciones": {
+        "A": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94.",
+        "B": "Requieren autorización previa los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+        "C": "El Congreso y el Senado deben ser informados inmediatamente de la conclusión de los restantes tratados."
+      }
+    },
+    {
+      "id": "PN-T03-Q505",
+      "fact_id": "PN-T03-F057",
+      "bloque": 5,
+      "concepto": "Mandato imperativo",
+      "articulo": "67.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los miembros de las Cortes Generales no están ligados por mandato imperativo.»?",
+      "opciones": {
+        "A": "67.2",
+        "B": "66.1",
+        "C": "66.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q068",
+      "fact_id": "PN-T03-F068",
+      "bloque": 6,
+      "concepto": "Constitución del Congreso",
+      "articulo": "68.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Constitución del Congreso» conforme a 68.6?",
+      "opciones": {
+        "A": "Los diputados son elegidos por sufragio universal, libre, igual, directo y secreto en los términos legales.",
+        "B": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.",
+        "C": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos."
+      }
+    },
+    {
+      "id": "PN-T03-Q089",
+      "fact_id": "PN-T03-F089",
+      "bloque": 7,
+      "concepto": "Poderes administrativos y de policía",
+      "articulo": "72.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Poderes administrativos y de policía» conforme a 72.3?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes.",
+        "C": "Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q101",
+      "fact_id": "PN-T03-F101",
+      "bloque": 8,
+      "concepto": "Comisiones de investigación",
+      "articulo": "76.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisiones de investigación» conforme a 76.1?",
+      "opciones": {
+        "A": "Las Cámaras se reúnen en dos períodos ordinarios: septiembre-diciembre y febrero-junio.",
+        "B": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
+        "C": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q502",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 66.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F052",
+      "articulo": "66.1"
+    },
+    {
+      "id": "PN-T03-Q503",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 66.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F053",
+      "articulo": "66.2"
+    },
+    {
+      "id": "PN-T03-Q504",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 67.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q070",
+      "respuesta_correcta": "A",
+      "explicacion": "En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto. Referencia principal: CE-CORTES, 69.2.",
+      "fact_id": "PN-T03-F070",
+      "articulo": "69.2"
+    },
+    {
+      "id": "PN-T03-Q065",
+      "respuesta_correcta": "B",
+      "explicacion": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos. Referencia principal: CE-CORTES, 68.5.",
+      "fact_id": "PN-T03-F065",
+      "articulo": "68.5"
+    },
+    {
+      "id": "PN-T03-Q066",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España. Referencia principal: CE-CORTES, 68.5.",
+      "fact_id": "PN-T03-F066",
+      "articulo": "68.5"
+    },
+    {
+      "id": "PN-T03-Q517",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 71.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q086",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta. Referencia principal: CE-CORTES, 72.1.",
+      "fact_id": "PN-T03-F086",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q087",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas. Referencia principal: CE-CORTES, 72.2.",
+      "fact_id": "PN-T03-F087",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q100",
+      "respuesta_correcta": "A",
+      "explicacion": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado. Referencia principal: CE-CORTES, 75.2.",
+      "fact_id": "PN-T03-F100",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q098",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley. Referencia principal: CE-CORTES, 75.2.",
+      "fact_id": "PN-T03-F098",
+      "articulo": "75.2"
+    },
+    {
+      "id": "PN-T03-Q096",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay acuerdo entre Cámaras en esos supuestos, interviene una Comisión Mixta de igual número de diputados y senadores. Referencia principal: CE-CORTES, 74.2.",
+      "fact_id": "PN-T03-F096",
+      "articulo": "74.2"
+    },
+    {
+      "id": "PN-T03-Q127",
+      "respuesta_correcta": "A",
+      "explicacion": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas. Referencia principal: CE-CORTES, 83.",
+      "fact_id": "PN-T03-F127",
+      "articulo": "83"
+    },
+    {
+      "id": "PN-T03-Q122",
+      "respuesta_correcta": "B",
+      "explicacion": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F122",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q123",
+      "respuesta_correcta": "C",
+      "explicacion": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F123",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q142",
+      "respuesta_correcta": "A",
+      "explicacion": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes. Referencia principal: CE-CORTES, 88.",
+      "fact_id": "PN-T03-F142",
+      "articulo": "88"
+    },
+    {
+      "id": "PN-T03-Q137",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos. Referencia principal: CE-CORTES, 87.1.",
+      "fact_id": "PN-T03-F137",
+      "articulo": "87.1"
+    },
+    {
+      "id": "PN-T03-Q138",
+      "respuesta_correcta": "C",
+      "explicacion": "Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley. Referencia principal: CE-CORTES, 87.2.",
+      "fact_id": "PN-T03-F138",
+      "articulo": "87.2"
+    },
+    {
+      "id": "PN-T03-Q166",
+      "respuesta_correcta": "A",
+      "explicacion": "Las disposiciones de un tratado solo pueden derogarse, modificarse o suspenderse según el propio tratado o el Derecho internacional. Referencia principal: CE-CORTES, 96.1.",
+      "fact_id": "PN-T03-F166",
+      "articulo": "96.1"
+    },
+    {
+      "id": "PN-T03-Q164",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción. Referencia principal: CE-CORTES, 95.2.",
+      "fact_id": "PN-T03-F164",
+      "articulo": "95.2"
+    },
+    {
+      "id": "PN-T03-Q162",
+      "respuesta_correcta": "C",
+      "explicacion": "El Congreso y el Senado deben ser informados inmediatamente de la conclusión de los restantes tratados. Referencia principal: CE-CORTES, 94.2.",
+      "fact_id": "PN-T03-F162",
+      "articulo": "94.2"
+    },
+    {
+      "id": "PN-T03-Q505",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 67.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F057",
+      "articulo": "67.2"
+    },
+    {
+      "id": "PN-T03-Q068",
+      "respuesta_correcta": "B",
+      "explicacion": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones. Referencia principal: CE-CORTES, 68.6.",
+      "fact_id": "PN-T03-F068",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q089",
+      "respuesta_correcta": "B",
+      "explicacion": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes. Referencia principal: CE-CORTES, 72.3.",
+      "fact_id": "PN-T03-F089",
+      "articulo": "72.3"
+    },
+    {
+      "id": "PN-T03-Q101",
+      "respuesta_correcta": "B",
+      "explicacion": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público. Referencia principal: CE-CORTES, 76.1.",
+      "fact_id": "PN-T03-F101",
+      "articulo": "76.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

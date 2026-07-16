@@ -1,0 +1,217 @@
+{
+  "id": "PN-T03-B13-B",
+  "titulo": "Tema 3 · Bloque 13: Investidura, nombramiento, cese y responsabilidad · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      13
+    ]
+  },
+  "numero_preguntas": 9,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q584",
+      "fact_id": "PN-T03-F194",
+      "bloque": 13,
+      "concepto": "Dependencia de las FCS",
+      "articulo": "104.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "104.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q582",
+      "fact_id": "PN-T03-F190",
+      "bloque": 13,
+      "concepto": "Sometimiento al Derecho",
+      "articulo": "103.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Administración actúa con sometimiento pleno a la ley y al Derecho.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "103.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q583",
+      "fact_id": "PN-T03-F192",
+      "bloque": 13,
+      "concepto": "Acceso a función pública",
+      "articulo": "103.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La ley regula el acceso a la función pública conforme a mérito y capacidad.»?",
+      "opciones": {
+        "A": "103.3",
+        "B": "102.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q587",
+      "fact_id": "PN-T03-F198",
+      "bloque": 13,
+      "concepto": "Acceso a archivos",
+      "articulo": "105.b",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "105.b",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q585",
+      "fact_id": "PN-T03-F195",
+      "bloque": 13,
+      "concepto": "Misión constitucional de las FCS",
+      "articulo": "104.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "104.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q586",
+      "fact_id": "PN-T03-F196",
+      "bloque": 13,
+      "concepto": "Ley orgánica de las FCS",
+      "articulo": "104.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.»?",
+      "opciones": {
+        "A": "104.2",
+        "B": "102.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q590",
+      "fact_id": "PN-T03-F202",
+      "bloque": 13,
+      "concepto": "Consejo de Estado",
+      "articulo": "107",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "107",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q588",
+      "fact_id": "PN-T03-F200",
+      "bloque": 13,
+      "concepto": "Control judicial de la Administración",
+      "articulo": "106.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "106.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q589",
+      "fact_id": "PN-T03-F201",
+      "bloque": 13,
+      "concepto": "Responsabilidad patrimonial",
+      "articulo": "106.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales.»?",
+      "opciones": {
+        "A": "106.2",
+        "B": "102.1",
+        "C": "102.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q584",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 104.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F194",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q582",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 103.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F190",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q583",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 103.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F192",
+      "articulo": "103.3"
+    },
+    {
+      "id": "PN-T03-Q587",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 105.b (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F198",
+      "articulo": "105.b"
+    },
+    {
+      "id": "PN-T03-Q585",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 104.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F195",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q586",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 104.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F196",
+      "articulo": "104.2"
+    },
+    {
+      "id": "PN-T03-Q590",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 107 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F202",
+      "articulo": "107"
+    },
+    {
+      "id": "PN-T03-Q588",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 106.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F200",
+      "articulo": "106.1"
+    },
+    {
+      "id": "PN-T03-Q589",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 106.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F201",
+      "articulo": "106.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

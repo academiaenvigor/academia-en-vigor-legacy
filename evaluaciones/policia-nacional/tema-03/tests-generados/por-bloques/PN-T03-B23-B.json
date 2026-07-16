@@ -1,0 +1,261 @@
+{
+  "id": "PN-T03-B23-B",
+  "titulo": "Tema 3 · Bloque 23: Control autonómico, artículo 155 y financiación · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      23
+    ]
+  },
+  "numero_preguntas": 11,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q695",
+      "fact_id": "PN-T03-F408",
+      "bloque": 23,
+      "concepto": "Presupuesto del artículo 155",
+      "articulo": "155.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "155.1",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q693",
+      "fact_id": "PN-T03-F406",
+      "bloque": 23,
+      "concepto": "Control del Tribunal de Cuentas",
+      "articulo": "153.d",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.b",
+        "C": "153.d"
+      }
+    },
+    {
+      "id": "PN-T03-Q697",
+      "fact_id": "PN-T03-F410",
+      "bloque": 23,
+      "concepto": "Mayoría del Senado",
+      "articulo": "155.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.»?",
+      "opciones": {
+        "A": "155.1",
+        "B": "153.a",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q698",
+      "fact_id": "PN-T03-F412",
+      "bloque": 23,
+      "concepto": "Instrucciones a autoridades autonómicas",
+      "articulo": "155.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades autonómicas.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "155.2",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q696",
+      "fact_id": "PN-T03-F409",
+      "bloque": 23,
+      "concepto": "Requerimiento previo",
+      "articulo": "155.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Antes de aplicar el artículo 155, el Gobierno debe requerir al Presidente de la comunidad.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.b",
+        "C": "155.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q700",
+      "fact_id": "PN-T03-F414",
+      "bloque": 23,
+      "concepto": "Principios financieros",
+      "articulo": "156.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.»?",
+      "opciones": {
+        "A": "156.1",
+        "B": "153.a",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q701",
+      "fact_id": "PN-T03-F416",
+      "bloque": 23,
+      "concepto": "Recursos autonómicos tributarios",
+      "articulo": "157.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "157.1",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q699",
+      "fact_id": "PN-T03-F413",
+      "bloque": 23,
+      "concepto": "Autonomía financiera",
+      "articulo": "156.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.b",
+        "C": "156.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q703",
+      "fact_id": "PN-T03-F421",
+      "bloque": 23,
+      "concepto": "Asignaciones de nivelación",
+      "articulo": "158.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.»?",
+      "opciones": {
+        "A": "158.1",
+        "B": "153.a",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q704",
+      "fact_id": "PN-T03-F422",
+      "bloque": 23,
+      "concepto": "Fondo de Compensación",
+      "articulo": "158.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "158.2",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q702",
+      "fact_id": "PN-T03-F419",
+      "bloque": 23,
+      "concepto": "Límites tributarios territoriales",
+      "articulo": "157.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.b",
+        "C": "157.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q695",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 155.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F408",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q693",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 153.d (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F406",
+      "articulo": "153.d"
+    },
+    {
+      "id": "PN-T03-Q697",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 155.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F410",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q698",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 155.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F412",
+      "articulo": "155.2"
+    },
+    {
+      "id": "PN-T03-Q696",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 155.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F409",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q700",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 156.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F414",
+      "articulo": "156.1"
+    },
+    {
+      "id": "PN-T03-Q701",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 157.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F416",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q699",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 156.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F413",
+      "articulo": "156.1"
+    },
+    {
+      "id": "PN-T03-Q703",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 158.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F421",
+      "articulo": "158.1"
+    },
+    {
+      "id": "PN-T03-Q704",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 158.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F422",
+      "articulo": "158.2"
+    },
+    {
+      "id": "PN-T03-Q702",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 157.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F419",
+      "articulo": "157.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

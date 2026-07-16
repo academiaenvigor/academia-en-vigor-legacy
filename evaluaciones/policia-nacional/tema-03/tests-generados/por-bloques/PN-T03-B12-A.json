@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B12-A",
+  "titulo": "Tema 3 · Bloque 12: Gobierno: funciones, composición y estatuto · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      12
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q169",
+      "fact_id": "PN-T03-F169",
+      "bloque": 12,
+      "concepto": "Funciones normativa y ejecutiva",
+      "articulo": "97",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones normativa y ejecutiva» conforme a 97?",
+      "opciones": {
+        "A": "El Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+        "B": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista.",
+        "C": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q170",
+      "fact_id": "PN-T03-F170",
+      "bloque": 12,
+      "concepto": "Composición del Gobierno",
+      "articulo": "98.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Composición del Gobierno» conforme a 98.1?",
+      "opciones": {
+        "A": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.",
+        "B": "El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley.",
+        "C": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros."
+      }
+    },
+    {
+      "id": "PN-T03-Q168",
+      "fact_id": "PN-T03-F168",
+      "bloque": 12,
+      "concepto": "Dirección política",
+      "articulo": "97",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dirección política» conforme a 97?",
+      "opciones": {
+        "A": "El candidato expone ante el Congreso el programa político del Gobierno que pretende formar y solicita la confianza.",
+        "B": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso.",
+        "C": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q172",
+      "fact_id": "PN-T03-F172",
+      "bloque": 12,
+      "concepto": "Responsabilidad de ministros",
+      "articulo": "98.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad de ministros» conforme a 98.2?",
+      "opciones": {
+        "A": "La coordinación presidencial se entiende sin perjuicio de la competencia y responsabilidad directa de cada miembro en su gestión.",
+        "B": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.",
+        "C": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q173",
+      "fact_id": "PN-T03-F173",
+      "bloque": 12,
+      "concepto": "Estatuto e incompatibilidades",
+      "articulo": "98.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto e incompatibilidades» conforme a 98.3?",
+      "opciones": {
+        "A": "El candidato expone ante el Congreso el programa político del Gobierno que pretende formar y solicita la confianza.",
+        "B": "La ley regula el estatuto e incompatibilidades de los miembros del Gobierno.",
+        "C": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q171",
+      "fact_id": "PN-T03-F171",
+      "bloque": 12,
+      "concepto": "Funciones del Presidente",
+      "articulo": "98.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones del Presidente» conforme a 98.2?",
+      "opciones": {
+        "A": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+        "B": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.",
+        "C": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros."
+      }
+    },
+    {
+      "id": "PN-T03-Q175",
+      "fact_id": "PN-T03-F175",
+      "bloque": 12,
+      "concepto": "Programa de investidura",
+      "articulo": "99.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Programa de investidura» conforme a 99.2?",
+      "opciones": {
+        "A": "El candidato expone ante el Congreso el programa político del Gobierno que pretende formar y solicita la confianza.",
+        "B": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.",
+        "C": "El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q176",
+      "fact_id": "PN-T03-F176",
+      "bloque": 12,
+      "concepto": "Primera votación de investidura",
+      "articulo": "99.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Primera votación de investidura» conforme a 99.3?",
+      "opciones": {
+        "A": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+        "B": "La primera votación de investidura requiere mayoría absoluta del Congreso.",
+        "C": "La ley regula el estatuto e incompatibilidades de los miembros del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q174",
+      "fact_id": "PN-T03-F174",
+      "bloque": 12,
+      "concepto": "Propuesta de candidato",
+      "articulo": "99.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuesta de candidato» conforme a 99.1?",
+      "opciones": {
+        "A": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista.",
+        "B": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.",
+        "C": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q178",
+      "fact_id": "PN-T03-F178",
+      "bloque": 12,
+      "concepto": "Propuestas sucesivas",
+      "articulo": "99.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propuestas sucesivas» conforme a 99.4?",
+      "opciones": {
+        "A": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista.",
+        "B": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.",
+        "C": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q179",
+      "fact_id": "PN-T03-F179",
+      "bloque": 12,
+      "concepto": "Plazo de dos meses",
+      "articulo": "99.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de dos meses» conforme a 99.5?",
+      "opciones": {
+        "A": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple.",
+        "B": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.",
+        "C": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q177",
+      "fact_id": "PN-T03-F177",
+      "bloque": 12,
+      "concepto": "Segunda votación de investidura",
+      "articulo": "99.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Segunda votación de investidura» conforme a 99.3?",
+      "opciones": {
+        "A": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.",
+        "B": "La primera votación de investidura requiere mayoría absoluta del Congreso.",
+        "C": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple."
+      }
+    },
+    {
+      "id": "PN-T03-Q181",
+      "fact_id": "PN-T03-F181",
+      "bloque": 12,
+      "concepto": "Nombramiento de ministros",
+      "articulo": "100",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nombramiento de ministros» conforme a 100?",
+      "opciones": {
+        "A": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.",
+        "B": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+        "C": "La ley regula el estatuto e incompatibilidades de los miembros del Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q182",
+      "fact_id": "PN-T03-F182",
+      "bloque": 12,
+      "concepto": "Causas de cese",
+      "articulo": "101.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Causas de cese» conforme a 101.1?",
+      "opciones": {
+        "A": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.",
+        "B": "El Gobierno cesa tras elecciones generales, pérdida de confianza, dimisión o fallecimiento de su Presidente.",
+        "C": "La primera votación de investidura requiere mayoría absoluta del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q180",
+      "fact_id": "PN-T03-F180",
+      "bloque": 12,
+      "concepto": "Refrendo de la disolución automática",
+      "articulo": "99.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo de la disolución automática» conforme a 99.5?",
+      "opciones": {
+        "A": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.",
+        "B": "El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley.",
+        "C": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q565",
+      "fact_id": "PN-T03-F169",
+      "bloque": 12,
+      "concepto": "Funciones normativa y ejecutiva",
+      "articulo": "97",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q566",
+      "fact_id": "PN-T03-F170",
+      "bloque": 12,
+      "concepto": "Composición del Gobierno",
+      "articulo": "98.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q183",
+      "fact_id": "PN-T03-F183",
+      "bloque": 12,
+      "concepto": "Gobierno en funciones",
+      "articulo": "101.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno en funciones» conforme a 101.2?",
+      "opciones": {
+        "A": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.",
+        "B": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.",
+        "C": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno."
+      }
+    },
+    {
+      "id": "PN-T03-Q568",
+      "fact_id": "PN-T03-F174",
+      "bloque": 12,
+      "concepto": "Propuesta de candidato",
+      "articulo": "99.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso.»?",
+      "opciones": {
+        "A": "99.1",
+        "B": "97",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q569",
+      "fact_id": "PN-T03-F176",
+      "bloque": 12,
+      "concepto": "Primera votación de investidura",
+      "articulo": "99.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La primera votación de investidura requiere mayoría absoluta del Congreso.»?",
+      "opciones": {
+        "A": "97",
+        "B": "99.3",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q564",
+      "fact_id": "PN-T03-F168",
+      "bloque": 12,
+      "concepto": "Dirección política",
+      "articulo": "97",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.»?",
+      "opciones": {
+        "A": "98.1",
+        "B": "98.2",
+        "C": "97"
+      }
+    },
+    {
+      "id": "PN-T03-Q571",
+      "fact_id": "PN-T03-F179",
+      "bloque": 12,
+      "concepto": "Plazo de dos meses",
+      "articulo": "99.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.»?",
+      "opciones": {
+        "A": "99.5",
+        "B": "97",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q572",
+      "fact_id": "PN-T03-F180",
+      "bloque": 12,
+      "concepto": "Refrendo de la disolución automática",
+      "articulo": "99.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso.»?",
+      "opciones": {
+        "A": "97",
+        "B": "99.5",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q567",
+      "fact_id": "PN-T03-F171",
+      "bloque": 12,
+      "concepto": "Funciones del Presidente",
+      "articulo": "98.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q574",
+      "fact_id": "PN-T03-F182",
+      "bloque": 12,
+      "concepto": "Causas de cese",
+      "articulo": "101.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno cesa tras elecciones generales, pérdida de confianza, dimisión o fallecimiento de su Presidente.»?",
+      "opciones": {
+        "A": "101.1",
+        "B": "97",
+        "C": "98.1"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q169",
+      "respuesta_correcta": "A",
+      "explicacion": "El Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes. Referencia principal: CE-GOBIERNO, 97.",
+      "fact_id": "PN-T03-F169",
+      "articulo": "97"
+    },
+    {
+      "id": "PN-T03-Q170",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno se compone del Presidente, vicepresidentes en su caso, ministros y demás miembros que establezca la ley. Referencia principal: CE-GOBIERNO, 98.1.",
+      "fact_id": "PN-T03-F170",
+      "articulo": "98.1"
+    },
+    {
+      "id": "PN-T03-Q168",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Referencia principal: CE-GOBIERNO, 97.",
+      "fact_id": "PN-T03-F168",
+      "articulo": "97"
+    },
+    {
+      "id": "PN-T03-Q172",
+      "respuesta_correcta": "A",
+      "explicacion": "La coordinación presidencial se entiende sin perjuicio de la competencia y responsabilidad directa de cada miembro en su gestión. Referencia principal: CE-GOBIERNO, 98.2.",
+      "fact_id": "PN-T03-F172",
+      "articulo": "98.2"
+    },
+    {
+      "id": "PN-T03-Q173",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley regula el estatuto e incompatibilidades de los miembros del Gobierno. Referencia principal: CE-GOBIERNO, 98.3.",
+      "fact_id": "PN-T03-F173",
+      "articulo": "98.3"
+    },
+    {
+      "id": "PN-T03-Q171",
+      "respuesta_correcta": "C",
+      "explicacion": "El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros. Referencia principal: CE-GOBIERNO, 98.2.",
+      "fact_id": "PN-T03-F171",
+      "articulo": "98.2"
+    },
+    {
+      "id": "PN-T03-Q175",
+      "respuesta_correcta": "A",
+      "explicacion": "El candidato expone ante el Congreso el programa político del Gobierno que pretende formar y solicita la confianza. Referencia principal: CE-GOBIERNO, 99.2.",
+      "fact_id": "PN-T03-F175",
+      "articulo": "99.2"
+    },
+    {
+      "id": "PN-T03-Q176",
+      "respuesta_correcta": "B",
+      "explicacion": "La primera votación de investidura requiere mayoría absoluta del Congreso. Referencia principal: CE-GOBIERNO, 99.3.",
+      "fact_id": "PN-T03-F176",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q174",
+      "respuesta_correcta": "C",
+      "explicacion": "Tras la renovación del Congreso y en otros supuestos, el Rey consulta a los grupos y propone candidato a través del Presidente del Congreso. Referencia principal: CE-GOBIERNO, 99.1.",
+      "fact_id": "PN-T03-F174",
+      "articulo": "99.1"
+    },
+    {
+      "id": "PN-T03-Q178",
+      "respuesta_correcta": "A",
+      "explicacion": "Si tampoco se obtiene confianza, se tramitan sucesivas propuestas en la forma prevista. Referencia principal: CE-GOBIERNO, 99.4.",
+      "fact_id": "PN-T03-F178",
+      "articulo": "99.4"
+    },
+    {
+      "id": "PN-T03-Q179",
+      "respuesta_correcta": "B",
+      "explicacion": "Si transcurren dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones. Referencia principal: CE-GOBIERNO, 99.5.",
+      "fact_id": "PN-T03-F179",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q177",
+      "respuesta_correcta": "C",
+      "explicacion": "Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple. Referencia principal: CE-GOBIERNO, 99.3.",
+      "fact_id": "PN-T03-F177",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q181",
+      "respuesta_correcta": "A",
+      "explicacion": "Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente. Referencia principal: CE-GOBIERNO, 100.",
+      "fact_id": "PN-T03-F181",
+      "articulo": "100"
+    },
+    {
+      "id": "PN-T03-Q182",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno cesa tras elecciones generales, pérdida de confianza, dimisión o fallecimiento de su Presidente. Referencia principal: CE-GOBIERNO, 101.1.",
+      "fact_id": "PN-T03-F182",
+      "articulo": "101.1"
+    },
+    {
+      "id": "PN-T03-Q180",
+      "respuesta_correcta": "C",
+      "explicacion": "La disolución del artículo 99.5 se realiza con refrendo del Presidente del Congreso. Referencia principal: CE-GOBIERNO, 99.5.",
+      "fact_id": "PN-T03-F180",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q565",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 97 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F169",
+      "articulo": "97"
+    },
+    {
+      "id": "PN-T03-Q566",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 98.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F170",
+      "articulo": "98.1"
+    },
+    {
+      "id": "PN-T03-Q183",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno. Referencia principal: CE-GOBIERNO, 101.2.",
+      "fact_id": "PN-T03-F183",
+      "articulo": "101.2"
+    },
+    {
+      "id": "PN-T03-Q568",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 99.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F174",
+      "articulo": "99.1"
+    },
+    {
+      "id": "PN-T03-Q569",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 99.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F176",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q564",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 97 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F168",
+      "articulo": "97"
+    },
+    {
+      "id": "PN-T03-Q571",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 99.5 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F179",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q572",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 99.5 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F180",
+      "articulo": "99.5"
+    },
+    {
+      "id": "PN-T03-Q567",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 98.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F171",
+      "articulo": "98.2"
+    },
+    {
+      "id": "PN-T03-Q574",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 101.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F182",
+      "articulo": "101.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

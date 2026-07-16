@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-B23",
+  "titulo": "Tema 3 · Bloque 23: Instituciones, controles, coerción y financiación autonómica",
+  "ambito": {
+    "bloques": [
+      23
+    ]
+  },
+  "modo": "aleatorio_sin_repeticion",
+  "numero_preguntas": 20,
+  "banco_version": "0.3.0",
+  "equilibrar_riesgo": true,
+  "maximo_por_hecho": 1
+}

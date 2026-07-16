@@ -1,0 +1,349 @@
+{
+  "id": "PN-T03-B10-B",
+  "titulo": "Tema 3 · Bloque 10: Iniciativa, procedimiento legislativo y referéndum · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      10
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q155",
+      "fact_id": "PN-T03-F155",
+      "bloque": 10,
+      "concepto": "Regulación del referéndum",
+      "articulo": "92.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regulación del referéndum» conforme a 92.3?",
+      "opciones": {
+        "A": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "B": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente.",
+        "C": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q543",
+      "fact_id": "PN-T03-F133",
+      "bloque": 10,
+      "concepto": "Límites del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.»?",
+      "opciones": {
+        "A": "86.2",
+        "B": "86.3",
+        "C": "86.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q547",
+      "fact_id": "PN-T03-F141",
+      "bloque": 10,
+      "concepto": "Materias excluidas de iniciativa popular",
+      "articulo": "87.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La iniciativa popular no procede en materias de ley orgánica, tributarias, internacionales ni relativas a la prerrogativa de gracia.»?",
+      "opciones": {
+        "A": "87.3",
+        "B": "86.1",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q542",
+      "fact_id": "PN-T03-F131",
+      "bloque": 10,
+      "concepto": "Presupuesto del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.»?",
+      "opciones": {
+        "A": "86.2",
+        "B": "86.1",
+        "C": "86.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q546",
+      "fact_id": "PN-T03-F140",
+      "bloque": 10,
+      "concepto": "Firmas de iniciativa popular",
+      "articulo": "87.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "86.2",
+        "C": "87.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q550",
+      "fact_id": "PN-T03-F147",
+      "bloque": 10,
+      "concepto": "Mayoría para veto",
+      "articulo": "90.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El veto del Senado requiere mayoría absoluta.»?",
+      "opciones": {
+        "A": "90.2",
+        "B": "86.1",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q545",
+      "fact_id": "PN-T03-F138",
+      "bloque": 10,
+      "concepto": "Iniciativa autonómica",
+      "articulo": "87.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las asambleas autonómicas pueden solicitar al Gobierno un proyecto o remitir al Congreso una proposición de ley.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "87.2",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q549",
+      "fact_id": "PN-T03-F146",
+      "bloque": 10,
+      "concepto": "Plazo ordinario del Senado",
+      "articulo": "90.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Senado dispone de dos meses para vetar o enmendar el texto recibido.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "86.2",
+        "C": "90.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q553",
+      "fact_id": "PN-T03-F151",
+      "bloque": 10,
+      "concepto": "Urgencia en el Senado",
+      "articulo": "90.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En proyectos declarados urgentes, el plazo del Senado se reduce a 20 días naturales.»?",
+      "opciones": {
+        "A": "90.3",
+        "B": "86.1",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q548",
+      "fact_id": "PN-T03-F142",
+      "bloque": 10,
+      "concepto": "Proyectos de ley",
+      "articulo": "88",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "88",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q552",
+      "fact_id": "PN-T03-F149",
+      "bloque": 10,
+      "concepto": "Levantamiento diferido del veto",
+      "articulo": "90.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Transcurridos dos meses desde el veto, el Congreso puede levantarlo por mayoría simple.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "86.2",
+        "C": "90.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q556",
+      "fact_id": "PN-T03-F154",
+      "bloque": 10,
+      "concepto": "Convocatoria del referéndum",
+      "articulo": "92.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El referéndum consultivo es convocado por el Rey a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso.»?",
+      "opciones": {
+        "A": "92.2",
+        "B": "86.1",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q551",
+      "fact_id": "PN-T03-F148",
+      "bloque": 10,
+      "concepto": "Levantamiento inmediato del veto",
+      "articulo": "90.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso puede levantar el veto inmediatamente por mayoría absoluta.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "90.2",
+        "C": "86.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q555",
+      "fact_id": "PN-T03-F153",
+      "bloque": 10,
+      "concepto": "Referéndum consultivo",
+      "articulo": "92.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "86.2",
+        "C": "92.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q554",
+      "fact_id": "PN-T03-F152",
+      "bloque": 10,
+      "concepto": "Sanción real",
+      "articulo": "91",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Rey sanciona las leyes aprobadas por las Cortes en el plazo de 15 días, las promulga y ordena su inmediata publicación.»?",
+      "opciones": {
+        "A": "86.1",
+        "B": "91",
+        "C": "86.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q155",
+      "respuesta_correcta": "B",
+      "explicacion": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente. Referencia principal: CE-CORTES, 92.3.",
+      "fact_id": "PN-T03-F155",
+      "articulo": "92.3"
+    },
+    {
+      "id": "PN-T03-Q543",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 86.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F133",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q547",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 87.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F141",
+      "articulo": "87.3"
+    },
+    {
+      "id": "PN-T03-Q542",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 86.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F131",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q546",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 87.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F140",
+      "articulo": "87.3"
+    },
+    {
+      "id": "PN-T03-Q550",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 90.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F147",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q545",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 87.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F138",
+      "articulo": "87.2"
+    },
+    {
+      "id": "PN-T03-Q549",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 90.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F146",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q553",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 90.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F151",
+      "articulo": "90.3"
+    },
+    {
+      "id": "PN-T03-Q548",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 88 (CE-CORTES).",
+      "fact_id": "PN-T03-F142",
+      "articulo": "88"
+    },
+    {
+      "id": "PN-T03-Q552",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 90.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F149",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q556",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 92.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F154",
+      "articulo": "92.2"
+    },
+    {
+      "id": "PN-T03-Q551",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 90.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F148",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q555",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 92.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F153",
+      "articulo": "92.1"
+    },
+    {
+      "id": "PN-T03-Q554",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 91 (CE-CORTES).",
+      "fact_id": "PN-T03-F152",
+      "articulo": "91"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

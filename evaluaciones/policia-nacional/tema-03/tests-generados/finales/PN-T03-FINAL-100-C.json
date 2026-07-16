@@ -1,0 +1,2243 @@
+{
+  "id": "PN-T03-FINAL-100-C",
+  "titulo": "Tema 3 · Test final C · 100 preguntas",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_final",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  "numero_preguntas": 100,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q007",
+      "fact_id": "PN-T03-F007",
+      "bloque": 1,
+      "concepto": "Refrendo ordinario",
+      "articulo": "64.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo ordinario» conforme a 64.1?",
+      "opciones": {
+        "A": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes.",
+        "B": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente.",
+        "C": "Su título es Rey de España y puede utilizar los demás títulos que correspondan a la Corona."
+      }
+    },
+    {
+      "id": "PN-T03-Q017",
+      "fact_id": "PN-T03-F017",
+      "bloque": 2,
+      "concepto": "Preferencia por edad",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia por edad» conforme a 57.1?",
+      "opciones": {
+        "A": "Las abdicaciones, renuncias y dudas sucesorias se resuelven mediante ley orgánica.",
+        "B": "En el mismo sexo se prefiere la persona de más edad a la de menos.",
+        "C": "Dentro de la misma línea se prefiere el grado más próximo al más remoto."
+      }
+    },
+    {
+      "id": "PN-T03-Q507",
+      "fact_id": "PN-T03-F061",
+      "bloque": 6,
+      "concepto": "Circunscripción electoral",
+      "articulo": "68.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.3",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q025",
+      "fact_id": "PN-T03-F025",
+      "bloque": 3,
+      "concepto": "Inhabilitación del Rey",
+      "articulo": "59.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inhabilitación del Rey» conforme a 59.2?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "A falta de tutor testamentario, lo es el padre o la madre mientras permanezcan viudos.",
+        "C": "El Príncipe heredero, al alcanzar la mayoría de edad, y los Regentes al hacerse cargo de sus funciones prestan el mismo juramento y el de fidelidad al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q053",
+      "fact_id": "PN-T03-F053",
+      "bloque": 5,
+      "concepto": "Funciones de las Cortes",
+      "articulo": "66.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones de las Cortes» conforme a 66.2?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q111",
+      "fact_id": "PN-T03-F111",
+      "bloque": 8,
+      "concepto": "Rendición de cuentas",
+      "articulo": "78.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Rendición de cuentas» conforme a 78.4?",
+      "opciones": {
+        "A": "El procedimiento del artículo 94.1 se inicia en el Congreso; los de los artículos 145.2 y 158.2, en el Senado.",
+        "B": "El Pleno puede recabar en cualquier momento el debate y votación de un proyecto o proposición delegado.",
+        "C": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q037",
+      "fact_id": "PN-T03-F037",
+      "bloque": 4,
+      "concepto": "Sanción y promulgación",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanción y promulgación» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey sancionar y promulgar las leyes.",
+        "B": "Corresponde al Rey el Alto Patronazgo de las Reales Academias.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q086",
+      "fact_id": "PN-T03-F086",
+      "bloque": 7,
+      "concepto": "Mayoría para reglamentos",
+      "articulo": "72.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para reglamentos» conforme a 72.1?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q153",
+      "fact_id": "PN-T03-F153",
+      "bloque": 10,
+      "concepto": "Referéndum consultivo",
+      "articulo": "92.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum consultivo» conforme a 92.1?",
+      "opciones": {
+        "A": "El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad.",
+        "B": "Durante el plazo de 30 días, las Cortes pueden tramitar el decreto-ley como proyecto de ley por urgencia.",
+        "C": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos."
+      }
+    },
+    {
+      "id": "PN-T03-Q118",
+      "fact_id": "PN-T03-F118",
+      "bloque": 9,
+      "concepto": "Delegación legislativa",
+      "articulo": "82.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegación legislativa» conforme a 82.1?",
+      "opciones": {
+        "A": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+        "B": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto.",
+        "C": "La delegación no puede entenderse concedida implícitamente, por tiempo indeterminado ni permitir subdelegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q161",
+      "fact_id": "PN-T03-F161",
+      "bloque": 11,
+      "concepto": "Medidas legislativas",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medidas legislativas» conforme a 94.1?",
+      "opciones": {
+        "A": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "B": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "C": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión."
+      }
+    },
+    {
+      "id": "PN-T03-Q567",
+      "fact_id": "PN-T03-F171",
+      "bloque": 12,
+      "concepto": "Funciones del Presidente",
+      "articulo": "98.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "98.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q511",
+      "fact_id": "PN-T03-F068",
+      "bloque": 6,
+      "concepto": "Constitución del Congreso",
+      "articulo": "68.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.»?",
+      "opciones": {
+        "A": "68.6",
+        "B": "68.1",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q203",
+      "fact_id": "PN-T03-F203",
+      "bloque": 14,
+      "concepto": "Responsabilidad solidaria",
+      "articulo": "108",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad solidaria» conforme a 108?",
+      "opciones": {
+        "A": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.",
+        "B": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "C": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír."
+      }
+    },
+    {
+      "id": "PN-T03-Q579",
+      "fact_id": "PN-T03-F187",
+      "bloque": 13,
+      "concepto": "Exclusión del derecho de gracia",
+      "articulo": "102.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "102.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q115",
+      "fact_id": "PN-T03-F115",
+      "bloque": 8,
+      "concepto": "Publicidad de sesiones",
+      "articulo": "80",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Publicidad de sesiones» conforme a 80?",
+      "opciones": {
+        "A": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento.",
+        "B": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "C": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+      }
+    },
+    {
+      "id": "PN-T03-Q251",
+      "fact_id": "PN-T03-F251",
+      "bloque": 17,
+      "concepto": "Garantía de inamovilidad",
+      "articulo": "117.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantía de inamovilidad» conforme a 117.2?",
+      "opciones": {
+        "A": "Se prohíben los tribunales de excepción.",
+        "B": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q600",
+      "fact_id": "PN-T03-F217",
+      "bloque": 15,
+      "concepto": "Plazo de votación",
+      "articulo": "113.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "113.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q544",
+      "fact_id": "PN-T03-F134",
+      "bloque": 10,
+      "concepto": "Convalidación del decreto-ley",
+      "articulo": "86.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.»?",
+      "opciones": {
+        "A": "86.2",
+        "B": "86.1",
+        "C": "86.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q737",
+      "fact_id": "PN-T03-F469",
+      "bloque": 25,
+      "concepto": "Referéndum obligatorio",
+      "articulo": "168.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La reforma agravada aprobada se somete siempre a referéndum de ratificación.»?",
+      "opciones": {
+        "A": "166",
+        "B": "168.3",
+        "C": "167.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q609",
+      "fact_id": "PN-T03-F229",
+      "bloque": 16,
+      "concepto": "Declaración de alarma",
+      "articulo": "116.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros.»?",
+      "opciones": {
+        "A": "LO 4/1981 art. 1",
+        "B": "LO 4/1981 art. 4",
+        "C": "116.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q574",
+      "fact_id": "PN-T03-F182",
+      "bloque": 12,
+      "concepto": "Causas de cese",
+      "articulo": "101.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno cesa tras elecciones generales, pérdida de confianza, dimisión o fallecimiento de su Presidente.»?",
+      "opciones": {
+        "A": "101.1",
+        "B": "97",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q008",
+      "fact_id": "PN-T03-F008",
+      "bloque": 1,
+      "concepto": "Refrendo del Presidente del Congreso",
+      "articulo": "64.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Refrendo del Presidente del Congreso» conforme a 64.1?",
+      "opciones": {
+        "A": "El Rey arbitra y modera el funcionamiento regular de las instituciones.",
+        "B": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "C": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q633",
+      "fact_id": "PN-T03-F265",
+      "bloque": 18,
+      "concepto": "Composición del CGPJ",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El CGPJ está integrado por el Presidente del Tribunal Supremo y 20 miembros nombrados por el Rey por cinco años.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q580",
+      "fact_id": "PN-T03-F188",
+      "bloque": 13,
+      "concepto": "Objetividad de la Administración",
+      "articulo": "103.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Administración Pública sirve con objetividad los intereses generales.»?",
+      "opciones": {
+        "A": "103.1",
+        "B": "102.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q023",
+      "fact_id": "PN-T03-F023",
+      "bloque": 3,
+      "concepto": "Regencia por minoría de edad",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regencia por minoría de edad» conforme a 59.1?",
+      "opciones": {
+        "A": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad.",
+        "B": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio.",
+        "C": "Es tutor del Rey menor la persona nombrada por el Rey difunto en testamento, siempre que sea mayor de edad y español de nacimiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q648",
+      "fact_id": "PN-T03-F288",
+      "bloque": 19,
+      "concepto": "Hecho insular",
+      "articulo": "138.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.2",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q601",
+      "fact_id": "PN-T03-F218",
+      "bloque": 15,
+      "concepto": "Mociones alternativas",
+      "articulo": "113.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Durante los dos primeros días desde la presentación pueden presentarse mociones alternativas.»?",
+      "opciones": {
+        "A": "113.3",
+        "B": "112",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q038",
+      "fact_id": "PN-T03-F038",
+      "bloque": 4,
+      "concepto": "Convocatoria y disolución",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convocatoria y disolución» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales.",
+        "B": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.",
+        "C": "Corresponde al Rey expedir los decretos acordados en el Consejo de Ministros."
+      }
+    },
+    {
+      "id": "PN-T03-Q663",
+      "fact_id": "PN-T03-F312",
+      "bloque": 20,
+      "concepto": "Acuerdos de cooperación",
+      "articulo": "145.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "145.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q610",
+      "fact_id": "PN-T03-F230",
+      "bloque": 16,
+      "concepto": "Duración inicial de alarma",
+      "articulo": "116.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La duración inicial del estado de alarma no puede exceder de 15 días.»?",
+      "opciones": {
+        "A": "116.2",
+        "B": "LO 4/1981 art. 1",
+        "C": "LO 4/1981 art. 4"
+      }
+    },
+    {
+      "id": "PN-T03-Q116",
+      "fact_id": "PN-T03-F116",
+      "bloque": 9,
+      "concepto": "Materias de ley orgánica",
+      "articulo": "81.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Materias de ley orgánica» conforme a 81.1?",
+      "opciones": {
+        "A": "Las leyes de delegación pueden establecer fórmulas adicionales de control, sin perjuicio de los tribunales.",
+        "B": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q339",
+      "fact_id": "PN-T03-F339",
+      "bloque": 21,
+      "concepto": "Vigilancia y policía local",
+      "articulo": "148.1.22",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Vigilancia y policía local» conforme a 148.1.22?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre fomento de cultura e investigación y, en su caso, enseñanza de la lengua autonómica.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q631",
+      "fact_id": "PN-T03-F262",
+      "bloque": 18,
+      "concepto": "Error judicial",
+      "articulo": "121",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los daños por error judicial o funcionamiento anormal de la Administración de Justicia generan indemnización a cargo del Estado.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q509",
+      "fact_id": "PN-T03-F064",
+      "bloque": 6,
+      "concepto": "Mandato del Congreso",
+      "articulo": "68.4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.4",
+        "C": "68.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q399",
+      "fact_id": "PN-T03-F399",
+      "bloque": 22,
+      "concepto": "Responsabilidad política autonómica",
+      "articulo": "152.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad política autonómica» conforme a 152.1?",
+      "opciones": {
+        "A": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas.",
+        "B": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica.",
+        "C": "El Presidente y el Consejo responden políticamente ante la Asamblea."
+      }
+    },
+    {
+      "id": "PN-T03-Q652",
+      "fact_id": "PN-T03-F292",
+      "bloque": 19,
+      "concepto": "Autonomía municipal",
+      "articulo": "140",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Constitución garantiza la autonomía de los municipios y su personalidad jurídica plena.»?",
+      "opciones": {
+        "A": "140",
+        "B": "137",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q524",
+      "fact_id": "PN-T03-F091",
+      "bloque": 8,
+      "concepto": "Sesiones extraordinarias",
+      "articulo": "73.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de la Cámara.»?",
+      "opciones": {
+        "A": "73.1",
+        "B": "73.2",
+        "C": "74.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q690",
+      "fact_id": "PN-T03-F403",
+      "bloque": 23,
+      "concepto": "Control del TC",
+      "articulo": "153.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.»?",
+      "opciones": {
+        "A": "153.b",
+        "B": "153.c",
+        "C": "153.a"
+      }
+    },
+    {
+      "id": "PN-T03-Q343",
+      "fact_id": "PN-T03-F343",
+      "bloque": 21,
+      "concepto": "Relaciones internacionales",
+      "articulo": "149.1.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Relaciones internacionales» conforme a 149.1.3?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre relaciones internacionales.",
+        "B": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos."
+      }
+    },
+    {
+      "id": "PN-T03-Q155",
+      "fact_id": "PN-T03-F155",
+      "bloque": 10,
+      "concepto": "Regulación del referéndum",
+      "articulo": "92.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Regulación del referéndum» conforme a 92.3?",
+      "opciones": {
+        "A": "La iniciativa legislativa corresponde al Gobierno, Congreso y Senado, conforme a Constitución y reglamentos.",
+        "B": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente.",
+        "C": "Los proyectos de ley son aprobados en Consejo de Ministros, que los remite al Congreso con exposición de motivos y antecedentes."
+      }
+    },
+    {
+      "id": "PN-T03-Q447",
+      "fact_id": "PN-T03-F447",
+      "bloque": 24,
+      "concepto": "Efectos generales",
+      "articulo": "164.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Efectos generales» conforme a 164.1?",
+      "opciones": {
+        "A": "Una ley orgánica determina las personas y órganos legitimados en los demás supuestos.",
+        "B": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente.",
+        "C": "Las sentencias que declaran inconstitucionalidad y las no limitadas a estimación subjetiva tienen plenos efectos frente a todos."
+      }
+    },
+    {
+      "id": "PN-T03-Q679",
+      "fact_id": "PN-T03-F380",
+      "bloque": 22,
+      "concepto": "Transferencia o delegación",
+      "articulo": "150.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.»?",
+      "opciones": {
+        "A": "150.2",
+        "B": "150.1",
+        "C": "150.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q575",
+      "fact_id": "PN-T03-F183",
+      "bloque": 12,
+      "concepto": "Gobierno en funciones",
+      "articulo": "101.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.»?",
+      "opciones": {
+        "A": "97",
+        "B": "101.2",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q015",
+      "fact_id": "PN-T03-F015",
+      "bloque": 2,
+      "concepto": "Preferencia de grado",
+      "articulo": "57.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preferencia de grado» conforme a 57.1?",
+      "opciones": {
+        "A": "En la sucesión se prefiere siempre la línea anterior a las posteriores.",
+        "B": "Quien tenga derecho a la sucesión y contraiga matrimonio contra la prohibición expresa del Rey y de las Cortes queda excluido, junto con sus descendientes.",
+        "C": "Dentro de la misma línea se prefiere el grado más próximo al más remoto."
+      }
+    },
+    {
+      "id": "PN-T03-Q694",
+      "fact_id": "PN-T03-F407",
+      "bloque": 23,
+      "concepto": "Delegado del Gobierno",
+      "articulo": "154",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.»?",
+      "opciones": {
+        "A": "154",
+        "B": "153.a",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q584",
+      "fact_id": "PN-T03-F194",
+      "bloque": 13,
+      "concepto": "Dependencia de las FCS",
+      "articulo": "104.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "104.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q054",
+      "fact_id": "PN-T03-F054",
+      "bloque": 5,
+      "concepto": "Inviolabilidad de las Cortes",
+      "articulo": "66.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad de las Cortes» conforme a 66.3?",
+      "opciones": {
+        "A": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "B": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q448",
+      "fact_id": "PN-T03-F448",
+      "bloque": 24,
+      "concepto": "Subsistencia de la ley",
+      "articulo": "164.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Subsistencia de la ley» conforme a 164.2?",
+      "opciones": {
+        "A": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente.",
+        "B": "Las sentencias del TC se publican en el BOE con los votos particulares, si los hay.",
+        "C": "El Tribunal Constitucional consta de dos Salas de seis magistrados cada una."
+      }
+    },
+    {
+      "id": "PN-T03-Q605",
+      "fact_id": "PN-T03-F225",
+      "bloque": 15,
+      "concepto": "Límite por censura",
+      "articulo": "115.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «No puede proponerse la disolución mientras esté en trámite una moción de censura.»?",
+      "opciones": {
+        "A": "112",
+        "B": "115.2",
+        "C": "113.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q087",
+      "fact_id": "PN-T03-F087",
+      "bloque": 7,
+      "concepto": "Presidentes y Mesas",
+      "articulo": "72.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidentes y Mesas» conforme a 72.2?",
+      "opciones": {
+        "A": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "B": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "C": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas."
+      }
+    },
+    {
+      "id": "PN-T03-Q460",
+      "fact_id": "PN-T03-F460",
+      "bloque": 25,
+      "concepto": "Mayoría ordinaria",
+      "articulo": "167.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría ordinaria» conforme a 167.1?",
+      "opciones": {
+        "A": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara.",
+        "B": "El nuevo texto requiere dos tercios de ambas nuevas Cámaras.",
+        "C": "Si no hay acuerdo, se crea una Comisión Mixta paritaria que presenta un texto a Congreso y Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q608",
+      "fact_id": "PN-T03-F228",
+      "bloque": 16,
+      "concepto": "Proporcionalidad",
+      "articulo": "LO 4/1981 art. 1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las medidas y su duración deben ser estrictamente indispensables y proporcionadas a las circunstancias.»?",
+      "opciones": {
+        "A": "116.2",
+        "B": "LO 4/1981 art. 1",
+        "C": "LO 4/1981 art. 4"
+      }
+    },
+    {
+      "id": "PN-T03-Q159",
+      "fact_id": "PN-T03-F159",
+      "bloque": 11,
+      "concepto": "Integridad territorial y Título I",
+      "articulo": "94.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Integridad territorial y Título I» conforme a 94.1?",
+      "opciones": {
+        "A": "Corresponde a las Cortes o al Gobierno, según los casos, garantizar el cumplimiento de esos tratados y de las resoluciones de los organismos titulares de la cesión.",
+        "B": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "C": "Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I."
+      }
+    },
+    {
+      "id": "PN-T03-Q019",
+      "fact_id": "PN-T03-F019",
+      "bloque": 2,
+      "concepto": "Extinción de líneas",
+      "articulo": "57.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Extinción de líneas» conforme a 57.3?",
+      "opciones": {
+        "A": "Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveen la sucesión en la forma más conveniente para los intereses de España.",
+        "B": "En el mismo grado se prefiere el varón a la mujer.",
+        "C": "La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q632",
+      "fact_id": "PN-T03-F264",
+      "bloque": 18,
+      "concepto": "Gobierno del Poder Judicial",
+      "articulo": "122.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Consejo General del Poder Judicial es el órgano de gobierno del Poder Judicial.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.2",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q204",
+      "fact_id": "PN-T03-F204",
+      "bloque": 14,
+      "concepto": "Solicitud de información",
+      "articulo": "109",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Solicitud de información» conforme a 109?",
+      "opciones": {
+        "A": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas."
+      }
+    },
+    {
+      "id": "PN-T03-Q055",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidad entre Cámaras» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q653",
+      "fact_id": "PN-T03-F293",
+      "bloque": 19,
+      "concepto": "Gobierno municipal",
+      "articulo": "140",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.»?",
+      "opciones": {
+        "A": "137",
+        "B": "140",
+        "C": "138.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q249",
+      "fact_id": "PN-T03-F249",
+      "bloque": 17,
+      "concepto": "Origen de la justicia",
+      "articulo": "117.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Origen de la justicia» conforme a 117.1?",
+      "opciones": {
+        "A": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "B": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.",
+        "C": "La justicia emana del pueblo y se administra en nombre del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q517",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "71.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q344",
+      "fact_id": "PN-T03-F344",
+      "bloque": 21,
+      "concepto": "Defensa",
+      "articulo": "149.1.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Defensa» conforme a 149.1.4?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre administración de Justicia.",
+        "B": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "C": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior."
+      }
+    },
+    {
+      "id": "PN-T03-Q666",
+      "fact_id": "PN-T03-F317",
+      "bloque": 20,
+      "concepto": "Reforma estatutaria",
+      "articulo": "147.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.»?",
+      "opciones": {
+        "A": "143.1",
+        "B": "143.2",
+        "C": "147.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q163",
+      "fact_id": "PN-T03-F163",
+      "bloque": 11,
+      "concepto": "Tratado contrario a la Constitución",
+      "articulo": "95.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tratado contrario a la Constitución» conforme a 95.1?",
+      "opciones": {
+        "A": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa.",
+        "B": "Los tratados políticos y militares requieren autorización previa de las Cortes.",
+        "C": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción."
+      }
+    },
+    {
+      "id": "PN-T03-Q680",
+      "fact_id": "PN-T03-F382",
+      "bloque": 22,
+      "concepto": "Leyes de armonización",
+      "articulo": "150.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.»?",
+      "opciones": {
+        "A": "150.1",
+        "B": "150.3",
+        "C": "150.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q009",
+      "fact_id": "PN-T03-F009",
+      "bloque": 1,
+      "concepto": "Responsabilidad del refrendante",
+      "articulo": "64.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad del refrendante» conforme a 64.2?",
+      "opciones": {
+        "A": "La persona del Rey es inviolable y no está sujeta a responsabilidad.",
+        "B": "El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.",
+        "C": "De los actos del Rey responden las personas que los refrendan."
+      }
+    },
+    {
+      "id": "PN-T03-Q208",
+      "fact_id": "PN-T03-F208",
+      "bloque": 14,
+      "concepto": "Preguntas e interpelaciones",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preguntas e interpelaciones» conforme a 111.1?",
+      "opciones": {
+        "A": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír."
+      }
+    },
+    {
+      "id": "PN-T03-Q695",
+      "fact_id": "PN-T03-F408",
+      "bloque": 23,
+      "concepto": "Presupuesto del artículo 155",
+      "articulo": "155.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "155.1",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q024",
+      "fact_id": "PN-T03-F024",
+      "bloque": 3,
+      "concepto": "Duración de la Regencia por minoría",
+      "articulo": "59.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Duración de la Regencia por minoría» conforme a 59.1?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Solo el padre, la madre o los ascendientes directos del Rey pueden acumular los cargos de Regente y tutor.",
+        "C": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q253",
+      "fact_id": "PN-T03-F253",
+      "bloque": 17,
+      "concepto": "Funciones no jurisdiccionales",
+      "articulo": "117.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones no jurisdiccionales» conforme a 117.4?",
+      "opciones": {
+        "A": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos.",
+        "B": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "C": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q449",
+      "fact_id": "PN-T03-F449",
+      "bloque": 24,
+      "concepto": "Reserva de ley orgánica",
+      "articulo": "165",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reserva de ley orgánica» conforme a 165?",
+      "opciones": {
+        "A": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente.",
+        "B": "Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones.",
+        "C": "El Pleno elige al Presidente por votación secreta y propone su nombramiento al Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q039",
+      "fact_id": "PN-T03-F039",
+      "bloque": 4,
+      "concepto": "Referéndum",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "El Rey puede presidir sesiones del Consejo de Ministros, a petición del Presidente del Gobierno, cuando lo estime oportuno para ser informado de asuntos de Estado.",
+        "C": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución."
+      }
+    },
+    {
+      "id": "PN-T03-Q304",
+      "fact_id": "PN-T03-F304",
+      "bloque": 20,
+      "concepto": "Iniciativa autonómica común",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica común» conforme a 143.2?",
+      "opciones": {
+        "A": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.",
+        "B": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.",
+        "C": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial."
+      }
+    },
+    {
+      "id": "PN-T03-Q458",
+      "fact_id": "PN-T03-F458",
+      "bloque": 25,
+      "concepto": "Iniciativa de reforma",
+      "articulo": "166",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa de reforma» conforme a 166?",
+      "opciones": {
+        "A": "Si falla la Comisión y el Senado aprueba por mayoría absoluta, el Congreso puede aprobar por dos tercios.",
+        "B": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2.",
+        "C": "Las nuevas Cámaras deben ratificar la decisión y estudiar el nuevo texto."
+      }
+    },
+    {
+      "id": "PN-T03-Q117",
+      "fact_id": "PN-T03-F117",
+      "bloque": 9,
+      "concepto": "Mayoría de ley orgánica",
+      "articulo": "81.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría de ley orgánica» conforme a 81.2?",
+      "opciones": {
+        "A": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.",
+        "B": "La delegación para refundir textos legales se otorga mediante ley ordinaria.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q010",
+      "fact_id": "PN-T03-F010",
+      "bloque": 1,
+      "concepto": "Dotación de la Casa del Rey",
+      "articulo": "65.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dotación de la Casa del Rey» conforme a 65.1?",
+      "opciones": {
+        "A": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente.",
+        "B": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso.",
+        "C": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+      }
+    },
+    {
+      "id": "PN-T03-Q020",
+      "fact_id": "PN-T03-F020",
+      "bloque": 2,
+      "concepto": "Exclusión por matrimonio prohibido",
+      "articulo": "57.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Exclusión por matrimonio prohibido» conforme a 57.4?",
+      "opciones": {
+        "A": "Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveen la sucesión en la forma más conveniente para los intereses de España.",
+        "B": "Quien tenga derecho a la sucesión y contraiga matrimonio contra la prohibición expresa del Rey y de las Cortes queda excluido, junto con sus descendientes.",
+        "C": "En la sucesión se prefiere siempre la línea anterior a las posteriores."
+      }
+    },
+    {
+      "id": "PN-T03-Q510",
+      "fact_id": "PN-T03-F067",
+      "bloque": 6,
+      "concepto": "Plazo electoral",
+      "articulo": "68.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las elecciones al Congreso tienen lugar entre los 30 y 60 días desde la terminación del mandato.»?",
+      "opciones": {
+        "A": "68.1",
+        "B": "68.2",
+        "C": "68.6"
+      }
+    },
+    {
+      "id": "PN-T03-Q028",
+      "fact_id": "PN-T03-F028",
+      "bloque": 3,
+      "concepto": "Requisitos del Regente",
+      "articulo": "59.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requisitos del Regente» conforme a 59.4?",
+      "opciones": {
+        "A": "Para ejercer la Regencia se exige ser español y mayor de edad.",
+        "B": "Si el Príncipe heredero es menor, se aplica la regencia prevista para minoría hasta que alcance la mayoría de edad.",
+        "C": "En defecto de tutor testamentario y de progenitor viudo, las Cortes nombran al tutor."
+      }
+    },
+    {
+      "id": "PN-T03-Q056",
+      "fact_id": "PN-T03-F056",
+      "bloque": 5,
+      "concepto": "Acta estatal y autonómica",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acta estatal y autonómica» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q114",
+      "fact_id": "PN-T03-F114",
+      "bloque": 8,
+      "concepto": "Voto personal",
+      "articulo": "79.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Voto personal» conforme a 79.3?",
+      "opciones": {
+        "A": "Es obligatorio comparecer a requerimiento de las Cámaras; la ley regula sanciones por incumplimiento.",
+        "B": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.",
+        "C": "El voto de senadores y diputados es personal e indelegable."
+      }
+    },
+    {
+      "id": "PN-T03-Q040",
+      "fact_id": "PN-T03-F040",
+      "bloque": 4,
+      "concepto": "Presidente del Gobierno",
+      "articulo": "62",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidente del Gobierno» conforme a 62?",
+      "opciones": {
+        "A": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales.",
+        "B": "Corresponde al Rey conferir empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.",
+        "C": "Corresponde al Rey el Alto Patronazgo de las Reales Academias."
+      }
+    },
+    {
+      "id": "PN-T03-Q089",
+      "fact_id": "PN-T03-F089",
+      "bloque": 7,
+      "concepto": "Poderes administrativos y de policía",
+      "articulo": "72.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Poderes administrativos y de policía» conforme a 72.3?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes.",
+        "C": "Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q543",
+      "fact_id": "PN-T03-F133",
+      "bloque": 10,
+      "concepto": "Límites del decreto-ley",
+      "articulo": "86.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.»?",
+      "opciones": {
+        "A": "86.2",
+        "B": "86.3",
+        "C": "86.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q121",
+      "fact_id": "PN-T03-F121",
+      "bloque": 9,
+      "concepto": "Requisitos de delegación",
+      "articulo": "82.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requisitos de delegación» conforme a 82.3?",
+      "opciones": {
+        "A": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo.",
+        "B": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "C": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto."
+      }
+    },
+    {
+      "id": "PN-T03-Q164",
+      "fact_id": "PN-T03-F164",
+      "bloque": 11,
+      "concepto": "Consulta al Tribunal Constitucional",
+      "articulo": "95.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consulta al Tribunal Constitucional» conforme a 95.2?",
+      "opciones": {
+        "A": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.",
+        "B": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.",
+        "C": "Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94."
+      }
+    },
+    {
+      "id": "PN-T03-Q570",
+      "fact_id": "PN-T03-F177",
+      "bloque": 12,
+      "concepto": "Segunda votación de investidura",
+      "articulo": "99.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "99.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q206",
+      "fact_id": "PN-T03-F206",
+      "bloque": 14,
+      "concepto": "Acceso del Gobierno a las Cámaras",
+      "articulo": "110.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso del Gobierno a las Cámaras» conforme a 110.2?",
+      "opciones": {
+        "A": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición.",
+        "B": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír.",
+        "C": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q582",
+      "fact_id": "PN-T03-F190",
+      "bloque": 13,
+      "concepto": "Sometimiento al Derecho",
+      "articulo": "103.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Administración actúa con sometimiento pleno a la ley y al Derecho.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "103.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q254",
+      "fact_id": "PN-T03-F254",
+      "bloque": 17,
+      "concepto": "Unidad jurisdiccional",
+      "articulo": "117.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Unidad jurisdiccional» conforme a 117.5?",
+      "opciones": {
+        "A": "Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes.",
+        "B": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.",
+        "C": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos."
+      }
+    },
+    {
+      "id": "PN-T03-Q603",
+      "fact_id": "PN-T03-F221",
+      "bloque": 15,
+      "concepto": "Efecto de aprobar censura",
+      "articulo": "114.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si prospera la censura, el Gobierno presenta su dimisión y el candidato se entiende investido.»?",
+      "opciones": {
+        "A": "112",
+        "B": "113.1",
+        "C": "114.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q305",
+      "fact_id": "PN-T03-F305",
+      "bloque": 20,
+      "concepto": "Plazo de la iniciativa",
+      "articulo": "143.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo de la iniciativa» conforme a 143.2?",
+      "opciones": {
+        "A": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años.",
+        "B": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo.",
+        "C": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios."
+      }
+    },
+    {
+      "id": "PN-T03-Q612",
+      "fact_id": "PN-T03-F232",
+      "bloque": 16,
+      "concepto": "Supuestos de alarma",
+      "articulo": "LO 4/1981 art. 4",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La alarma puede declararse por catástrofes, crisis sanitarias, paralización de servicios esenciales en condiciones legales o desabastecimiento de productos básicos.»?",
+      "opciones": {
+        "A": "LO 4/1981 art. 1",
+        "B": "116.2",
+        "C": "LO 4/1981 art. 4"
+      }
+    },
+    {
+      "id": "PN-T03-Q636",
+      "fact_id": "PN-T03-F268",
+      "bloque": 18,
+      "concepto": "Propuesta de vocales juristas",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Congreso y Senado proponen cuatro vocales juristas cada uno por mayoría de tres quintos.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q651",
+      "fact_id": "PN-T03-F291",
+      "bloque": 19,
+      "concepto": "Libre circulación",
+      "articulo": "139.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes.»?",
+      "opciones": {
+        "A": "137",
+        "B": "138.1",
+        "C": "139.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q342",
+      "fact_id": "PN-T03-F342",
+      "bloque": 21,
+      "concepto": "Nacionalidad y extranjería",
+      "articulo": "149.1.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nacionalidad y extranjería» conforme a 149.1.2?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "B": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "C": "El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo."
+      }
+    },
+    {
+      "id": "PN-T03-Q402",
+      "fact_id": "PN-T03-F402",
+      "bloque": 22,
+      "concepto": "Circunscripciones territoriales propias",
+      "articulo": "152.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Circunscripciones territoriales propias» conforme a 152.3?",
+      "opciones": {
+        "A": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "B": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum.",
+        "C": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica."
+      }
+    },
+    {
+      "id": "PN-T03-Q693",
+      "fact_id": "PN-T03-F406",
+      "bloque": 23,
+      "concepto": "Control del Tribunal de Cuentas",
+      "articulo": "153.d",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.b",
+        "C": "153.d"
+      }
+    },
+    {
+      "id": "PN-T03-Q450",
+      "fact_id": "PN-T03-F450",
+      "bloque": 24,
+      "concepto": "Formas de actuación",
+      "articulo": "LOTC art. 6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Formas de actuación» conforme a LOTC art. 6?",
+      "opciones": {
+        "A": "El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda.",
+        "B": "La responsabilidad criminal de magistrados del TC se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "El Tribunal Constitucional actúa en Pleno, Sala o Sección."
+      }
+    },
+    {
+      "id": "PN-T03-Q459",
+      "fact_id": "PN-T03-F459",
+      "bloque": 25,
+      "concepto": "Exclusión de iniciativa popular",
+      "articulo": "166",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Exclusión de iniciativa popular» conforme a 166?",
+      "opciones": {
+        "A": "El principio de reforma agravada requiere dos tercios de cada Cámara.",
+        "B": "No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116.",
+        "C": "La iniciativa legislativa popular no puede promover una reforma constitucional."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q007",
+      "respuesta_correcta": "A",
+      "explicacion": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los ministros competentes. Referencia principal: CE-CORONA, 64.1.",
+      "fact_id": "PN-T03-F007",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q017",
+      "respuesta_correcta": "B",
+      "explicacion": "En el mismo sexo se prefiere la persona de más edad a la de menos. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F017",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q507",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 68.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F061",
+      "articulo": "68.2"
+    },
+    {
+      "id": "PN-T03-Q025",
+      "respuesta_correcta": "A",
+      "explicacion": "Si el Rey queda inhabilitado y las Cortes reconocen la imposibilidad, ejerce la Regencia el Príncipe heredero si es mayor de edad. Referencia principal: CE-CORONA, 59.2.",
+      "fact_id": "PN-T03-F025",
+      "articulo": "59.2"
+    },
+    {
+      "id": "PN-T03-Q053",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cortes ejercen la potestad legislativa, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales. Referencia principal: CE-CORTES, 66.2.",
+      "fact_id": "PN-T03-F053",
+      "articulo": "66.2"
+    },
+    {
+      "id": "PN-T03-Q111",
+      "respuesta_correcta": "C",
+      "explicacion": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas. Referencia principal: CE-CORTES, 78.4.",
+      "fact_id": "PN-T03-F111",
+      "articulo": "78.4"
+    },
+    {
+      "id": "PN-T03-Q037",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey sancionar y promulgar las leyes. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F037",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q086",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta. Referencia principal: CE-CORTES, 72.1.",
+      "fact_id": "PN-T03-F086",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q153",
+      "respuesta_correcta": "C",
+      "explicacion": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos. Referencia principal: CE-CORTES, 92.1.",
+      "fact_id": "PN-T03-F153",
+      "articulo": "92.1"
+    },
+    {
+      "id": "PN-T03-Q118",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica. Referencia principal: CE-CORTES, 82.1.",
+      "fact_id": "PN-T03-F118",
+      "articulo": "82.1"
+    },
+    {
+      "id": "PN-T03-Q161",
+      "respuesta_correcta": "B",
+      "explicacion": "Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F161",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q567",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 98.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F171",
+      "articulo": "98.2"
+    },
+    {
+      "id": "PN-T03-Q511",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 68.6 (CE-CORTES).",
+      "fact_id": "PN-T03-F068",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q203",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno responde solidariamente de su gestión política ante el Congreso. Referencia principal: CE-RELACIONES, 108.",
+      "fact_id": "PN-T03-F203",
+      "articulo": "108"
+    },
+    {
+      "id": "PN-T03-Q579",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 102.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F187",
+      "articulo": "102.3"
+    },
+    {
+      "id": "PN-T03-Q115",
+      "respuesta_correcta": "A",
+      "explicacion": "Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento. Referencia principal: CE-CORTES, 80.",
+      "fact_id": "PN-T03-F115",
+      "articulo": "80"
+    },
+    {
+      "id": "PN-T03-Q251",
+      "respuesta_correcta": "B",
+      "explicacion": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales. Referencia principal: CE-JUDICIAL, 117.2.",
+      "fact_id": "PN-T03-F251",
+      "articulo": "117.2"
+    },
+    {
+      "id": "PN-T03-Q600",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 113.3 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F217",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q544",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 86.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F134",
+      "articulo": "86.2"
+    },
+    {
+      "id": "PN-T03-Q737",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 168.3 (CE-REFORMA).",
+      "fact_id": "PN-T03-F469",
+      "articulo": "168.3"
+    },
+    {
+      "id": "PN-T03-Q609",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 116.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F229",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q574",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 101.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F182",
+      "articulo": "101.1"
+    },
+    {
+      "id": "PN-T03-Q008",
+      "respuesta_correcta": "B",
+      "explicacion": "La propuesta y el nombramiento del Presidente del Gobierno y la disolución del artículo 99 son refrendados por el Presidente del Congreso. Referencia principal: CE-CORONA, 64.1.",
+      "fact_id": "PN-T03-F008",
+      "articulo": "64.1"
+    },
+    {
+      "id": "PN-T03-Q633",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F265",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q580",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 103.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F188",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q023",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el Rey es menor, ejerce inmediatamente la Regencia el padre o la madre y, en su defecto, el pariente mayor de edad más próximo según el orden sucesorio. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F023",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q648",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 138.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F288",
+      "articulo": "138.1"
+    },
+    {
+      "id": "PN-T03-Q601",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 113.3 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F218",
+      "articulo": "113.3"
+    },
+    {
+      "id": "PN-T03-Q038",
+      "respuesta_correcta": "B",
+      "explicacion": "Corresponde al Rey convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F038",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q663",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 145.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F312",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q610",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 116.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F230",
+      "articulo": "116.2"
+    },
+    {
+      "id": "PN-T03-Q116",
+      "respuesta_correcta": "B",
+      "explicacion": "Son leyes orgánicas las relativas al desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas constitucionalmente. Referencia principal: CE-CORTES, 81.1.",
+      "fact_id": "PN-T03-F116",
+      "articulo": "81.1"
+    },
+    {
+      "id": "PN-T03-Q339",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica. Referencia principal: CE-TERRITORIAL, 148.1.22.",
+      "fact_id": "PN-T03-F339",
+      "articulo": "148.1.22"
+    },
+    {
+      "id": "PN-T03-Q631",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 121 (LOPJ).",
+      "fact_id": "PN-T03-F262",
+      "articulo": "121"
+    },
+    {
+      "id": "PN-T03-Q509",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 68.4 (CE-CORTES).",
+      "fact_id": "PN-T03-F064",
+      "articulo": "68.4"
+    },
+    {
+      "id": "PN-T03-Q399",
+      "respuesta_correcta": "C",
+      "explicacion": "El Presidente y el Consejo responden políticamente ante la Asamblea. Referencia principal: CE-TERRITORIAL, 152.1.",
+      "fact_id": "PN-T03-F399",
+      "articulo": "152.1"
+    },
+    {
+      "id": "PN-T03-Q652",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 140 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F292",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q524",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 73.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F091",
+      "articulo": "73.2"
+    },
+    {
+      "id": "PN-T03-Q690",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 153.a (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F403",
+      "articulo": "153.a"
+    },
+    {
+      "id": "PN-T03-Q343",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre relaciones internacionales. Referencia principal: CE-TERRITORIAL, 149.1.3.",
+      "fact_id": "PN-T03-F343",
+      "articulo": "149.1.3"
+    },
+    {
+      "id": "PN-T03-Q155",
+      "respuesta_correcta": "B",
+      "explicacion": "Una ley orgánica regula las condiciones y procedimiento de las modalidades de referéndum previstas constitucionalmente. Referencia principal: CE-CORTES, 92.3.",
+      "fact_id": "PN-T03-F155",
+      "articulo": "92.3"
+    },
+    {
+      "id": "PN-T03-Q447",
+      "respuesta_correcta": "C",
+      "explicacion": "Las sentencias que declaran inconstitucionalidad y las no limitadas a estimación subjetiva tienen plenos efectos frente a todos. Referencia principal: CE-TC, 164.1.",
+      "fact_id": "PN-T03-F447",
+      "articulo": "164.1"
+    },
+    {
+      "id": "PN-T03-Q679",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 150.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F380",
+      "articulo": "150.2"
+    },
+    {
+      "id": "PN-T03-Q575",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 101.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F183",
+      "articulo": "101.2"
+    },
+    {
+      "id": "PN-T03-Q015",
+      "respuesta_correcta": "C",
+      "explicacion": "Dentro de la misma línea se prefiere el grado más próximo al más remoto. Referencia principal: CE-CORONA, 57.1.",
+      "fact_id": "PN-T03-F015",
+      "articulo": "57.1"
+    },
+    {
+      "id": "PN-T03-Q694",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 154 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F407",
+      "articulo": "154"
+    },
+    {
+      "id": "PN-T03-Q584",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 104.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F194",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q054",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes Generales son inviolables. Referencia principal: CE-CORTES, 66.3.",
+      "fact_id": "PN-T03-F054",
+      "articulo": "66.3"
+    },
+    {
+      "id": "PN-T03-Q448",
+      "respuesta_correcta": "A",
+      "explicacion": "Salvo que el fallo disponga otra cosa, la parte de la ley no afectada por inconstitucionalidad permanece vigente. Referencia principal: CE-TC, 164.2.",
+      "fact_id": "PN-T03-F448",
+      "articulo": "164.2"
+    },
+    {
+      "id": "PN-T03-Q605",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 115.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F225",
+      "articulo": "115.2"
+    },
+    {
+      "id": "PN-T03-Q087",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas. Referencia principal: CE-CORTES, 72.2.",
+      "fact_id": "PN-T03-F087",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q460",
+      "respuesta_correcta": "A",
+      "explicacion": "La reforma ordinaria exige mayoría de tres quintos de cada Cámara. Referencia principal: CE-REFORMA, 167.1.",
+      "fact_id": "PN-T03-F460",
+      "articulo": "167.1"
+    },
+    {
+      "id": "PN-T03-Q608",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es LO 4/1981 art. 1 (LOAES).",
+      "fact_id": "PN-T03-F228",
+      "articulo": "LO 4/1981 art. 1"
+    },
+    {
+      "id": "PN-T03-Q159",
+      "respuesta_correcta": "C",
+      "explicacion": "Requieren autorización previa los tratados que afecten a integridad territorial o a derechos y deberes fundamentales del Título I. Referencia principal: CE-CORTES, 94.1.",
+      "fact_id": "PN-T03-F159",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q019",
+      "respuesta_correcta": "A",
+      "explicacion": "Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveen la sucesión en la forma más conveniente para los intereses de España. Referencia principal: CE-CORONA, 57.3.",
+      "fact_id": "PN-T03-F019",
+      "articulo": "57.3"
+    },
+    {
+      "id": "PN-T03-Q632",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 122.2 (LOPJ).",
+      "fact_id": "PN-T03-F264",
+      "articulo": "122.2"
+    },
+    {
+      "id": "PN-T03-Q204",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas. Referencia principal: CE-RELACIONES, 109.",
+      "fact_id": "PN-T03-F204",
+      "articulo": "109"
+    },
+    {
+      "id": "PN-T03-Q055",
+      "respuesta_correcta": "A",
+      "explicacion": "Nadie puede ser miembro simultáneamente del Congreso y del Senado. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q653",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 140 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F293",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q249",
+      "respuesta_correcta": "C",
+      "explicacion": "La justicia emana del pueblo y se administra en nombre del Rey. Referencia principal: CE-JUDICIAL, 117.1.",
+      "fact_id": "PN-T03-F249",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q517",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 71.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q344",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas. Referencia principal: CE-TERRITORIAL, 149.1.4.",
+      "fact_id": "PN-T03-F344",
+      "articulo": "149.1.4"
+    },
+    {
+      "id": "PN-T03-Q666",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 147.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F317",
+      "articulo": "147.3"
+    },
+    {
+      "id": "PN-T03-Q163",
+      "respuesta_correcta": "A",
+      "explicacion": "La celebración de un tratado con estipulaciones contrarias a la Constitución exige revisión constitucional previa. Referencia principal: CE-CORTES, 95.1.",
+      "fact_id": "PN-T03-F163",
+      "articulo": "95.1"
+    },
+    {
+      "id": "PN-T03-Q680",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 150.3 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F382",
+      "articulo": "150.3"
+    },
+    {
+      "id": "PN-T03-Q009",
+      "respuesta_correcta": "C",
+      "explicacion": "De los actos del Rey responden las personas que los refrendan. Referencia principal: CE-CORONA, 64.2.",
+      "fact_id": "PN-T03-F009",
+      "articulo": "64.2"
+    },
+    {
+      "id": "PN-T03-Q208",
+      "respuesta_correcta": "A",
+      "explicacion": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F208",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q695",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 155.1 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F408",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q024",
+      "respuesta_correcta": "C",
+      "explicacion": "La Regencia por minoría de edad dura durante el tiempo de la minoría del Rey. Referencia principal: CE-CORONA, 59.1.",
+      "fact_id": "PN-T03-F024",
+      "articulo": "59.1"
+    },
+    {
+      "id": "PN-T03-Q253",
+      "respuesta_correcta": "A",
+      "explicacion": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos. Referencia principal: CE-JUDICIAL, 117.4.",
+      "fact_id": "PN-T03-F253",
+      "articulo": "117.4"
+    },
+    {
+      "id": "PN-T03-Q449",
+      "respuesta_correcta": "B",
+      "explicacion": "Una ley orgánica regula funcionamiento del TC, estatuto de miembros, procedimiento y condiciones de acciones. Referencia principal: CE-TC, 165.",
+      "fact_id": "PN-T03-F449",
+      "articulo": "165"
+    },
+    {
+      "id": "PN-T03-Q039",
+      "respuesta_correcta": "C",
+      "explicacion": "Corresponde al Rey convocar a referéndum en los casos previstos en la Constitución. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F039",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q304",
+      "respuesta_correcta": "A",
+      "explicacion": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F304",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q458",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa de reforma se ejerce en los términos del artículo 87.1 y 87.2. Referencia principal: CE-REFORMA, 166.",
+      "fact_id": "PN-T03-F458",
+      "articulo": "166"
+    },
+    {
+      "id": "PN-T03-Q117",
+      "respuesta_correcta": "C",
+      "explicacion": "La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto. Referencia principal: CE-CORTES, 81.2.",
+      "fact_id": "PN-T03-F117",
+      "articulo": "81.2"
+    },
+    {
+      "id": "PN-T03-Q010",
+      "respuesta_correcta": "A",
+      "explicacion": "El Rey recibe una cantidad global de los Presupuestos del Estado para su Familia y Casa y la distribuye libremente. Referencia principal: CE-CORONA, 65.1.",
+      "fact_id": "PN-T03-F010",
+      "articulo": "65.1"
+    },
+    {
+      "id": "PN-T03-Q020",
+      "respuesta_correcta": "B",
+      "explicacion": "Quien tenga derecho a la sucesión y contraiga matrimonio contra la prohibición expresa del Rey y de las Cortes queda excluido, junto con sus descendientes. Referencia principal: CE-CORONA, 57.4.",
+      "fact_id": "PN-T03-F020",
+      "articulo": "57.4"
+    },
+    {
+      "id": "PN-T03-Q510",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 68.6 (CE-CORTES).",
+      "fact_id": "PN-T03-F067",
+      "articulo": "68.6"
+    },
+    {
+      "id": "PN-T03-Q028",
+      "respuesta_correcta": "A",
+      "explicacion": "Para ejercer la Regencia se exige ser español y mayor de edad. Referencia principal: CE-CORONA, 59.4.",
+      "fact_id": "PN-T03-F028",
+      "articulo": "59.4"
+    },
+    {
+      "id": "PN-T03-Q056",
+      "respuesta_correcta": "B",
+      "explicacion": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F056",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q114",
+      "respuesta_correcta": "C",
+      "explicacion": "El voto de senadores y diputados es personal e indelegable. Referencia principal: CE-CORTES, 79.3.",
+      "fact_id": "PN-T03-F114",
+      "articulo": "79.3"
+    },
+    {
+      "id": "PN-T03-Q040",
+      "respuesta_correcta": "A",
+      "explicacion": "Corresponde al Rey proponer candidato a Presidente del Gobierno, nombrarlo y poner fin a sus funciones en los términos constitucionales. Referencia principal: CE-CORONA, 62.",
+      "fact_id": "PN-T03-F040",
+      "articulo": "62"
+    },
+    {
+      "id": "PN-T03-Q089",
+      "respuesta_correcta": "B",
+      "explicacion": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes. Referencia principal: CE-CORTES, 72.3.",
+      "fact_id": "PN-T03-F089",
+      "articulo": "72.3"
+    },
+    {
+      "id": "PN-T03-Q543",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 86.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F133",
+      "articulo": "86.1"
+    },
+    {
+      "id": "PN-T03-Q121",
+      "respuesta_correcta": "A",
+      "explicacion": "La delegación debe otorgarse de forma expresa, para materia concreta y con fijación de plazo. Referencia principal: CE-CORTES, 82.3.",
+      "fact_id": "PN-T03-F121",
+      "articulo": "82.3"
+    },
+    {
+      "id": "PN-T03-Q164",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción. Referencia principal: CE-CORTES, 95.2.",
+      "fact_id": "PN-T03-F164",
+      "articulo": "95.2"
+    },
+    {
+      "id": "PN-T03-Q570",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 99.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F177",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q206",
+      "respuesta_correcta": "B",
+      "explicacion": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír. Referencia principal: CE-RELACIONES, 110.2.",
+      "fact_id": "PN-T03-F206",
+      "articulo": "110.2"
+    },
+    {
+      "id": "PN-T03-Q582",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 103.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F190",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q254",
+      "respuesta_correcta": "B",
+      "explicacion": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales. Referencia principal: CE-JUDICIAL, 117.5.",
+      "fact_id": "PN-T03-F254",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q603",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 114.2 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F221",
+      "articulo": "114.2"
+    },
+    {
+      "id": "PN-T03-Q305",
+      "respuesta_correcta": "B",
+      "explicacion": "Los requisitos de la iniciativa autonómica deben cumplirse en seis meses desde el primer acuerdo. Referencia principal: CE-TERRITORIAL, 143.2.",
+      "fact_id": "PN-T03-F305",
+      "articulo": "143.2"
+    },
+    {
+      "id": "PN-T03-Q612",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es LO 4/1981 art. 4 (LOAES).",
+      "fact_id": "PN-T03-F232",
+      "articulo": "LO 4/1981 art. 4"
+    },
+    {
+      "id": "PN-T03-Q636",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F268",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q651",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 139.2 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F291",
+      "articulo": "139.2"
+    },
+    {
+      "id": "PN-T03-Q342",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo. Referencia principal: CE-TERRITORIAL, 149.1.2.",
+      "fact_id": "PN-T03-F342",
+      "articulo": "149.1.2"
+    },
+    {
+      "id": "PN-T03-Q402",
+      "respuesta_correcta": "C",
+      "explicacion": "Los Estatutos pueden establecer circunscripciones territoriales propias agrupando municipios limítrofes con personalidad jurídica. Referencia principal: CE-TERRITORIAL, 152.3.",
+      "fact_id": "PN-T03-F402",
+      "articulo": "152.3"
+    },
+    {
+      "id": "PN-T03-Q693",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 153.d (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F406",
+      "articulo": "153.d"
+    },
+    {
+      "id": "PN-T03-Q450",
+      "respuesta_correcta": "C",
+      "explicacion": "El Tribunal Constitucional actúa en Pleno, Sala o Sección. Referencia principal: LOTC, LOTC art. 6.",
+      "fact_id": "PN-T03-F450",
+      "articulo": "LOTC art. 6"
+    },
+    {
+      "id": "PN-T03-Q459",
+      "respuesta_correcta": "C",
+      "explicacion": "La iniciativa legislativa popular no puede promover una reforma constitucional. Referencia principal: CE-REFORMA, 166.",
+      "fact_id": "PN-T03-F459",
+      "articulo": "166"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

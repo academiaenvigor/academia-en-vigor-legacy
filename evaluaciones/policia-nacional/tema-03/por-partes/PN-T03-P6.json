@@ -1,0 +1,14 @@
+{
+  "id": "PN-T03-P6",
+  "titulo": "Tema 3 · Parte 6 · Tribunal Constitucional y reforma",
+  "ambito": {
+    "bloques": [
+      24,
+      25
+    ]
+  },
+  "modo": "aleatorio_equilibrado",
+  "numero_preguntas": 25,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

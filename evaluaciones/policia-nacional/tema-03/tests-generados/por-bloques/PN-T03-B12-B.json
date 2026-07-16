@@ -1,0 +1,85 @@
+{
+  "id": "PN-T03-B12-B",
+  "titulo": "Tema 3 · Bloque 12: Gobierno: funciones, composición y estatuto · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      12
+    ]
+  },
+  "numero_preguntas": 3,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q575",
+      "fact_id": "PN-T03-F183",
+      "bloque": 12,
+      "concepto": "Gobierno en funciones",
+      "articulo": "101.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.»?",
+      "opciones": {
+        "A": "97",
+        "B": "101.2",
+        "C": "98.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q570",
+      "fact_id": "PN-T03-F177",
+      "bloque": 12,
+      "concepto": "Segunda votación de investidura",
+      "articulo": "99.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Si no hay mayoría absoluta, se celebra nueva votación 48 horas después y basta mayoría simple.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "99.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q573",
+      "fact_id": "PN-T03-F181",
+      "bloque": 12,
+      "concepto": "Nombramiento de ministros",
+      "articulo": "100",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los demás miembros del Gobierno son nombrados y separados por el Rey a propuesta del Presidente.»?",
+      "opciones": {
+        "A": "97",
+        "B": "98.1",
+        "C": "100"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q575",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 101.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F183",
+      "articulo": "101.2"
+    },
+    {
+      "id": "PN-T03-Q570",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 99.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F177",
+      "articulo": "99.3"
+    },
+    {
+      "id": "PN-T03-Q573",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 100 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F181",
+      "articulo": "100"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

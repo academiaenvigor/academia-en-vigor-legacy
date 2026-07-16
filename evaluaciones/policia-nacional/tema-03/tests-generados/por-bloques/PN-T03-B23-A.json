@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B23-A",
+  "titulo": "Tema 3 · Bloque 23: Control autonómico, artículo 155 y financiación · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      23
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q403",
+      "fact_id": "PN-T03-F403",
+      "bloque": 23,
+      "concepto": "Control del TC",
+      "articulo": "153.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del TC» conforme a 153.a?",
+      "opciones": {
+        "A": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.",
+        "B": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
+        "C": "Las comunidades pueden actuar como delegadas o colaboradoras del Estado en recaudación, gestión y liquidación tributaria."
+      }
+    },
+    {
+      "id": "PN-T03-Q404",
+      "fact_id": "PN-T03-F404",
+      "bloque": 23,
+      "concepto": "Control del Gobierno",
+      "articulo": "153.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del Gobierno» conforme a 153.b?",
+      "opciones": {
+        "A": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias.",
+        "B": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2.",
+        "C": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito."
+      }
+    },
+    {
+      "id": "PN-T03-Q405",
+      "fact_id": "PN-T03-F405",
+      "bloque": 23,
+      "concepto": "Control contencioso-administrativo",
+      "articulo": "153.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control contencioso-administrativo» conforme a 153.c?",
+      "opciones": {
+        "A": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.",
+        "B": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "C": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q406",
+      "fact_id": "PN-T03-F406",
+      "bloque": 23,
+      "concepto": "Control del Tribunal de Cuentas",
+      "articulo": "153.d",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control del Tribunal de Cuentas» conforme a 153.d?",
+      "opciones": {
+        "A": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q407",
+      "fact_id": "PN-T03-F407",
+      "bloque": 23,
+      "concepto": "Delegado del Gobierno",
+      "articulo": "154",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Delegado del Gobierno» conforme a 154?",
+      "opciones": {
+        "A": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión.",
+        "B": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.",
+        "C": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades."
+      }
+    },
+    {
+      "id": "PN-T03-Q408",
+      "fact_id": "PN-T03-F408",
+      "bloque": 23,
+      "concepto": "Presupuesto del artículo 155",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presupuesto del artículo 155» conforme a 155.1?",
+      "opciones": {
+        "A": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2.",
+        "B": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
+        "C": "El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q409",
+      "fact_id": "PN-T03-F409",
+      "bloque": 23,
+      "concepto": "Requerimiento previo",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Requerimiento previo» conforme a 155.1?",
+      "opciones": {
+        "A": "Antes de aplicar el artículo 155, el Gobierno debe requerir al Presidente de la comunidad.",
+        "B": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.",
+        "C": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias."
+      }
+    },
+    {
+      "id": "PN-T03-Q410",
+      "fact_id": "PN-T03-F410",
+      "bloque": 23,
+      "concepto": "Mayoría del Senado",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría del Senado» conforme a 155.1?",
+      "opciones": {
+        "A": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general.",
+        "B": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
+        "C": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios."
+      }
+    },
+    {
+      "id": "PN-T03-Q411",
+      "fact_id": "PN-T03-F411",
+      "bloque": 23,
+      "concepto": "Finalidad de las medidas",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Finalidad de las medidas» conforme a 155.1?",
+      "opciones": {
+        "A": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q412",
+      "fact_id": "PN-T03-F412",
+      "bloque": 23,
+      "concepto": "Instrucciones a autoridades autonómicas",
+      "articulo": "155.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Instrucciones a autoridades autonómicas» conforme a 155.2?",
+      "opciones": {
+        "A": "Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades autonómicas.",
+        "B": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias.",
+        "C": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión."
+      }
+    },
+    {
+      "id": "PN-T03-Q413",
+      "fact_id": "PN-T03-F413",
+      "bloque": 23,
+      "concepto": "Autonomía financiera",
+      "articulo": "156.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía financiera» conforme a 156.1?",
+      "opciones": {
+        "A": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado.",
+        "B": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias.",
+        "C": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q414",
+      "fact_id": "PN-T03-F414",
+      "bloque": 23,
+      "concepto": "Principios financieros",
+      "articulo": "156.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Principios financieros» conforme a 156.1?",
+      "opciones": {
+        "A": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso.",
+        "B": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.",
+        "C": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles."
+      }
+    },
+    {
+      "id": "PN-T03-Q415",
+      "fact_id": "PN-T03-F415",
+      "bloque": 23,
+      "concepto": "Colaboración tributaria",
+      "articulo": "156.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Colaboración tributaria» conforme a 156.2?",
+      "opciones": {
+        "A": "Las comunidades pueden actuar como delegadas o colaboradoras del Estado en recaudación, gestión y liquidación tributaria.",
+        "B": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias.",
+        "C": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q416",
+      "fact_id": "PN-T03-F416",
+      "bloque": 23,
+      "concepto": "Recursos autonómicos tributarios",
+      "articulo": "157.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Recursos autonómicos tributarios» conforme a 157.1?",
+      "opciones": {
+        "A": "El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general.",
+        "B": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.",
+        "C": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias."
+      }
+    },
+    {
+      "id": "PN-T03-Q417",
+      "fact_id": "PN-T03-F417",
+      "bloque": 23,
+      "concepto": "Transferencias y fondos",
+      "articulo": "157.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Transferencias y fondos» conforme a 157.1?",
+      "opciones": {
+        "A": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general.",
+        "B": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios.",
+        "C": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q418",
+      "fact_id": "PN-T03-F418",
+      "bloque": 23,
+      "concepto": "Patrimonio y crédito",
+      "articulo": "157.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Patrimonio y crédito» conforme a 157.1?",
+      "opciones": {
+        "A": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito.",
+        "B": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.",
+        "C": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q419",
+      "fact_id": "PN-T03-F419",
+      "bloque": 23,
+      "concepto": "Límites tributarios territoriales",
+      "articulo": "157.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Límites tributarios territoriales» conforme a 157.2?",
+      "opciones": {
+        "A": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso."
+      }
+    },
+    {
+      "id": "PN-T03-Q420",
+      "fact_id": "PN-T03-F420",
+      "bloque": 23,
+      "concepto": "Ley orgánica financiera",
+      "articulo": "157.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ley orgánica financiera» conforme a 157.3?",
+      "opciones": {
+        "A": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "B": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias.",
+        "C": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q421",
+      "fact_id": "PN-T03-F421",
+      "bloque": 23,
+      "concepto": "Asignaciones de nivelación",
+      "articulo": "158.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asignaciones de nivelación» conforme a 158.1?",
+      "opciones": {
+        "A": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales.",
+        "B": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.",
+        "C": "El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q422",
+      "fact_id": "PN-T03-F422",
+      "bloque": 23,
+      "concepto": "Fondo de Compensación",
+      "articulo": "158.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Fondo de Compensación» conforme a 158.2?",
+      "opciones": {
+        "A": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades.",
+        "B": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión.",
+        "C": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q423",
+      "fact_id": "PN-T03-F423",
+      "bloque": 23,
+      "concepto": "Distribución del Fondo",
+      "articulo": "158.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Distribución del Fondo» conforme a 158.2?",
+      "opciones": {
+        "A": "Antes de aplicar el artículo 155, el Gobierno debe requerir al Presidente de la comunidad.",
+        "B": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.",
+        "C": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso."
+      }
+    },
+    {
+      "id": "PN-T03-Q691",
+      "fact_id": "PN-T03-F404",
+      "bloque": 23,
+      "concepto": "Control del Gobierno",
+      "articulo": "153.b",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2.»?",
+      "opciones": {
+        "A": "153.b",
+        "B": "153.a",
+        "C": "153.c"
+      }
+    },
+    {
+      "id": "PN-T03-Q692",
+      "fact_id": "PN-T03-F405",
+      "bloque": 23,
+      "concepto": "Control contencioso-administrativo",
+      "articulo": "153.c",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias.»?",
+      "opciones": {
+        "A": "153.a",
+        "B": "153.c",
+        "C": "153.b"
+      }
+    },
+    {
+      "id": "PN-T03-Q690",
+      "fact_id": "PN-T03-F403",
+      "bloque": 23,
+      "concepto": "Control del TC",
+      "articulo": "153.a",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley.»?",
+      "opciones": {
+        "A": "153.b",
+        "B": "153.c",
+        "C": "153.a"
+      }
+    },
+    {
+      "id": "PN-T03-Q694",
+      "fact_id": "PN-T03-F407",
+      "bloque": 23,
+      "concepto": "Delegado del Gobierno",
+      "articulo": "154",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.»?",
+      "opciones": {
+        "A": "154",
+        "B": "153.a",
+        "C": "153.b"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q403",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal Constitucional controla la constitucionalidad de disposiciones autonómicas con fuerza de ley. Referencia principal: CE-TERRITORIAL, 153.a.",
+      "fact_id": "PN-T03-F403",
+      "articulo": "153.a"
+    },
+    {
+      "id": "PN-T03-Q404",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2. Referencia principal: CE-TERRITORIAL, 153.b.",
+      "fact_id": "PN-T03-F404",
+      "articulo": "153.b"
+    },
+    {
+      "id": "PN-T03-Q405",
+      "respuesta_correcta": "C",
+      "explicacion": "La jurisdicción contencioso-administrativa controla la administración autonómica y sus normas reglamentarias. Referencia principal: CE-TERRITORIAL, 153.c.",
+      "fact_id": "PN-T03-F405",
+      "articulo": "153.c"
+    },
+    {
+      "id": "PN-T03-Q406",
+      "respuesta_correcta": "A",
+      "explicacion": "El Tribunal de Cuentas ejerce el control económico y presupuestario de las comunidades. Referencia principal: CE-TERRITORIAL, 153.d.",
+      "fact_id": "PN-T03-F406",
+      "articulo": "153.d"
+    },
+    {
+      "id": "PN-T03-Q407",
+      "respuesta_correcta": "B",
+      "explicacion": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica. Referencia principal: CE-TERRITORIAL, 154.",
+      "fact_id": "PN-T03-F407",
+      "articulo": "154"
+    },
+    {
+      "id": "PN-T03-Q408",
+      "respuesta_correcta": "C",
+      "explicacion": "El artículo 155 procede por incumplimiento de obligaciones constitucionales o legales o atentado grave al interés general. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F408",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q409",
+      "respuesta_correcta": "A",
+      "explicacion": "Antes de aplicar el artículo 155, el Gobierno debe requerir al Presidente de la comunidad. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F409",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q410",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F410",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q411",
+      "respuesta_correcta": "C",
+      "explicacion": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F411",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q412",
+      "respuesta_correcta": "A",
+      "explicacion": "Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades autonómicas. Referencia principal: CE-TERRITORIAL, 155.2.",
+      "fact_id": "PN-T03-F412",
+      "articulo": "155.2"
+    },
+    {
+      "id": "PN-T03-Q413",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias. Referencia principal: CE-TERRITORIAL, 156.1.",
+      "fact_id": "PN-T03-F413",
+      "articulo": "156.1"
+    },
+    {
+      "id": "PN-T03-Q414",
+      "respuesta_correcta": "C",
+      "explicacion": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles. Referencia principal: CE-TERRITORIAL, 156.1.",
+      "fact_id": "PN-T03-F414",
+      "articulo": "156.1"
+    },
+    {
+      "id": "PN-T03-Q415",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades pueden actuar como delegadas o colaboradoras del Estado en recaudación, gestión y liquidación tributaria. Referencia principal: CE-TERRITORIAL, 156.2.",
+      "fact_id": "PN-T03-F415",
+      "articulo": "156.2"
+    },
+    {
+      "id": "PN-T03-Q416",
+      "respuesta_correcta": "B",
+      "explicacion": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios. Referencia principal: CE-TERRITORIAL, 157.1.",
+      "fact_id": "PN-T03-F416",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q417",
+      "respuesta_correcta": "C",
+      "explicacion": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias. Referencia principal: CE-TERRITORIAL, 157.1.",
+      "fact_id": "PN-T03-F417",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q418",
+      "respuesta_correcta": "A",
+      "explicacion": "Incluyen rendimientos patrimoniales, ingresos de Derecho privado y operaciones de crédito. Referencia principal: CE-TERRITORIAL, 157.1.",
+      "fact_id": "PN-T03-F418",
+      "articulo": "157.1"
+    },
+    {
+      "id": "PN-T03-Q419",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios. Referencia principal: CE-TERRITORIAL, 157.2.",
+      "fact_id": "PN-T03-F419",
+      "articulo": "157.2"
+    },
+    {
+      "id": "PN-T03-Q420",
+      "respuesta_correcta": "C",
+      "explicacion": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado. Referencia principal: CE-TERRITORIAL, 157.3.",
+      "fact_id": "PN-T03-F420",
+      "articulo": "157.3"
+    },
+    {
+      "id": "PN-T03-Q421",
+      "respuesta_correcta": "A",
+      "explicacion": "Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales. Referencia principal: CE-TERRITORIAL, 158.1.",
+      "fact_id": "PN-T03-F421",
+      "articulo": "158.1"
+    },
+    {
+      "id": "PN-T03-Q422",
+      "respuesta_correcta": "B",
+      "explicacion": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión. Referencia principal: CE-TERRITORIAL, 158.2.",
+      "fact_id": "PN-T03-F422",
+      "articulo": "158.2"
+    },
+    {
+      "id": "PN-T03-Q423",
+      "respuesta_correcta": "C",
+      "explicacion": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso. Referencia principal: CE-TERRITORIAL, 158.2.",
+      "fact_id": "PN-T03-F423",
+      "articulo": "158.2"
+    },
+    {
+      "id": "PN-T03-Q691",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 153.b (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F404",
+      "articulo": "153.b"
+    },
+    {
+      "id": "PN-T03-Q692",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 153.c (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F405",
+      "articulo": "153.c"
+    },
+    {
+      "id": "PN-T03-Q690",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 153.a (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F403",
+      "articulo": "153.a"
+    },
+    {
+      "id": "PN-T03-Q694",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 154 (CE-TERRITORIAL).",
+      "fact_id": "PN-T03-F407",
+      "articulo": "154"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

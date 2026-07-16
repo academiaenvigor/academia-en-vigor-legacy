@@ -1,0 +1,563 @@
+{
+  "content_version": "0.3.0",
+  "tests": [
+    {
+      "id": "PN-T03-B01",
+      "titulo": "Tema 3 · Bloque 1: La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "ambito": {
+        "bloques": [
+          1
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 17,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B02",
+      "titulo": "Tema 3 · Bloque 2: Sucesión a la Corona y consorte",
+      "ambito": {
+        "bloques": [
+          2
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 19,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B03",
+      "titulo": "Tema 3 · Bloque 3: Regencia, tutela y juramento",
+      "ambito": {
+        "bloques": [
+          3
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B04",
+      "titulo": "Tema 3 · Bloque 4: Funciones nacionales e internacionales del Rey",
+      "ambito": {
+        "bloques": [
+          4
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B05",
+      "titulo": "Tema 3 · Bloque 5: Cortes Generales: naturaleza, funciones y mandato representativo",
+      "ambito": {
+        "bloques": [
+          5
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 11,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B06",
+      "titulo": "Tema 3 · Bloque 6: Congreso, Senado e incompatibilidades",
+      "ambito": {
+        "bloques": [
+          6
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B07",
+      "titulo": "Tema 3 · Bloque 7: Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "ambito": {
+        "bloques": [
+          7
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 16,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B08",
+      "titulo": "Tema 3 · Bloque 8: Funcionamiento de las Cámaras",
+      "ambito": {
+        "bloques": [
+          8
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B09",
+      "titulo": "Tema 3 · Bloque 9: Leyes orgánicas y delegación legislativa",
+      "ambito": {
+        "bloques": [
+          9
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B10",
+      "titulo": "Tema 3 · Bloque 10: Decreto-ley, iniciativa y procedimiento legislativo",
+      "ambito": {
+        "bloques": [
+          10
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B11",
+      "titulo": "Tema 3 · Bloque 11: Tratados internacionales",
+      "ambito": {
+        "bloques": [
+          11
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 19,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B12",
+      "titulo": "Tema 3 · Bloque 12: Gobierno: funciones, composición, investidura y cese",
+      "ambito": {
+        "bloques": [
+          12
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B13",
+      "titulo": "Tema 3 · Bloque 13: Responsabilidad del Gobierno y Administración Pública",
+      "ambito": {
+        "bloques": [
+          13
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B14",
+      "titulo": "Tema 3 · Bloque 14: Control parlamentario ordinario del Gobierno",
+      "ambito": {
+        "bloques": [
+          14
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 11,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B15",
+      "titulo": "Tema 3 · Bloque 15: Confianza, censura y disolución",
+      "ambito": {
+        "bloques": [
+          15
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B16",
+      "titulo": "Tema 3 · Bloque 16: Estados de alarma, excepción y sitio",
+      "ambito": {
+        "bloques": [
+          16
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B17",
+      "titulo": "Tema 3 · Bloque 17: Poder Judicial: principios y proceso",
+      "ambito": {
+        "bloques": [
+          17
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B18",
+      "titulo": "Tema 3 · Bloque 18: Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "ambito": {
+        "bloques": [
+          18
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B19",
+      "titulo": "Tema 3 · Bloque 19: Principios territoriales y Administración local",
+      "ambito": {
+        "bloques": [
+          19
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B20",
+      "titulo": "Tema 3 · Bloque 20: Acceso a la autonomía y Estatutos",
+      "ambito": {
+        "bloques": [
+          20
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B21",
+      "titulo": "Tema 3 · Bloque 21: Distribución de competencias: artículos 148 y 149",
+      "ambito": {
+        "bloques": [
+          21
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B22",
+      "titulo": "Tema 3 · Bloque 22: Técnicas del artículo 150 y vía especial del artículo 151",
+      "ambito": {
+        "bloques": [
+          22
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B23",
+      "titulo": "Tema 3 · Bloque 23: Instituciones, controles, coerción y financiación autonómica",
+      "ambito": {
+        "bloques": [
+          23
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B24",
+      "titulo": "Tema 3 · Bloque 24: Tribunal Constitucional",
+      "ambito": {
+        "bloques": [
+          24
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-B25",
+      "titulo": "Tema 3 · Bloque 25: Reforma constitucional",
+      "ambito": {
+        "bloques": [
+          25
+        ]
+      },
+      "modo": "aleatorio_sin_repeticion",
+      "numero_preguntas": 20,
+      "banco_version": "0.3.0",
+      "equilibrar_riesgo": true,
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P1",
+      "titulo": "Tema 3 · Parte 1 · La Corona",
+      "ambito": {
+        "bloques": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P2",
+      "titulo": "Tema 3 · Parte 2 · Cortes y producción normativa",
+      "ambito": {
+        "bloques": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P3",
+      "titulo": "Tema 3 · Parte 3 · Gobierno, control y estados excepcionales",
+      "ambito": {
+        "bloques": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P4",
+      "titulo": "Tema 3 · Parte 4 · Poder Judicial",
+      "ambito": {
+        "bloques": [
+          17,
+          18
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P5",
+      "titulo": "Tema 3 · Parte 5 · Organización territorial",
+      "ambito": {
+        "bloques": [
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-P6",
+      "titulo": "Tema 3 · Parte 6 · Tribunal Constitucional y reforma",
+      "ambito": {
+        "bloques": [
+          24,
+          25
+        ]
+      },
+      "modo": "aleatorio_equilibrado",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-FINAL-25",
+      "titulo": "Tema 3 · Test final de 25 preguntas",
+      "ambito": {
+        "bloques": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "modo": "aleatorio_equilibrado_por_bloque_y_riesgo",
+      "numero_preguntas": 25,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-FINAL-50",
+      "titulo": "Tema 3 · Test final de 50 preguntas",
+      "ambito": {
+        "bloques": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "modo": "aleatorio_equilibrado_por_bloque_y_riesgo",
+      "numero_preguntas": 50,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    },
+    {
+      "id": "PN-T03-FINAL-100",
+      "titulo": "Tema 3 · Test final de 100 preguntas",
+      "ambito": {
+        "bloques": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "modo": "aleatorio_equilibrado_por_bloque_y_riesgo",
+      "numero_preguntas": 100,
+      "banco_version": "0.3.0",
+      "maximo_por_hecho": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "id": "PN-T03-P2-C",
+  "titulo": "Tema 3 · Parte 2 · Cortes y producción normativa · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q055",
+      "fact_id": "PN-T03-F055",
+      "bloque": 5,
+      "concepto": "Incompatibilidad entre Cámaras",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidad entre Cámaras» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "C": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios."
+      }
+    },
+    {
+      "id": "PN-T03-Q056",
+      "fact_id": "PN-T03-F056",
+      "bloque": 5,
+      "concepto": "Acta estatal y autonómica",
+      "articulo": "67.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acta estatal y autonómica» conforme a 67.1?",
+      "opciones": {
+        "A": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "B": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q072",
+      "fact_id": "PN-T03-F072",
+      "bloque": 6,
+      "concepto": "Islas menores",
+      "articulo": "69.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Islas menores» conforme a 69.3?",
+      "opciones": {
+        "A": "Ceuta y Melilla eligen cada una dos senadores.",
+        "B": "Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales.",
+        "C": "Cada isla o agrupación menor prevista constitucionalmente elige un senador."
+      }
+    },
+    {
+      "id": "PN-T03-Q076",
+      "fact_id": "PN-T03-F076",
+      "bloque": 6,
+      "concepto": "Mandato del Senado",
+      "articulo": "69.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato del Senado» conforme a 69.6?",
+      "opciones": {
+        "A": "El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "B": "El Congreso es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución.",
+        "C": "El Senado es la Cámara de representación territorial."
+      }
+    },
+    {
+      "id": "PN-T03-Q521",
+      "fact_id": "PN-T03-F086",
+      "bloque": 7,
+      "concepto": "Mayoría para reglamentos",
+      "articulo": "72.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "72.1",
+        "C": "71.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q522",
+      "fact_id": "PN-T03-F088",
+      "bloque": 7,
+      "concepto": "Sesiones conjuntas",
+      "articulo": "72.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "72.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q106",
+      "fact_id": "PN-T03-F106",
+      "bloque": 8,
+      "concepto": "Peticiones mediante manifestación",
+      "articulo": "77.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Peticiones mediante manifestación» conforme a 77.1?",
+      "opciones": {
+        "A": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas.",
+        "B": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito.",
+        "C": "Reunida la Cámara, la Diputación Permanente da cuenta de los asuntos tratados y decisiones adoptadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q074",
+      "fact_id": "PN-T03-F074",
+      "bloque": 6,
+      "concepto": "Senadores autonómicos",
+      "articulo": "69.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Senadores autonómicos» conforme a 69.5?",
+      "opciones": {
+        "A": "La validez de actas y credenciales parlamentarias queda sometida al control judicial en los términos de la ley electoral.",
+        "B": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio.",
+        "C": "La elección al Congreso se verifica en cada circunscripción atendiendo a criterios de representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q102",
+      "fact_id": "PN-T03-F102",
+      "bloque": 8,
+      "concepto": "Conclusiones de investigación",
+      "articulo": "76.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Conclusiones de investigación» conforme a 76.1?",
+      "opciones": {
+        "A": "Las Cámaras se reúnen conjuntamente para ejercer las competencias no legislativas que el Título II atribuye a las Cortes.",
+        "B": "Las Cámaras pueden delegar en comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley.",
+        "C": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales."
+      }
+    },
+    {
+      "id": "PN-T03-Q535",
+      "fact_id": "PN-T03-F117",
+      "bloque": 9,
+      "concepto": "Mayoría de ley orgánica",
+      "articulo": "81.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La aprobación, modificación o derogación de una ley orgánica exige mayoría absoluta del Congreso en votación final sobre el conjunto.»?",
+      "opciones": {
+        "A": "81.2",
+        "B": "81.1",
+        "C": "82.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q107",
+      "fact_id": "PN-T03-F107",
+      "bloque": 8,
+      "concepto": "Remisión de peticiones",
+      "articulo": "77.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Remisión de peticiones» conforme a 77.2?",
+      "opciones": {
+        "A": "Las Diputaciones Permanentes ejercen las funciones de los artículos 73, 86 y 116 y velan por los poderes de las Cámaras cuando no están reunidas.",
+        "B": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen.",
+        "C": "El voto de senadores y diputados es personal e indelegable."
+      }
+    },
+    {
+      "id": "PN-T03-Q129",
+      "fact_id": "PN-T03-F129",
+      "bloque": 9,
+      "concepto": "Derogación de delegación",
+      "articulo": "84",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Derogación de delegación» conforme a 84?",
+      "opciones": {
+        "A": "La delegación se agota por el uso que haga de ella el Gobierno mediante la publicación de la norma correspondiente.",
+        "B": "Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.",
+        "C": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación."
+      }
+    },
+    {
+      "id": "PN-T03-Q148",
+      "fact_id": "PN-T03-F148",
+      "bloque": 10,
+      "concepto": "Levantamiento inmediato del veto",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Levantamiento inmediato del veto» conforme a 90.2?",
+      "opciones": {
+        "A": "El Congreso puede levantar el veto inmediatamente por mayoría absoluta.",
+        "B": "La iniciativa legislativa popular requiere al menos 500.000 firmas acreditadas.",
+        "C": "Aprobado un proyecto de ley por el Congreso, su Presidente lo comunica al Presidente del Senado."
+      }
+    },
+    {
+      "id": "PN-T03-Q536",
+      "fact_id": "PN-T03-F119",
+      "bloque": 9,
+      "concepto": "Ley de bases",
+      "articulo": "82.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La delegación para formar textos articulados se otorga mediante una ley de bases.»?",
+      "opciones": {
+        "A": "81.1",
+        "B": "82.2",
+        "C": "81.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q144",
+      "fact_id": "PN-T03-F144",
+      "bloque": 10,
+      "concepto": "Proposición del Senado",
+      "articulo": "89.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proposición del Senado» conforme a 89.2?",
+      "opciones": {
+        "A": "Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos.",
+        "B": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.",
+        "C": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación."
+      }
+    },
+    {
+      "id": "PN-T03-Q562",
+      "fact_id": "PN-T03-F164",
+      "bloque": 11,
+      "concepto": "Consulta al Tribunal Constitucional",
+      "articulo": "95.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe contradicción.»?",
+      "opciones": {
+        "A": "95.2",
+        "B": "93",
+        "C": "94.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q146",
+      "fact_id": "PN-T03-F146",
+      "bloque": 10,
+      "concepto": "Plazo ordinario del Senado",
+      "articulo": "90.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Plazo ordinario del Senado» conforme a 90.2?",
+      "opciones": {
+        "A": "El Congreso debe debatir y votar la convalidación o derogación del decreto-ley dentro de los 30 días siguientes a su promulgación.",
+        "B": "El Senado dispone de dos meses para vetar o enmendar el texto recibido.",
+        "C": "Una asamblea autonómica puede delegar hasta tres miembros para defender su proposición ante el Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q558",
+      "fact_id": "PN-T03-F158",
+      "bloque": 11,
+      "concepto": "Tratados políticos y militares",
+      "articulo": "94.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los tratados políticos y militares requieren autorización previa de las Cortes.»?",
+      "opciones": {
+        "A": "93",
+        "B": "94.2",
+        "C": "94.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q082",
+      "fact_id": "PN-T03-F082",
+      "bloque": 7,
+      "concepto": "Suplicatorio",
+      "articulo": "71.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Suplicatorio» conforme a 71.2?",
+      "opciones": {
+        "A": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q560",
+      "fact_id": "PN-T03-F161",
+      "bloque": 11,
+      "concepto": "Medidas legislativas",
+      "articulo": "94.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Requieren autorización previa los tratados que supongan modificar o derogar una ley o exijan medidas legislativas.»?",
+      "opciones": {
+        "A": "93",
+        "B": "94.1",
+        "C": "94.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q057",
+      "fact_id": "PN-T03-F057",
+      "bloque": 5,
+      "concepto": "Mandato imperativo",
+      "articulo": "67.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mandato imperativo» conforme a 67.2?",
+      "opciones": {
+        "A": "Las Cortes Generales representan al pueblo español y están formadas por Congreso y Senado.",
+        "B": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios.",
+        "C": "Los miembros de las Cortes Generales no están ligados por mandato imperativo."
+      }
+    },
+    {
+      "id": "PN-T03-Q058",
+      "fact_id": "PN-T03-F058",
+      "bloque": 5,
+      "concepto": "Reuniones no reglamentarias",
+      "articulo": "67.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reuniones no reglamentarias» conforme a 67.3?",
+      "opciones": {
+        "A": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios.",
+        "B": "Nadie puede ser miembro simultáneamente del Congreso y del Senado.",
+        "C": "Las Cortes Generales son inviolables."
+      }
+    },
+    {
+      "id": "PN-T03-Q080",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad parlamentaria» conforme a 71.1?",
+      "opciones": {
+        "A": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q075",
+      "fact_id": "PN-T03-F075",
+      "bloque": 6,
+      "concepto": "Designación autonómica",
+      "articulo": "69.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Designación autonómica» conforme a 69.5?",
+      "opciones": {
+        "A": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.",
+        "B": "La ley reconoce y el Estado facilita el derecho de sufragio de los españoles que se encuentren fuera de España.",
+        "C": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional."
+      }
+    },
+    {
+      "id": "PN-T03-Q105",
+      "fact_id": "PN-T03-F105",
+      "bloque": 8,
+      "concepto": "Peticiones a las Cámaras",
+      "articulo": "77.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Peticiones a las Cámaras» conforme a 77.1?",
+      "opciones": {
+        "A": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales.",
+        "B": "Cada Cámara tiene una Diputación Permanente con un mínimo de 21 miembros, representativos de los grupos parlamentarios.",
+        "C": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q055",
+      "respuesta_correcta": "A",
+      "explicacion": "Nadie puede ser miembro simultáneamente del Congreso y del Senado. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F055",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q056",
+      "respuesta_correcta": "B",
+      "explicacion": "No puede acumularse el acta de una asamblea autonómica con la de diputado al Congreso. Referencia principal: CE-CORTES, 67.1.",
+      "fact_id": "PN-T03-F056",
+      "articulo": "67.1"
+    },
+    {
+      "id": "PN-T03-Q072",
+      "respuesta_correcta": "C",
+      "explicacion": "Cada isla o agrupación menor prevista constitucionalmente elige un senador. Referencia principal: CE-CORTES, 69.3.",
+      "fact_id": "PN-T03-F072",
+      "articulo": "69.3"
+    },
+    {
+      "id": "PN-T03-Q076",
+      "respuesta_correcta": "A",
+      "explicacion": "El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución. Referencia principal: CE-CORTES, 69.6.",
+      "fact_id": "PN-T03-F076",
+      "articulo": "69.6"
+    },
+    {
+      "id": "PN-T03-Q521",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 72.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F086",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q522",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 72.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F088",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q106",
+      "respuesta_correcta": "A",
+      "explicacion": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas. Referencia principal: CE-CORTES, 77.1.",
+      "fact_id": "PN-T03-F106",
+      "articulo": "77.1"
+    },
+    {
+      "id": "PN-T03-Q074",
+      "respuesta_correcta": "B",
+      "explicacion": "Cada comunidad autónoma designa un senador y otro más por cada millón de habitantes de su territorio. Referencia principal: CE-CORTES, 69.5.",
+      "fact_id": "PN-T03-F074",
+      "articulo": "69.5"
+    },
+    {
+      "id": "PN-T03-Q102",
+      "respuesta_correcta": "C",
+      "explicacion": "Las conclusiones de una comisión de investigación no vinculan a los tribunales ni afectan a resoluciones judiciales. Referencia principal: CE-CORTES, 76.1.",
+      "fact_id": "PN-T03-F102",
+      "articulo": "76.1"
+    },
+    {
+      "id": "PN-T03-Q535",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 81.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F117",
+      "articulo": "81.2"
+    },
+    {
+      "id": "PN-T03-Q107",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Cámaras pueden remitir al Gobierno las peticiones recibidas y el Gobierno debe explicarse si ellas lo exigen. Referencia principal: CE-CORTES, 77.2.",
+      "fact_id": "PN-T03-F107",
+      "articulo": "77.2"
+    },
+    {
+      "id": "PN-T03-Q129",
+      "respuesta_correcta": "C",
+      "explicacion": "En ese caso puede presentarse una proposición de ley para la derogación total o parcial de la ley de delegación. Referencia principal: CE-CORTES, 84.",
+      "fact_id": "PN-T03-F129",
+      "articulo": "84"
+    },
+    {
+      "id": "PN-T03-Q148",
+      "respuesta_correcta": "A",
+      "explicacion": "El Congreso puede levantar el veto inmediatamente por mayoría absoluta. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F148",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q536",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 82.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F119",
+      "articulo": "82.2"
+    },
+    {
+      "id": "PN-T03-Q144",
+      "respuesta_correcta": "C",
+      "explicacion": "Las proposiciones que tome en consideración el Senado se remiten al Congreso para su tramitación. Referencia principal: CE-CORTES, 89.2.",
+      "fact_id": "PN-T03-F144",
+      "articulo": "89.2"
+    },
+    {
+      "id": "PN-T03-Q562",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 95.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F164",
+      "articulo": "95.2"
+    },
+    {
+      "id": "PN-T03-Q146",
+      "respuesta_correcta": "B",
+      "explicacion": "El Senado dispone de dos meses para vetar o enmendar el texto recibido. Referencia principal: CE-CORTES, 90.2.",
+      "fact_id": "PN-T03-F146",
+      "articulo": "90.2"
+    },
+    {
+      "id": "PN-T03-Q558",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 94.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F158",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q082",
+      "respuesta_correcta": "A",
+      "explicacion": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva. Referencia principal: CE-CORTES, 71.2.",
+      "fact_id": "PN-T03-F082",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q560",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 94.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F161",
+      "articulo": "94.1"
+    },
+    {
+      "id": "PN-T03-Q057",
+      "respuesta_correcta": "C",
+      "explicacion": "Los miembros de las Cortes Generales no están ligados por mandato imperativo. Referencia principal: CE-CORTES, 67.2.",
+      "fact_id": "PN-T03-F057",
+      "articulo": "67.2"
+    },
+    {
+      "id": "PN-T03-Q058",
+      "respuesta_correcta": "A",
+      "explicacion": "Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios. Referencia principal: CE-CORTES, 67.3.",
+      "fact_id": "PN-T03-F058",
+      "articulo": "67.3"
+    },
+    {
+      "id": "PN-T03-Q080",
+      "respuesta_correcta": "B",
+      "explicacion": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Referencia principal: CE-CORTES, 71.1.",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q075",
+      "respuesta_correcta": "C",
+      "explicacion": "La designación de senadores autonómicos corresponde a la asamblea legislativa o al órgano colegiado superior, asegurando representación proporcional. Referencia principal: CE-CORTES, 69.5.",
+      "fact_id": "PN-T03-F075",
+      "articulo": "69.5"
+    },
+    {
+      "id": "PN-T03-Q105",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras pueden recibir peticiones individuales y colectivas siempre por escrito. Referencia principal: CE-CORTES, 77.1.",
+      "fact_id": "PN-T03-F105",
+      "articulo": "77.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

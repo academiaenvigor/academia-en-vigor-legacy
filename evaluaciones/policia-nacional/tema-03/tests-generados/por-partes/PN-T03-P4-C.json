@@ -1,0 +1,570 @@
+{
+  "id": "PN-T03-P4-C",
+  "titulo": "Tema 3 · Parte 4 · Poder Judicial · Test C",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      17,
+      18
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q625",
+      "fact_id": "PN-T03-F254",
+      "bloque": 17,
+      "concepto": "Unidad jurisdiccional",
+      "articulo": "117.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.»?",
+      "opciones": {
+        "A": "117.5",
+        "B": "117.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q626",
+      "fact_id": "PN-T03-F255",
+      "bloque": 17,
+      "concepto": "Jurisdicción militar",
+      "articulo": "117.5",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.5",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q261",
+      "fact_id": "PN-T03-F261",
+      "bloque": 17,
+      "concepto": "Motivación y publicidad de sentencias",
+      "articulo": "120.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Motivación y publicidad de sentencias» conforme a 120.3?",
+      "opciones": {
+        "A": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "B": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q277",
+      "fact_id": "PN-T03-F277",
+      "bloque": 18,
+      "concepto": "Acción popular",
+      "articulo": "125",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acción popular» conforme a 125?",
+      "opciones": {
+        "A": "Los ciudadanos pueden ejercer la acción popular en la forma y procesos que determine la ley.",
+        "B": "El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ.",
+        "C": "Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos."
+      }
+    },
+    {
+      "id": "PN-T03-Q278",
+      "fact_id": "PN-T03-F278",
+      "bloque": 18,
+      "concepto": "Jurado",
+      "articulo": "125",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Jurado» conforme a 125?",
+      "opciones": {
+        "A": "La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación.",
+        "B": "Los ciudadanos pueden participar en la Administración de Justicia mediante la institución del Jurado en procesos penales determinados por la ley.",
+        "C": "Los daños por error judicial o funcionamiento anormal de la Administración de Justicia generan indemnización a cargo del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q276",
+      "fact_id": "PN-T03-F276",
+      "bloque": 18,
+      "concepto": "Fiscal General del Estado",
+      "articulo": "124.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Fiscal General del Estado» conforme a 124.4?",
+      "opciones": {
+        "A": "El Ministerio Fiscal vela por la independencia de los tribunales y procura ante ellos la satisfacción del interés social.",
+        "B": "La Constitución reconoce la participación ciudadana en tribunales consuetudinarios y tradicionales.",
+        "C": "El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ."
+      }
+    },
+    {
+      "id": "PN-T03-Q628",
+      "fact_id": "PN-T03-F258",
+      "bloque": 17,
+      "concepto": "Justicia gratuita",
+      "articulo": "119",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos.»?",
+      "opciones": {
+        "A": "119",
+        "B": "117.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q629",
+      "fact_id": "PN-T03-F259",
+      "bloque": 17,
+      "concepto": "Publicidad judicial",
+      "articulo": "120.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "120.1",
+        "C": "117.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q624",
+      "fact_id": "PN-T03-F252",
+      "bloque": 17,
+      "concepto": "Exclusividad jurisdiccional",
+      "articulo": "117.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Juzgar y hacer ejecutar lo juzgado corresponde exclusivamente a juzgados y tribunales determinados por las leyes.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "117.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q280",
+      "fact_id": "PN-T03-F280",
+      "bloque": 18,
+      "concepto": "Dependencia funcional de Policía Judicial",
+      "articulo": "126",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dependencia funcional de Policía Judicial» conforme a 126?",
+      "opciones": {
+        "A": "La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación.",
+        "B": "La LOPJ determina constitución, funcionamiento y gobierno de juzgados y tribunales y el estatuto de jueces y personal.",
+        "C": "Congreso y Senado proponen cuatro vocales juristas cada uno por mayoría de tres quintos."
+      }
+    },
+    {
+      "id": "PN-T03-Q281",
+      "fact_id": "PN-T03-F281",
+      "bloque": 18,
+      "concepto": "Funciones de Policía Judicial",
+      "articulo": "126",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones de Policía Judicial» conforme a 126?",
+      "opciones": {
+        "A": "Doce vocales del CGPJ se eligen entre jueces y magistrados de todas las categorías judiciales.",
+        "B": "La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales.",
+        "C": "El Presidente del Tribunal Supremo es nombrado por el Rey a propuesta del CGPJ en la forma legal."
+      }
+    },
+    {
+      "id": "PN-T03-Q279",
+      "fact_id": "PN-T03-F279",
+      "bloque": 18,
+      "concepto": "Tribunales consuetudinarios",
+      "articulo": "125",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tribunales consuetudinarios» conforme a 125?",
+      "opciones": {
+        "A": "La ley establece el sistema y modalidades de asociación profesional de jueces, magistrados y fiscales.",
+        "B": "El CGPJ está integrado por el Presidente del Tribunal Supremo y 20 miembros nombrados por el Rey por cinco años.",
+        "C": "La Constitución reconoce la participación ciudadana en tribunales consuetudinarios y tradicionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q250",
+      "fact_id": "PN-T03-F250",
+      "bloque": 17,
+      "concepto": "Estatuto judicial",
+      "articulo": "117.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto judicial» conforme a 117.1?",
+      "opciones": {
+        "A": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "B": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos.",
+        "C": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos."
+      }
+    },
+    {
+      "id": "PN-T03-Q251",
+      "fact_id": "PN-T03-F251",
+      "bloque": 17,
+      "concepto": "Garantía de inamovilidad",
+      "articulo": "117.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Garantía de inamovilidad» conforme a 117.2?",
+      "opciones": {
+        "A": "Se prohíben los tribunales de excepción.",
+        "B": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales.",
+        "C": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública."
+      }
+    },
+    {
+      "id": "PN-T03-Q627",
+      "fact_id": "PN-T03-F256",
+      "bloque": 17,
+      "concepto": "Tribunales de excepción",
+      "articulo": "117.6",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Se prohíben los tribunales de excepción.»?",
+      "opciones": {
+        "A": "117.1",
+        "B": "117.2",
+        "C": "117.6"
+      }
+    },
+    {
+      "id": "PN-T03-Q283",
+      "fact_id": "PN-T03-F283",
+      "bloque": 18,
+      "concepto": "Asociaciones profesionales",
+      "articulo": "127.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asociaciones profesionales» conforme a 127.1?",
+      "opciones": {
+        "A": "La ley establece el sistema y modalidades de asociación profesional de jueces, magistrados y fiscales.",
+        "B": "El Ministerio Fiscal promueve la acción de la justicia en defensa de legalidad, derechos de ciudadanos e interés público.",
+        "C": "Los ciudadanos pueden ejercer la acción popular en la forma y procesos que determine la ley."
+      }
+    },
+    {
+      "id": "PN-T03-Q284",
+      "fact_id": "PN-T03-F284",
+      "bloque": 18,
+      "concepto": "Régimen de incompatibilidades",
+      "articulo": "127.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Régimen de incompatibilidades» conforme a 127.2?",
+      "opciones": {
+        "A": "La ley regula el estatuto orgánico del Ministerio Fiscal.",
+        "B": "La ley establece el régimen de incompatibilidades de miembros del Poder Judicial para asegurar su independencia.",
+        "C": "La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación."
+      }
+    },
+    {
+      "id": "PN-T03-Q282",
+      "fact_id": "PN-T03-F282",
+      "bloque": 18,
+      "concepto": "Incompatibilidades judiciales",
+      "articulo": "127.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Incompatibilidades judiciales» conforme a 127.1?",
+      "opciones": {
+        "A": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo garantías constitucionales.",
+        "B": "El Ministerio Fiscal actúa con unidad de actuación y dependencia jerárquica, sujeto a legalidad e imparcialidad.",
+        "C": "Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos."
+      }
+    },
+    {
+      "id": "PN-T03-Q253",
+      "fact_id": "PN-T03-F253",
+      "bloque": 17,
+      "concepto": "Funciones no jurisdiccionales",
+      "articulo": "117.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Funciones no jurisdiccionales» conforme a 117.4?",
+      "opciones": {
+        "A": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos.",
+        "B": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "C": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio."
+      }
+    },
+    {
+      "id": "PN-T03-Q257",
+      "fact_id": "PN-T03-F257",
+      "bloque": 17,
+      "concepto": "Colaboración con la justicia",
+      "articulo": "118",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Colaboración con la justicia» conforme a 118?",
+      "opciones": {
+        "A": "La justicia emana del pueblo y se administra en nombre del Rey.",
+        "B": "Es obligatorio cumplir sentencias y resoluciones firmes y prestar la colaboración requerida por jueces y tribunales.",
+        "C": "El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales."
+      }
+    },
+    {
+      "id": "PN-T03-Q249",
+      "fact_id": "PN-T03-F249",
+      "bloque": 17,
+      "concepto": "Origen de la justicia",
+      "articulo": "117.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Origen de la justicia» conforme a 117.1?",
+      "opciones": {
+        "A": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "B": "La ley regula la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio.",
+        "C": "La justicia emana del pueblo y se administra en nombre del Rey."
+      }
+    },
+    {
+      "id": "PN-T03-Q631",
+      "fact_id": "PN-T03-F262",
+      "bloque": 18,
+      "concepto": "Error judicial",
+      "articulo": "121",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los daños por error judicial o funcionamiento anormal de la Administración de Justicia generan indemnización a cargo del Estado.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q632",
+      "fact_id": "PN-T03-F264",
+      "bloque": 18,
+      "concepto": "Gobierno del Poder Judicial",
+      "articulo": "122.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Consejo General del Poder Judicial es el órgano de gobierno del Poder Judicial.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.2",
+        "C": "122.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q633",
+      "fact_id": "PN-T03-F265",
+      "bloque": 18,
+      "concepto": "Composición del CGPJ",
+      "articulo": "122.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El CGPJ está integrado por el Presidente del Tribunal Supremo y 20 miembros nombrados por el Rey por cinco años.»?",
+      "opciones": {
+        "A": "121",
+        "B": "122.1",
+        "C": "122.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q260",
+      "fact_id": "PN-T03-F260",
+      "bloque": 17,
+      "concepto": "Oralidad",
+      "articulo": "120.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Oralidad» conforme a 120.2?",
+      "opciones": {
+        "A": "La justicia es gratuita cuando lo disponga la ley y, en todo caso, para quienes acrediten insuficiencia de recursos.",
+        "B": "El procedimiento es predominantemente oral, sobre todo en materia criminal.",
+        "C": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q625",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 117.5 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F254",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q626",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 117.5 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F255",
+      "articulo": "117.5"
+    },
+    {
+      "id": "PN-T03-Q261",
+      "respuesta_correcta": "C",
+      "explicacion": "Las sentencias deben ser motivadas y pronunciarse en audiencia pública. Referencia principal: CE-JUDICIAL, 120.3.",
+      "fact_id": "PN-T03-F261",
+      "articulo": "120.3"
+    },
+    {
+      "id": "PN-T03-Q277",
+      "respuesta_correcta": "A",
+      "explicacion": "Los ciudadanos pueden ejercer la acción popular en la forma y procesos que determine la ley. Referencia principal: LOPJ, 125.",
+      "fact_id": "PN-T03-F277",
+      "articulo": "125"
+    },
+    {
+      "id": "PN-T03-Q278",
+      "respuesta_correcta": "B",
+      "explicacion": "Los ciudadanos pueden participar en la Administración de Justicia mediante la institución del Jurado en procesos penales determinados por la ley. Referencia principal: LOPJ, 125.",
+      "fact_id": "PN-T03-F278",
+      "articulo": "125"
+    },
+    {
+      "id": "PN-T03-Q276",
+      "respuesta_correcta": "C",
+      "explicacion": "El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ. Referencia principal: LOPJ, 124.4.",
+      "fact_id": "PN-T03-F276",
+      "articulo": "124.4"
+    },
+    {
+      "id": "PN-T03-Q628",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 119 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F258",
+      "articulo": "119"
+    },
+    {
+      "id": "PN-T03-Q629",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 120.1 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F259",
+      "articulo": "120.1"
+    },
+    {
+      "id": "PN-T03-Q624",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 117.3 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F252",
+      "articulo": "117.3"
+    },
+    {
+      "id": "PN-T03-Q280",
+      "respuesta_correcta": "A",
+      "explicacion": "La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación. Referencia principal: LOPJ, 126.",
+      "fact_id": "PN-T03-F280",
+      "articulo": "126"
+    },
+    {
+      "id": "PN-T03-Q281",
+      "respuesta_correcta": "B",
+      "explicacion": "La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales. Referencia principal: LOPJ, 126.",
+      "fact_id": "PN-T03-F281",
+      "articulo": "126"
+    },
+    {
+      "id": "PN-T03-Q279",
+      "respuesta_correcta": "C",
+      "explicacion": "La Constitución reconoce la participación ciudadana en tribunales consuetudinarios y tradicionales. Referencia principal: LOPJ, 125.",
+      "fact_id": "PN-T03-F279",
+      "articulo": "125"
+    },
+    {
+      "id": "PN-T03-Q250",
+      "respuesta_correcta": "A",
+      "explicacion": "Jueces y magistrados son independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. Referencia principal: CE-JUDICIAL, 117.1.",
+      "fact_id": "PN-T03-F250",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q251",
+      "respuesta_correcta": "B",
+      "explicacion": "Los jueces no pueden ser separados, suspendidos, trasladados ni jubilados salvo por causas y garantías legales. Referencia principal: CE-JUDICIAL, 117.2.",
+      "fact_id": "PN-T03-F251",
+      "articulo": "117.2"
+    },
+    {
+      "id": "PN-T03-Q627",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 117.6 (CE-JUDICIAL).",
+      "fact_id": "PN-T03-F256",
+      "articulo": "117.6"
+    },
+    {
+      "id": "PN-T03-Q283",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley establece el sistema y modalidades de asociación profesional de jueces, magistrados y fiscales. Referencia principal: LOPJ, 127.1.",
+      "fact_id": "PN-T03-F283",
+      "articulo": "127.1"
+    },
+    {
+      "id": "PN-T03-Q284",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley establece el régimen de incompatibilidades de miembros del Poder Judicial para asegurar su independencia. Referencia principal: LOPJ, 127.2.",
+      "fact_id": "PN-T03-F284",
+      "articulo": "127.2"
+    },
+    {
+      "id": "PN-T03-Q282",
+      "respuesta_correcta": "C",
+      "explicacion": "Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos. Referencia principal: LOPJ, 127.1.",
+      "fact_id": "PN-T03-F282",
+      "articulo": "127.1"
+    },
+    {
+      "id": "PN-T03-Q253",
+      "respuesta_correcta": "A",
+      "explicacion": "Los tribunales solo ejercen funciones jurisdiccionales y las atribuidas por ley en garantía de derechos. Referencia principal: CE-JUDICIAL, 117.4.",
+      "fact_id": "PN-T03-F253",
+      "articulo": "117.4"
+    },
+    {
+      "id": "PN-T03-Q257",
+      "respuesta_correcta": "B",
+      "explicacion": "Es obligatorio cumplir sentencias y resoluciones firmes y prestar la colaboración requerida por jueces y tribunales. Referencia principal: CE-JUDICIAL, 118.",
+      "fact_id": "PN-T03-F257",
+      "articulo": "118"
+    },
+    {
+      "id": "PN-T03-Q249",
+      "respuesta_correcta": "C",
+      "explicacion": "La justicia emana del pueblo y se administra en nombre del Rey. Referencia principal: CE-JUDICIAL, 117.1.",
+      "fact_id": "PN-T03-F249",
+      "articulo": "117.1"
+    },
+    {
+      "id": "PN-T03-Q631",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 121 (LOPJ).",
+      "fact_id": "PN-T03-F262",
+      "articulo": "121"
+    },
+    {
+      "id": "PN-T03-Q632",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 122.2 (LOPJ).",
+      "fact_id": "PN-T03-F264",
+      "articulo": "122.2"
+    },
+    {
+      "id": "PN-T03-Q633",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 122.3 (LOPJ).",
+      "fact_id": "PN-T03-F265",
+      "articulo": "122.3"
+    },
+    {
+      "id": "PN-T03-Q260",
+      "respuesta_correcta": "B",
+      "explicacion": "El procedimiento es predominantemente oral, sobre todo en materia criminal. Referencia principal: CE-JUDICIAL, 120.2.",
+      "fact_id": "PN-T03-F260",
+      "articulo": "120.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

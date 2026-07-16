@@ -1,0 +1,37 @@
+{
+  "id": "PN-T03-FINAL-100",
+  "titulo": "Tema 3 · Test final de 100 preguntas",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  "modo": "aleatorio_equilibrado_por_bloque_y_riesgo",
+  "numero_preguntas": 100,
+  "banco_version": "0.3.0",
+  "maximo_por_hecho": 1
+}

@@ -1,0 +1,573 @@
+{
+  "id": "PN-T03-P5-B",
+  "titulo": "Tema 3 · Parte 5 · Organización territorial · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q295",
+      "fact_id": "PN-T03-F295",
+      "bloque": 19,
+      "concepto": "Elección de alcaldes",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de alcaldes» conforme a 140?",
+      "opciones": {
+        "A": "Los alcaldes son elegidos por los concejales o por los vecinos.",
+        "B": "En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos.",
+        "C": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular."
+      }
+    },
+    {
+      "id": "PN-T03-Q293",
+      "fact_id": "PN-T03-F293",
+      "bloque": 19,
+      "concepto": "Gobierno municipal",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gobierno municipal» conforme a 140?",
+      "opciones": {
+        "A": "Los alcaldes son elegidos por los concejales o por los vecinos.",
+        "B": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales.",
+        "C": "Pueden crearse agrupaciones de municipios diferentes de la provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q291",
+      "fact_id": "PN-T03-F291",
+      "bloque": 19,
+      "concepto": "Libre circulación",
+      "articulo": "139.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Libre circulación» conforme a 139.2?",
+      "opciones": {
+        "A": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.",
+        "B": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q313",
+      "fact_id": "PN-T03-F313",
+      "bloque": 20,
+      "concepto": "Proyecto de Estatuto",
+      "articulo": "146",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Proyecto de Estatuto» conforme a 146?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio.",
+        "B": "El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso.",
+        "C": "Si la iniciativa no prospera, solo puede reiterarse pasados cinco años."
+      }
+    },
+    {
+      "id": "PN-T03-Q311",
+      "fact_id": "PN-T03-F311",
+      "bloque": 20,
+      "concepto": "Convenios entre comunidades",
+      "articulo": "145.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Convenios entre comunidades» conforme a 145.2?",
+      "opciones": {
+        "A": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica.",
+        "B": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios.",
+        "C": "Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento."
+      }
+    },
+    {
+      "id": "PN-T03-Q309",
+      "fact_id": "PN-T03-F309",
+      "bloque": 20,
+      "concepto": "Sustitución de iniciativa local",
+      "articulo": "144.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sustitución de iniciativa local» conforme a 144.c?",
+      "opciones": {
+        "A": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.",
+        "B": "Las Cortes pueden autorizar o acordar un Estatuto para territorios no integrados en la organización provincial.",
+        "C": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q328",
+      "fact_id": "PN-T03-F328",
+      "bloque": 21,
+      "concepto": "Pesca interior y caza",
+      "articulo": "148.1.11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Pesca interior y caza» conforme a 148.1.11?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial.",
+        "B": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos.",
+        "C": "El Estado tiene competencia exclusiva sobre ferrocarriles y transportes interautonómicos, régimen general de comunicaciones, tráfico, correos, telecomunicaciones y radiocomunicación."
+      }
+    },
+    {
+      "id": "PN-T03-Q326",
+      "fact_id": "PN-T03-F326",
+      "bloque": 21,
+      "concepto": "Gestión ambiental",
+      "articulo": "148.1.9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Gestión ambiental» conforme a 148.1.9?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente.",
+        "C": "El Estado tiene competencia exclusiva sobre fomento y coordinación general de la investigación científica y técnica."
+      }
+    },
+    {
+      "id": "PN-T03-Q324",
+      "fact_id": "PN-T03-F324",
+      "bloque": 21,
+      "concepto": "Agricultura y ganadería",
+      "articulo": "148.1.7",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Agricultura y ganadería» conforme a 148.1.7?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación sobre propiedad intelectual e industrial.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía."
+      }
+    },
+    {
+      "id": "PN-T03-Q388",
+      "fact_id": "PN-T03-F388",
+      "bloque": 22,
+      "concepto": "Mayoría del proyecto especial",
+      "articulo": "151.2.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría del proyecto especial» conforme a 151.2.1?",
+      "opciones": {
+        "A": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.",
+        "B": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto.",
+        "C": "Si no hay acuerdo en Comisión, el proyecto se tramita como proyecto de ley y después se somete a referéndum."
+      }
+    },
+    {
+      "id": "PN-T03-Q386",
+      "fact_id": "PN-T03-F386",
+      "bloque": 22,
+      "concepto": "Referéndum de iniciativa",
+      "articulo": "151.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Referéndum de iniciativa» conforme a 151.1?",
+      "opciones": {
+        "A": "La ley orgánica de transferencia debe prever medios financieros y formas de control estatal.",
+        "B": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum.",
+        "C": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto."
+      }
+    },
+    {
+      "id": "PN-T03-Q384",
+      "fact_id": "PN-T03-F384",
+      "bloque": 22,
+      "concepto": "Iniciativa autonómica especial",
+      "articulo": "151.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Iniciativa autonómica especial» conforme a 151.1?",
+      "opciones": {
+        "A": "Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo.",
+        "B": "El Estado puede transferir o delegar mediante ley orgánica facultades estatales susceptibles por su naturaleza.",
+        "C": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia."
+      }
+    },
+    {
+      "id": "PN-T03-Q412",
+      "fact_id": "PN-T03-F412",
+      "bloque": 23,
+      "concepto": "Instrucciones a autoridades autonómicas",
+      "articulo": "155.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Instrucciones a autoridades autonómicas» conforme a 155.2?",
+      "opciones": {
+        "A": "Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades autonómicas.",
+        "B": "Incluyen transferencias del Fondo de Compensación Interterritorial y otras asignaciones presupuestarias.",
+        "C": "El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión."
+      }
+    },
+    {
+      "id": "PN-T03-Q410",
+      "fact_id": "PN-T03-F410",
+      "bloque": 23,
+      "concepto": "Mayoría del Senado",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría del Senado» conforme a 155.1?",
+      "opciones": {
+        "A": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general.",
+        "B": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
+        "C": "Los recursos autonómicos incluyen impuestos cedidos, recargos sobre impuestos estatales y tributos propios."
+      }
+    },
+    {
+      "id": "PN-T03-Q411",
+      "fact_id": "PN-T03-F411",
+      "bloque": 23,
+      "concepto": "Finalidad de las medidas",
+      "articulo": "155.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Finalidad de las medidas» conforme a 155.1?",
+      "opciones": {
+        "A": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles.",
+        "B": "Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios.",
+        "C": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general."
+      }
+    },
+    {
+      "id": "PN-T03-Q296",
+      "fact_id": "PN-T03-F296",
+      "bloque": 19,
+      "concepto": "Concejo abierto",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Concejo abierto» conforme a 140?",
+      "opciones": {
+        "A": "Municipios, provincias y comunidades autónomas gozan de autonomía para gestionar sus intereses.",
+        "B": "La ley regula las condiciones en que procede el régimen de concejo abierto.",
+        "C": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes."
+      }
+    },
+    {
+      "id": "PN-T03-Q294",
+      "fact_id": "PN-T03-F294",
+      "bloque": 19,
+      "concepto": "Elección de concejales",
+      "articulo": "140",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Elección de concejales» conforme a 140?",
+      "opciones": {
+        "A": "La alteración de límites provinciales debe aprobarse por las Cortes mediante ley orgánica.",
+        "B": "El Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan.",
+        "C": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto."
+      }
+    },
+    {
+      "id": "PN-T03-Q314",
+      "fact_id": "PN-T03-F314",
+      "bloque": 20,
+      "concepto": "Remisión del proyecto",
+      "articulo": "146",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Remisión del proyecto» conforme a 146?",
+      "opciones": {
+        "A": "La iniciativa corresponde a todas las diputaciones u órganos insulares y a dos tercios de municipios de cada provincia que representen mayoría del censo.",
+        "B": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley.",
+        "C": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica."
+      }
+    },
+    {
+      "id": "PN-T03-Q312",
+      "fact_id": "PN-T03-F312",
+      "bloque": 20,
+      "concepto": "Acuerdos de cooperación",
+      "articulo": "145.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acuerdos de cooperación» conforme a 145.2?",
+      "opciones": {
+        "A": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio.",
+        "B": "Pueden acceder al autogobierno provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.",
+        "C": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes."
+      }
+    },
+    {
+      "id": "PN-T03-Q329",
+      "fact_id": "PN-T03-F329",
+      "bloque": 21,
+      "concepto": "Ferias interiores",
+      "articulo": "148.1.12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ferias interiores» conforme a 148.1.12?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "C": "El Estado tiene competencia exclusiva sobre obras públicas de interés general o cuya realización afecte a más de una comunidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q327",
+      "fact_id": "PN-T03-F327",
+      "bloque": 21,
+      "concepto": "Aguas de interés autonómico",
+      "articulo": "148.1.10",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aguas de interés autonómico» conforme a 148.1.10?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.",
+        "B": "El Estado tiene competencia exclusiva sobre bases del régimen jurídico administrativo y funcionarial, procedimiento común, expropiación, contratos, concesiones y responsabilidad.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales."
+      }
+    },
+    {
+      "id": "PN-T03-Q389",
+      "fact_id": "PN-T03-F389",
+      "bloque": 22,
+      "concepto": "Comisión Constitucional",
+      "articulo": "151.2.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comisión Constitucional» conforme a 151.2.2?",
+      "opciones": {
+        "A": "El Estatuto se eleva a las Cortes si lo aprueba la mayoría de votos válidamente emitidos en cada provincia.",
+        "B": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente.",
+        "C": "Existe un Consejo de Gobierno con funciones ejecutivas y administrativas."
+      }
+    },
+    {
+      "id": "PN-T03-Q387",
+      "fact_id": "PN-T03-F387",
+      "bloque": 22,
+      "concepto": "Asamblea de parlamentarios",
+      "articulo": "151.2.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asamblea de parlamentarios» conforme a 151.2.1?",
+      "opciones": {
+        "A": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia.",
+        "B": "Si hay acuerdo, el texto se somete a referéndum del cuerpo electoral de las provincias afectadas.",
+        "C": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto."
+      }
+    },
+    {
+      "id": "PN-T03-Q413",
+      "fact_id": "PN-T03-F413",
+      "bloque": 23,
+      "concepto": "Autonomía financiera",
+      "articulo": "156.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Autonomía financiera» conforme a 156.1?",
+      "opciones": {
+        "A": "Una ley orgánica puede regular competencias financieras, conflictos y colaboración con el Estado.",
+        "B": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias.",
+        "C": "El Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas del artículo 150.2."
+      }
+    },
+    {
+      "id": "PN-T03-Q414",
+      "fact_id": "PN-T03-F414",
+      "bloque": 23,
+      "concepto": "Principios financieros",
+      "articulo": "156.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Principios financieros» conforme a 156.1?",
+      "opciones": {
+        "A": "Los recursos del Fondo son distribuidos por las Cortes entre comunidades y provincias, en su caso.",
+        "B": "Un Delegado nombrado por el Gobierno dirige la Administración del Estado en la comunidad y la coordina cuando proceda con la autonómica.",
+        "C": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q295",
+      "respuesta_correcta": "A",
+      "explicacion": "Los alcaldes son elegidos por los concejales o por los vecinos. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F295",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q293",
+      "respuesta_correcta": "B",
+      "explicacion": "El gobierno y administración municipal corresponden a ayuntamientos integrados por alcaldes y concejales. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F293",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q291",
+      "respuesta_correcta": "C",
+      "explicacion": "Ninguna autoridad puede obstaculizar directa o indirectamente la libertad de circulación y establecimiento ni la libre circulación de bienes. Referencia principal: CE-TERRITORIAL, 139.2.",
+      "fact_id": "PN-T03-F291",
+      "articulo": "139.2"
+    },
+    {
+      "id": "PN-T03-Q313",
+      "respuesta_correcta": "A",
+      "explicacion": "El proyecto de Estatuto se elabora por una asamblea formada por miembros de diputaciones u órganos insulares y diputados y senadores elegidos en el territorio. Referencia principal: CE-TERRITORIAL, 146.",
+      "fact_id": "PN-T03-F313",
+      "articulo": "146"
+    },
+    {
+      "id": "PN-T03-Q311",
+      "respuesta_correcta": "B",
+      "explicacion": "Los Estatutos pueden prever supuestos, requisitos y comunicación a las Cortes de convenios para gestión de servicios propios. Referencia principal: CE-TERRITORIAL, 145.2.",
+      "fact_id": "PN-T03-F311",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q309",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cortes pueden sustituir la iniciativa de las corporaciones locales mediante ley orgánica. Referencia principal: CE-TERRITORIAL, 144.c.",
+      "fact_id": "PN-T03-F309",
+      "articulo": "144.c"
+    },
+    {
+      "id": "PN-T03-Q328",
+      "respuesta_correcta": "A",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial. Referencia principal: CE-TERRITORIAL, 148.1.11.",
+      "fact_id": "PN-T03-F328",
+      "articulo": "148.1.11"
+    },
+    {
+      "id": "PN-T03-Q326",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente. Referencia principal: CE-TERRITORIAL, 148.1.9.",
+      "fact_id": "PN-T03-F326",
+      "articulo": "148.1.9"
+    },
+    {
+      "id": "PN-T03-Q324",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía. Referencia principal: CE-TERRITORIAL, 148.1.7.",
+      "fact_id": "PN-T03-F324",
+      "articulo": "148.1.7"
+    },
+    {
+      "id": "PN-T03-Q388",
+      "respuesta_correcta": "A",
+      "explicacion": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros. Referencia principal: CE-TERRITORIAL, 151.2.1.",
+      "fact_id": "PN-T03-F388",
+      "articulo": "151.2.1"
+    },
+    {
+      "id": "PN-T03-Q386",
+      "respuesta_correcta": "B",
+      "explicacion": "La iniciativa especial debe ser ratificada por mayoría absoluta de electores de cada provincia en referéndum. Referencia principal: CE-TERRITORIAL, 151.1.",
+      "fact_id": "PN-T03-F386",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q384",
+      "respuesta_correcta": "C",
+      "explicacion": "La vía especial exige acuerdo de órganos provinciales y de tres cuartas partes de municipios que representen mayoría del censo de cada provincia. Referencia principal: CE-TERRITORIAL, 151.1.",
+      "fact_id": "PN-T03-F384",
+      "articulo": "151.1"
+    },
+    {
+      "id": "PN-T03-Q412",
+      "respuesta_correcta": "A",
+      "explicacion": "Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades autonómicas. Referencia principal: CE-TERRITORIAL, 155.2.",
+      "fact_id": "PN-T03-F412",
+      "articulo": "155.2"
+    },
+    {
+      "id": "PN-T03-Q410",
+      "respuesta_correcta": "B",
+      "explicacion": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F410",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q411",
+      "respuesta_correcta": "C",
+      "explicacion": "Las medidas buscan obligar al cumplimiento forzoso o proteger el interés general. Referencia principal: CE-TERRITORIAL, 155.1.",
+      "fact_id": "PN-T03-F411",
+      "articulo": "155.1"
+    },
+    {
+      "id": "PN-T03-Q296",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley regula las condiciones en que procede el régimen de concejo abierto. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F296",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q294",
+      "respuesta_correcta": "C",
+      "explicacion": "Los concejales son elegidos por sufragio universal, igual, libre, directo y secreto. Referencia principal: CE-TERRITORIAL, 140.",
+      "fact_id": "PN-T03-F294",
+      "articulo": "140"
+    },
+    {
+      "id": "PN-T03-Q314",
+      "respuesta_correcta": "B",
+      "explicacion": "El proyecto de Estatuto se eleva a las Cortes para su tramitación como ley. Referencia principal: CE-TERRITORIAL, 146.",
+      "fact_id": "PN-T03-F314",
+      "articulo": "146"
+    },
+    {
+      "id": "PN-T03-Q312",
+      "respuesta_correcta": "C",
+      "explicacion": "Los demás acuerdos de cooperación entre comunidades requieren autorización de las Cortes. Referencia principal: CE-TERRITORIAL, 145.2.",
+      "fact_id": "PN-T03-F312",
+      "articulo": "145.2"
+    },
+    {
+      "id": "PN-T03-Q329",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores. Referencia principal: CE-TERRITORIAL, 148.1.12.",
+      "fact_id": "PN-T03-F329",
+      "articulo": "148.1.12"
+    },
+    {
+      "id": "PN-T03-Q327",
+      "respuesta_correcta": "C",
+      "explicacion": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales. Referencia principal: CE-TERRITORIAL, 148.1.10.",
+      "fact_id": "PN-T03-F327",
+      "articulo": "148.1.10"
+    },
+    {
+      "id": "PN-T03-Q389",
+      "respuesta_correcta": "B",
+      "explicacion": "El proyecto se examina en dos meses por la Comisión Constitucional del Congreso con una delegación de la Asamblea proponente. Referencia principal: CE-TERRITORIAL, 151.2.2.",
+      "fact_id": "PN-T03-F389",
+      "articulo": "151.2.2"
+    },
+    {
+      "id": "PN-T03-Q387",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gobierno convoca a diputados y senadores del territorio para constituirse en Asamblea y elaborar el proyecto de Estatuto. Referencia principal: CE-TERRITORIAL, 151.2.1.",
+      "fact_id": "PN-T03-F387",
+      "articulo": "151.2.1"
+    },
+    {
+      "id": "PN-T03-Q413",
+      "respuesta_correcta": "B",
+      "explicacion": "Las comunidades gozan de autonomía financiera para desarrollar y ejecutar competencias. Referencia principal: CE-TERRITORIAL, 156.1.",
+      "fact_id": "PN-T03-F413",
+      "articulo": "156.1"
+    },
+    {
+      "id": "PN-T03-Q414",
+      "respuesta_correcta": "C",
+      "explicacion": "La autonomía financiera se ejerce con coordinación con la Hacienda estatal y solidaridad entre españoles. Referencia principal: CE-TERRITORIAL, 156.1.",
+      "fact_id": "PN-T03-F414",
+      "articulo": "156.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

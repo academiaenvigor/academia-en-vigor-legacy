@@ -1,0 +1,261 @@
+{
+  "id": "PN-T03-B14-A",
+  "titulo": "Tema 3 · Bloque 14: Administración Pública y Consejo de Estado · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      14
+    ]
+  },
+  "numero_preguntas": 11,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q205",
+      "fact_id": "PN-T03-F205",
+      "bloque": 14,
+      "concepto": "Comparecencia del Gobierno",
+      "articulo": "110.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Comparecencia del Gobierno» conforme a 110.1?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "B": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos.",
+        "C": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas."
+      }
+    },
+    {
+      "id": "PN-T03-Q203",
+      "fact_id": "PN-T03-F203",
+      "bloque": 14,
+      "concepto": "Responsabilidad solidaria",
+      "articulo": "108",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad solidaria» conforme a 108?",
+      "opciones": {
+        "A": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.",
+        "B": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "C": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír."
+      }
+    },
+    {
+      "id": "PN-T03-Q204",
+      "fact_id": "PN-T03-F204",
+      "bloque": 14,
+      "concepto": "Solicitud de información",
+      "articulo": "109",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Solicitud de información» conforme a 109?",
+      "opciones": {
+        "A": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas."
+      }
+    },
+    {
+      "id": "PN-T03-Q208",
+      "fact_id": "PN-T03-F208",
+      "bloque": 14,
+      "concepto": "Preguntas e interpelaciones",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Preguntas e interpelaciones» conforme a 111.1?",
+      "opciones": {
+        "A": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír."
+      }
+    },
+    {
+      "id": "PN-T03-Q206",
+      "fact_id": "PN-T03-F206",
+      "bloque": 14,
+      "concepto": "Acceso del Gobierno a las Cámaras",
+      "articulo": "110.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso del Gobierno a las Cámaras» conforme a 110.2?",
+      "opciones": {
+        "A": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición.",
+        "B": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír.",
+        "C": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias."
+      }
+    },
+    {
+      "id": "PN-T03-Q207",
+      "fact_id": "PN-T03-F207",
+      "bloque": 14,
+      "concepto": "Asistencia de funcionarios",
+      "articulo": "110.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asistencia de funcionarios» conforme a 110.2?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "B": "El Gobierno responde solidariamente de su gestión política ante el Congreso.",
+        "C": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos."
+      }
+    },
+    {
+      "id": "PN-T03-Q592",
+      "fact_id": "PN-T03-F205",
+      "bloque": 14,
+      "concepto": "Comparecencia del Gobierno",
+      "articulo": "110.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.»?",
+      "opciones": {
+        "A": "110.1",
+        "B": "108",
+        "C": "109"
+      }
+    },
+    {
+      "id": "PN-T03-Q209",
+      "fact_id": "PN-T03-F209",
+      "bloque": 14,
+      "concepto": "Tiempo mínimo para preguntas",
+      "articulo": "111.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Tiempo mínimo para preguntas» conforme a 111.1?",
+      "opciones": {
+        "A": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas.",
+        "B": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones.",
+        "C": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición."
+      }
+    },
+    {
+      "id": "PN-T03-Q210",
+      "fact_id": "PN-T03-F210",
+      "bloque": 14,
+      "concepto": "Moción tras interpelación",
+      "articulo": "111.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Moción tras interpelación» conforme a 111.2?",
+      "opciones": {
+        "A": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos.",
+        "B": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno.",
+        "C": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición."
+      }
+    },
+    {
+      "id": "PN-T03-Q593",
+      "fact_id": "PN-T03-F208",
+      "bloque": 14,
+      "concepto": "Preguntas e interpelaciones",
+      "articulo": "111.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias.»?",
+      "opciones": {
+        "A": "108",
+        "B": "111.1",
+        "C": "109"
+      }
+    },
+    {
+      "id": "PN-T03-Q591",
+      "fact_id": "PN-T03-F203",
+      "bloque": 14,
+      "concepto": "Responsabilidad solidaria",
+      "articulo": "108",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «El Gobierno responde solidariamente de su gestión política ante el Congreso.»?",
+      "opciones": {
+        "A": "109",
+        "B": "110.1",
+        "C": "108"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q205",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cámaras y sus comisiones pueden reclamar la presencia de los miembros del Gobierno. Referencia principal: CE-RELACIONES, 110.1.",
+      "fact_id": "PN-T03-F205",
+      "articulo": "110.1"
+    },
+    {
+      "id": "PN-T03-Q203",
+      "respuesta_correcta": "B",
+      "explicacion": "El Gobierno responde solidariamente de su gestión política ante el Congreso. Referencia principal: CE-RELACIONES, 108.",
+      "fact_id": "PN-T03-F203",
+      "articulo": "108"
+    },
+    {
+      "id": "PN-T03-Q204",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras y sus comisiones pueden recabar información y ayuda del Gobierno, departamentos y autoridades estatales y autonómicas. Referencia principal: CE-RELACIONES, 109.",
+      "fact_id": "PN-T03-F204",
+      "articulo": "109"
+    },
+    {
+      "id": "PN-T03-Q208",
+      "respuesta_correcta": "A",
+      "explicacion": "El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F208",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q206",
+      "respuesta_correcta": "B",
+      "explicacion": "Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones y pueden hacerse oír. Referencia principal: CE-RELACIONES, 110.2.",
+      "fact_id": "PN-T03-F206",
+      "articulo": "110.2"
+    },
+    {
+      "id": "PN-T03-Q207",
+      "respuesta_correcta": "C",
+      "explicacion": "Los miembros del Gobierno pueden solicitar que informen funcionarios de sus departamentos. Referencia principal: CE-RELACIONES, 110.2.",
+      "fact_id": "PN-T03-F207",
+      "articulo": "110.2"
+    },
+    {
+      "id": "PN-T03-Q592",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 110.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F205",
+      "articulo": "110.1"
+    },
+    {
+      "id": "PN-T03-Q209",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos reservan un tiempo mínimo semanal para preguntas e interpelaciones. Referencia principal: CE-RELACIONES, 111.1.",
+      "fact_id": "PN-T03-F209",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q210",
+      "respuesta_correcta": "C",
+      "explicacion": "Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición. Referencia principal: CE-RELACIONES, 111.2.",
+      "fact_id": "PN-T03-F210",
+      "articulo": "111.2"
+    },
+    {
+      "id": "PN-T03-Q593",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 111.1 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F208",
+      "articulo": "111.1"
+    },
+    {
+      "id": "PN-T03-Q591",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 108 (CE-RELACIONES).",
+      "fact_id": "PN-T03-F203",
+      "articulo": "108"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

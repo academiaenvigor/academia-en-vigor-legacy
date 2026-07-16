@@ -1,0 +1,371 @@
+{
+  "id": "PN-T03-B07-A",
+  "titulo": "Tema 3 · Bloque 7: Autonomía parlamentaria y prerrogativas · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      7
+    ]
+  },
+  "numero_preguntas": 16,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q082",
+      "fact_id": "PN-T03-F082",
+      "bloque": 7,
+      "concepto": "Suplicatorio",
+      "articulo": "71.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Suplicatorio» conforme a 71.2?",
+      "opciones": {
+        "A": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q080",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inviolabilidad parlamentaria» conforme a 71.1?",
+      "opciones": {
+        "A": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q081",
+      "fact_id": "PN-T03-F081",
+      "bloque": 7,
+      "concepto": "Inmunidad parlamentaria",
+      "articulo": "71.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Inmunidad parlamentaria» conforme a 71.2?",
+      "opciones": {
+        "A": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas.",
+        "B": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "C": "Durante su mandato, diputados y senadores gozan de inmunidad y solo pueden ser detenidos en caso de flagrante delito."
+      }
+    },
+    {
+      "id": "PN-T03-Q085",
+      "fact_id": "PN-T03-F085",
+      "bloque": 7,
+      "concepto": "Reglamentos de las Cámaras",
+      "articulo": "72.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Reglamentos de las Cámaras» conforme a 72.1?",
+      "opciones": {
+        "A": "Las Cámaras establecen sus propios reglamentos, aprueban autónomamente sus presupuestos y regulan de común acuerdo el estatuto del personal de las Cortes.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta."
+      }
+    },
+    {
+      "id": "PN-T03-Q083",
+      "fact_id": "PN-T03-F083",
+      "bloque": 7,
+      "concepto": "Aforamiento",
+      "articulo": "71.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aforamiento» conforme a 71.3?",
+      "opciones": {
+        "A": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras.",
+        "B": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q084",
+      "fact_id": "PN-T03-F084",
+      "bloque": 7,
+      "concepto": "Asignación parlamentaria",
+      "articulo": "71.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Asignación parlamentaria» conforme a 71.4?",
+      "opciones": {
+        "A": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas.",
+        "B": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "C": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras."
+      }
+    },
+    {
+      "id": "PN-T03-Q088",
+      "fact_id": "PN-T03-F088",
+      "bloque": 7,
+      "concepto": "Sesiones conjuntas",
+      "articulo": "72.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sesiones conjuntas» conforme a 72.2?",
+      "opciones": {
+        "A": "Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara.",
+        "B": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C": "Las Cámaras establecen sus propios reglamentos, aprueban autónomamente sus presupuestos y regulan de común acuerdo el estatuto del personal de las Cortes."
+      }
+    },
+    {
+      "id": "PN-T03-Q086",
+      "fact_id": "PN-T03-F086",
+      "bloque": 7,
+      "concepto": "Mayoría para reglamentos",
+      "articulo": "72.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para reglamentos» conforme a 72.1?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "C": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes."
+      }
+    },
+    {
+      "id": "PN-T03-Q087",
+      "fact_id": "PN-T03-F087",
+      "bloque": 7,
+      "concepto": "Presidentes y Mesas",
+      "articulo": "72.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Presidentes y Mesas» conforme a 72.2?",
+      "opciones": {
+        "A": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.",
+        "B": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "C": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas."
+      }
+    },
+    {
+      "id": "PN-T03-Q517",
+      "fact_id": "PN-T03-F080",
+      "bloque": 7,
+      "concepto": "Inviolabilidad parlamentaria",
+      "articulo": "71.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "71.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q089",
+      "fact_id": "PN-T03-F089",
+      "bloque": 7,
+      "concepto": "Poderes administrativos y de policía",
+      "articulo": "72.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Poderes administrativos y de policía» conforme a 72.3?",
+      "opciones": {
+        "A": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes.",
+        "C": "Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara."
+      }
+    },
+    {
+      "id": "PN-T03-Q519",
+      "fact_id": "PN-T03-F082",
+      "bloque": 7,
+      "concepto": "Suplicatorio",
+      "articulo": "71.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.3",
+        "C": "71.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q520",
+      "fact_id": "PN-T03-F083",
+      "bloque": 7,
+      "concepto": "Aforamiento",
+      "articulo": "71.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.»?",
+      "opciones": {
+        "A": "71.3",
+        "B": "71.1",
+        "C": "71.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q518",
+      "fact_id": "PN-T03-F081",
+      "bloque": 7,
+      "concepto": "Inmunidad parlamentaria",
+      "articulo": "71.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Durante su mandato, diputados y senadores gozan de inmunidad y solo pueden ser detenidos en caso de flagrante delito.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "71.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q522",
+      "fact_id": "PN-T03-F088",
+      "bloque": 7,
+      "concepto": "Sesiones conjuntas",
+      "articulo": "72.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "71.2",
+        "C": "72.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q521",
+      "fact_id": "PN-T03-F086",
+      "bloque": 7,
+      "concepto": "Mayoría para reglamentos",
+      "articulo": "72.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta.»?",
+      "opciones": {
+        "A": "71.1",
+        "B": "72.1",
+        "C": "71.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q082",
+      "respuesta_correcta": "A",
+      "explicacion": "Diputados y senadores no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva. Referencia principal: CE-CORTES, 71.2.",
+      "fact_id": "PN-T03-F082",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q080",
+      "respuesta_correcta": "B",
+      "explicacion": "Diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Referencia principal: CE-CORTES, 71.1.",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q081",
+      "respuesta_correcta": "C",
+      "explicacion": "Durante su mandato, diputados y senadores gozan de inmunidad y solo pueden ser detenidos en caso de flagrante delito. Referencia principal: CE-CORTES, 71.2.",
+      "fact_id": "PN-T03-F081",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q085",
+      "respuesta_correcta": "A",
+      "explicacion": "Las Cámaras establecen sus propios reglamentos, aprueban autónomamente sus presupuestos y regulan de común acuerdo el estatuto del personal de las Cortes. Referencia principal: CE-CORTES, 72.1.",
+      "fact_id": "PN-T03-F085",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q083",
+      "respuesta_correcta": "B",
+      "explicacion": "En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo. Referencia principal: CE-CORTES, 71.3.",
+      "fact_id": "PN-T03-F083",
+      "articulo": "71.3"
+    },
+    {
+      "id": "PN-T03-Q084",
+      "respuesta_correcta": "C",
+      "explicacion": "Diputados y senadores perciben una asignación fijada por sus respectivas Cámaras. Referencia principal: CE-CORTES, 71.4.",
+      "fact_id": "PN-T03-F084",
+      "articulo": "71.4"
+    },
+    {
+      "id": "PN-T03-Q088",
+      "respuesta_correcta": "A",
+      "explicacion": "Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara. Referencia principal: CE-CORTES, 72.2.",
+      "fact_id": "PN-T03-F088",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q086",
+      "respuesta_correcta": "B",
+      "explicacion": "Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta. Referencia principal: CE-CORTES, 72.1.",
+      "fact_id": "PN-T03-F086",
+      "articulo": "72.1"
+    },
+    {
+      "id": "PN-T03-Q087",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Cámaras eligen a sus presidentes y a los demás miembros de sus Mesas. Referencia principal: CE-CORTES, 72.2.",
+      "fact_id": "PN-T03-F087",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q517",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 71.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F080",
+      "articulo": "71.1"
+    },
+    {
+      "id": "PN-T03-Q089",
+      "respuesta_correcta": "B",
+      "explicacion": "Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes. Referencia principal: CE-CORTES, 72.3.",
+      "fact_id": "PN-T03-F089",
+      "articulo": "72.3"
+    },
+    {
+      "id": "PN-T03-Q519",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 71.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F082",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q520",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 71.3 (CE-CORTES).",
+      "fact_id": "PN-T03-F083",
+      "articulo": "71.3"
+    },
+    {
+      "id": "PN-T03-Q518",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 71.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F081",
+      "articulo": "71.2"
+    },
+    {
+      "id": "PN-T03-Q522",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 72.2 (CE-CORTES).",
+      "fact_id": "PN-T03-F088",
+      "articulo": "72.2"
+    },
+    {
+      "id": "PN-T03-Q521",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 72.1 (CE-CORTES).",
+      "fact_id": "PN-T03-F086",
+      "articulo": "72.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

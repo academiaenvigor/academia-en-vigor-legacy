@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B21-B",
+  "titulo": "Tema 3 · Bloque 21: Estatutos y competencias de los artículos 148 y 149 · Test B",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      21
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q344",
+      "fact_id": "PN-T03-F344",
+      "bloque": 21,
+      "concepto": "Defensa",
+      "articulo": "149.1.4",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Defensa» conforme a 149.1.4?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre administración de Justicia.",
+        "B": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "C": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior."
+      }
+    },
+    {
+      "id": "PN-T03-Q342",
+      "fact_id": "PN-T03-F342",
+      "bloque": 21,
+      "concepto": "Nacionalidad y extranjería",
+      "articulo": "149.1.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Nacionalidad y extranjería» conforme a 149.1.2?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "B": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas.",
+        "C": "El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo."
+      }
+    },
+    {
+      "id": "PN-T03-Q346",
+      "fact_id": "PN-T03-F346",
+      "bloque": 21,
+      "concepto": "Legislación penal y procesal",
+      "articulo": "149.1.6",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Legislación penal y procesal» conforme a 149.1.6?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación mercantil, penal y penitenciaria y legislación procesal, con especialidades autonómicas derivadas de su Derecho sustantivo.",
+        "B": "El Estado tiene competencia exclusiva sobre sistema monetario, divisas, cambio y convertibilidad y bases de crédito, banca y seguros.",
+        "C": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos."
+      }
+    },
+    {
+      "id": "PN-T03-Q347",
+      "fact_id": "PN-T03-F347",
+      "bloque": 21,
+      "concepto": "Legislación laboral",
+      "articulo": "149.1.7",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Legislación laboral» conforme a 149.1.7?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre hacienda general y Deuda del Estado.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos.",
+        "C": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector."
+      }
+    },
+    {
+      "id": "PN-T03-Q345",
+      "fact_id": "PN-T03-F345",
+      "bloque": 21,
+      "concepto": "Administración de Justicia",
+      "articulo": "149.1.5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Administración de Justicia» conforme a 149.1.5?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación civil, con respeto a conservación, modificación y desarrollo de derechos forales donde existan y materias estatales reservadas.",
+        "B": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.",
+        "C": "El Estado tiene competencia exclusiva sobre administración de Justicia."
+      }
+    },
+    {
+      "id": "PN-T03-Q349",
+      "fact_id": "PN-T03-F349",
+      "bloque": 21,
+      "concepto": "Propiedad intelectual e industrial",
+      "articulo": "149.1.9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Propiedad intelectual e industrial» conforme a 149.1.9?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación sobre propiedad intelectual e industrial.",
+        "B": "El Estado tiene competencia exclusiva sobre marina mercante, abanderamiento, puertos y aeropuertos de interés general, espacio aéreo, tránsito, meteorología y matriculación de aeronaves.",
+        "C": "El Estado tiene competencia exclusiva sobre bases del régimen minero y energético."
+      }
+    },
+    {
+      "id": "PN-T03-Q350",
+      "fact_id": "PN-T03-F350",
+      "bloque": 21,
+      "concepto": "Aduanas y comercio exterior",
+      "articulo": "149.1.10",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aduanas y comercio exterior» conforme a 149.1.10?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación básica ambiental y de montes, aprovechamientos forestales y vías pecuarias, con normas adicionales autonómicas de protección.",
+        "B": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior.",
+        "C": "El Estado tiene competencia exclusiva sobre defensa del patrimonio cultural contra exportación y expoliación y museos, bibliotecas y archivos estatales, sin perjuicio de gestión autonómica."
+      }
+    },
+    {
+      "id": "PN-T03-Q348",
+      "fact_id": "PN-T03-F348",
+      "bloque": 21,
+      "concepto": "Legislación civil",
+      "articulo": "149.1.8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Legislación civil» conforme a 149.1.8?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación básica y régimen económico de la Seguridad Social, sin perjuicio de ejecución autonómica.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación civil, con respeto a conservación, modificación y desarrollo de derechos forales donde existan y materias estatales reservadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q352",
+      "fact_id": "PN-T03-F352",
+      "bloque": 21,
+      "concepto": "Pesas, medidas y hora",
+      "articulo": "149.1.12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Pesas, medidas y hora» conforme a 149.1.12?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación sobre pesas y medidas y determinación de la hora oficial.",
+        "B": "El Estado tiene competencia exclusiva sobre seguridad pública, sin perjuicio de la creación de policías autonómicas en el marco de ley orgánica.",
+        "C": "Las materias no atribuidas expresamente al Estado pueden corresponder a comunidades si las asumen en sus Estatutos."
+      }
+    },
+    {
+      "id": "PN-T03-Q353",
+      "fact_id": "PN-T03-F353",
+      "bloque": 21,
+      "concepto": "Planificación económica",
+      "articulo": "149.1.13",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Planificación económica» conforme a 149.1.13?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre autorización para la convocatoria de consultas populares por vía de referéndum.",
+        "B": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.",
+        "C": "El Derecho estatal es supletorio del Derecho autonómico."
+      }
+    },
+    {
+      "id": "PN-T03-Q351",
+      "fact_id": "PN-T03-F351",
+      "bloque": 21,
+      "concepto": "Sistema monetario y crédito",
+      "articulo": "149.1.11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sistema monetario y crédito» conforme a 149.1.11?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre régimen de producción, comercio, tenencia y uso de armas y explosivos.",
+        "B": "El Estado tiene competencia exclusiva sobre estadística para fines estatales.",
+        "C": "El Estado tiene competencia exclusiva sobre sistema monetario, divisas, cambio y convertibilidad y bases de crédito, banca y seguros."
+      }
+    },
+    {
+      "id": "PN-T03-Q355",
+      "fact_id": "PN-T03-F355",
+      "bloque": 21,
+      "concepto": "Investigación científica",
+      "articulo": "149.1.15",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Investigación científica» conforme a 149.1.15?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre fomento y coordinación general de la investigación científica y técnica.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre organización de las instituciones de autogobierno.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales."
+      }
+    },
+    {
+      "id": "PN-T03-Q356",
+      "fact_id": "PN-T03-F356",
+      "bloque": 21,
+      "concepto": "Sanidad exterior y productos farmacéuticos",
+      "articulo": "149.1.16",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sanidad exterior y productos farmacéuticos» conforme a 149.1.16?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre obras públicas de interés de la comunidad dentro de su territorio.",
+        "B": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre gestión en materia de protección del medio ambiente."
+      }
+    },
+    {
+      "id": "PN-T03-Q354",
+      "fact_id": "PN-T03-F354",
+      "bloque": 21,
+      "concepto": "Hacienda estatal",
+      "articulo": "149.1.14",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Hacienda estatal» conforme a 149.1.14?",
+      "opciones": {
+        "A": "Las competencias no asumidas por los Estatutos corresponden al Estado.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ordenación del territorio, urbanismo y vivienda.",
+        "C": "El Estado tiene competencia exclusiva sobre hacienda general y Deuda del Estado."
+      }
+    },
+    {
+      "id": "PN-T03-Q358",
+      "fact_id": "PN-T03-F358",
+      "bloque": 21,
+      "concepto": "Régimen administrativo común",
+      "articulo": "149.1.18",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Régimen administrativo común» conforme a 149.1.18?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre bases del régimen jurídico administrativo y funcionarial, procedimiento común, expropiación, contratos, concesiones y responsabilidad.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre proyectos, construcción y explotación de aprovechamientos hidráulicos, canales y regadíos de interés autonómico y aguas minerales y termales.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre museos, bibliotecas y conservatorios de música de interés para la comunidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q359",
+      "fact_id": "PN-T03-F359",
+      "bloque": 21,
+      "concepto": "Pesca marítima",
+      "articulo": "149.1.19",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Pesca marítima» conforme a 149.1.19?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre fomento del desarrollo económico autonómico dentro de los objetivos de la política económica nacional.",
+        "B": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector.",
+        "C": "Las comunidades autónomas pueden asumir competencias sobre promoción y ordenación del turismo en el ámbito territorial."
+      }
+    },
+    {
+      "id": "PN-T03-Q357",
+      "fact_id": "PN-T03-F357",
+      "bloque": 21,
+      "concepto": "Seguridad Social",
+      "articulo": "149.1.17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Seguridad Social» conforme a 149.1.17?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre agricultura y ganadería de acuerdo con la ordenación general de la economía.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre ferias interiores.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación básica y régimen económico de la Seguridad Social, sin perjuicio de ejecución autonómica."
+      }
+    },
+    {
+      "id": "PN-T03-Q361",
+      "fact_id": "PN-T03-F361",
+      "bloque": 21,
+      "concepto": "Transportes y comunicaciones",
+      "articulo": "149.1.21",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Transportes y comunicaciones» conforme a 149.1.21?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre ferrocarriles y transportes interautonómicos, régimen general de comunicaciones, tráfico, correos, telecomunicaciones y radiocomunicación.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre promoción del deporte y adecuada utilización del ocio.",
+        "C": "El Estado tiene competencia exclusiva sobre regulación de las condiciones básicas que garanticen igualdad en derechos y deberes constitucionales."
+      }
+    },
+    {
+      "id": "PN-T03-Q362",
+      "fact_id": "PN-T03-F362",
+      "bloque": 21,
+      "concepto": "Aguas interautonómicas y energía",
+      "articulo": "149.1.22",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Aguas interautonómicas y energía» conforme a 149.1.22?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas.",
+        "C": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas."
+      }
+    },
+    {
+      "id": "PN-T03-Q360",
+      "fact_id": "PN-T03-F360",
+      "bloque": 21,
+      "concepto": "Marina y navegación aérea",
+      "articulo": "149.1.20",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Marina y navegación aérea» conforme a 149.1.20?",
+      "opciones": {
+        "A": "Las comunidades autónomas pueden asumir competencias sobre patrimonio monumental de interés de la comunidad.",
+        "B": "Las comunidades autónomas pueden asumir competencias sobre sanidad e higiene.",
+        "C": "El Estado tiene competencia exclusiva sobre marina mercante, abanderamiento, puertos y aeropuertos de interés general, espacio aéreo, tránsito, meteorología y matriculación de aeronaves."
+      }
+    },
+    {
+      "id": "PN-T03-Q364",
+      "fact_id": "PN-T03-F364",
+      "bloque": 21,
+      "concepto": "Obras públicas generales",
+      "articulo": "149.1.24",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Obras públicas generales» conforme a 149.1.24?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre obras públicas de interés general o cuya realización afecte a más de una comunidad.",
+        "B": "El Estado tiene competencia exclusiva sobre administración de Justicia.",
+        "C": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior."
+      }
+    },
+    {
+      "id": "PN-T03-Q365",
+      "fact_id": "PN-T03-F365",
+      "bloque": 21,
+      "concepto": "Minería y energía",
+      "articulo": "149.1.25",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Minería y energía» conforme a 149.1.25?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación civil, con respeto a conservación, modificación y desarrollo de derechos forales donde existan y materias estatales reservadas.",
+        "B": "El Estado tiene competencia exclusiva sobre bases del régimen minero y energético.",
+        "C": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica."
+      }
+    },
+    {
+      "id": "PN-T03-Q363",
+      "fact_id": "PN-T03-F363",
+      "bloque": 21,
+      "concepto": "Medio ambiente básico",
+      "articulo": "149.1.23",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medio ambiente básico» conforme a 149.1.23?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo.",
+        "B": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación básica ambiental y de montes, aprovechamientos forestales y vías pecuarias, con normas adicionales autonómicas de protección."
+      }
+    },
+    {
+      "id": "PN-T03-Q367",
+      "fact_id": "PN-T03-F367",
+      "bloque": 21,
+      "concepto": "Medios de comunicación",
+      "articulo": "149.1.27",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Medios de comunicación» conforme a 149.1.27?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre normas básicas de prensa, radio, televisión y medios de comunicación social, sin perjuicio de desarrollo autonómico.",
+        "B": "El Estado tiene competencia exclusiva sobre hacienda general y Deuda del Estado.",
+        "C": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector."
+      }
+    },
+    {
+      "id": "PN-T03-Q368",
+      "fact_id": "PN-T03-F368",
+      "bloque": 21,
+      "concepto": "Patrimonio cultural estatal",
+      "articulo": "149.1.28",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Patrimonio cultural estatal» conforme a 149.1.28?",
+      "opciones": {
+        "A": "El Estado tiene competencia exclusiva sobre legislación básica y régimen económico de la Seguridad Social, sin perjuicio de ejecución autonómica.",
+        "B": "El Estado tiene competencia exclusiva sobre defensa del patrimonio cultural contra exportación y expoliación y museos, bibliotecas y archivos estatales, sin perjuicio de gestión autonómica.",
+        "C": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q344",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre defensa y Fuerzas Armadas. Referencia principal: CE-TERRITORIAL, 149.1.4.",
+      "fact_id": "PN-T03-F344",
+      "articulo": "149.1.4"
+    },
+    {
+      "id": "PN-T03-Q342",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre nacionalidad, inmigración, emigración, extranjería y derecho de asilo. Referencia principal: CE-TERRITORIAL, 149.1.2.",
+      "fact_id": "PN-T03-F342",
+      "articulo": "149.1.2"
+    },
+    {
+      "id": "PN-T03-Q346",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación mercantil, penal y penitenciaria y legislación procesal, con especialidades autonómicas derivadas de su Derecho sustantivo. Referencia principal: CE-TERRITORIAL, 149.1.6.",
+      "fact_id": "PN-T03-F346",
+      "articulo": "149.1.6"
+    },
+    {
+      "id": "PN-T03-Q347",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación laboral, sin perjuicio de su ejecución por órganos autonómicos. Referencia principal: CE-TERRITORIAL, 149.1.7.",
+      "fact_id": "PN-T03-F347",
+      "articulo": "149.1.7"
+    },
+    {
+      "id": "PN-T03-Q345",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre administración de Justicia. Referencia principal: CE-TERRITORIAL, 149.1.5.",
+      "fact_id": "PN-T03-F345",
+      "articulo": "149.1.5"
+    },
+    {
+      "id": "PN-T03-Q349",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación sobre propiedad intelectual e industrial. Referencia principal: CE-TERRITORIAL, 149.1.9.",
+      "fact_id": "PN-T03-F349",
+      "articulo": "149.1.9"
+    },
+    {
+      "id": "PN-T03-Q350",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre régimen aduanero y arancelario y comercio exterior. Referencia principal: CE-TERRITORIAL, 149.1.10.",
+      "fact_id": "PN-T03-F350",
+      "articulo": "149.1.10"
+    },
+    {
+      "id": "PN-T03-Q348",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación civil, con respeto a conservación, modificación y desarrollo de derechos forales donde existan y materias estatales reservadas. Referencia principal: CE-TERRITORIAL, 149.1.8.",
+      "fact_id": "PN-T03-F348",
+      "articulo": "149.1.8"
+    },
+    {
+      "id": "PN-T03-Q352",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación sobre pesas y medidas y determinación de la hora oficial. Referencia principal: CE-TERRITORIAL, 149.1.12.",
+      "fact_id": "PN-T03-F352",
+      "articulo": "149.1.12"
+    },
+    {
+      "id": "PN-T03-Q353",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica. Referencia principal: CE-TERRITORIAL, 149.1.13.",
+      "fact_id": "PN-T03-F353",
+      "articulo": "149.1.13"
+    },
+    {
+      "id": "PN-T03-Q351",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre sistema monetario, divisas, cambio y convertibilidad y bases de crédito, banca y seguros. Referencia principal: CE-TERRITORIAL, 149.1.11.",
+      "fact_id": "PN-T03-F351",
+      "articulo": "149.1.11"
+    },
+    {
+      "id": "PN-T03-Q355",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre fomento y coordinación general de la investigación científica y técnica. Referencia principal: CE-TERRITORIAL, 149.1.15.",
+      "fact_id": "PN-T03-F355",
+      "articulo": "149.1.15"
+    },
+    {
+      "id": "PN-T03-Q356",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de sanidad y legislación de productos farmacéuticos. Referencia principal: CE-TERRITORIAL, 149.1.16.",
+      "fact_id": "PN-T03-F356",
+      "articulo": "149.1.16"
+    },
+    {
+      "id": "PN-T03-Q354",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre hacienda general y Deuda del Estado. Referencia principal: CE-TERRITORIAL, 149.1.14.",
+      "fact_id": "PN-T03-F354",
+      "articulo": "149.1.14"
+    },
+    {
+      "id": "PN-T03-Q358",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre bases del régimen jurídico administrativo y funcionarial, procedimiento común, expropiación, contratos, concesiones y responsabilidad. Referencia principal: CE-TERRITORIAL, 149.1.18.",
+      "fact_id": "PN-T03-F358",
+      "articulo": "149.1.18"
+    },
+    {
+      "id": "PN-T03-Q359",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre pesca marítima, sin perjuicio de competencias autonómicas en ordenación del sector. Referencia principal: CE-TERRITORIAL, 149.1.19.",
+      "fact_id": "PN-T03-F359",
+      "articulo": "149.1.19"
+    },
+    {
+      "id": "PN-T03-Q357",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación básica y régimen económico de la Seguridad Social, sin perjuicio de ejecución autonómica. Referencia principal: CE-TERRITORIAL, 149.1.17.",
+      "fact_id": "PN-T03-F357",
+      "articulo": "149.1.17"
+    },
+    {
+      "id": "PN-T03-Q361",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre ferrocarriles y transportes interautonómicos, régimen general de comunicaciones, tráfico, correos, telecomunicaciones y radiocomunicación. Referencia principal: CE-TERRITORIAL, 149.1.21.",
+      "fact_id": "PN-T03-F361",
+      "articulo": "149.1.21"
+    },
+    {
+      "id": "PN-T03-Q362",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación, ordenación y concesión de aguas interautonómicas y autorización de instalaciones eléctricas supraautonómicas. Referencia principal: CE-TERRITORIAL, 149.1.22.",
+      "fact_id": "PN-T03-F362",
+      "articulo": "149.1.22"
+    },
+    {
+      "id": "PN-T03-Q360",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre marina mercante, abanderamiento, puertos y aeropuertos de interés general, espacio aéreo, tránsito, meteorología y matriculación de aeronaves. Referencia principal: CE-TERRITORIAL, 149.1.20.",
+      "fact_id": "PN-T03-F360",
+      "articulo": "149.1.20"
+    },
+    {
+      "id": "PN-T03-Q364",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre obras públicas de interés general o cuya realización afecte a más de una comunidad. Referencia principal: CE-TERRITORIAL, 149.1.24.",
+      "fact_id": "PN-T03-F364",
+      "articulo": "149.1.24"
+    },
+    {
+      "id": "PN-T03-Q365",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre bases del régimen minero y energético. Referencia principal: CE-TERRITORIAL, 149.1.25.",
+      "fact_id": "PN-T03-F365",
+      "articulo": "149.1.25"
+    },
+    {
+      "id": "PN-T03-Q363",
+      "respuesta_correcta": "C",
+      "explicacion": "El Estado tiene competencia exclusiva sobre legislación básica ambiental y de montes, aprovechamientos forestales y vías pecuarias, con normas adicionales autonómicas de protección. Referencia principal: CE-TERRITORIAL, 149.1.23.",
+      "fact_id": "PN-T03-F363",
+      "articulo": "149.1.23"
+    },
+    {
+      "id": "PN-T03-Q367",
+      "respuesta_correcta": "A",
+      "explicacion": "El Estado tiene competencia exclusiva sobre normas básicas de prensa, radio, televisión y medios de comunicación social, sin perjuicio de desarrollo autonómico. Referencia principal: CE-TERRITORIAL, 149.1.27.",
+      "fact_id": "PN-T03-F367",
+      "articulo": "149.1.27"
+    },
+    {
+      "id": "PN-T03-Q368",
+      "respuesta_correcta": "B",
+      "explicacion": "El Estado tiene competencia exclusiva sobre defensa del patrimonio cultural contra exportación y expoliación y museos, bibliotecas y archivos estatales, sin perjuicio de gestión autonómica. Referencia principal: CE-TERRITORIAL, 149.1.28.",
+      "fact_id": "PN-T03-F368",
+      "articulo": "149.1.28"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

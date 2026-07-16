@@ -1,0 +1,569 @@
+{
+  "id": "PN-T03-B13-A",
+  "titulo": "Tema 3 · Bloque 13: Investidura, nombramiento, cese y responsabilidad · Test A",
+  "content_version": "0.3.0",
+  "bank_version": "0.3.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      13
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "PN-T03-Q184",
+      "fact_id": "PN-T03-F184",
+      "bloque": 13,
+      "concepto": "Responsabilidad penal del Gobierno",
+      "articulo": "102.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad penal del Gobierno» conforme a 102.1?",
+      "opciones": {
+        "A": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.",
+        "C": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado."
+      }
+    },
+    {
+      "id": "PN-T03-Q185",
+      "fact_id": "PN-T03-F185",
+      "bloque": 13,
+      "concepto": "Traición y seguridad del Estado",
+      "articulo": "102.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Traición y seguridad del Estado» conforme a 102.2?",
+      "opciones": {
+        "A": "La ley regula la audiencia de los ciudadanos, directamente o mediante organizaciones, en la elaboración de disposiciones administrativas que les afecten.",
+        "B": "La acusación por traición o delito contra la seguridad del Estado cometido en el ejercicio del cargo solo puede plantearse por iniciativa de una cuarta parte del Congreso.",
+        "C": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q186",
+      "fact_id": "PN-T03-F186",
+      "bloque": 13,
+      "concepto": "Mayoría para acusación especial",
+      "articulo": "102.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Mayoría para acusación especial» conforme a 102.2?",
+      "opciones": {
+        "A": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "B": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "C": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso."
+      }
+    },
+    {
+      "id": "PN-T03-Q187",
+      "fact_id": "PN-T03-F187",
+      "bloque": 13,
+      "concepto": "Exclusión del derecho de gracia",
+      "articulo": "102.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Exclusión del derecho de gracia» conforme a 102.3?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "La Administración actúa con sometimiento pleno a la ley y al Derecho."
+      }
+    },
+    {
+      "id": "PN-T03-Q188",
+      "fact_id": "PN-T03-F188",
+      "bloque": 13,
+      "concepto": "Objetividad de la Administración",
+      "articulo": "103.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Objetividad de la Administración» conforme a 103.1?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "La Administración Pública sirve con objetividad los intereses generales.",
+        "C": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios."
+      }
+    },
+    {
+      "id": "PN-T03-Q189",
+      "fact_id": "PN-T03-F189",
+      "bloque": 13,
+      "concepto": "Principios administrativos",
+      "articulo": "103.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Principios administrativos» conforme a 103.1?",
+      "opciones": {
+        "A": "Los órganos administrativos son creados, regidos y coordinados de acuerdo con la ley.",
+        "B": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+        "C": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      }
+    },
+    {
+      "id": "PN-T03-Q190",
+      "fact_id": "PN-T03-F190",
+      "bloque": 13,
+      "concepto": "Sometimiento al Derecho",
+      "articulo": "103.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Sometimiento al Derecho» conforme a 103.1?",
+      "opciones": {
+        "A": "La Administración actúa con sometimiento pleno a la ley y al Derecho.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.",
+        "C": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado."
+      }
+    },
+    {
+      "id": "PN-T03-Q191",
+      "fact_id": "PN-T03-F191",
+      "bloque": 13,
+      "concepto": "Creación de órganos",
+      "articulo": "103.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Creación de órganos» conforme a 103.2?",
+      "opciones": {
+        "A": "La ley regula la audiencia de los ciudadanos, directamente o mediante organizaciones, en la elaboración de disposiciones administrativas que les afecten.",
+        "B": "Los órganos administrativos son creados, regidos y coordinados de acuerdo con la ley.",
+        "C": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q192",
+      "fact_id": "PN-T03-F192",
+      "bloque": 13,
+      "concepto": "Acceso a función pública",
+      "articulo": "103.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso a función pública» conforme a 103.3?",
+      "opciones": {
+        "A": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "B": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q193",
+      "fact_id": "PN-T03-F193",
+      "bloque": 13,
+      "concepto": "Estatuto de funcionarios",
+      "articulo": "103.3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Estatuto de funcionarios» conforme a 103.3?",
+      "opciones": {
+        "A": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios.",
+        "B": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      }
+    },
+    {
+      "id": "PN-T03-Q194",
+      "fact_id": "PN-T03-F194",
+      "bloque": 13,
+      "concepto": "Dependencia de las FCS",
+      "articulo": "104.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Dependencia de las FCS» conforme a 104.1?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q195",
+      "fact_id": "PN-T03-F195",
+      "bloque": 13,
+      "concepto": "Misión constitucional de las FCS",
+      "articulo": "104.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Misión constitucional de las FCS» conforme a 104.1?",
+      "opciones": {
+        "A": "La Administración actúa con sometimiento pleno a la ley y al Derecho.",
+        "B": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+        "C": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana."
+      }
+    },
+    {
+      "id": "PN-T03-Q196",
+      "fact_id": "PN-T03-F196",
+      "bloque": 13,
+      "concepto": "Ley orgánica de las FCS",
+      "articulo": "104.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Ley orgánica de las FCS» conforme a 104.2?",
+      "opciones": {
+        "A": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+        "B": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios.",
+        "C": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado."
+      }
+    },
+    {
+      "id": "PN-T03-Q197",
+      "fact_id": "PN-T03-F197",
+      "bloque": 13,
+      "concepto": "Audiencia ciudadana",
+      "articulo": "105.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Audiencia ciudadana» conforme a 105.a?",
+      "opciones": {
+        "A": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+        "B": "La ley regula la audiencia de los ciudadanos, directamente o mediante organizaciones, en la elaboración de disposiciones administrativas que les afecten.",
+        "C": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia."
+      }
+    },
+    {
+      "id": "PN-T03-Q198",
+      "fact_id": "PN-T03-F198",
+      "bloque": 13,
+      "concepto": "Acceso a archivos",
+      "articulo": "105.b",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Acceso a archivos» conforme a 105.b?",
+      "opciones": {
+        "A": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "B": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso.",
+        "C": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q199",
+      "fact_id": "PN-T03-F199",
+      "bloque": 13,
+      "concepto": "Procedimiento administrativo",
+      "articulo": "105.c",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Procedimiento administrativo» conforme a 105.c?",
+      "opciones": {
+        "A": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado.",
+        "B": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
+        "C": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      }
+    },
+    {
+      "id": "PN-T03-Q200",
+      "fact_id": "PN-T03-F200",
+      "bloque": 13,
+      "concepto": "Control judicial de la Administración",
+      "articulo": "106.1",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Control judicial de la Administración» conforme a 106.1?",
+      "opciones": {
+        "A": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.",
+        "B": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines.",
+        "C": "La ley regula el acceso a la función pública conforme a mérito y capacidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q201",
+      "fact_id": "PN-T03-F201",
+      "bloque": 13,
+      "concepto": "Responsabilidad patrimonial",
+      "articulo": "106.2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Responsabilidad patrimonial» conforme a 106.2?",
+      "opciones": {
+        "A": "La Administración actúa con sometimiento pleno a la ley y al Derecho.",
+        "B": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana.",
+        "C": "Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales."
+      }
+    },
+    {
+      "id": "PN-T03-Q202",
+      "fact_id": "PN-T03-F202",
+      "bloque": 13,
+      "concepto": "Consejo de Estado",
+      "articulo": "107",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de las siguientes afirmaciones corresponde a «Consejo de Estado» conforme a 107?",
+      "opciones": {
+        "A": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia.",
+        "B": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios.",
+        "C": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad."
+      }
+    },
+    {
+      "id": "PN-T03-Q578",
+      "fact_id": "PN-T03-F186",
+      "bloque": 13,
+      "concepto": "Mayoría para acusación especial",
+      "articulo": "102.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "102.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q576",
+      "fact_id": "PN-T03-F184",
+      "bloque": 13,
+      "concepto": "Responsabilidad penal del Gobierno",
+      "articulo": "102.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.»?",
+      "opciones": {
+        "A": "102.2",
+        "B": "102.3",
+        "C": "102.1"
+      }
+    },
+    {
+      "id": "PN-T03-Q577",
+      "fact_id": "PN-T03-F185",
+      "bloque": 13,
+      "concepto": "Traición y seguridad del Estado",
+      "articulo": "102.2",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La acusación por traición o delito contra la seguridad del Estado cometido en el ejercicio del cargo solo puede plantearse por iniciativa de una cuarta parte del Congreso.»?",
+      "opciones": {
+        "A": "102.2",
+        "B": "102.1",
+        "C": "102.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q581",
+      "fact_id": "PN-T03-F189",
+      "bloque": 13,
+      "concepto": "Principios administrativos",
+      "articulo": "103.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "103.1",
+        "C": "102.2"
+      }
+    },
+    {
+      "id": "PN-T03-Q579",
+      "fact_id": "PN-T03-F187",
+      "bloque": 13,
+      "concepto": "Exclusión del derecho de gracia",
+      "articulo": "102.3",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La prerrogativa real de gracia no se aplica a los supuestos del artículo 102.»?",
+      "opciones": {
+        "A": "102.1",
+        "B": "102.2",
+        "C": "102.3"
+      }
+    },
+    {
+      "id": "PN-T03-Q580",
+      "fact_id": "PN-T03-F188",
+      "bloque": 13,
+      "concepto": "Objetividad de la Administración",
+      "articulo": "103.1",
+      "tipo": "articulo_inverso",
+      "dificultad": "alta",
+      "enunciado": "¿En qué precepto se regula principalmente esta regla: «La Administración Pública sirve con objetividad los intereses generales.»?",
+      "opciones": {
+        "A": "103.1",
+        "B": "102.1",
+        "C": "102.2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T03-Q184",
+      "respuesta_correcta": "A",
+      "explicacion": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo. Referencia principal: CE-GOBIERNO, 102.1.",
+      "fact_id": "PN-T03-F184",
+      "articulo": "102.1"
+    },
+    {
+      "id": "PN-T03-Q185",
+      "respuesta_correcta": "B",
+      "explicacion": "La acusación por traición o delito contra la seguridad del Estado cometido en el ejercicio del cargo solo puede plantearse por iniciativa de una cuarta parte del Congreso. Referencia principal: CE-GOBIERNO, 102.2.",
+      "fact_id": "PN-T03-F185",
+      "articulo": "102.2"
+    },
+    {
+      "id": "PN-T03-Q186",
+      "respuesta_correcta": "C",
+      "explicacion": "La acusación especial del artículo 102.2 requiere aprobación por mayoría absoluta del Congreso. Referencia principal: CE-GOBIERNO, 102.2.",
+      "fact_id": "PN-T03-F186",
+      "articulo": "102.2"
+    },
+    {
+      "id": "PN-T03-Q187",
+      "respuesta_correcta": "A",
+      "explicacion": "La prerrogativa real de gracia no se aplica a los supuestos del artículo 102. Referencia principal: CE-GOBIERNO, 102.3.",
+      "fact_id": "PN-T03-F187",
+      "articulo": "102.3"
+    },
+    {
+      "id": "PN-T03-Q188",
+      "respuesta_correcta": "B",
+      "explicacion": "La Administración Pública sirve con objetividad los intereses generales. Referencia principal: CE-GOBIERNO, 103.1.",
+      "fact_id": "PN-T03-F188",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q189",
+      "respuesta_correcta": "C",
+      "explicacion": "La Administración actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación. Referencia principal: CE-GOBIERNO, 103.1.",
+      "fact_id": "PN-T03-F189",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q190",
+      "respuesta_correcta": "A",
+      "explicacion": "La Administración actúa con sometimiento pleno a la ley y al Derecho. Referencia principal: CE-GOBIERNO, 103.1.",
+      "fact_id": "PN-T03-F190",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q191",
+      "respuesta_correcta": "B",
+      "explicacion": "Los órganos administrativos son creados, regidos y coordinados de acuerdo con la ley. Referencia principal: CE-GOBIERNO, 103.2.",
+      "fact_id": "PN-T03-F191",
+      "articulo": "103.2"
+    },
+    {
+      "id": "PN-T03-Q192",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley regula el acceso a la función pública conforme a mérito y capacidad. Referencia principal: CE-GOBIERNO, 103.3.",
+      "fact_id": "PN-T03-F192",
+      "articulo": "103.3"
+    },
+    {
+      "id": "PN-T03-Q193",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley regula peculiaridades sindicales, incompatibilidades y garantías de imparcialidad de funcionarios. Referencia principal: CE-GOBIERNO, 103.3.",
+      "fact_id": "PN-T03-F193",
+      "articulo": "103.3"
+    },
+    {
+      "id": "PN-T03-Q194",
+      "respuesta_correcta": "B",
+      "explicacion": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno. Referencia principal: CE-GOBIERNO, 104.1.",
+      "fact_id": "PN-T03-F194",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q195",
+      "respuesta_correcta": "C",
+      "explicacion": "Las Fuerzas y Cuerpos de Seguridad protegen el libre ejercicio de derechos y libertades y garantizan la seguridad ciudadana. Referencia principal: CE-GOBIERNO, 104.1.",
+      "fact_id": "PN-T03-F195",
+      "articulo": "104.1"
+    },
+    {
+      "id": "PN-T03-Q196",
+      "respuesta_correcta": "A",
+      "explicacion": "Una ley orgánica determina funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad. Referencia principal: CE-GOBIERNO, 104.2.",
+      "fact_id": "PN-T03-F196",
+      "articulo": "104.2"
+    },
+    {
+      "id": "PN-T03-Q197",
+      "respuesta_correcta": "B",
+      "explicacion": "La ley regula la audiencia de los ciudadanos, directamente o mediante organizaciones, en la elaboración de disposiciones administrativas que les afecten. Referencia principal: CE-GOBIERNO, 105.a.",
+      "fact_id": "PN-T03-F197",
+      "articulo": "105.a"
+    },
+    {
+      "id": "PN-T03-Q198",
+      "respuesta_correcta": "C",
+      "explicacion": "La ley regula el acceso a archivos y registros administrativos, con límites por seguridad, investigación de delitos e intimidad. Referencia principal: CE-GOBIERNO, 105.b.",
+      "fact_id": "PN-T03-F198",
+      "articulo": "105.b"
+    },
+    {
+      "id": "PN-T03-Q199",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley regula el procedimiento de producción de actos administrativos, garantizando cuando proceda la audiencia del interesado. Referencia principal: CE-GOBIERNO, 105.c.",
+      "fact_id": "PN-T03-F199",
+      "articulo": "105.c"
+    },
+    {
+      "id": "PN-T03-Q200",
+      "respuesta_correcta": "B",
+      "explicacion": "Los tribunales controlan la potestad reglamentaria, la legalidad administrativa y el sometimiento a sus fines. Referencia principal: CE-GOBIERNO, 106.1.",
+      "fact_id": "PN-T03-F200",
+      "articulo": "106.1"
+    },
+    {
+      "id": "PN-T03-Q201",
+      "respuesta_correcta": "C",
+      "explicacion": "Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales. Referencia principal: CE-GOBIERNO, 106.2.",
+      "fact_id": "PN-T03-F201",
+      "articulo": "106.2"
+    },
+    {
+      "id": "PN-T03-Q202",
+      "respuesta_correcta": "A",
+      "explicacion": "El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia. Referencia principal: CE-GOBIERNO, 107.",
+      "fact_id": "PN-T03-F202",
+      "articulo": "107"
+    },
+    {
+      "id": "PN-T03-Q578",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 102.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F186",
+      "articulo": "102.2"
+    },
+    {
+      "id": "PN-T03-Q576",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 102.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F184",
+      "articulo": "102.1"
+    },
+    {
+      "id": "PN-T03-Q577",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 102.2 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F185",
+      "articulo": "102.2"
+    },
+    {
+      "id": "PN-T03-Q581",
+      "respuesta_correcta": "B",
+      "explicacion": "La referencia principal de este concepto es 103.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F189",
+      "articulo": "103.1"
+    },
+    {
+      "id": "PN-T03-Q579",
+      "respuesta_correcta": "C",
+      "explicacion": "La referencia principal de este concepto es 102.3 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F187",
+      "articulo": "102.3"
+    },
+    {
+      "id": "PN-T03-Q580",
+      "respuesta_correcta": "A",
+      "explicacion": "La referencia principal de este concepto es 103.1 (CE-GOBIERNO).",
+      "fact_id": "PN-T03-F188",
+      "articulo": "103.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}
