@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "content_version": "0.2.0",
+  "oposicion": "policia-nacional",
+  "tema": 3,
+  "estado": "revisado_editorial",
+  "publicacion": "not_published",
+  "total_preguntas": 50,
+  "cobertura": {
+    "puntos": 25,
+    "preguntas_por_punto": 2,
+    "tipos": [
+      "literal",
+      "trampa",
+      "negativa",
+      "numérica",
+      "secuencia",
+      "conceptual",
+      "comparación"
+    ]
+  },
+  "distribucion_respuestas": {
+    "A": 17,
+    "B": 17,
+    "C": 16
+  },
+  "caracter": {
+    "propias": 50,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-03/master.md",
+  "nota_oficiales": "No se incluyen preguntas oficiales hasta disponer de referencia documental trazable."
+}

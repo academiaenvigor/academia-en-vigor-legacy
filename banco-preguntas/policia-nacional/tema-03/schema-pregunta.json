@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pregunta Academia En Vigor",
+  "type": "object",
+  "required": [
+    "id",
+    "oposicion",
+    "tema",
+    "punto",
+    "subpunto",
+    "concepto",
+    "norma",
+    "articulo",
+    "dificultad",
+    "tipo",
+    "enunciado",
+    "opciones",
+    "respuesta_correcta",
+    "explicacion",
+    "estado_revision",
+    "version_normativa",
+    "caracter",
+    "relaciones",
+    "equivalencias",
+    "content_version"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "oposicion": {
+      "const": "policia-nacional"
+    },
+    "tema": {
+      "const": 3
+    },
+    "punto": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 25
+    },
+    "subpunto": {
+      "type": "string"
+    },
+    "concepto": {
+      "type": "string"
+    },
+    "norma": {
+      "type": "string"
+    },
+    "articulo": {
+      "type": "string"
+    },
+    "dificultad": {
+      "enum": [
+        "básica",
+        "media",
+        "alta"
+      ]
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "enunciado": {
+      "type": "string"
+    },
+    "opciones": {
+      "type": "object",
+      "required": [
+        "A",
+        "B",
+        "C"
+      ],
+      "additionalProperties": false
+    },
+    "respuesta_correcta": {
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "explicacion": {
+      "type": "string"
+    },
+    "estado_revision": {
+      "enum": [
+        "borrador",
+        "revisado_editorial",
+        "verificado_juridico",
+        "aprobado"
+      ]
+    },
+    "version_normativa": {
+      "type": "string"
+    },
+    "caracter": {
+      "enum": [
+        "propio",
+        "oficial"
+      ]
+    },
+    "referencia_oficial": {},
+    "relaciones": {
+      "type": "array"
+    },
+    "equivalencias": {
+      "type": "array"
+    },
+    "content_version": {
+      "const": "0.2.0"
+    }
+  }
+}
