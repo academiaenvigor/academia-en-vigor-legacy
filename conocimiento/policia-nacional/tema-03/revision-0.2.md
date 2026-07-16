@@ -1,33 +1,39 @@
 # Informe de revisión 0.2 · Tema 3
 
-**Versión:** 0.2.0
+**Versión corregida:** 0.2.1
 **Fecha de cierre técnico:** 16/07/2026
 **Estado editorial:** approved
 **Estado de publicación:** not_published
+**Estado en GitHub:** preparado para sustituir la versión 0.2.0; esta copia local todavía no modifica el repositorio.
 
-## Diagnóstico del repositorio
+## Motivo de la corrección
 
-La infraestructura definitiva y la versión 0.2 no estaban presentes en GitHub. Se conserva expresamente el archivo legado `temas/parte/tema-03-constitucion-2.md`; esta entrega no lo elimina ni lo sobrescribe.
+La versión 0.2.0 empleaba la primera frase de cada bloque para generar El Parte y añadía una nota repetida para generar El Atestado. Ese mecanismo producía dos fallos:
 
-## Revisión jurídica
+- El Parte perdía conceptos esenciales cuando un bloque contenía varias materias.
+- El Atestado era más largo, pero no desarrollaba jurídicamente cada materia con profundidad suficiente.
 
-Se reforzaron Corona, Cortes, delegación legislativa, decretos legislativos y decretos-leyes, tratados internacionales, Gobierno, Administración, relaciones Gobierno-Cortes, estados excepcionales, Poder Judicial, organización territorial, artículo 150, Tribunal Constitucional, cuestión de inconstitucionalidad y reforma constitucional.
+## Solución aplicada
 
-El catálogo registra 13 referencias oficiales trazables. Las fechas de consolidación se ajustan a las mostradas por el BOE a 16/07/2026. Detectar una modificación normativa no implica por sí solo que el material esté revisado, aprobado, publicado o disponible para alumnos.
+La fuente maestra continúa siendo única, pero cada bloque contiene ahora dos representaciones sincronizadas:
 
-## Revisión pedagógica y editorial
+- `PARTE`: síntesis completa de todos los conceptos esenciales del bloque.
+- `ATESTADO`: explicación desarrollada, diferencias, requisitos, efectos y trampas habituales.
 
-- Fuente única: `master.md`.
-- 25 bloques semánticos.
-- Exactamente seis capas: Mapa del tema, Contenido, Hablemos claro, En la calle, Lo que cae y Ha caído.
-- Eliminada la denominación «En cristiano».
-- El Atestado amplía cada bloque; El Parte lo sintetiza.
-- No se usan imágenes, por lo que no quedan rutas de imagen rotas en los derivados.
+El compilador ya no corta frases ni inventa ampliaciones genéricas. Extrae directamente la representación correspondiente.
 
-## Ha caído y cuarentena
+## Comprobaciones reforzadas
 
-No se publican preguntas oficiales sin documento fuente, convocatoria, número de pregunta o localización verificable. Las etiquetas 2024 y 2025-1 siguen en cuarentena.
+- Versión coherente `0.2.1`.
+- Exactamente 25 bloques y seis capas.
+- Todos los bloques contienen Parte y Atestado.
+- El Parte conserva los conceptos críticos de cada bloque.
+- El Atestado es sustancialmente más desarrollado.
+- No aparece «En cristiano».
+- No se incorporan preguntas oficiales sin trazabilidad.
+- El archivo legado permanece preservado.
+- La publicación para alumnos continúa en estado `not_published`.
 
-## Resultado
+## Estado
 
-Aprobado jurídicamente, pedagógicamente y editorialmente para continuar el flujo interno. No publicado para alumnos y no subido a GitHub.
+Archivos corregidos y validados localmente. Deben sustituir a sus equivalentes del repositorio. No se ha realizado commit, push ni publicación para alumnos.
