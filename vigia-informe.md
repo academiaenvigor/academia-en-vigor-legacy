@@ -1,18 +1,13 @@
-# 🚨 Vigía BOE — informe 2026-07-20
+# 🚨 Vigía BOE — informe 2026-07-27
 
-**3 norma(s) con cambios detectados:**
+**2 norma(s) con cambios detectados:**
 
 ## Ley 40/2015, de Régimen Jurídico del Sector Público
 - BOE: [BOE-A-2015-10566](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
-- Fecha de actualización: 20260713T090015Z → **20260720T120853Z** (consolidación: Finalizado)
+- Fecha de actualización: 20260720T120853Z → **20260727T101653Z** (consolidación: Finalizado)
 - **Temas afectados: T5** → revisar y subir versión
 
-## Ley 50/1997, del Gobierno
-- BOE: [BOE-A-1997-25336](https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336)
-- Fecha de actualización: 20260710T074232Z → **20260720T120853Z** (consolidación: Finalizado)
-- **Temas afectados: T5** → revisar y subir versión
-
-## LO 3/2018, de protección de datos y derechos digitales
-- BOE: [BOE-A-2018-16673](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673)
-- Fecha de actualización: 20260526T103624Z → **20260720T102442Z** (consolidación: Finalizado)
-- **Temas afectados: T2, T26** → revisar y subir versión
+## RDL 6/2015, Ley sobre Tráfico y Seguridad Vial
+- BOE: [BOE-A-2015-11722](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722)
+- Fecha de actualización: 20260710T080807Z → **20260723T100534Z** (consolidación: Finalizado)
+- **Temas afectados: T43, T44, T45** → revisar y subir versión
