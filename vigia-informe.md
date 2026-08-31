@@ -1,3 +1,3 @@
-# 🚨 Vigía BOE — informe 2026-08-24
+# 🚨 Vigía BOE — informe 2026-08-31
 
 Sin cambios en la normativa vigilada. ✅
