@@ -1,13 +1,13 @@
-# 🚨 Vigía BOE — informe 2026-09-14
+# 🚨 Vigía BOE — informe 2026-09-21
 
 **2 norma(s) con cambios detectados:**
 
-## Código Civil
-- BOE: [BOE-A-1889-4763](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
-- Fecha de actualización: 20260626T073703Z → **20260907T125934Z** (consolidación: Finalizado)
-- **Temas afectados: T1** → revisar y subir versión
-
 ## Ley 40/2015, de Régimen Jurídico del Sector Público
 - BOE: [BOE-A-2015-10566](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
-- Fecha de actualización: 20260907T061740Z → **20260909T080739Z** (consolidación: Finalizado)
+- Fecha de actualización: 20260909T080739Z → **20260921T080556Z** (consolidación: Finalizado)
+- **Temas afectados: T5** → revisar y subir versión
+
+## Ley 50/1997, del Gobierno
+- BOE: [BOE-A-1997-25336](https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336)
+- Fecha de actualización: 20260720T120853Z → **20260921T080719Z** (consolidación: Finalizado)
 - **Temas afectados: T5** → revisar y subir versión
